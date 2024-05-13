@@ -1,0 +1,1509 @@
+[{
+    "title": "Bremen",
+    "link": "https://streema.com/radios/Bremen_3",
+    "msg_results": "22 Radio Stations from Bremen",
+    "page_copy": "Listen to radio stations from Bremen, from a wide variety of genres like Dance, Electronica, Hits, Pop and World.  Enjoy stations such as POP LOUNGE CAFE, Radio Bremen - Bremen Next, WAM 24 Live, Radio Weser, Radio Bremen - Bremen Eins and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "POP LOUNGE CAFE",
+        "no_play": false,
+        "frequency": "Web Web",
+        "link_deatils": "/radios/.POP_LOUNGE_CAFE.",
+        "link_player": "/radios/play/.POP_LOUNGE_CAFE.",
+        "image": "https://static-media.streema.com/media/cache/f8/38/f83818dfcad7aa07433f60c6887c0a61.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/radios/country/Germany"
+        }, {
+            "title": "Bremen",
+            "link": "/radios/country/Germany/state/Bremen"
+        }, {
+            "title": "Bremen",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Chillout", "Deep House", "Downtempo", "Electro", "Lounge", "Pop"],
+        "location": {
+            "city": "Bremen",
+            "country": "Germany"
+        },
+        "profile_slogan": "Luxury Panorama Lounge Music & Deep House Radio",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "Enjoy the best chilling music mixed with deep house - perfect holiday feeling lounge radio for relaxation, chillout and new energy!",
+            "rest": "Enjoy the best chilling music mixed with deep house - perfect holiday feeling lounge radio for relaxation, chillout and new energy!"
+        },
+        "radio_contacts": {
+            "short": "Enjoy the best chilling music mixed with deep house - perfect holiday feeling lounge radio for relaxation, chillout and new energy!",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://poploungecafe.com/",
+            "facebook": "",
+            "twitter": "http://twitter.com/poploungecafe",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/.POP_LOUNGE_CAFE.",
+            "title": "Play POP LOUNGE CAFE"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://laut.fm/poploungecafe",
+        "radio_image": "https://static-media.streema.com/media/cache/2c/e2/2ce2afbb34d787506499a9f4fce1eddf.jpg"
+    }, {
+        "title": "Radio Bremen - Bremen Next",
+        "no_play": false,
+        "frequency": "FM 96.7",
+        "link_deatils": "/radios/Radio_Bremen_Bremen_Next",
+        "link_player": "/radios/play/Radio_Bremen_Bremen_Next",
+        "image": "https://static-media.streema.com/media/cache/de/d3/ded3eb23105f3d463caf0dc5c2da900f.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/radios/country/Germany"
+        }, {
+            "title": "Bremen",
+            "link": "/radios/country/Germany/state/Bremen"
+        }, {
+            "title": "Bremen",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Electro", "Hip Hop", "Urban"],
+        "location": {
+            "city": "Bremen",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://bremennext.de",
+            "facebook": "http://www.facebook.com/BremenNext",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Bremen_Bremen_Next",
+            "title": "Play Radio Bremen - Bremen Next"
+        },
+        "radio_shows": [""],
+        "radio_source": "https://icecast.radiobremen.de/rb/bremennext/live/mp3/128/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/97/5f/975f8c510a7ba1a0142a63ca635155d9.jpg"
+    }, {
+        "title": "WAM 24 Live",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/WAM24_Live",
+        "link_player": "/radios/play/WAM24_Live",
+        "image": "https://static-media.streema.com/media/cache/7f/95/7f955338f404300b19c820cc6903823b.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/radios/country/Germany"
+        }, {
+            "title": "Bremen",
+            "link": "/radios/country/Germany/state/Bremen"
+        }, {
+            "title": "Bremen",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["50s", "60s", "70s", "Other"],
+        "location": {
+            "city": "Bremen",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "informed as live stream about where it's going so right on the weekend. Where bikers can stay at a fair price. What your lawyer instructed",
+            "rest": "in a dispute. Where still inexpensive vacation can be made. We have the suitable live band and the moderator for your event. You want to do in a crash course in a week a driver's license? We report - and much, much more ..."
+        },
+        "radio_contacts": {
+            "short": "informed as live stream about where it's going so right on the weekend. Where bikers can stay at a fair price. What your lawyer instructed",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.antenne-motorstadl.com/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "+49 (0) 176 787 455 91",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/WAM24_Live",
+            "title": "Play WAM 24 Live"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streamplus13.leonex.de:15582/;",
+        "radio_image": "https://static-media.streema.com/media/cache/33/db/33db01a1d12d24234a3d814efd7136c3.jpg"
+    }, {
+        "title": "Radio Weser",
+        "no_play": false,
+        "frequency": "FM 92.5 / 101.85",
+        "link_deatils": "/radios/Radio_Weser",
+        "link_player": "/radios/play/Radio_Weser",
+        "image": "https://static-media.streema.com/media/cache/ec/6a/ec6a3e4ad499d70355ce6d0180c6c4d0.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/radios/country/Germany"
+        }, {
+            "title": "Bremen",
+            "link": "/radios/country/Germany/state/Bremen"
+        }, {
+            "title": "Bremen",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Community", "Entertainment", "News", "Talk"],
+        "location": {
+            "city": "Bremen",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Radio Weser is a broadcast radio station in Bremen, Germany, providing Community News, Talk and Entertainment shows.",
+            "rest": "Radio Weser is a broadcast radio station in Bremen, Germany, providing Community News, Talk and Entertainment shows."
+        },
+        "radio_contacts": {
+            "short": "Radio Weser is a broadcast radio station in Bremen, Germany, providing Community News, Talk and Entertainment shows.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radioweser.tv/",
+            "facebook": "http://www.facebook.com/radiowesertvumland",
+            "twitter": "",
+            "phone": "+49 0421 33659 940",
+            "address": "Richtweg 14, 28195 Bremen, Germany",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Weser",
+            "title": "Play Radio Weser"
+        },
+        "radio_shows": [""],
+        "radio_source": "https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamHFHB/playlist.m3u8",
+        "radio_image": "https://static-media.streema.com/media/cache/52/2e/522e21176911543ea0eb453dfcf09f47.jpg"
+    }, {
+        "title": "Radio Bremen - Bremen Eins",
+        "no_play": false,
+        "frequency": "FM 93.8",
+        "link_deatils": "/radios/Bremen_Eins",
+        "link_player": "/radios/play/Bremen_Eins",
+        "image": "https://static-media.streema.com/media/cache/a7/ef/a7efea79f4be95ec7d67aae75fb954f1.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/radios/country/Germany"
+        }, {
+            "title": "Bremen",
+            "link": "/radios/country/Germany/state/Bremen"
+        }, {
+            "title": "Bremen",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "\n        \n          \n          \n          \n          \n        ",
+            "stars": 5
+        },
+        "genres": ["Entertainment", "Hits", "Information", "Oldies"],
+        "location": {
+            "city": "Bremen",
+            "country": "Germany"
+        },
+        "profile_slogan": "alles, was ich hören will",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Bremen Eins is a broadcast radio station from Bremen, Germany providing biggest hits, oldies, information, entertainment, talks and live shows. ------ Shows: Der Mittag, Der",
+            "rest": " Nachmittag, Der Vormittag, Beatclub, Bremen Eins - Der Sonntagnachmittag, Bremen Eins am Abend, Bremen Eins am Heiligabend, Bremen Eins am Samstagabend, Bremen Eins am Samstagnachmittag, Bremen Eins am Sonntagabend, Bremen Eins am Sonntagvormittag, Bremen Eins am Wochenende, Bremen Nachrichten, Der Morgen, Der Sonntagmorgen, Die Rundschau am Mittag, Grüße und Musik, Musik am Sonntagmittag, Pops tönende Wunderwelt, Schöne Bescherung, SWR 1 - Das Nachtprogramm von Bremen Eins"
+        },
+        "radio_contacts": {
+            "short": "Bremen Eins is a broadcast radio station from Bremen, Germany providing biggest hits, oldies, information, entertainment, talks and live shows. ------ Shows: Der Mittag, Der",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.bremeneins.de/",
+            "facebook": "http://www.facebook.com/bremen.eins",
+            "twitter": "http://twitter.com/bremeneins",
+            "phone": "0421 246 0",
+            "address": "Diepenau 10",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Bremen_Eins",
+            "title": "Play Radio Bremen - Bremen Eins"
+        },
+        "radio_shows": ["Der Mittag", "Der Nachmittag", "Der Vormittag", "Beatclub", "Bremen Eins - Der Sonntagnachmittag", "See all shows...", "Bremen Eins am Abend\n                    \n                      Bremen Eins am Heiligabend\n                    \n                      Bremen Eins am Samstagabend\n                    \n                      Bremen Eins am Samstagnachmittag\n                    \n                      Bremen Eins am Sonntagabend\n                    \n                      Bremen Eins am Sonntagvormittag\n                    \n                      Bremen Eins am Wochenende\n                    \n                      Bremen Nachrichten\n                    \n                      Der Morgen\n                    \n                      Der Sonntagmorgen\n                    \n                      Die Rundschau am Mittag\n                    \n                      Grüße und Musik\n                    \n                      Pops tönende Wunderwelt\n                    \n                      Schöne Bescherung\n                    \n                      SWR 1 - Das Nachtprogramm von Bremen Eins", "Bremen Eins am Abend", "Bremen Eins am Heiligabend", "Bremen Eins am Samstagabend", "Bremen Eins am Samstagnachmittag", "Bremen Eins am Sonntagabend", "Bremen Eins am Sonntagvormittag", "Bremen Eins am Wochenende", "Bremen Nachrichten", "Der Morgen", "Der Sonntagmorgen", "Die Rundschau am Mittag", "Grüße und Musik", "Pops tönende Wunderwelt", "Schöne Bescherung", "SWR 1 - Das Nachtprogramm von Bremen Eins"],
+        "radio_source": "https://icecast.radiobremen.de/rb/bremeneins/live/mp3/128/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/3e/d5/3ed568845c7fa78b7a52afb63cb3c350.jpg"
+    }, {
+        "title": "Melodic Radio",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Melodic_Radio",
+        "link_player": "/radios/play/Melodic_Radio",
+        "image": "https://static-media.streema.com/media/cache/5b/0c/5b0ce97412c4d62833fb2c6c6c884b4b.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/radios/country/Germany"
+        }, {
+            "title": "Bremen",
+            "link": "/radios/country/Germany/state/Bremen"
+        }, {
+            "title": "Bremen",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["80s", "90s", "Hard Rock", "Progressive"],
+        "location": {
+            "city": "Bremen",
+            "country": "Germany"
+        },
+        "profile_slogan": "Mehr Rock geht nicht!",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Melodic Radio - Das Rock Radio für den Musik & Rock Begeisterten in 192Kb 24 Stunden aus den Bereichen Melodic, Rock, Deutschrock und mehr! -Tägliche",
+            "rest": "Sendungen mit renomierten DJ's\n-Grosser Sendungsarchiv Bereich\n-über 1800 Titel im Auto DJ\nund vieles mehr...\n\nTuneIn & Find Out"
+        },
+        "radio_contacts": {
+            "short": "Melodic Radio - Das Rock Radio für den Musik & Rock Begeisterten in 192Kb 24 Stunden aus den Bereichen Melodic, Rock, Deutschrock und mehr! -Tägliche",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://melodicradio.de/",
+            "facebook": "http://www.facebook.com/Melodicradio/",
+            "twitter": "http://twitter.com/melodicradio",
+            "phone": "+49 421 4851 99 11",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Melodic_Radio",
+            "title": "Play Melodic Radio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://5.44.105.72:11911/;",
+        "radio_image": "https://static-media.streema.com/media/cache/c0/1c/c01c8976ee6af9a705a65907888bb257.jpg"
+    }, {
+        "title": "PK Radio",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/PK_Radio",
+        "link_player": "/radios/play/PK_Radio",
+        "image": "https://static-media.streema.com/media/cache/ff/98/ff980c9bfca889b598f538d9249e6333.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/radios/country/Germany"
+        }, {
+            "title": "Bremen",
+            "link": "/radios/country/Germany/state/Bremen"
+        }, {
+            "title": "Bremen",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Christian", "Gospel", "News", "Sports"],
+        "location": {
+            "city": "Bremen",
+            "country": "Germany"
+        },
+        "profile_slogan": "Transforming Lives, Fulfilling Destinies",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://zeno.fm/pk-radio",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/PK_Radio",
+            "title": "Play PK Radio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.zeno.fm/gb1efcb92mruv",
+        "radio_image": "https://static-media.streema.com/media/cache/23/73/2373945ae5703d8387ecca7c5655f91b.jpg"
+    }, {
+        "title": "Rooca Broadcast",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Rooca_Broadcast",
+        "link_player": "/radios/play/Rooca_Broadcast",
+        "image": "https://static-media.streema.com/media/cache/aa/df/aadfdd971b0e0e24064b70739889431e.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/radios/country/Germany"
+        }, {
+            "title": "Bremen",
+            "link": "/radios/country/Germany/state/Bremen"
+        }, {
+            "title": "Bremen",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance", "Electronica"],
+        "location": {
+            "city": "Bremen",
+            "country": "Germany"
+        },
+        "profile_slogan": "Music & Radio Production",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Rooca Broadcast is an Internet Radio station broadcasting from Bremen, Germany, provides Electronic and Dance music.",
+            "rest": "Rooca Broadcast is an Internet Radio station broadcasting from Bremen, Germany, provides Electronic and Dance music."
+        },
+        "radio_contacts": {
+            "short": "Rooca Broadcast is an Internet Radio station broadcasting from Bremen, Germany, provides Electronic and Dance music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.rooca.de/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "+49 (0)4216392526",
+            "address": "Christian Brau Ewerstr. 6 28779",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Rooca_Broadcast",
+            "title": "Play Rooca Broadcast"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://85.195.88.149:17688/;;",
+        "radio_image": "https://static-media.streema.com/media/cache/f9/41/f941fe8a820b3ba363258df2cdb70748.jpg"
+    }, {
+        "title": "B-Side",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/B_Side_2",
+        "link_player": "/radios/play/B_Side_2",
+        "image": "https://static-media.streema.com/media/cache/3e/76/3e76280feb79602e0b9619da7b01b476.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/radios/country/Germany"
+        }, {
+            "title": "Bremen",
+            "link": "/radios/country/Germany/state/Bremen"
+        }, {
+            "title": "Bremen",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Classic Hits", "Classic Rock", "Oldies", "Pop", "RnB", "World"],
+        "location": {
+            "city": "Bremen",
+            "country": "Germany"
+        },
+        "profile_slogan": "Heimatfest Radio",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Die Kassetten, die wir früher im R4, in der Ente oder im Käfer gehört haben...",
+            "rest": " "
+        },
+        "radio_contacts": {
+            "short": "Die Kassetten, die wir früher im R4, in der Ente oder im Käfer gehört haben...",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://laut.fm/b-side",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/B_Side_2",
+            "title": "Play B-Side"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.laut.fm/b-side",
+        "radio_image": "https://static-media.streema.com/media/cache/aa/bd/aabde7e36ea5d9cf901acd6cddcba425.jpg"
+    }, {
+        "title": "North Shore Music FM",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/North_Shore_Music_FM",
+        "link_player": "/radios/play/North_Shore_Music_FM",
+        "image": "https://static-media.streema.com/media/cache/59/dc/59dc2030cbdd27bc355ef9501c81c674.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/radios/country/Germany"
+        }, {
+            "title": "Bremen",
+            "link": "/radios/country/Germany/state/Bremen"
+        }, {
+            "title": "Bremen",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Reggae", "Reggaeton"],
+        "location": {
+            "city": "Bremen",
+            "country": "Germany"
+        },
+        "profile_slogan": "Auf der Homepage vom North Shore Music FM",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "North Shore Music FM is a web based internet radio station from Bremen that plays Reggae genre of music.",
+            "rest": "North Shore Music FM is a web based internet radio station from Bremen that plays Reggae genre of music."
+        },
+        "radio_contacts": {
+            "short": "North Shore Music FM is a web based internet radio station from Bremen that plays Reggae genre of music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.northshoremusicfm.com/",
+            "facebook": "http://www.facebook.com/pages/North-Shore-Music-FM/106786726045385",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/North_Shore_Music_FM",
+            "title": "Play North Shore Music FM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://s8.pop-stream.de:8440/;",
+        "radio_image": "https://static-media.streema.com/media/cache/17/9e/179e90ef4cd5f8ef17efd49fcd8c953a.jpg"
+    }, {
+        "title": "Radio Bosanka",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Bosanka",
+        "link_player": "/radios/play/Radio_Bosanka",
+        "image": "https://static-media.streema.com/media/cache/c0/56/c0569dc634a52f41def43e83e55763f9.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/radios/country/Germany"
+        }, {
+            "title": "Bremen",
+            "link": "/radios/country/Germany/state/Bremen"
+        }, {
+            "title": "Bremen",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance", "Electronica", "Hits"],
+        "location": {
+            "city": "Bremen",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Radio Bosanka ist ein Web radiosender aus Bremen, Bremen, Germany, und bietet Electronica.",
+            "rest": "Radio Bosanka ist ein Web radiosender aus Bremen, Bremen, Germany, und bietet Electronica."
+        },
+        "radio_contacts": {
+            "short": "Radio Bosanka ist ein Web radiosender aus Bremen, Bremen, Germany, und bietet Electronica.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiobosanka.de",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Bosanka",
+            "title": "Play Radio Bosanka"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://5.9.25.50:9300/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/09/94/0994af7ca01f952a76c9775ad1ede373.jpg"
+    }, {
+        "title": "Radio Bremen - Bremen Zwei",
+        "no_play": false,
+        "frequency": "FM 88.3",
+        "link_deatils": "/radios/Nordwestradio",
+        "link_player": "/radios/play/Nordwestradio",
+        "image": "https://static-media.streema.com/media/cache/9a/07/9a079b83c088fa18009232387cb38281.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/radios/country/Germany"
+        }, {
+            "title": "Bremen",
+            "link": "/radios/country/Germany/state/Bremen"
+        }, {
+            "title": "Bremen",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Classical", "World"],
+        "location": {
+            "city": "Bremen",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Nordwestradio, ein Programm von Radio Bremen und dem NDR, richtet sich an alle Freunde des informativen Kulturradios und der angenehmen, anspruchsvollen Musik. Im Mittelpunkt steht",
+            "rest": "die regionale und kulturelle Berichterstattung aus dem Land Bremen und dem nordwestlichen Niedersachsen."
+        },
+        "radio_contacts": {
+            "short": "Nordwestradio, ein Programm von Radio Bremen und dem NDR, richtet sich an alle Freunde des informativen Kulturradios und der angenehmen, anspruchsvollen Musik. Im Mittelpunkt steht",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.bremenzwei.de/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Nordwestradio",
+            "title": "Play Radio Bremen - Bremen Zwei"
+        },
+        "radio_shows": [""],
+        "radio_source": "https://icecast.radiobremen.de/rb/bremenzwei/live/mp3/128/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/f5/ee/f5ee826a761ed10c3c6d80056e113fdf.jpg"
+    }, {
+        "title": "Radio Weser.TV",
+        "no_play": false,
+        "frequency": "FM 92.5",
+        "link_deatils": "/radios/Burgerfunk_Bremer_Umland_e.V.",
+        "link_player": "/radios/play/Burgerfunk_Bremer_Umland_e.V.",
+        "image": "https://static-media.streema.com/media/cache/d3/bb/d3bbdb9b3ebd083c795cca12e33ac3a0.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/radios/country/Germany"
+        }, {
+            "title": "Bremen",
+            "link": "/radios/country/Germany/state/Bremen"
+        }, {
+            "title": "Bremen",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Folk", "Hits", "News"],
+        "location": {
+            "city": "Bremen",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Radio Weser.TV - Der Sender für das Umland von Bremen. Aktuelle Information werktags bei VorOrt dem Umlandmagazin um 9.00 und 17.00 Uhr auf UKW 92,5",
+            "rest": "Radio Weser.TV - Der Sender für das Umland von Bremen. Aktuelle Information werktags bei VorOrt dem Umlandmagazin um 9.00 und 17.00 Uhr auf UKW 92,5"
+        },
+        "radio_contacts": {
+            "short": "Radio Weser.TV - Der Sender für das Umland von Bremen. Aktuelle Information werktags bei VorOrt dem Umlandmagazin um 9.00 und 17.00 Uhr auf UKW 92,5",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radioweser.tv/",
+            "facebook": "http://www.facebook.com/medialabnord/",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Burgerfunk_Bremer_Umland_e.V.",
+            "title": "Play Radio Weser.TV"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.bfbu.de:8000/hb128",
+        "radio_image": "https://static-media.streema.com/media/cache/cd/a0/cda0a71bcac3e2d58078283cee16b568.jpg"
+    }, {
+        "title": "Energy Deutschland - Bremen",
+        "no_play": false,
+        "frequency": "FM 89.8",
+        "link_deatils": "/radios/NRJ_Energy_Bremen",
+        "link_player": "/radios/play/NRJ_Energy_Bremen",
+        "image": "https://static-media.streema.com/media/cache/2c/90/2c90cdfbd0c7683aa617cae4e6b0bc3e.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/radios/country/Germany"
+        }, {
+            "title": "Bremen",
+            "link": "/radios/country/Germany/state/Bremen"
+        }, {
+            "title": "Bremen",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Pop", "RnB", "Rock", "Top 40"],
+        "location": {
+            "city": "Bremen",
+            "country": "Germany"
+        },
+        "profile_slogan": "Immer die besten neuen Hits! Charts, Pop, Dance, House & Electro.",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Immer die besten neuen Hits! Charts, Pop, Dance, House & Electro.",
+            "rest": " "
+        },
+        "radio_contacts": {
+            "short": "Immer die besten neuen Hits! Charts, Pop, Dance, House & Electro.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.energy.de/bremen/",
+            "facebook": "http://www.facebook.com/energybremen",
+            "twitter": "http://twitter.com/ENERGYBremen",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/NRJ_Energy_Bremen",
+            "title": "Play Energy Deutschland - Bremen"
+        },
+        "radio_shows": [""],
+        "radio_source": "https://ffn-stream20.radiohost.de/energybremen_mp3-192",
+        "radio_image": "https://static-media.streema.com/media/cache/99/c6/99c68d72ac34b419582344e9863b93ea.jpg"
+    }, {
+        "title": "radio ffn - Radio Roland",
+        "no_play": false,
+        "frequency": "FM 96.1",
+        "link_deatils": "/radios/radio_ffn_Radio_Roland",
+        "link_player": "/radios/play/radio_ffn_Radio_Roland",
+        "image": "https://static-media.streema.com/media/cache/10/f1/10f1a0853de00f189ca15ec1016cdeb7.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/radios/country/Germany"
+        }, {
+            "title": "Bremen",
+            "link": "/radios/country/Germany/state/Bremen"
+        }, {
+            "title": "Bremen",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["German", "Pop"],
+        "location": {
+            "city": "Bremen",
+            "country": "Germany"
+        },
+        "profile_slogan": "Der beste neue Schlagermix. Schlager ist geil!",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Der beste neue Schlagermix. Schlager ist geil!",
+            "rest": "\n "
+        },
+        "radio_contacts": {
+            "short": "Der beste neue Schlagermix. Schlager ist geil!",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radioroland.de/",
+            "facebook": "http://www.facebook.com/rolandradio/",
+            "twitter": "http://twitter.com/radioffn",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/radio_ffn_Radio_Roland",
+            "title": "Play radio ffn - Radio Roland"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://radioroland.de/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/65/2c/652c45f521df96e2f813813bd1f6bce5.jpg"
+    }, {
+        "title": "Radio Bremen - Bremen Vier",
+        "no_play": false,
+        "frequency": "FM 100.8",
+        "link_deatils": "/radios/Bremen_Vier",
+        "link_player": "/radios/play/Bremen_Vier",
+        "image": "https://static-media.streema.com/media/cache/ba/20/ba204f51fc36566a73100c6fbc9e2c41.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/radios/country/Germany"
+        }, {
+            "title": "Bremen",
+            "link": "/radios/country/Germany/state/Bremen"
+        }, {
+            "title": "Bremen",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Pop", "Rock", "Talk"],
+        "location": {
+            "city": "Bremen",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Rocken poppen dancen",
+            "rest": "Rocken poppen dancen"
+        },
+        "radio_contacts": {
+            "short": "Rocken poppen dancen",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.bremenvier.de/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Bremen_Vier",
+            "title": "Play Radio Bremen - Bremen Vier"
+        },
+        "radio_shows": [""],
+        "radio_source": "https://icecast.radiobremen.de/rb/bremenvier/live/mp3/128/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/c5/0d/c50d317a008e891455a4c4cc6e642807.jpg"
+    }, {
+        "title": "Chatradiolive CRL",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Chatradiolive_CRL",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/0a/a5/0aa576184dfe33769851c98d3d54fdb3.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/radios/country/Germany"
+        }, {
+            "title": "Bremen",
+            "link": "/radios/country/Germany/state/Bremen"
+        }, {
+            "title": "Bremen",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["World"],
+        "location": {
+            "city": "Bremen",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "news.php- News auf Chatradiolive.de -",
+            "rest": "news.php- News auf Chatradiolive.de -"
+        },
+        "radio_contacts": {
+            "short": "news.php- News auf Chatradiolive.de -",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.chatradiolive.de/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Land of Legends",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Land_of_Legends",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/6a/39/6a399c89a13ff616f3357a8b52528803.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/radios/country/Germany"
+        }, {
+            "title": "Bremen",
+            "link": "/radios/country/Germany/state/Bremen"
+        }, {
+            "title": "Bremen",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Pop", "Top 40"],
+        "location": {
+            "city": "Bremen",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Land of Legends is a web based internet radio station from Bremen that plays Top 40-Pop genre of music.",
+            "rest": "Land of Legends is a web based internet radio station from Bremen that plays Top 40-Pop genre of music."
+        },
+        "radio_contacts": {
+            "short": "Land of Legends is a web based internet radio station from Bremen that plays Top 40-Pop genre of music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://radio.landoflegends.de/",
+            "facebook": "http://www.facebook.com/pages/Land-of-Legends/120770151317600",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "DAS Radio-Im.Net",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/DAS_Radio_Im.Net",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/50/84/508473bc4c57fc9e69fd2de6e52c9778.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/radios/country/Germany"
+        }, {
+            "title": "Bremen",
+            "link": "/radios/country/Germany/state/Bremen"
+        }, {
+            "title": "Bremen",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Variety"],
+        "location": {
+            "city": "Bremen",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "DAS Radio-Im.Net ist ein Web radiosender aus Bremen, Bremen, Germany, und bietet Variety.",
+            "rest": "DAS Radio-Im.Net ist ein Web radiosender aus Bremen, Bremen, Germany, und bietet Variety."
+        },
+        "radio_contacts": {
+            "short": "DAS Radio-Im.Net ist ein Web radiosender aus Bremen, Bremen, Germany, und bietet Variety.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radio-im.net/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio Masters",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Masters",
+        "link_player": "",
+        "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/radios/country/Germany"
+        }, {
+            "title": "Bremen",
+            "link": "/radios/country/Germany/state/Bremen"
+        }, {
+            "title": "Bremen",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [],
+        "location": {
+            "city": "Bremen",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Radio Masters ist ein Web radiosender aus Bremen, Bremen, Germany, und bietet Variety.",
+            "rest": "Radio Masters ist ein Web radiosender aus Bremen, Bremen, Germany, und bietet Variety."
+        },
+        "radio_contacts": {
+            "short": "Radio Masters ist ein Web radiosender aus Bremen, Bremen, Germany, und bietet Variety.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Knight Live Radio",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Knight_Live_Radio",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/ef/79/ef79c8e24f53523bdbbe3991fd36381a.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/radios/country/Germany"
+        }, {
+            "title": "Bremen",
+            "link": "/radios/country/Germany/state/Bremen"
+        }, {
+            "title": "Bremen",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance", "Electronica", "Hits"],
+        "location": {
+            "city": "Bremen",
+            "country": "Germany"
+        },
+        "profile_slogan": "Der Sender der Gaga Macht",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Knight Live Radio is a web based internet radio station from Bremen that plays Electronic-Dance genre of music.",
+            "rest": "Knight Live Radio is a web based internet radio station from Bremen that plays Electronic-Dance genre of music."
+        },
+        "radio_contacts": {
+            "short": "Knight Live Radio is a web based internet radio station from Bremen that plays Electronic-Dance genre of music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.knight-live-radio.de/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "riedrich - Ebert - Str.214 PLZ & Ort: 28201 Bremen",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Stubu Dance House Radio",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Stubu_Dance_House_Radio",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/2d/e8/2de8baac954b58fb43d3ea64c8d7909d.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/radios/country/Germany"
+        }, {
+            "title": "Bremen",
+            "link": "/radios/country/Germany/state/Bremen"
+        }, {
+            "title": "Bremen",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Electronica", "House", "Trance"],
+        "location": {
+            "city": "Bremen",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Stubu Dance House Radio is an online radio station from Bremen, Germany, providing House, Electro, Charts, and Trance music.",
+            "rest": "Stubu Dance House Radio is an online radio station from Bremen, Germany, providing House, Electro, Charts, and Trance music."
+        },
+        "radio_contacts": {
+            "short": "Stubu Dance House Radio is an online radio station from Bremen, Germany, providing House, Electro, Charts, and Trance music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.stubu.de/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "+49 421 / 32 14 23",
+            "address": "Rembertiring 21",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}, {
+    "title": "Cologne",
+    "link": "https://streema.com/radios/Cologne_3",
+    "msg_results": "6 Radio Stations from Cologne",
+    "page_copy": "Listen to radio stations from Cologne, from a wide variety of genres like African, Dance, Electronica, Pop and Rock.  Enjoy stations such as Sunradio Cologne, Evosonic Radio, Südstadt Radio, I Love  Radio - Mashup, BeGay - Macht mich an and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Sunradio Cologne",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Sunradio_Cologne",
+        "link_player": "/radios/play/Sunradio_Cologne",
+        "image": "https://static-media.streema.com/media/cache/ba/40/ba40c3434af475b98e23c4547c00f8e0.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/radios/country/Germany"
+        }, {
+            "title": "Bremen",
+            "link": "/radios/country/Germany/state/Bremen"
+        }, {
+            "title": "Cologne",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["African", "Dance", "Hip Hop", "Reggae"],
+        "location": {
+            "city": "Cologne",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Sunradio Cologne is a radio station from Cologne, Germany, providing best in Reggae, Dancehall, HipHop and African beats. A 24/7 commercial free online radio station!",
+            "rest": "!"
+        },
+        "radio_contacts": {
+            "short": "Sunradio Cologne is a radio station from Cologne, Germany, providing best in Reggae, Dancehall, HipHop and African beats. A 24/7 commercial free online radio station!",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.sunradio-cologne.de/",
+            "facebook": "http://www.facebook.com/pages/Sunradio-Cologne/181063471916100",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Sunradio_Cologne",
+            "title": "Play Sunradio Cologne"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://sunradio.stream.laut.fm/sunradio?pl=m3u&t302=2022-01-24_15-50-57&uuid=76fd5b28-b5ce-4347-962b-6e919b490dc8",
+        "radio_image": "https://static-media.streema.com/media/cache/f7/72/f772dd4e44dca79948247c65e46a6b31.jpg"
+    }, {
+        "title": "Evosonic Radio",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/evoSonic_Radio",
+        "link_player": "/radios/play/evoSonic_Radio",
+        "image": "https://static-media.streema.com/media/cache/40/c9/40c928016e7aa5f4efcb41b462be1778.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/radios/country/Germany"
+        }, {
+            "title": "Bremen",
+            "link": "/radios/country/Germany/state/Bremen"
+        }, {
+            "title": "Cologne",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Deep House", "Drum and Bass", "Dubstep", "Electronica"],
+        "location": {
+            "city": "Cologne",
+            "country": "Germany"
+        },
+        "profile_slogan": "The Evolution Of Sound",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "EvoSonic radio - the legendary electronic music dj radio started broadcasting on May 1st 1997 from Cologne, Germany via Astra satellite and German cable network.",
+            "rest": "It specialized in presenting the full range of electronic music with djs from all over europe. With its unique concept evosonic radio was ahead of the times and soon gathered tens of thousands of fans and listeners all over Europe, most of them in Germany. The broadcast was shut down on October 1st 1999 - but its spirit outlasted."
+        },
+        "radio_contacts": {
+            "short": "EvoSonic radio - the legendary electronic music dj radio started broadcasting on May 1st 1997 from Cologne, Germany via Astra satellite and German cable network.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://evosonic.de/",
+            "facebook": "http://www.facebook.com/pages/Evosonic-Radio/130733747048325",
+            "twitter": "http://twitter.com/EvosonicRadio",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/evoSonic_Radio",
+            "title": "Play Evosonic Radio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://radio.koennmer.net:8000/evosonic.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/0a/1f/0a1f57a307ec24a7fc9cad9e18a82036.jpg"
+    }, {
+        "title": "Südstadt Radio",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Sued_Stadt_Radio_Koeln",
+        "link_player": "/radios/play/Sued_Stadt_Radio_Koeln",
+        "image": "https://static-media.streema.com/media/cache/59/8c/598c3241c7fa3763eff3b94f4a7ea0c8.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/radios/country/Germany"
+        }, {
+            "title": "Bremen",
+            "link": "/radios/country/Germany/state/Bremen"
+        }, {
+            "title": "Cologne",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["German", "Pop", "Schlager", "Variety"],
+        "location": {
+            "city": "Cologne",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Sued Stadt Radio is an online radio station from Köln, Germany, providing variety of music.",
+            "rest": "Sued Stadt Radio is an online radio station from Köln, Germany, providing variety of music."
+        },
+        "radio_contacts": {
+            "short": "Sued Stadt Radio is an online radio station from Köln, Germany, providing variety of music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.suedstadtradio.de/",
+            "facebook": "http://www.facebook.com/suedstadtradio",
+            "twitter": "",
+            "phone": "+49 221 331144",
+            "address": "c/o  cross2entertain Ltd. & Co. KG  Bonner Str. 515 D-50968 Köln",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Sued_Stadt_Radio_Koeln",
+            "title": "Play Südstadt Radio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://listen.radioking.com/radio/253861/stream/298342",
+        "radio_image": "https://static-media.streema.com/media/cache/7c/97/7c97e88354957d6343549d7f57efaf82.jpg"
+    }, {
+        "title": "I Love  Radio - Mashup",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/I_Love_Radio_Mashup",
+        "link_player": "/radios/play/I_Love_Radio_Mashup",
+        "image": "https://static-media.streema.com/media/cache/4f/df/4fdf3148ee74d5a65e5dff759a3d00bc.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/radios/country/Germany"
+        }, {
+            "title": "Bremen",
+            "link": "/radios/country/Germany/state/Bremen"
+        }, {
+            "title": "Cologne",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Electronica", "Pop", "Rock"],
+        "location": {
+            "city": "Cologne",
+            "country": "Germany"
+        },
+        "profile_slogan": "Stream endlos viel Musik!",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "I Love Radio - Mashup is a channel on the internet radio station in I Love Radio in Cologne, Germany.",
+            "rest": "y."
+        },
+        "radio_contacts": {
+            "short": "I Love Radio - Mashup is a channel on the internet radio station in I Love Radio in Cologne, Germany.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.iloveradio.de/",
+            "facebook": "http://www.facebook.com/iloveradiode",
+            "twitter": "http://twitter.com/ILOVERADIOde",
+            "phone": "+49 180 5 119669882",
+            "address": "Neven-DuMont-Straße 1c",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/I_Love_Radio_Mashup",
+            "title": "Play I Love  Radio - Mashup"
+        },
+        "radio_shows": [""],
+        "radio_source": "https://streams.iloveradio.de/iloveradio5.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/97/0c/970c2123283f12fdb14a0397403e274c.jpg"
+    }, {
+        "title": "BeGay - Macht mich an",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/BeGay_Macht_mich_an",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/56/9c/569c754ae0e9e801b212600638162cee.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/radios/country/Germany"
+        }, {
+            "title": "Bremen",
+            "link": "/radios/country/Germany/state/Bremen"
+        }, {
+            "title": "Cologne",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance", "Dance Hits", "Gay", "Top 40"],
+        "location": {
+            "city": "Cologne",
+            "country": "Germany"
+        },
+        "profile_slogan": "Germanys Best Gay Hit Station",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "BeGay hat den geilsten Sound! Egal ob zum Aufwärmen, für deinen Partyabend oder einfach nur um relaxt Musik zu hören, BeGay liefert dir die beste",
+            "rest": "Musik direkt in dein Wohnzimmer."
+        },
+        "radio_contacts": {
+            "short": "BeGay hat den geilsten Sound! Egal ob zum Aufwärmen, für deinen Partyabend oder einfach nur um relaxt Musik zu hören, BeGay liefert dir die beste",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.begay.fm/",
+            "facebook": "",
+            "twitter": "http://twitter.com/BeGayFM",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Social Alliance - RADIO MAIN 2.0",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Social_Alliance_RADIO_MAIN_2.0",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/ad/09/ad0978d4232024ea5d39875fcd697673.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/radios/country/Germany"
+        }, {
+            "title": "Bremen",
+            "link": "/radios/country/Germany/state/Bremen"
+        }, {
+            "title": "Cologne",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance", "House", "Techno"],
+        "location": {
+            "city": "Cologne",
+            "country": "Germany"
+        },
+        "profile_slogan": "Say hello to the New Modern EDM Stuff over here!",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "This is an very fascinating Radio wich is able to make cool vibration, any day, any where.",
+            "rest": "This is an very fascinating Radio wich is able to make cool vibration, any day, any where."
+        },
+        "radio_contacts": {
+            "short": "This is an very fascinating Radio wich is able to make cool vibration, any day, any where.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://radio.social-alliance.com/",
+            "facebook": "http://www.facebook.com/lovesocialalliance/",
+            "twitter": "http://twitter.com/MusicNewModern",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}]

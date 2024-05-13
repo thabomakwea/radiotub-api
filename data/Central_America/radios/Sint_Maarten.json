@@ -1,0 +1,130 @@
+[
+    {
+        "title": "Philipsburg",
+        "link": "https://streema.com/radios/Philipsburg",
+        "msg_results": "2 Radio Stations from Philipsburg",
+        "page_copy": "Listen to radio stations from Philipsburg, from a wide variety of genres like Adult Contemporary, Country, Hip Hop, Oldies and RnB.  Enjoy stations such as Oasis 96.3, Prime Time SXM Radio and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+        "radios": [
+            {
+                "title": "Oasis 96.3",
+                "no_play": false,
+                "frequency": "FM 96.3",
+                "link_deatils": "/radios/Oasis_96.3",
+                "link_player": "/radios/play/Oasis_96.3",
+                "image": "https://static-media.streema.com/media/cache/f7/b6/f7b6969272ee5130afacce319c8de95d.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Central America",
+                        "link": "/radios/region/Central_America"
+                    },
+                    {
+                        "title": "Sint Maarten",
+                        "link": "/radios/country/Sint_Maarten"
+                    },
+                    {
+                        "title": "Philipsburg",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Adult Contemporary",
+                    "Ballad",
+                    "Country",
+                    "Oldies"
+                ],
+                "location": {
+                    "city": "Philipsburg",
+                    "country": "Sint Maarten"
+                },
+                "profile_slogan": "",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "Tune in to Oasis 96.3 FM for great hits from yesteryear and current adult contemporary and country ballads!",
+                    "rest": "Tune in to Oasis 96.3 FM for great hits from yesteryear and current adult contemporary and country ballads!"
+                },
+                "radio_contacts": {
+                    "short": "Tune in to Oasis 96.3 FM for great hits from yesteryear and current adult contemporary and country ballads!",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://oasis963.fm/",
+                    "facebook": "http://www.facebook.com/oasis963/",
+                    "twitter": "http://twitter.com/oasis963fm",
+                    "phone": "+1(721) 543-7963",
+                    "address": "A.T. Illidge Road 106, Suite 7 Philipsburg, Sint Maarten",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Oasis_96.3",
+                    "title": "Play Oasis 96.3"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://stream.sxmradio.com:8060/channel5.mp3/;",
+                "radio_image": "https://static-media.streema.com/media/cache/56/d6/56d64aa08b0d3b7e23a253c45997e674.jpg"
+            },
+            {
+                "title": "Prime Time SXM Radio",
+                "no_play": true,
+                "frequency": "Web",
+                "link_deatils": "/radios/Prime_Time_SXM_Radio",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/65/0f/650fa22e833ff9b05340b7ec3550bbb5.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Central America",
+                        "link": "/radios/region/Central_America"
+                    },
+                    {
+                        "title": "Sint Maarten",
+                        "link": "/radios/country/Sint_Maarten"
+                    },
+                    {
+                        "title": "Philipsburg",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Hip Hop",
+                    "Reggae",
+                    "RnB",
+                    "Urban"
+                ],
+                "location": {
+                    "city": "Philipsburg",
+                    "country": "Sint Maarten"
+                },
+                "profile_slogan": "St. Maarten's #1 choice for hit music!",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "We are St. Maarten's #1 choice for Hiphop, Dancehall, R&B, Soca, and all the hits!",
+                    "rest": "We are St. Maarten's #1 choice for Hiphop, Dancehall, R&B, Soca, and all the hits!"
+                },
+                "radio_contacts": {
+                    "short": "We are St. Maarten's #1 choice for Hiphop, Dancehall, R&B, Soca, and all the hits!",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://primetimesxm.com/",
+                    "facebook": "http://www.facebook.com/primetimesxm",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""]
+            }
+        ]
+    }
+]

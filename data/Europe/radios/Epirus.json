@@ -1,0 +1,963 @@
+[{
+    "title": "Ioannina",
+    "link": "https://streema.com/radios/Ioannina",
+    "msg_results": "18 Radio Stations from Ioannina",
+    "page_copy": "Listen to radio stations from Ioannina, from a wide variety of genres like Folk, Greek, Hits, Music and Pop.  Enjoy stations such as Giga FM, Super Fm Ioannina, ERT Open - ERA Ioannina, Radio Romeos 94, Melody 949 and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Giga FM",
+        "no_play": false,
+        "frequency": "FM 105.4",
+        "link_deatils": "/radios/Giga_FM",
+        "link_player": "/radios/play/Giga_FM",
+        "image": "https://static-media.streema.com/media/cache/0f/e7/0fe7d02f40d7104a0c06c84f4b801b1f.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/radios/country/Greece"
+        }, {
+            "title": "Epirus",
+            "link": "/radios/country/Greece/state/Epirus"
+        }, {
+            "title": "Ioannina",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["80s", "90s", "News", "Pop"],
+        "location": {
+            "city": "Ioannina",
+            "country": "Greece"
+        },
+        "profile_slogan": "το  μεγαλο Ραδιοφωνο",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "The largest radio station in Region of Epirus with news and 80's 90's and pop music! It's connected with Real FM the largest station in",
+            "rest": "Greece! "
+        },
+        "radio_contacts": {
+            "short": "The largest radio station in Region of Epirus with news and 80's 90's and pop music! It's connected with Real FM the largest station in",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.gigafm.gr/",
+            "facebook": "http://www.facebook.com/gigafmgr/",
+            "twitter": "http://twitter.com/giga_fm",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Giga_FM",
+            "title": "Play Giga FM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://s46.myradiostream.com:7322/;;",
+        "radio_image": "https://static-media.streema.com/media/cache/86/64/8664291da04a86499e19358dbfdbc75f.jpg"
+    }, {
+        "title": "Super Fm Ioannina",
+        "no_play": false,
+        "frequency": "FM 104.3",
+        "link_deatils": "/radios/Super_FM_6",
+        "link_player": "/radios/play/Super_FM_6",
+        "image": "https://static-media.streema.com/media/cache/3f/65/3f65a7d1ca8a9af326b6f29b584c4823.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/radios/country/Greece"
+        }, {
+            "title": "Epirus",
+            "link": "/radios/country/Greece/state/Epirus"
+        }, {
+            "title": "Ioannina",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Greek", "Information", "News", "Sports"],
+        "location": {
+            "city": "Ioannina",
+            "country": "Greece"
+        },
+        "profile_slogan": "Αθλητικό Ραδιόφωνο Ιωαννίνων",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "The Radio Station SUPER 104,3 founded in 1989 and has since operated continuously 24 hours a day. From the autumn of 2000 is a direct",
+            "rest": "partner of the first sports radio audience in the country, the NOVASPORT FM (94,6) Athens, which relays and the main and most popular sports programs, as well as the most important matches of all sports in direct connection to the venue (such as the League Super League, the Champions League, live broadcasting of PAS Giannina etc.)."
+        },
+        "radio_contacts": {
+            "short": "The Radio Station SUPER 104,3 founded in 1989 and has since operated continuously 24 hours a day. From the autumn of 2000 is a direct",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.super-fm.gr/",
+            "facebook": "http://www.facebook.com/SuperFM.104.3",
+            "twitter": "http://twitter.com/superfmioannina",
+            "phone": "+30 2651 092100",
+            "address": "6ο χλμ Ιωαννίνων-Άρτας, 45500 Ioánnina, Greece",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Super_FM_6",
+            "title": "Play Super Fm Ioannina"
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "ERT Open - ERA Ioannina",
+        "no_play": false,
+        "frequency": "FM 88.2",
+        "link_deatils": "/radios/ERT_Open_ERA_Ioannina",
+        "link_player": "/radios/play/ERT_Open_ERA_Ioannina",
+        "image": "https://static-media.streema.com/media/cache/61/32/613254509670baacb3afba653408e5f5.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/radios/country/Greece"
+        }, {
+            "title": "Epirus",
+            "link": "/radios/country/Greece/state/Epirus"
+        }, {
+            "title": "Ioannina",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Community", "Entertainment", "News", "Talk"],
+        "location": {
+            "city": "Ioannina",
+            "country": "Greece"
+        },
+        "profile_slogan": "Ελεύθερη φωνή για την κοινωνία",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "ERA Ioannina (ΕΡΑ Ιωαννίνων) is a broadcast radio station in Ioannina, Greece, providing Community News, Talk and Entertainment as part of ERT Open (Ανοιχτη ΕΡΤ),",
+            "rest": "an Athens, Greece based organization dedicated to the tradition of citizen-based public broadcasting as an alternative to government controlled public media.\n"
+        },
+        "radio_contacts": {
+            "short": "ERA Ioannina (ΕΡΑ Ιωαννίνων) is a broadcast radio station in Ioannina, Greece, providing Community News, Talk and Entertainment as part of ERT Open (Ανοιχτη ΕΡΤ),",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://era-ioannina.weebly.com/",
+            "facebook": "http://www.facebook.com/era.ioannina",
+            "twitter": "http://twitter.com/ErtSocial",
+            "phone": "+30 6987 216159",
+            "address": "432 Mesogeion Avenue, 15342 Athens, Greece",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""],
+        "radio_source": "",
+        "radio_image": "https://static-media.streema.com/media/cache/27/9f/279f85c0109e7965fab9601fffd4080e.jpg"
+    }, {
+        "title": "Radio Romeos 94",
+        "no_play": false,
+        "frequency": "FM 94",
+        "link_deatils": "/radios/Radio_Romeos",
+        "link_player": "/radios/play/Radio_Romeos",
+        "image": "https://static-media.streema.com/media/cache/a5/c2/a5c27a34b0382b1cd41bc93de3779b59.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/radios/country/Greece"
+        }, {
+            "title": "Epirus",
+            "link": "/radios/country/Greece/state/Epirus"
+        }, {
+            "title": "Ioannina",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Greek", "Hits", "Music"],
+        "location": {
+            "city": "Ioannina",
+            "country": "Greece"
+        },
+        "profile_slogan": "Ακούστε τις μεγάλύτερες ελληνικές επιτυχίες του σήμερα!",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Radio Romeos 94 is a broadcast radio station from Ioannina, Epirus, Greece providing greatest Hits of Greek music.",
+            "rest": "Radio Romeos 94 is a broadcast radio station from Ioannina, Epirus, Greece providing greatest Hits of Greek music."
+        },
+        "radio_contacts": {
+            "short": "Radio Romeos 94 is a broadcast radio station from Ioannina, Epirus, Greece providing greatest Hits of Greek music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radioromeos.gr/",
+            "facebook": "http://www.facebook.com/ROMEOS94FM",
+            "twitter": "",
+            "phone": "26510 38560",
+            "address": "Δόμπολη 35",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Romeos",
+            "title": "Play Radio Romeos 94"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://rdst.win:9400/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/dc/d5/dcd56ab5d5b646d295da3d45980dcac9.jpg"
+    }, {
+        "title": "Melody 949",
+        "no_play": false,
+        "frequency": "FM 94.9",
+        "link_deatils": "/radios/melody_949",
+        "link_player": "/radios/play/melody_949",
+        "image": "https://static-media.streema.com/media/cache/ce/c1/cec1fd19ec747a53d54ec237bd9d6a74.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/radios/country/Greece"
+        }, {
+            "title": "Epirus",
+            "link": "/radios/country/Greece/state/Epirus"
+        }, {
+            "title": "Ioannina",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Folk", "Greek", "Hits", "Pop"],
+        "location": {
+            "city": "Ioannina",
+            "country": "Greece"
+        },
+        "profile_slogan": "ΜΟΝΟ ΕΠΙΤΥΧΙΕΣ",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "melody 949 is a broadcast radio station from Ioannina, Greece providing Greek music.",
+            "rest": "melody 949 is a broadcast radio station from Ioannina, Greece providing Greek music."
+        },
+        "radio_contacts": {
+            "short": "melody 949 is a broadcast radio station from Ioannina, Greece providing Greek music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.facebook.com/melody949/",
+            "facebook": "http://www.facebook.com/melody949/",
+            "twitter": "",
+            "phone": "+30 2651 076655",
+            "address": "Αλ. Νούτσου 8, 45221 Ιωάννινα",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/melody_949",
+            "title": "Play Melody 949"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://i2.streams.ovh:7121/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/b2/d2/b2d2d046e1f62d1609fa25bc567b976a.jpg"
+    }, {
+        "title": "Πρώτο Κανάλι Ιωαννίνων",
+        "no_play": false,
+        "frequency": "FM 95.4",
+        "link_deatils": "/radios/Proto_Kanali",
+        "link_player": "/radios/play/Proto_Kanali",
+        "image": "https://static-media.streema.com/media/cache/87/95/8795db91b3e2b443f5c38484be4422be.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/radios/country/Greece"
+        }, {
+            "title": "Epirus",
+            "link": "/radios/country/Greece/state/Epirus"
+        }, {
+            "title": "Ioannina",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Hits", "Music", "Rock", "Top 40"],
+        "location": {
+            "city": "Ioannina",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Proto Kanali is a broadcast radio station from Ioannina, Greece providing Top 40/Pop Greek music.",
+            "rest": "Proto Kanali is a broadcast radio station from Ioannina, Greece providing Top 40/Pop Greek music."
+        },
+        "radio_contacts": {
+            "short": "Proto Kanali is a broadcast radio station from Ioannina, Greece providing Top 40/Pop Greek music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.protokanali.gr/",
+            "facebook": "http://www.facebook.com/protokanali",
+            "twitter": "http://twitter.com/protokanali",
+            "phone": "2651023657",
+            "address": "Στρατάρχου Παπάγου 36, 45444, Ioannina - Epirus",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Proto_Kanali",
+            "title": "Play Πρώτο Κανάλι Ιωαννίνων"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://i2.streams.ovh:7117/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/9f/18/9f1834fe26caf7592db8c57bbc3f6a97.jpg"
+    }, {
+        "title": "Top FM",
+        "no_play": false,
+        "frequency": "FM 97.2",
+        "link_deatils": "/radios/Top_FM",
+        "link_player": "/radios/play/Top_FM",
+        "image": "https://static-media.streema.com/media/cache/1d/c7/1dc7e3a108f7d45942f91fb3304686c1.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/radios/country/Greece"
+        }, {
+            "title": "Epirus",
+            "link": "/radios/country/Greece/state/Epirus"
+        }, {
+            "title": "Ioannina",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance Hits", "House"],
+        "location": {
+            "city": "Ioannina",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Top FM 97.2 is a broadcast Radio station from Ioannina, Epirus, Greece, providing Electronic and Dance, Adult Contemporary Music.",
+            "rest": "Top FM 97.2 is a broadcast Radio station from Ioannina, Epirus, Greece, providing Electronic and Dance, Adult Contemporary Music."
+        },
+        "radio_contacts": {
+            "short": "Top FM 97.2 is a broadcast Radio station from Ioannina, Epirus, Greece, providing Electronic and Dance, Adult Contemporary Music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.topfmioannina.gr/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "26510-78887",
+            "address": "Top FM - Dodoni 130 IOANNINA 45332",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Top_FM",
+            "title": "Play Top FM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://mp3.topfm.c.nmdn.net/ps-topfm/livestream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/34/f3/34f3dc3d282ba5009d0ed7086a9b1bfd.jpg"
+    }, {
+        "title": "Studio 3",
+        "no_play": false,
+        "frequency": "FM 92.7",
+        "link_deatils": "/radios/Radio_Faros",
+        "link_player": "/radios/play/Radio_Faros",
+        "image": "https://static-media.streema.com/media/cache/ee/a0/eea039a8a9888dc54631af1c2db75d71.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/radios/country/Greece"
+        }, {
+            "title": "Epirus",
+            "link": "/radios/country/Greece/state/Epirus"
+        }, {
+            "title": "Ioannina",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Folk", "Greek", "Hits", "Pop"],
+        "location": {
+            "city": "Ioannina",
+            "country": "Greece"
+        },
+        "profile_slogan": "Ο προορισμός σου στη μουσική !",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.studio3.gr/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "(+30) 6980 917 605",
+            "address": "Κολωνιάτι Μπιζανίου Τ.Κ.: 4500 - Ιωάννινα",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Faros",
+            "title": "Play Studio 3"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream1.468.gr:9994/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/0c/4f/0c4f528a2e445aa9930dddc340011741.jpg"
+    }, {
+        "title": "Ράδιο Ήπειρος 94,5 FM",
+        "no_play": false,
+        "frequency": "FM 94.5",
+        "link_deatils": "/radios/Radio_Epirus",
+        "link_player": "/radios/play/Radio_Epirus",
+        "image": "https://static-media.streema.com/media/cache/d4/54/d454677d012fe62c5cb45ee26ec4108a.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/radios/country/Greece"
+        }, {
+            "title": "Epirus",
+            "link": "/radios/country/Greece/state/Epirus"
+        }, {
+            "title": "Ioannina",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "\n        \n          \n          \n          \n          \n        ",
+            "stars": 5
+        },
+        "genres": ["Music"],
+        "location": {
+            "city": "Ioannina",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Radio Epirus FM 94.5 is a broadcast radio station from Ioannina, Epirus, Greece, providing Greek music.",
+            "rest": "Radio Epirus FM 94.5 is a broadcast radio station from Ioannina, Epirus, Greece, providing Greek music."
+        },
+        "radio_contacts": {
+            "short": "Radio Epirus FM 94.5 is a broadcast radio station from Ioannina, Epirus, Greece, providing Greek music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radioepirus.gr/",
+            "facebook": "http://www.facebook.com/pages/%CE%A1%CE%91%CE%94%CE%99%CE%9F-%CE%97%CE%A0%CE%95%CE%99%CE%A1%CE%9F%CE%A3-945-FM-STEREO/119390798137310",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Epirus",
+            "title": "Play Ράδιο Ήπειρος 94,5 FM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://neos.win:9454/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/d4/33/d433855e3238af5e9228d1e4bd4b21c1.jpg"
+    }, {
+        "title": "Sky Radio",
+        "no_play": false,
+        "frequency": "FM 99.2",
+        "link_deatils": "/radios/Sky_Radio_5",
+        "link_player": "/radios/play/Sky_Radio_5",
+        "image": "https://static-media.streema.com/media/cache/83/98/83980085f2b6afe222d0f506ec45db22.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/radios/country/Greece"
+        }, {
+            "title": "Epirus",
+            "link": "/radios/country/Greece/state/Epirus"
+        }, {
+            "title": "Ioannina",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Folk", "Hits", "Pop"],
+        "location": {
+            "city": "Ioannina",
+            "country": "Greece"
+        },
+        "profile_slogan": "Το ραδιόφωνο που παίζει με τις μεγαλύτερες Ελληνικές επιτυχίες!!!",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Sky Radio 99.2 is a broadcast Radio station from Ioannina, Epirus, Greece, providing Greek music 24 hours streaming successes, without unnecessary interruptions, with a focus",
+            "rest": "on new achievements and the modern Greek song, no canned programs, same play lists and record obligations. Experienced and renowned partners frame the creative team of Sky Radio."
+        },
+        "radio_contacts": {
+            "short": "Sky Radio 99.2 is a broadcast Radio station from Ioannina, Epirus, Greece, providing Greek music 24 hours streaming successes, without unnecessary interruptions, with a focus",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.skyradio.gr/",
+            "facebook": "http://www.facebook.com/SkyRadio992",
+            "twitter": "",
+            "phone": "26510 27580",
+            "address": "Μοσχοπόλεως 27, T.K. 45333, Ιωάννινα",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Sky_Radio_5",
+            "title": "Play Sky Radio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://live.skyradio.gr:9920/;",
+        "radio_image": "https://static-media.streema.com/media/cache/ca/ac/caac28712dc88a4cf656f5f3a3396505.jpg"
+    }, {
+        "title": "89.6 Radio DeeJay Ioannina",
+        "no_play": false,
+        "frequency": "FM 89.6",
+        "link_deatils": "/radios/89.6_Radio_DeeJay_Ioannina_Greece_Mono_epityxies_g",
+        "link_player": "/radios/play/89.6_Radio_DeeJay_Ioannina_Greece_Mono_epityxies_g",
+        "image": "https://static-media.streema.com/media/cache/9f/8c/9f8ce903f66169a54a8ed7736d40050d.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/radios/country/Greece"
+        }, {
+            "title": "Epirus",
+            "link": "/radios/country/Greece/state/Epirus"
+        }, {
+            "title": "Ioannina",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance", "Pop"],
+        "location": {
+            "city": "Ioannina",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.ioanninadeejay.gr/",
+            "facebook": "http://www.facebook.com/deejay896/",
+            "twitter": "http://twitter.com/ioanninadeejay",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/89.6_Radio_DeeJay_Ioannina_Greece_Mono_epityxies_g",
+            "title": "Play 89.6 Radio DeeJay Ioannina"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://sp3.streams.ovh:8089/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/59/05/59058550fa9854517a0b11da4594e02c.jpg"
+    }, {
+        "title": "IoanninaMS",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/IoanninaMS",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/45/d1/45d1df95c03e5447293745794d7d0691.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/radios/country/Greece"
+        }, {
+            "title": "Epirus",
+            "link": "/radios/country/Greece/state/Epirus"
+        }, {
+            "title": "Ioannina",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "\n        \n          \n          \n          \n          \n        ",
+            "stars": 5
+        },
+        "genres": ["90s", "Dance Hits", "Hits", "RnB", "Rock"],
+        "location": {
+            "city": "Ioannina",
+            "country": "Greece"
+        },
+        "profile_slogan": "ONLY THE BEST MUSIC!! ENJOY!!",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "IoanninaMS is an Internet Radio station broadcasting from Ioannina, Epirus, Greece, Plays the best dance, pop, rok, RnB, 70's 80's 90's and todays hits.",
+            "rest": "IoanninaMS is an Internet Radio station broadcasting from Ioannina, Epirus, Greece, Plays the best dance, pop, rok, RnB, 70's 80's 90's and todays hits."
+        },
+        "radio_contacts": {
+            "short": "IoanninaMS is an Internet Radio station broadcasting from Ioannina, Epirus, Greece, Plays the best dance, pop, rok, RnB, 70's 80's 90's and todays hits.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://ioanninams.wix.com/ioanninams",
+            "facebook": "http://www.facebook.com/pages/Ioanninams-RADIO/718932048147992",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Mathimatikos Web Radio",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Mathimatikos_Web_Radio",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/c2/ac/c2ace731bde8317d94eeef26f6f3c8ec.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/radios/country/Greece"
+        }, {
+            "title": "Epirus",
+            "link": "/radios/country/Greece/state/Epirus"
+        }, {
+            "title": "Ioannina",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Folk"],
+        "location": {
+            "city": "Ioannina",
+            "country": "Greece"
+        },
+        "profile_slogan": "Because We Can...",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Mathimatikos Web Radio is an Internet Radio station broadcasting from Ioannina, Greece, providing Top 40/Pop, Hits and Greek Music.",
+            "rest": "Mathimatikos Web Radio is an Internet Radio station broadcasting from Ioannina, Greece, providing Top 40/Pop, Hits and Greek Music."
+        },
+        "radio_contacts": {
+            "short": "Mathimatikos Web Radio is an Internet Radio station broadcasting from Ioannina, Greece, providing Top 40/Pop, Hits and Greek Music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://mathimatikoswebradio.blogspot.in/",
+            "facebook": "http://www.facebook.com/pages/Mathimatikos-Web-Radio/192742830743913",
+            "twitter": "http://twitter.com/MathimatikosWeb",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Ρυθμός 107.5",
+        "no_play": true,
+        "frequency": "FM 107.5",
+        "link_deatils": "/radios/Radio_International",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/4a/e3/4ae30086a2199315e89e7f1e74e376ee.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/radios/country/Greece"
+        }, {
+            "title": "Epirus",
+            "link": "/radios/country/Greece/state/Epirus"
+        }, {
+            "title": "Ioannina",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Greek", "Hits", "Pop", "Rock"],
+        "location": {
+            "city": "Ioannina",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Ρυθμός 107.5 FM Stereo / Ioannina / Grece.",
+            "rest": "Ρυθμός 107.5 FM Stereo / Ioannina / Grece."
+        },
+        "radio_contacts": {
+            "short": "Ρυθμός 107.5 FM Stereo / Ioannina / Grece.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.rythmos-fm.gr/",
+            "facebook": "http://www.facebook.com/AkisFinlandos",
+            "twitter": "http://twitter.com/rythmos1075fm",
+            "phone": "+30 699 370 1989",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Safari Radio",
+        "no_play": true,
+        "frequency": "FM 104.7",
+        "link_deatils": "/radios/Safari_FM_2",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/24/03/240361a359c88e15636047f88e1f670e.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/radios/country/Greece"
+        }, {
+            "title": "Epirus",
+            "link": "/radios/country/Greece/state/Epirus"
+        }, {
+            "title": "Ioannina",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance", "Electronica", "Greek"],
+        "location": {
+            "city": "Ioannina",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Safari Radio 104.7 is a broadcast Radio station from Ioannina, Epirus, Greece, providing Electronic and Dance, Greek Music.",
+            "rest": "Safari Radio 104.7 is a broadcast Radio station from Ioannina, Epirus, Greece, providing Electronic and Dance, Greek Music."
+        },
+        "radio_contacts": {
+            "short": "Safari Radio 104.7 is a broadcast Radio station from Ioannina, Epirus, Greece, providing Electronic and Dance, Greek Music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.safariradio.gr/#/Home-01-00/",
+            "facebook": "http://www.facebook.com/safariradio",
+            "twitter": "",
+            "phone": "(0030)2651052430",
+            "address": "Kastritsa p.o box:139 - Ioannina / Greece 45500",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Autonomo Radiofono Ioannina",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Ioannina",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/af/39/af397a7fbd07b7ac2452169b60705631.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/radios/country/Greece"
+        }, {
+            "title": "Epirus",
+            "link": "/radios/country/Greece/state/Epirus"
+        }, {
+            "title": "Ioannina",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Children's Family", "Culture"],
+        "location": {
+            "city": "Ioannina",
+            "country": "Greece"
+        },
+        "profile_slogan": "I don't wanna hear about what the rich men do",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Autonomo Radiofono Ioannina is an internet radio station from Ioannina, Greece providing local news, culture, children's programs, music and entertainment.",
+            "rest": "Autonomo Radiofono Ioannina is an internet radio station from Ioannina, Greece providing local news, culture, children's programs, music and entertainment."
+        },
+        "radio_contacts": {
+            "short": "Autonomo Radiofono Ioannina is an internet radio station from Ioannina, Greece providing local news, culture, children's programs, music and entertainment.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://radio-i.org/",
+            "facebook": "http://www.facebook.com/autonomoradio.ioannina",
+            "twitter": "http://twitter.com/radio_ioannina",
+            "phone": "698 417 8459",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Undergound Sessions Radio",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Undergound_Sessions_Radio",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/8d/22/8d22f47684f112fbb822b108204d15e4.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/radios/country/Greece"
+        }, {
+            "title": "Epirus",
+            "link": "/radios/country/Greece/state/Epirus"
+        }, {
+            "title": "Ioannina",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [],
+        "location": {
+            "city": "Ioannina",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "Undergound Sessions Radio Is an Internet Based radio website from Ioannina that plays Undergound genre of music.",
+            "rest": "Undergound Sessions Radio Is an Internet Based radio website from Ioannina that plays Undergound genre of music."
+        },
+        "radio_contacts": {
+            "short": "Undergound Sessions Radio Is an Internet Based radio website from Ioannina that plays Undergound genre of music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.usessions.gr/v1/index.php/en/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "BHMA Vima FM",
+        "no_play": true,
+        "frequency": "FM 90.1",
+        "link_deatils": "/radios/BHMA_Vima_FM",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/ea/00/ea0043fdd75f31c404965dc7532c7ea9.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/radios/country/Greece"
+        }, {
+            "title": "Epirus",
+            "link": "/radios/country/Greece/state/Epirus"
+        }, {
+            "title": "Ioannina",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["AAA", "Pop"],
+        "location": {
+            "city": "Ioannina",
+            "country": "Greece"
+        },
+        "profile_slogan": "24 hrs news radio",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "BHMA Vima FM 90.1 is a broadcast Radio station from Ioannina, Greece, providing European, AAA, Pop Music, News and Informative programs.",
+            "rest": "BHMA Vima FM 90.1 is a broadcast Radio station from Ioannina, Greece, providing European, AAA, Pop Music, News and Informative programs."
+        },
+        "radio_contacts": {
+            "short": "BHMA Vima FM 90.1 is a broadcast Radio station from Ioannina, Greece, providing European, AAA, Pop Music, News and Informative programs.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.vimafm.gr/",
+            "facebook": "http://www.facebook.com/Vimafm",
+            "twitter": "",
+            "phone": "2651034451 - 52",
+            "address": "Dodoni 130 Ioannina 45332",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}]

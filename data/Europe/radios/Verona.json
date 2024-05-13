@@ -1,0 +1,58 @@
+[{
+    "title": "Verona",
+    "link": "https://streema.com/country/Italy/state/Verona",
+    "msg_results": "1 Radio Stations from Verona",
+    "page_copy": "Verona Radio Stations on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.  Get in touch via the Contact Us below if you're interested in these apps. Also, find the top new songs, playlists, and music on our website!",
+    "radios": [{
+        "title": "Radio Cerea Stereo (Radio RCS)",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_RCS_Radio_Cerea_Stereo",
+        "link_player": "/radios/play/Radio_RCS_Radio_Cerea_Stereo",
+        "image": "https://static-media.streema.com/media/cache/47/1f/471f06b1c98595da18a9825560ca87a2.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Verona",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Entertainment", "Pop", "Sports", "Talk", "Top 40", "Variety"],
+        "location": {
+            "city": "Casaleone",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Not specified",
+        "radio_info": {
+            "short": "Radio-RCS, has been present for 20 years in the world of ether and entertainment radio Verona plays Top 40/Pop, Adult Contemporary, Sports Talk programs.",
+            "rest": "Radio-RCS, has been present for 20 years in the world of ether and entertainment radio Verona plays Top 40/Pop, Adult Contemporary, Sports Talk programs."
+        },
+        "radio_contacts": {
+            "short": "Radio-RCS, has been present for 20 years in the world of ether and entertainment radio Verona plays Top 40/Pop, Adult Contemporary, Sports Talk programs.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiorcs.it/",
+            "facebook": "",
+            "twitter": "http://twitter.com/RadioRCSVerona",
+            "phone": "",
+            "address": "studies Casaleone  Avenue Martyrs of freedom, 42-37052 (VR)",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_RCS_Radio_Cerea_Stereo",
+            "title": "Play Radio Cerea Stereo (Radio RCS)"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://164.132.178.50:8030/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/ec/06/ec060c64ead1d0a7a8bdfab7321f32fe.jpg"
+    }]
+}]

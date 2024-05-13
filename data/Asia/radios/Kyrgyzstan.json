@@ -1,0 +1,733 @@
+[
+    {
+        "title": "Bishkek",
+        "link": "https://streema.com/radios/Bishkek",
+        "msg_results": "11 Radio Stations from Bishkek",
+        "page_copy": "Listen to radio stations from Bishkek, from a wide variety of genres like Adult Contemporary, Europe, Music, News and Pop.  Enjoy stations such as Manas FM, Радио ОК, Европа Плюс Киргизия, Hit FM - Hit Fm, OK Radio and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+        "radios": [
+            {
+                "title": "Manas FM",
+                "no_play": false,
+                "frequency": "FM 102.9",
+                "link_deatils": "/radios/Manas_FM",
+                "link_player": "/radios/play/Manas_FM",
+                "image": "https://static-media.streema.com/media/cache/fd/a9/fda906b16e7331626b9c4282d65ab7e3.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "Kyrgyzstan",
+                        "link": "/radios/country/Kyrgyzstan"
+                    },
+                    {
+                        "title": "Bishkek",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "30 Listens",
+                    "stars": 0
+                },
+                "genres": [
+                    "Documentaries",
+                    "Folk",
+                    "Russian",
+                    "Talk"
+                ],
+                "location": {
+                    "city": "Bishkek",
+                    "country": "Kyrgyzstan"
+                },
+                "profile_slogan": "",
+                "radio_language": "Kyrgyz",
+                "radio_info": {
+                    "short": "Manas Fm, Manas Radyosu",
+                    "rest": "Manas Fm, Manas Radyosu"
+                },
+                "radio_contacts": {
+                    "short": "Manas Fm, Manas Radyosu",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://mediamanas.kg/",
+                    "facebook": "http://www.facebook.com/mediamanaskg/",
+                    "twitter": "http://twitter.com/mediamanaskg",
+                    "phone": "+996 705 001 029",
+                    "address": "@manasuniv 720000 Bishkek, Kyrgyzstan",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Manas_FM",
+                    "title": "Play Manas FM"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://212.42.111.136/hls/manas/index.m3u8",
+                "radio_image": "https://static-media.streema.com/media/cache/64/11/64118a3777a7f3f1263bb57baa64ef4e.jpg"
+            },
+            {
+                "title": "Радио ОК",
+                "no_play": false,
+                "frequency": "FM 100.5",
+                "link_deatils": "/radios/Radio_OK_3",
+                "link_player": "/radios/play/Radio_OK_3",
+                "image": "https://static-media.streema.com/media/cache/fc/2e/fc2e83ee683eecd2b27c60e34fec188b.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "Kyrgyzstan",
+                        "link": "/radios/country/Kyrgyzstan"
+                    },
+                    {
+                        "title": "Bishkek",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Music",
+                    "News",
+                    "Russian",
+                    "Talk"
+                ],
+                "location": {
+                    "city": "Bishkek",
+                    "country": "Kyrgyzstan"
+                },
+                "profile_slogan": "",
+                "radio_language": "Kyrgyz / Russian",
+                "radio_info": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contacts": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://www.okradio.kg/",
+                    "facebook": "http://www.facebook.com/%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE-%D0%9E%D0%9A-430963910410311/",
+                    "twitter": "",
+                    "phone": "+996 312 531 647 | 0 (312) 62 15 55",
+                    "address": "ул. Шабдан Баатыра 6, 406 Bishkek, Kyrgyzstan",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Radio_OK_3",
+                    "title": "Play Радио ОК"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://stream.okradio.kg:8000/mp3-hq",
+                "radio_image": "https://static-media.streema.com/media/cache/a6/51/a6515c859516e957950bd56090d0f3e9.jpg"
+            },
+            {
+                "title": "Европа Плюс Киргизия",
+                "no_play": false,
+                "frequency": "FM 101.7",
+                "link_deatils": "/radios/Europa_Plus_2",
+                "link_player": "/radios/play/Europa_Plus_2",
+                "image": "https://static-media.streema.com/media/cache/9f/af/9faf38a9bb9ce8e4cbb341172c2891cc.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "Kyrgyzstan",
+                        "link": "/radios/country/Kyrgyzstan"
+                    },
+                    {
+                        "title": "Bishkek",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "\n        \n          \n          \n          \n          \n        ",
+                    "stars": 5
+                },
+                "genres": [
+                    "Adult Contemporary",
+                    "Pop",
+                    "Top 40"
+                ],
+                "location": {
+                    "city": "Bishkek",
+                    "country": "Kyrgyzstan"
+                },
+                "profile_slogan": "№1 в Кыргызстане",
+                "radio_language": "Russian",
+                "radio_info": {
+                    "short": "Europa Plus is a broadcast radio station from Bishkek, Kyrgyzstan providing Adult Contemporary Pop and Rock music.",
+                    "rest": "Europa Plus is a broadcast radio station from Bishkek, Kyrgyzstan providing Adult Contemporary Pop and Rock music."
+                },
+                "radio_contacts": {
+                    "short": "Europa Plus is a broadcast radio station from Bishkek, Kyrgyzstan providing Adult Contemporary Pop and Rock music.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://europa.kg/evropa-plyus-kyrgyzstan/",
+                    "facebook": "http://www.facebook.com/pages/Европа-плюс-Кыргызстан/143985369002830",
+                    "twitter": "http://twitter.com/EuropaPlusKG",
+                    "phone": "0312 530 555",
+                    "address": "Shabdan Baatyr-4 \"B\", Bishkek, Kyrgyzstan",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Europa_Plus_2",
+                    "title": "Play Европа Плюс Киргизия"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://hls-02-europaplus.emgsound.ru/11/128/playlist.m3u8",
+                "radio_image": "https://static-media.streema.com/media/cache/72/01/72014bd21e3de3dec3d3175feeacc97c.jpg"
+            },
+            {
+                "title": "Hit FM - Hit Fm",
+                "no_play": false,
+                "frequency": "FM 105.6",
+                "link_deatils": "/radios/Hit_FM_Hit_Fm",
+                "link_player": "/radios/play/Hit_FM_Hit_Fm",
+                "image": "https://static-media.streema.com/media/cache/cf/1d/cf1dbb8c70e9d5a7ab6480594efa171f.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "Kyrgyzstan",
+                        "link": "/radios/country/Kyrgyzstan"
+                    },
+                    {
+                        "title": "Bishkek",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Adult Contemporary",
+                    "Top 40"
+                ],
+                "location": {
+                    "city": "Bishkek",
+                    "country": "Kyrgyzstan"
+                },
+                "profile_slogan": "music, which easily",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contacts": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.hitfm.kg/",
+                    "facebook": "http://www.facebook.com/HitfmKyrgyzstan/",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Hit_FM_Hit_Fm",
+                    "title": "Play Hit FM - Hit Fm"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://31.192.250.52:8000/hitfm128",
+                "radio_image": "https://static-media.streema.com/media/cache/cc/1b/cc1b01b15091728d8faf7f2f1a8e3282.jpg"
+            },
+            {
+                "title": "OK Radio",
+                "no_play": true,
+                "frequency": "FM 100.5",
+                "link_deatils": "/radios/OK_Radio_2",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/a8/5d/a85dea8646a6088c7b961200493e495f.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "Kyrgyzstan",
+                        "link": "/radios/country/Kyrgyzstan"
+                    },
+                    {
+                        "title": "Bishkek",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Health",
+                    "Information",
+                    "Lifestyle",
+                    "Sports"
+                ],
+                "location": {
+                    "city": "Bishkek",
+                    "country": "Kyrgyzstan"
+                },
+                "profile_slogan": "",
+                "radio_language": "Russian",
+                "radio_info": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contacts": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.okradio.narod.ru/eng.html#Radio",
+                    "facebook": "",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            },
+            {
+                "title": "Sanjyra",
+                "no_play": true,
+                "frequency": "FM 107.4",
+                "link_deatils": "/radios/Sanjyra",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/f5/98/f5986e6b20a453932c77240c5ea6254b.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "Kyrgyzstan",
+                        "link": "/radios/country/Kyrgyzstan"
+                    },
+                    {
+                        "title": "Bishkek",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [],
+                "location": {
+                    "city": "Bishkek",
+                    "country": "Kyrgyzstan"
+                },
+                "profile_slogan": "",
+                "radio_language": "Russian",
+                "radio_info": {
+                    "short": "Sanjyra FM 107.4 is a broadcast radio station from Bishkek, Kyrgyzstan, providing Variety of music.",
+                    "rest": "Sanjyra FM 107.4 is a broadcast radio station from Bishkek, Kyrgyzstan, providing Variety of music."
+                },
+                "radio_contacts": {
+                    "short": "Sanjyra FM 107.4 is a broadcast radio station from Bishkek, Kyrgyzstan, providing Variety of music.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.sanjyrafm.kg/",
+                    "facebook": "http://www.facebook.com/pages/%D0%A1%D0%90%D0%9D%D0%96%D0%AB%D0%A0%D0%90-%D0%A0%D0%90%D0%94%D0%98%D0%9E%D0%A1%D0%A3/253284044707091",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "Токомбаев көчөсү, 46a, 720028 Frunze",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            },
+            {
+                "title": "KGR2 21 Century",
+                "no_play": true,
+                "frequency": "FM 106.9",
+                "link_deatils": "/radios/KGR2_21_Century",
+                "link_player": "",
+                "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "Kyrgyzstan",
+                        "link": "/radios/country/Kyrgyzstan"
+                    },
+                    {
+                        "title": "Bishkek",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Community",
+                    "News",
+                    "World"
+                ],
+                "location": {
+                    "city": "Bishkek",
+                    "country": "Kyrgyzstan"
+                },
+                "profile_slogan": "",
+                "radio_language": "Kyrgyz",
+                "radio_info": {
+                    "short": "KGR2 21 Century is a broadcast radio station from Bishkek, Kyrgyzstan providing World and Community News reports.",
+                    "rest": "KGR2 21 Century is a broadcast radio station from Bishkek, Kyrgyzstan providing World and Community News reports."
+                },
+                "radio_contacts": {
+                    "short": "KGR2 21 Century is a broadcast radio station from Bishkek, Kyrgyzstan providing World and Community News reports.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "",
+                    "facebook": "",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            },
+            {
+                "title": "Radio Pyramid",
+                "no_play": true,
+                "frequency": "FM 105.0",
+                "link_deatils": "/radios/Radio_Pyramid",
+                "link_player": "",
+                "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "Kyrgyzstan",
+                        "link": "/radios/country/Kyrgyzstan"
+                    },
+                    {
+                        "title": "Bishkek",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Adult Contemporary",
+                    "Pop"
+                ],
+                "location": {
+                    "city": "Bishkek",
+                    "country": "Kyrgyzstan"
+                },
+                "profile_slogan": "",
+                "radio_language": "Russian",
+                "radio_info": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contacts": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "",
+                    "facebook": "",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            },
+            {
+                "title": "Kloop Radio Kyrgyzstan",
+                "no_play": true,
+                "frequency": "Web",
+                "link_deatils": "/radios/Kloop_Radio_Kyrgyzstan",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/c8/73/c873fe3b27ad987385cd6610400180b1.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "Kyrgyzstan",
+                        "link": "/radios/country/Kyrgyzstan"
+                    },
+                    {
+                        "title": "Bishkek",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Culture",
+                    "Lifestyle",
+                    "Music",
+                    "News"
+                ],
+                "location": {
+                    "city": "Bishkek",
+                    "country": "Kyrgyzstan"
+                },
+                "profile_slogan": "",
+                "radio_language": "Multilingual",
+                "radio_info": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contacts": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://kloop.kg/online-radio/",
+                    "facebook": "http://www.facebook.com/kloop.kg",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            },
+            {
+                "title": "KGR1 Kyrgyz R",
+                "no_play": true,
+                "frequency": "Web",
+                "link_deatils": "/radios/KGR1_Kyrgyz_R",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/30/c9/30c93fb6f86af241ebe76d98f85c6ef7.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "Kyrgyzstan",
+                        "link": "/radios/country/Kyrgyzstan"
+                    },
+                    {
+                        "title": "Bishkek",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Europe"
+                ],
+                "location": {
+                    "city": "Bishkek",
+                    "country": "Kyrgyzstan"
+                },
+                "profile_slogan": "",
+                "radio_language": "Multilingual",
+                "radio_info": {
+                    "short": "Amusing physics, what is the electron",
+                    "rest": "Amusing physics, what is the electron"
+                },
+                "radio_contacts": {
+                    "short": "Amusing physics, what is the electron",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.ktr.kg/",
+                    "facebook": "",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            },
+            {
+                "title": "Kyrgyz radio",
+                "no_play": true,
+                "frequency": "FM 104.1",
+                "link_deatils": "/radios/Kyrgyz_radio",
+                "link_player": "",
+                "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "Kyrgyzstan",
+                        "link": "/radios/country/Kyrgyzstan"
+                    },
+                    {
+                        "title": "Bishkek",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Europe",
+                    "News"
+                ],
+                "location": {
+                    "city": "Bishkek",
+                    "country": "Kyrgyzstan"
+                },
+                "profile_slogan": "",
+                "radio_language": "Kyrgyz",
+                "radio_info": {
+                    "short": "Kyrgyz radio FM 104.1 is a broadcast radio station from Bishkek, Kyrgyzstan, providing Europe and News.",
+                    "rest": "Kyrgyz radio FM 104.1 is a broadcast radio station from Bishkek, Kyrgyzstan, providing Europe and News."
+                },
+                "radio_contacts": {
+                    "short": "Kyrgyz radio FM 104.1 is a broadcast radio station from Bishkek, Kyrgyzstan, providing Europe and News.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "",
+                    "facebook": "",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            }
+        ]
+    },
+    {
+        "title": "Osh",
+        "link": "https://streema.com/radios/Osh",
+        "msg_results": "1 Radio Stations from Osh",
+        "page_copy": "Listen to radio stations from Osh, from a wide variety of genres like Adult Contemporary, Pop and Top 40.  Enjoy stations such as Европа Плюс Киргизия and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+        "radios": [
+            {
+                "title": "Европа Плюс Киргизия",
+                "no_play": false,
+                "frequency": "FM 103.8",
+                "link_deatils": "/radios/Europa_Plus_Kyrgyzstan_FM",
+                "link_player": "/radios/play/Europa_Plus_Kyrgyzstan_FM",
+                "image": "https://static-media.streema.com/media/cache/b7/e8/b7e8a91272c49c168ce37576fd69d91d.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "Kyrgyzstan",
+                        "link": "/radios/country/Kyrgyzstan"
+                    },
+                    {
+                        "title": "Osh",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Adult Contemporary",
+                    "Pop",
+                    "Top 40"
+                ],
+                "location": {
+                    "city": "Osh",
+                    "country": "Kyrgyzstan"
+                },
+                "profile_slogan": "",
+                "radio_language": "Russian",
+                "radio_info": {
+                    "short": "Europa Plus (Kyrgyzstan)is a broadcast radio station on the Europa Plus radio network from Osh, Kyrgyzstan providing World music.",
+                    "rest": "Europa Plus (Kyrgyzstan)is a broadcast radio station on the Europa Plus radio network from Osh, Kyrgyzstan providing World music."
+                },
+                "radio_contacts": {
+                    "short": "Europa Plus (Kyrgyzstan)is a broadcast radio station on the Europa Plus radio network from Osh, Kyrgyzstan providing World music.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://europa.kg/evropa-plyus-kyrgyzstan/",
+                    "facebook": "http://www.facebook.com/pages/Европа-плюс-Кыргызстан/143985369002830",
+                    "twitter": "http://twitter.com/EuropaPlusKG",
+                    "phone": "",
+                    "address": "Thomasgasse 2, 04109 Leipzig, Germany",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Europa_Plus_Kyrgyzstan_FM",
+                    "title": "Play Европа Плюс Киргизия"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://hls-02-europaplus.emgsound.ru/11/128/playlist.m3u8",
+                "radio_image": "https://static-media.streema.com/media/cache/ae/c8/aec8f3b2527b0b2e060a786203ddd3a4.jpg"
+            }
+        ]
+    }
+]

@@ -1,0 +1,1331 @@
+[{
+    "title": "Córdoba",
+    "link": "https://streema.com/radios/Cordoba_2",
+    "msg_results": "25 Radio Stations from Córdoba",
+    "page_copy": "Listen to radio stations from Córdoba, from a wide variety of genres like News, Pop, Spanish, Sports and Talk.  Enjoy stations such as Magic80, Radio Marca, Europa FM, Hit FM Córdoba, Canal Sur Radio and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Magic80",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Magic80",
+        "link_player": "",
+        "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Córdoba",
+            "link": "/radios/country/Spain/state/Cordoba_2"
+        }, {
+            "title": "Córdoba",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "2 Listens",
+            "stars": 0
+        },
+        "genres": ["Classics", "Disco", "Pop"],
+        "location": {
+            "city": "Córdoba",
+            "country": "Spain"
+        },
+        "profile_slogan": "24hs de música y recuerdos",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Magic80 es una emisora de radio en linea de Córdoba, Spain, transmitiendo Classics, Disco, Pop.",
+            "rest": "Magic80 es una emisora de radio en linea de Córdoba, Spain, transmitiendo Classics, Disco, Pop."
+        },
+        "radio_contacts": {
+            "short": "Magic80 es una emisora de radio en linea de Córdoba, Spain, transmitiendo Classics, Disco, Pop.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.estilodance.bravehost.com/Magic.htm",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio Marca",
+        "no_play": false,
+        "frequency": "FM 93.1",
+        "link_deatils": "/radios/Radio_Marca_3",
+        "link_player": "/radios/play/Radio_Marca_3",
+        "image": "https://static-media.streema.com/media/cache/84/75/847574fd1189ef919af9d3ef4f0d352b.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Córdoba",
+            "link": "/radios/country/Spain/state/Cordoba_2"
+        }, {
+            "title": "Córdoba",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Information", "News", "Sports", "Talk"],
+        "location": {
+            "city": "Córdoba",
+            "country": "Spain"
+        },
+        "profile_slogan": "La radio que hace afición",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Radio Marca 93.1 is a broadcast radio station from Córdoba, Spain, providing Sports Talk & News programs.",
+            "rest": "Radio Marca 93.1 is a broadcast radio station from Córdoba, Spain, providing Sports Talk & News programs."
+        },
+        "radio_contacts": {
+            "short": "Radio Marca 93.1 is a broadcast radio station from Córdoba, Spain, providing Sports Talk & News programs.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.marca.com/radio/",
+            "facebook": "http://www.facebook.com/RadioMarcaValencia",
+            "twitter": "http://twitter.com/rmarcaasturias",
+            "phone": "+34 902 345 678",
+            "address": "Avenida de San Luis, 25-27 Madrid Spain ES-28033",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Marca_3",
+            "title": "Play Radio Marca"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/15/a2/15a24fbcfe9733f086ed9f9aaf944b2a.jpg"
+    }, {
+        "title": "Europa FM",
+        "no_play": false,
+        "frequency": "FM 91.4",
+        "link_deatils": "/radios/Europa_FM_Cordoba",
+        "link_player": "/radios/play/Europa_FM_Cordoba",
+        "image": "https://static-media.streema.com/media/cache/7f/1f/7f1f902dad8757b697bd2511ee13e178.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Córdoba",
+            "link": "/radios/country/Spain/state/Cordoba_2"
+        }, {
+            "title": "Córdoba",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Europe", "Hits", "Pop", "Rock"],
+        "location": {
+            "city": "Córdoba",
+            "country": "Spain"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Europa FM (Córdoba) 91.4 is a broadcast radio station from Córdoba, Spain providing the best Pop Rock, Euro Dance Hits and Chillout sessions.",
+            "rest": "Europa FM (Córdoba) 91.4 is a broadcast radio station from Córdoba, Spain providing the best Pop Rock, Euro Dance Hits and Chillout sessions."
+        },
+        "radio_contacts": {
+            "short": "Europa FM (Córdoba) 91.4 is a broadcast radio station from Córdoba, Spain providing the best Pop Rock, Euro Dance Hits and Chillout sessions.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.europafm.com/",
+            "facebook": "http://www.facebook.com/tueuropafm",
+            "twitter": "",
+            "phone": "957-451-380",
+            "address": "c/ Manuel Ruiz Mayo, 8 Pl 5º Edif ONCE (Vistalegre)",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Europa_FM_Cordoba",
+            "title": "Play Europa FM"
+        },
+        "radio_shows": [""],
+        "radio_source": "",
+        "radio_image": "https://static-media.streema.com/media/cache/ab/64/ab6493e93992dd765cc5cdd5d2ad12dc.jpg"
+    }, {
+        "title": "Hit FM Córdoba",
+        "no_play": false,
+        "frequency": "FM 89.9",
+        "link_deatils": "/radios/Hit_FM_Cordoba",
+        "link_player": "/radios/play/Hit_FM_Cordoba",
+        "image": "https://static-media.streema.com/media/cache/dd/a0/dda08521d6595be1e55dbf2d76a804d9.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Córdoba",
+            "link": "/radios/country/Spain/state/Cordoba_2"
+        }, {
+            "title": "Córdoba",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Pop", "RnB", "Top 40"],
+        "location": {
+            "city": "Córdoba",
+            "country": "Spain"
+        },
+        "profile_slogan": "Música Non Stop",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Hit FM 105.5 is a broadcast radio station from Madrid, Spain, providing Top 40, Pop, Rnb, Rock, and Hot AC music.",
+            "rest": "Hit FM 105.5 is a broadcast radio station from Madrid, Spain, providing Top 40, Pop, Rnb, Rock, and Hot AC music."
+        },
+        "radio_contacts": {
+            "short": "Hit FM 105.5 is a broadcast radio station from Madrid, Spain, providing Top 40, Pop, Rnb, Rock, and Hot AC music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.hitfm.es/",
+            "facebook": "http://www.facebook.com/hitfm.es",
+            "twitter": "http://twitter.com/Hit_FM",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Hit_FM_Cordoba",
+            "title": "Play Hit FM Córdoba"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://hitfm.kissfmradio.cires21.com/hitfm.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/a3/b7/a3b7157207b6e4ea3c7237af8f47a355.jpg"
+    }, {
+        "title": "Canal Sur Radio",
+        "no_play": false,
+        "frequency": "FM 103.6",
+        "link_deatils": "/radios/Canal_Sur_Radio",
+        "link_player": "/radios/play/Canal_Sur_Radio",
+        "image": "https://static-media.streema.com/media/cache/76/6c/766cdbde20d2070a33b12621635366d4.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Córdoba",
+            "link": "/radios/country/Spain/state/Cordoba_2"
+        }, {
+            "title": "Córdoba",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Culture", "Music", "News", "Spanish"],
+        "location": {
+            "city": "Córdoba",
+            "country": "Spain"
+        },
+        "profile_slogan": "La Voz de Andalucía",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Canal Sur Radio 103.6 is a broadcast radio station from Córdoba, Spain, providing Culture, Spanish Music ,Sports Talk & News programs.",
+            "rest": "Canal Sur Radio 103.6 is a broadcast radio station from Córdoba, Spain, providing Culture, Spanish Music ,Sports Talk & News programs."
+        },
+        "radio_contacts": {
+            "short": "Canal Sur Radio 103.6 is a broadcast radio station from Córdoba, Spain, providing Culture, Spanish Music ,Sports Talk & News programs.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.canalsur.es/radio-555.html",
+            "facebook": "http://www.facebook.com/canalsurandalucia",
+            "twitter": "http://twitter.com/canalsurradio1?lang=en",
+            "phone": "+34 955 05 46 00",
+            "address": "Edificio Canal Sur. Avda. José Gálvez, 1. CP 41092  Isla de la Cartuja (Sevilla)",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Canal_Sur_Radio",
+            "title": "Play Canal Sur Radio"
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Cadena COPE Córdoba",
+        "no_play": false,
+        "frequency": "FM 87.6",
+        "link_deatils": "/radios/Cadena_COPE_Cordoba_OM",
+        "link_player": "/radios/play/Cadena_COPE_Cordoba_OM",
+        "image": "https://static-media.streema.com/media/cache/1b/e5/1be5e75c1f86c88f4233f2f40d3886c7.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Córdoba",
+            "link": "/radios/country/Spain/state/Cordoba_2"
+        }, {
+            "title": "Córdoba",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Information", "Live Shows", "News", "Sports", "Talk"],
+        "location": {
+            "city": "Córdoba",
+            "country": "Spain"
+        },
+        "profile_slogan": "Información, análisis y radio online",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Cadena COPE (Córdoba) is a station on the broadcast radio network Cadena COPE from Madrid, Spain, providing Sports News, Talk, Information and Live Events.",
+            "rest": "Cadena COPE (Córdoba) is a station on the broadcast radio network Cadena COPE from Madrid, Spain, providing Sports News, Talk, Information and Live Events."
+        },
+        "radio_contacts": {
+            "short": "Cadena COPE (Córdoba) is a station on the broadcast radio network Cadena COPE from Madrid, Spain, providing Sports News, Talk, Information and Live Events.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.cope.es/local/Cordoba/Cordoba",
+            "facebook": "http://www.facebook.com/COPECORDOBA?filter=1",
+            "twitter": "http://twitter.com/cope_es",
+            "phone": "915 951 200",
+            "address": "Alfonso XI, 4. 28014 Madrid, Spain",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Cadena_COPE_Cordoba_OM",
+            "title": "Play Cadena COPE Córdoba"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://wecast-m01-02.flumotion.com/copesedes/cordoba.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/dd/3a/dd3a63b4ab1834e2c4b7670ae9205f6d.jpg"
+    }, {
+        "title": "Cadena Dial",
+        "no_play": false,
+        "frequency": "FM 88.4",
+        "link_deatils": "/radios/Radio_Cordoba",
+        "link_player": "/radios/play/Radio_Cordoba",
+        "image": "https://static-media.streema.com/media/cache/a1/40/a14016491fbe52384be6ddd54ea6035f.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Córdoba",
+            "link": "/radios/country/Spain/state/Cordoba_2"
+        }, {
+            "title": "Córdoba",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Hits", "Pop", "Spanish"],
+        "location": {
+            "city": "Córdoba",
+            "country": "Spain"
+        },
+        "profile_slogan": "Escucha cada día el mejor POP en español",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Cadena Dial es una emisora de radio FM de Córdoba, Spain, transmitiendo News, Talk.",
+            "rest": "Cadena Dial es una emisora de radio FM de Córdoba, Spain, transmitiendo News, Talk."
+        },
+        "radio_contacts": {
+            "short": "Cadena Dial es una emisora de radio FM de Córdoba, Spain, transmitiendo News, Talk.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.cadenadial.com/",
+            "facebook": "http://www.facebook.com/cadenadial",
+            "twitter": "http://twitter.com/Cadena_Dial",
+            "phone": "91 – 347 77 40",
+            "address": "Gran Vía 32 – 7ª Planta 28013 Madrid",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Cordoba",
+            "title": "Play Cadena Dial"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/d3/e3/d3e36b54c80081dc5d15ec46429dc754.jpg"
+    }, {
+        "title": "Radio Armonía",
+        "no_play": false,
+        "frequency": "FM 99.1",
+        "link_deatils": "/radios/Radio_Armonia_5",
+        "link_player": "/radios/play/Radio_Armonia_5",
+        "image": "https://static-media.streema.com/media/cache/a7/48/a748a39ba891144d320b55fd28fadfc4.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Córdoba",
+            "link": "/radios/country/Spain/state/Cordoba_2"
+        }, {
+            "title": "Córdoba",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Spanish"],
+        "location": {
+            "city": "Córdoba",
+            "country": "Spain"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radioarmonia.es/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Armonia_5",
+            "title": "Play Radio Armonía"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://liveradio.com.es:18010/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/a1/51/a151eb0955dbdae8d700da89a850b8b2.jpg"
+    }, {
+        "title": "IntimidadRadio",
+        "no_play": false,
+        "frequency": "FM 106.4",
+        "link_deatils": "/radios/IntimidadRadio",
+        "link_player": "/radios/play/IntimidadRadio",
+        "image": "https://static-media.streema.com/media/cache/36/f2/36f2eb684c5c207eb58c49cb682c6414.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Córdoba",
+            "link": "/radios/country/Spain/state/Cordoba_2"
+        }, {
+            "title": "Córdoba",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["80s", "90s", "Dance", "Disco"],
+        "location": {
+            "city": "Córdoba",
+            "country": "Spain"
+        },
+        "profile_slogan": "Intimidad Radio, una emisora cultural de nuestra capital con buena música y programas locales",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Intimidad Radio, una emisora cultural de nuestra capital con buena música y programas locales también abierta al mundo",
+            "rest": "Intimidad Radio, una emisora cultural de nuestra capital con buena música y programas locales también abierta al mundo"
+        },
+        "radio_contacts": {
+            "short": "Intimidad Radio, una emisora cultural de nuestra capital con buena música y programas locales también abierta al mundo",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://intimidadradio.com/",
+            "facebook": "http://www.facebook.com/intimidadradio",
+            "twitter": "http://twitter.com/Intimidad1064",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/IntimidadRadio",
+            "title": "Play IntimidadRadio"
+        },
+        "radio_shows": [""],
+        "radio_source": "https://eu1.lhdserver.es:9119/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/26/e3/26e36d3d2b7c63de95900b373869d730.jpg"
+    }, {
+        "title": "IntimidadRadio - IntimidadRelax",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/IntimidadRadio_IntimidadRelax",
+        "link_player": "/radios/play/IntimidadRadio_IntimidadRelax",
+        "image": "https://static-media.streema.com/media/cache/93/b1/93b16eca6dbee0e81a2ac21dc34cfee5.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Córdoba",
+            "link": "/radios/country/Spain/state/Cordoba_2"
+        }, {
+            "title": "Córdoba",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Chillout", "New Age"],
+        "location": {
+            "city": "Córdoba",
+            "country": "Spain"
+        },
+        "profile_slogan": "intimidad relax que es un hilo musical 24 horas de música New Age y Chillout",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "intimidad relax que es un hilo musical 24 horas de música New Age y Chillout que puede resultar de interés para los amantes de este",
+            "rest": "estilo"
+        },
+        "radio_contacts": {
+            "short": "intimidad relax que es un hilo musical 24 horas de música New Age y Chillout que puede resultar de interés para los amantes de este",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://intimidadradio.com/",
+            "facebook": "http://www.facebook.com/intimidadradio",
+            "twitter": "http://twitter.com/Intimidad1064",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/IntimidadRadio_IntimidadRelax",
+            "title": "Play IntimidadRadio - IntimidadRelax"
+        },
+        "radio_shows": [""],
+        "radio_source": "https://eu1.lhdserver.es:9121/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/35/81/3581012aac812b1007fdf0e6b38cef8b.jpg"
+    }, {
+        "title": "Onda Cero Córdoba",
+        "no_play": false,
+        "frequency": "FM 89.7",
+        "link_deatils": "/radios/Onda_Cero_Cordoba_89.7",
+        "link_player": "/radios/play/Onda_Cero_Cordoba_89.7",
+        "image": "https://static-media.streema.com/media/cache/26/d2/26d2a7b1d122bac9818677d77945ed2f.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Córdoba",
+            "link": "/radios/country/Spain/state/Cordoba_2"
+        }, {
+            "title": "Córdoba",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Entertainment", "Information", "News", "Talk"],
+        "location": {
+            "city": "Córdoba",
+            "country": "Spain"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Onda Cero - Córdoba 89.7 is a broadcast radio station from Córdoba, Spain, as part of Onda Cero network of radio stations from Spain, providing",
+            "rest": "Information and Entertainment."
+        },
+        "radio_contacts": {
+            "short": "Onda Cero - Córdoba 89.7 is a broadcast radio station from Córdoba, Spain, as part of Onda Cero network of radio stations from Spain, providing",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.ondacero.es/",
+            "facebook": "http://www.facebook.com/ondacero",
+            "twitter": "http://twitter.com/ondacero_es",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Onda_Cero_Cordoba_89.7",
+            "title": "Play Onda Cero Córdoba"
+        },
+        "radio_shows": [""],
+        "radio_source": "https://livefastly-webs.ondacero.es/cordoba-pull/audio/master.m3u8",
+        "radio_image": "https://static-media.streema.com/media/cache/5c/44/5c442f670f36ecb83f5b1e97b44cd6e2.jpg"
+    }, {
+        "title": "Formula 30 Cordoba",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Formula_30_Cordoba",
+        "link_player": "/radios/play/Formula_30_Cordoba",
+        "image": "https://static-media.streema.com/media/cache/da/6d/da6dd5c16ccf662183fa32dac00a69f8.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Córdoba",
+            "link": "/radios/country/Spain/state/Cordoba_2"
+        }, {
+            "title": "Córdoba",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Pop", "Rock", "Variety"],
+        "location": {
+            "city": "Córdoba",
+            "country": "Spain"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Formula 30 Cordoba is an internet radio station from Cordoba, Spain providing Pop, Rock and Variety music.",
+            "rest": "Formula 30 Cordoba is an internet radio station from Cordoba, Spain providing Pop, Rock and Variety music."
+        },
+        "radio_contacts": {
+            "short": "Formula 30 Cordoba is an internet radio station from Cordoba, Spain providing Pop, Rock and Variety music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.formula30.net/",
+            "facebook": "http://www.facebook.com/formula30",
+            "twitter": "http://twitter.com/formula30radio",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Formula_30_Cordoba",
+            "title": "Play Formula 30 Cordoba"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stm1.emiteonline.com:8001/f30cordoba",
+        "radio_image": "https://static-media.streema.com/media/cache/fd/81/fd8165773d4bad204509f78f55b40b3b.jpg"
+    }, {
+        "title": "Cadena 100",
+        "no_play": false,
+        "frequency": "FM 106.7",
+        "link_deatils": "/radios/ABC_Punto_Radio_Cordoba_106.7_FM",
+        "link_player": "/radios/play/ABC_Punto_Radio_Cordoba_106.7_FM",
+        "image": "https://static-media.streema.com/media/cache/16/a1/16a158ee28031848b6ad71d891b11796.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Córdoba",
+            "link": "/radios/country/Spain/state/Cordoba_2"
+        }, {
+            "title": "Córdoba",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Entertainment", "Information", "Music", "Spanish"],
+        "location": {
+            "city": "Córdoba",
+            "country": "Spain"
+        },
+        "profile_slogan": "",
+        "radio_language": "",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""],
+        "radio_source": "https://cadena100-cope.flumotion.com/chunks.m3u8",
+        "radio_image": "https://static-media.streema.com/media/cache/d3/8c/d38c8961ee5bde3a2d9ec1b09f176368.jpg"
+    }, {
+        "title": "Cadena SER - Radio Córdoba",
+        "no_play": false,
+        "frequency": "FM 93.5",
+        "link_deatils": "/radios/Cadena_SER_Cordoba",
+        "link_player": "/radios/play/Cadena_SER_Cordoba",
+        "image": "https://static-media.streema.com/media/cache/6f/e7/6fe7900a6b2281180db0118fe99a031b.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Córdoba",
+            "link": "/radios/country/Spain/state/Cordoba_2"
+        }, {
+            "title": "Córdoba",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["News", "Spanish", "Talk"],
+        "location": {
+            "city": "Córdoba",
+            "country": "Spain"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://cadenaser.com/emisora/radio_cordoba/",
+            "facebook": "http://www.facebook.com/radiocordoba/",
+            "twitter": "http://twitter.com/radiocordobaser?lang=en",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Cadena_SER_Cordoba",
+            "title": "Play Cadena SER - Radio Córdoba"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CORDOBA.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/ea/10/ea1056425dfa3008463b76d626f70c02.jpg"
+    }, {
+        "title": "Ilegal Connection Radio",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Ilegal_Connection_Radio",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/ad/68/ad681296c4862f155b0294481dac1d55.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Córdoba",
+            "link": "/radios/country/Spain/state/Cordoba_2"
+        }, {
+            "title": "Córdoba",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Ambient", "Electronica", "Gothic", "Variety"],
+        "location": {
+            "city": "Córdoba",
+            "country": "Spain"
+        },
+        "profile_slogan": "",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "Ilegal Connection Radio is an internet radio station from Cordoba, Spain, providing variety of music, including electro, Acid, Dark wave and Ambient.",
+            "rest": "Ilegal Connection Radio is an internet radio station from Cordoba, Spain, providing variety of music, including electro, Acid, Dark wave and Ambient."
+        },
+        "radio_contacts": {
+            "short": "Ilegal Connection Radio is an internet radio station from Cordoba, Spain, providing variety of music, including electro, Acid, Dark wave and Ambient.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.ilegalconnection.com",
+            "facebook": "http://www.facebook.com/pages/ILegal-Connection-Transmission-Broadcast-Electro-Radio/236947514599",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Aguila Azul",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Aguila_Azul",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/e0/8e/e08e1654edaddf3143740ebc3b066ae2.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Córdoba",
+            "link": "/radios/country/Spain/state/Cordoba_2"
+        }, {
+            "title": "Córdoba",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Christian", "Gospel", "Religious", "Talk"],
+        "location": {
+            "city": "Córdoba",
+            "country": "Spain"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Aguila Azul is an Internet Radio station broadcasting from Córdoba, Spain, Provides Evangelical, Christian, Religious and Gospel programs.",
+            "rest": "Aguila Azul is an Internet Radio station broadcasting from Córdoba, Spain, Provides Evangelical, Christian, Religious and Gospel programs."
+        },
+        "radio_contacts": {
+            "short": "Aguila Azul is an Internet Radio station broadcasting from Córdoba, Spain, Provides Evangelical, Christian, Religious and Gospel programs.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://aguilaazul.com.ar/",
+            "facebook": "http://www.facebook.com/InformesAguilaAzul",
+            "twitter": "http://twitter.com/AguilaAzul_Ana",
+            "phone": "(011) 15-6628-4295",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Bit Cordoba 96.2 FM",
+        "no_play": true,
+        "frequency": "FM 96.2",
+        "link_deatils": "/radios/Bit_FM_962",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/56/b6/56b618e772d083983b3e7634b706ec38.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Córdoba",
+            "link": "/radios/country/Spain/state/Cordoba_2"
+        }, {
+            "title": "Córdoba",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Entertainment", "House", "Sports"],
+        "location": {
+            "city": "Córdoba",
+            "country": "Spain"
+        },
+        "profile_slogan": "Me Gusta!",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Bit FM 96.2 is a broadcast radio station from Cordoba, Spain providing the best combination of music, information, entertainment and sports.",
+            "rest": "Bit FM 96.2 is a broadcast radio station from Cordoba, Spain providing the best combination of music, information, entertainment and sports."
+        },
+        "radio_contacts": {
+            "short": "Bit FM 96.2 is a broadcast radio station from Cordoba, Spain providing the best combination of music, information, entertainment and sports.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.bitfmcordoba.es/",
+            "facebook": "http://www.facebook.com/bitfmcordoba",
+            "twitter": "http://twitter.com/bitfmcordoba",
+            "phone": "957 941 962",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Cadena SER - Radio Peñarroya",
+        "no_play": true,
+        "frequency": "FM 90.2",
+        "link_deatils": "/radios/Radio_Penarroya_Cadena_SER_90.2",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/ae/61/ae616ea08dc77c007c11b7d5a1a99d80.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Córdoba",
+            "link": "/radios/country/Spain/state/Cordoba_2"
+        }, {
+            "title": "Córdoba",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Information", "News", "Sports", "Talk"],
+        "location": {
+            "city": "Córdoba",
+            "country": "Spain"
+        },
+        "profile_slogan": "Noticias y radio online",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Radio Peñarroya (Cadena SER) 90.2 is a station on the broadcast radio network Cadena SER from Cordoba, Spain, provides Spanish Talk, Sports Talk, News and",
+            "rest": "Information programs."
+        },
+        "radio_contacts": {
+            "short": "Radio Peñarroya (Cadena SER) 90.2 is a station on the broadcast radio network Cadena SER from Cordoba, Spain, provides Spanish Talk, Sports Talk, News and",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.cadenaser.com/emisoras/cordoba/",
+            "facebook": "http://www.facebook.com/cadenaser",
+            "twitter": "http://twitter.com/La_SER",
+            "phone": "957-562-501",
+            "address": "Sol 35 14200-Peñarroya Pueblonuevo",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Play Radio - 98.7 FM",
+        "no_play": true,
+        "frequency": "FM 98.7",
+        "link_deatils": "/radios/Play_Radio_98.7_FM",
+        "link_player": "",
+        "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Córdoba",
+            "link": "/radios/country/Spain/state/Cordoba_2"
+        }, {
+            "title": "Córdoba",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Latin", "Spanish"],
+        "location": {
+            "city": "Córdoba",
+            "country": "Spain"
+        },
+        "profile_slogan": "100% PURA MUSICA",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Play Radio - 98.7 FM is a broadcast based radio station from Cordoba that plays Spanish genre of music.",
+            "rest": "Play Radio - 98.7 FM is a broadcast based radio station from Cordoba that plays Spanish genre of music."
+        },
+        "radio_contacts": {
+            "short": "Play Radio - 98.7 FM is a broadcast based radio station from Cordoba that plays Spanish genre of music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.playradio.fm/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Biende Campo Radio",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Biende_Campo_Radio",
+        "link_player": "",
+        "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Córdoba",
+            "link": "/radios/country/Spain/state/Cordoba_2"
+        }, {
+            "title": "Córdoba",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Classical", "Rock", "Spanish"],
+        "location": {
+            "city": "Córdoba",
+            "country": "Spain"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Biende Campo Radio is an Internet Radio station broadcasting from Córdoba, Spain, provides Rock music.",
+            "rest": "Biende Campo Radio is an Internet Radio station broadcasting from Córdoba, Spain, provides Rock music."
+        },
+        "radio_contacts": {
+            "short": "Biende Campo Radio is an Internet Radio station broadcasting from Córdoba, Spain, provides Rock music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.biendecampo.com.ar/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Córdoba esRadio",
+        "no_play": true,
+        "frequency": "FM 99",
+        "link_deatils": "/radios/Cordoba_esRadio",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/59/ae/59ae82a9f1d24f5caea1b9d29a49c7d6.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Córdoba",
+            "link": "/radios/country/Spain/state/Cordoba_2"
+        }, {
+            "title": "Córdoba",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Spanish"],
+        "location": {
+            "city": "Córdoba",
+            "country": "Spain"
+        },
+        "profile_slogan": "La radio que quieres",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Córdoba esRadio 99.0 is a broadcast radio station from Córdoba, Spain providing music and program in Spanish.",
+            "rest": "Córdoba esRadio 99.0 is a broadcast radio station from Córdoba, Spain providing music and program in Spanish."
+        },
+        "radio_contacts": {
+            "short": "Córdoba esRadio 99.0 is a broadcast radio station from Córdoba, Spain providing music and program in Spanish.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "",
+            "facebook": "",
+            "twitter": "http://twitter.com/cordobaesRadio",
+            "phone": "+34 957 47 40 74",
+            "address": "EULALIO VELA NO. 15 COL OBRERA",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Mas De Treinta Radio",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Mas_De_Treinta_Radio",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/de/6a/de6a9df66b883213d82be29806890626.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Córdoba",
+            "link": "/radios/country/Spain/state/Cordoba_2"
+        }, {
+            "title": "Córdoba",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["60s", "80s", "90s", "Classic Rock"],
+        "location": {
+            "city": "Córdoba",
+            "country": "Spain"
+        },
+        "profile_slogan": "Los Clásicos de tu vida las 24 Horas....",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Mas De Treinta Radio is a web based internet radio station from Cordoba that plays Classic Rock, Spanish genre of music.",
+            "rest": "Mas De Treinta Radio is a web based internet radio station from Cordoba that plays Classic Rock, Spanish genre of music."
+        },
+        "radio_contacts": {
+            "short": "Mas De Treinta Radio is a web based internet radio station from Cordoba that plays Classic Rock, Spanish genre of music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://masdetreintaclasicos.blogspot.in/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Tu-Radio",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Tu_Radio_105.2",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/86/72/867261aa9279ea1649e50aaeb20f4bf4.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Córdoba",
+            "link": "/radios/country/Spain/state/Cordoba_2"
+        }, {
+            "title": "Córdoba",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["80s", "90s", "Dance", "Pop", "Reggaeton"],
+        "location": {
+            "city": "Córdoba",
+            "country": "Spain"
+        },
+        "profile_slogan": "Los éxitos de ayer y de hoy",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Tu Radio 105.2 FM is a broadcast radio station from La Rambla, Spain, providing Pop, Dance, and Reggaeton music. Lo mejor de los 80s, 90s,",
+            "rest": " 00s y actualidad, 24 horas, en Tú Radio."
+        },
+        "radio_contacts": {
+            "short": "Tu Radio 105.2 FM is a broadcast radio station from La Rambla, Spain, providing Pop, Dance, and Reggaeton music. Lo mejor de los 80s, 90s,",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.turadiofm.com/",
+            "facebook": "http://www.facebook.com/turadiomusica",
+            "twitter": "http://twitter.com/turadiomusica",
+            "phone": "659797805",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio Norte Y Sur",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Norte_Y_Sur",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/4d/81/4d819a1d76886f2c2263dd7e882467fe.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Córdoba",
+            "link": "/radios/country/Spain/state/Cordoba_2"
+        }, {
+            "title": "Córdoba",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Folk", "Latin", "Spanish", "Variety"],
+        "location": {
+            "city": "Córdoba",
+            "country": "Spain"
+        },
+        "profile_slogan": "La Rado k tu Haces",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "Radio Norte Y Sur is an online radio station from United States, providing variety of music.",
+            "rest": "Radio Norte Y Sur is an online radio station from United States, providing variety of music."
+        },
+        "radio_contacts": {
+            "short": "Radio Norte Y Sur is an online radio station from United States, providing variety of music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://radionorteysur.webnode.es/",
+            "facebook": "http://www.facebook.com/Radio-Norte-y-Sur-269996523187097/",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "CCF RADIO (Cordoba CF Radio)",
+        "no_play": true,
+        "frequency": "FM 98.1",
+        "link_deatils": "/radios/CCF_RADIO_Cordoba_CF_Radio",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/77/ca/77caab72e2ecbc3253891c26ab5c26d2.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Córdoba",
+            "link": "/radios/country/Spain/state/Cordoba_2"
+        }, {
+            "title": "Córdoba",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Entertainment", "News", "Sports", "Talk"],
+        "location": {
+            "city": "Córdoba",
+            "country": "Spain"
+        },
+        "profile_slogan": "pasion infinita",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "CCF RADIO (Cordoba CF Radio)is a broadcast radio station from Cordoba, Spain providing Football Sports News, Information, Live shows, Talk shows and Music.",
+            "rest": "CCF RADIO (Cordoba CF Radio)is a broadcast radio station from Cordoba, Spain providing Football Sports News, Information, Live shows, Talk shows and Music."
+        },
+        "radio_contacts": {
+            "short": "CCF RADIO (Cordoba CF Radio)is a broadcast radio station from Cordoba, Spain providing Football Sports News, Information, Live shows, Talk shows and Music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.cordobacf.com/-/ccf-radio",
+            "facebook": "http://www.facebook.com/CordobaCFSAD?fref=ts",
+            "twitter": "http://twitter.com/cordobacfsad",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}]

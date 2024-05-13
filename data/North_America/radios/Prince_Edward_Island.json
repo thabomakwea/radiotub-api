@@ -1,0 +1,705 @@
+[{
+    "title": "Charlottetown",
+    "link": "https://streema.com/radios/Charlottetown_PE",
+    "msg_results": "10 Radio Stations from Charlottetown",
+    "page_copy": "Listen to radio stations from Charlottetown PE, from a wide variety of genres like Classic Rock, RnB, Rock, Scanner and Talk.  Enjoy stations such as Ocean 100 FM - CHTN-FM, Hot 105.5 - CKQK-FM, Harvesters FM - CIOG-FM, CBC Radio One Charlottetown - CBCT-FM, CFCY - CFCY-FM and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Ocean 100 FM - CHTN-FM",
+        "no_play": false,
+        "frequency": "FM 100.3",
+        "link_deatils": "/radios/ocean_100.3_CHTN_FM",
+        "link_player": "/radios/play/ocean_100.3_CHTN_FM",
+        "image": "https://static-media.streema.com/media/cache/b6/7e/b67e132ad979ef90507abd5525c8ecc4.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Canada",
+            "link": "/country/Canada"
+        }, {
+            "title": "Prince Edward Island",
+            "link": "/country/Canada/state/Prince_Edward_Island"
+        }, {
+            "title": "Charlottetown",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "120 Listens",
+            "stars": 5
+        },
+        "genres": ["Classic Rock", "Hits", "Music", "Pop", "RnB"],
+        "location": {
+            "city": "Charlottetown, PE",
+            "country": "Canada"
+        },
+        "profile_slogan": "",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "Ocean 100 - CHTN-FM is a broadcast radio station in Charlottetown, Prince Edward Island, Canada, providing Rock, Pop and R&B Hits music. ------ Shows: Corey",
+            "rest": " Tremere, Gerard Murphy, Jon Matthews, Kirk MacKinnon, Ron Gillespie\n\n-----\nHosts: Corey Tremere, Kirk Mackinnon"
+        },
+        "radio_contacts": {
+            "short": "Ocean 100 - CHTN-FM is a broadcast radio station in Charlottetown, Prince Edward Island, Canada, providing Rock, Pop and R&B Hits music. ------ Shows: Corey",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.ocean1003.com/",
+            "facebook": "http://www.facebook.com/ocean100",
+            "twitter": "http://twitter.com/ocean100",
+            "phone": "902-569-1003",
+            "address": "90 University Ave / Suite 320, Atlantic Technology Centre, Charlottetown, Prince Edward Island C1A 4K9 Canada",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/ocean_100.3_CHTN_FM",
+            "title": "Play Ocean 100 FM - CHTN-FM"
+        },
+        "radio_shows": ["Corey Tremere", "Kirk MacKinnon"],
+        "radio_source": "http://newcap.leanstream.co/CHTNFM-MP3?args=3rdparty_01",
+        "radio_image": "https://static-media.streema.com/media/cache/3f/aa/3faa4d93860d136f4a27cbda50607cb0.jpg"
+    }, {
+        "title": "Hot 105.5 - CKQK-FM",
+        "no_play": false,
+        "frequency": "FM 105.5",
+        "link_deatils": "/radios/K_Rock_105.5_CKQK",
+        "link_player": "/radios/play/K_Rock_105.5_CKQK",
+        "image": "https://static-media.streema.com/media/cache/ba/2a/ba2a8d58a73c7b75451af8c660d3bb7f.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Canada",
+            "link": "/country/Canada"
+        }, {
+            "title": "Prince Edward Island",
+            "link": "/country/Canada/state/Prince_Edward_Island"
+        }, {
+            "title": "Charlottetown",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 2
+        },
+        "genres": ["Adult Contemporary", "Pop", "RnB", "Rock", "Top 40"],
+        "location": {
+            "city": "Charlottetown, PE",
+            "country": "Canada"
+        },
+        "profile_slogan": "P.E.I.'s #1 Hit Music Station",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "Hot 105.5 - CKQK-FM is a broadcast Radio station from Charlottetown, Prince Edward Island, Canada, providing Top 40, Pop and Hits Music.",
+            "rest": "Hot 105.5 - CKQK-FM is a broadcast Radio station from Charlottetown, Prince Edward Island, Canada, providing Top 40, Pop and Hits Music."
+        },
+        "radio_contacts": {
+            "short": "Hot 105.5 - CKQK-FM is a broadcast Radio station from Charlottetown, Prince Edward Island, Canada, providing Top 40, Pop and Hits Music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.hot1055fm.com/",
+            "facebook": "http://www.facebook.com/Hot1055",
+            "twitter": "http://twitter.com/thehot1055",
+            "phone": "902.569.1003",
+            "address": "90 University Avenue, Suite 320 Charlottetown, PE C1A 4K9",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/K_Rock_105.5_CKQK",
+            "title": "Play Hot 105.5 - CKQK-FM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://newcap.leanstream.co/CKQKFM-MP3?args=3rdparty_01",
+        "radio_image": "https://static-media.streema.com/media/cache/f8/7a/f87ac171f2dcc8cced44a4202e2f42a2.jpg"
+    }, {
+        "title": "Harvesters FM - CIOG-FM",
+        "no_play": false,
+        "frequency": "FM 91.3",
+        "link_deatils": "/radios/CIOG_FM",
+        "link_player": "/radios/play/CIOG_FM",
+        "image": "https://static-media.streema.com/media/cache/e7/54/e754dc188e8c58955ac2aafba235cbff.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Canada",
+            "link": "/country/Canada"
+        }, {
+            "title": "Prince Edward Island",
+            "link": "/country/Canada/state/Prince_Edward_Island"
+        }, {
+            "title": "Charlottetown",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 5
+        },
+        "genres": ["Christian", "Christian Rock", "Education", "Talk"],
+        "location": {
+            "city": "Charlottetown, PE",
+            "country": "Canada"
+        },
+        "profile_slogan": "The Island's Christian radio",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "CIOG - CIOG-FM is a broadcast radio station in Charlottetown, Prince Edward Island, Canada, providing Christian Education, Talk and Entertainment.",
+            "rest": "CIOG - CIOG-FM is a broadcast radio station in Charlottetown, Prince Edward Island, Canada, providing Christian Education, Talk and Entertainment."
+        },
+        "radio_contacts": {
+            "short": "CIOG - CIOG-FM is a broadcast radio station in Charlottetown, Prince Edward Island, Canada, providing Christian Education, Talk and Entertainment.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.harvesters.fm/",
+            "facebook": "http://www.facebook.com/pages/Harvesters-Radio-CJLU-CITA-and-CIOG/318492205878",
+            "twitter": "",
+            "phone": "902) 370-2464",
+            "address": "241 Unversity Ave, Charlottetown, PE C1A 4L8 Canada",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/CIOG_FM",
+            "title": "Play Harvesters FM - CIOG-FM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://142.166.26.190:8100/;;",
+        "radio_image": "https://static-media.streema.com/media/cache/8b/d1/8bd10e4f318ceda0432270e1f7460d98.jpg"
+    }, {
+        "title": "CBC Radio One Charlottetown - CBCT-FM",
+        "no_play": false,
+        "frequency": "FM 96.1",
+        "link_deatils": "/radios/CBC_Radio_One_Charlottetown_CBCT_FM",
+        "link_player": "/radios/play/CBC_Radio_One_Charlottetown_CBCT_FM",
+        "image": "https://static-media.streema.com/media/cache/ed/55/ed550002778c3969d73dbadfc098c84d.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Canada",
+            "link": "/country/Canada"
+        }, {
+            "title": "Prince Edward Island",
+            "link": "/country/Canada/state/Prince_Edward_Island"
+        }, {
+            "title": "Charlottetown",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Entertainment", "News", "Public", "Talk"],
+        "location": {
+            "city": "Charlottetown, PE",
+            "country": "Canada"
+        },
+        "profile_slogan": "",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "CBC Radio One Charlottetown - CBCT is a broadcast radio station on the CBC Radio One network from Charlottetown, PE, Canada providing News, Talk, Culture,",
+            "rest": "Sports and Information.\n\n------\nShows: A Propos, Afghanada, Age of Persuasion, And the Winner Is…, Arts & culture, Arts on the Air, As It Happens, Books and Writing, CBC News, CBC Radio Overnight, C'est La Vie, Channel Africa, Cross Country Checkup, Daybreak, Definitely Not the Opera, Dispatches, Flatlanders, From Our Own Correspondent (R4 Edition), Future Tense (ABC), Global Business, Go! (Cbc), Health Report, Ideas, In the Key of Charles, Inside the Music, Inside Track, Laugh Out Loud, Newsline, Next Chapter (CBC), Nighttime Review, One Planet, Out Front, Q, Quirks and Quarks, Radio Australia News, Radio Polonia, Radio Prague, Radio Sweden, Randy Bachman's Vinyl Tap, Religion Report, Research File, Saturday Night Blues, Spark, Sunday Edition, Tapestry, The Choice, The Current, The Debaters, The House, The Law Report, The Monday Documentary, The Point (CBC), The Strand, The World at Six, The World This Weekend, Tonic, Vinyl Cafe, Weekend Connection, WireTap, World Report, World This Hour, Writers and Company, Festival of Funny\n\n-----\nHosts: Jian Ghomeshi, Elizabeth Logan, Antony Funnell, Norman Swan, Jim Smalley, Stephen Crittenden, Damien Carrick, Jason Dunn, Aamer Haleem"
+        },
+        "radio_contacts": {
+            "short": "CBC Radio One Charlottetown - CBCT is a broadcast radio station on the CBC Radio One network from Charlottetown, PE, Canada providing News, Talk, Culture,",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.cbc.ca/news/canada/prince-edward-island",
+            "facebook": "http://www.facebook.com/radiocbc",
+            "twitter": "http://twitter.com/cbcradio",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/CBC_Radio_One_Charlottetown_CBCT_FM",
+            "title": "Play CBC Radio One Charlottetown - CBCT-FM"
+        },
+        "radio_shows": ["Age of Persuasion", "Arts & culture", "As It Happens", "Books and Writing", "CBC News", "See all shows...", "Channel Africa\n                    \n                      Daybreak\n                    \n                      Definitely Not the Opera\n                    \n                      Dispatches\n                    \n                      Flatlanders\n                    \n                      Future Tense (ABC)\n                    \n                      Global Business\n                    \n                      Go! (Cbc)\n                    \n                      Health Report\n                    \n                      Ideas\n                    \n                      Inside the Music\n                    \n                      Inside Track\n                    \n                      Laugh Out Loud\n                    \n                      Newsline\n                    \n                      One Planet\n                    \n                      Q\n                    \n                      Quirks and Quarks\n                    \n                      Radio Australia News\n                    \n                      Radio Polonia\n                    \n                      Radio Prague\n                    \n                      Radio Sweden\n                    \n                      Randy Bachman's Vinyl Tap\n                    \n                      Religion Report\n                    \n                      Research File\n                    \n                      Saturday Night Blues\n                    \n                      Spark\n                    \n                      Sunday Edition\n                    \n                      Tapestry\n                    \n                      The Choice\n                    \n                      The Current\n                    \n                      The Debaters\n                    \n                      The House\n                    \n                      The Law Report\n                    \n                      The Monday Documentary\n                    \n                      The Point (CBC)\n                    \n                      The Strand\n                    \n                      The World at Six\n                    \n                      The World This Weekend\n                    \n                      Tonic\n                    \n                      Vinyl Cafe\n                    \n                      Weekend Connection\n                    \n                      WireTap\n                    \n                      World Report\n                    \n                      World This Hour\n                    \n                      Writers and Company", "Channel Africa", "Daybreak", "Definitely Not the Opera", "Dispatches", "Flatlanders", "Future Tense (ABC)", "Global Business", "Go! (Cbc)", "Health Report", "Ideas", "Inside the Music", "Inside Track", "Laugh Out Loud", "Newsline", "One Planet", "Q", "Quirks and Quarks", "Radio Australia News", "Radio Polonia", "Radio Prague", "Radio Sweden", "Randy Bachman's Vinyl Tap", "Religion Report", "Research File", "Saturday Night Blues", "Spark", "Sunday Edition", "Tapestry", "The Choice", "The Current", "The Debaters", "The House", "The Law Report", "The Monday Documentary", "The Point (CBC)", "The Strand", "The World at Six", "The World This Weekend", "Tonic", "Vinyl Cafe", "Weekend Connection", "WireTap", "World Report", "World This Hour", "Writers and Company"],
+        "radio_source": "http://liveradio.cbc.ca/i/CBCR1_CHR@360550/index_96_a-p.m3u8",
+        "radio_image": "https://static-media.streema.com/media/cache/30/45/30457f51ff05c30ce420eac4a42be0a9.jpg"
+    }, {
+        "title": "CFCY - CFCY-FM",
+        "no_play": false,
+        "frequency": "FM 95.1",
+        "link_deatils": "/radios/CFCY_FM",
+        "link_player": "/radios/play/CFCY_FM",
+        "image": "https://static-media.streema.com/media/cache/06/c0/06c06a2cced596c44d0e3909ccb4348d.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Canada",
+            "link": "/country/Canada"
+        }, {
+            "title": "Prince Edward Island",
+            "link": "/country/Canada/state/Prince_Edward_Island"
+        }, {
+            "title": "Charlottetown",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 5
+        },
+        "genres": ["Blues", "Country"],
+        "location": {
+            "city": "Charlottetown, PE",
+            "country": "Canada"
+        },
+        "profile_slogan": "The Island's Country",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "951 FM CFCY - CFCY-FM is a broadcast radio station in Charlottetown, Prince Edward Island, Canada, providing the best in today's country, and keeping you",
+            "rest": "up to date with the latest events on the island."
+        },
+        "radio_contacts": {
+            "short": "951 FM CFCY - CFCY-FM is a broadcast radio station in Charlottetown, Prince Edward Island, Canada, providing the best in today's country, and keeping you",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://cfcy.fm/",
+            "facebook": "http://www.facebook.com/951fmcfcy",
+            "twitter": "",
+            "phone": "(902) 892-1066",
+            "address": "5 Prince Street, Charlottetown, PE C1A 4P4 Canada",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/CFCY_FM",
+            "title": "Play CFCY - CFCY-FM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://mbsradio.leanstream.co/CFCYFM-MP3",
+        "radio_image": "https://static-media.streema.com/media/cache/b3/71/b3713012396e55aabc3c59c267d3c213.jpg"
+    }, {
+        "title": "Q93 - CHLQ",
+        "no_play": false,
+        "frequency": "FM 93.1",
+        "link_deatils": "/radios/Magic_93_CHLQ",
+        "link_player": "/radios/play/Magic_93_CHLQ",
+        "image": "https://static-media.streema.com/media/cache/1c/06/1c06f6287f0cdf970c9f2c0a6d8fd904.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Canada",
+            "link": "/country/Canada"
+        }, {
+            "title": "Prince Edward Island",
+            "link": "/country/Canada/state/Prince_Edward_Island"
+        }, {
+            "title": "Charlottetown",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Classic Rock", "Hard Rock", "Metal", "Rock"],
+        "location": {
+            "city": "Charlottetown, PE",
+            "country": "Canada"
+        },
+        "profile_slogan": "The Island's Rock",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "Q93 - CHLQ is a broadcast radio station from Charlottetown, PE, Canada providing classic rock, new rock and local rock music and live shows. ------",
+            "rest": "\nShows: The MuchMoreMusic Countdown"
+        },
+        "radio_contacts": {
+            "short": "Q93 - CHLQ is a broadcast radio station from Charlottetown, PE, Canada providing classic rock, new rock and local rock music and live shows. ------",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.q93.fm/",
+            "facebook": "http://www.facebook.com/Q93ROCKS",
+            "twitter": "http://twitter.com/Q93ROCKS",
+            "phone": "(902) 892-1066",
+            "address": "5 Prince Street",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Magic_93_CHLQ",
+            "title": "Play Q93 - CHLQ"
+        },
+        "radio_shows": ["The MuchMoreMusic Countdown"],
+        "radio_source": "http://mbsradio.leanstream.co/CHLQFM-MP3",
+        "radio_image": "https://static-media.streema.com/media/cache/73/97/7397d858b37712b06cbdf23bf8f4a081.jpg"
+    }, {
+        "title": "ScanPEI",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/ScanPEI",
+        "link_player": "/radios/play/ScanPEI",
+        "image": "https://static-media.streema.com/media/cache/da/75/da7504062d0237e714bb163442fd535e.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Canada",
+            "link": "/country/Canada"
+        }, {
+            "title": "Prince Edward Island",
+            "link": "/country/Canada/state/Prince_Edward_Island"
+        }, {
+            "title": "Charlottetown",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Scanner"],
+        "location": {
+            "city": "Charlottetown, PE",
+            "country": "Canada"
+        },
+        "profile_slogan": "Prince Edward Island's Radio Scanning Resource",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "ScanPEI is Prince Edward Island's largest radio communications data provider, featuring a frequency database which includes conventional and trunked radio system information. We specialize in",
+            "rest": "public safety live audio communications broadcasting Police, Fire, and EMS across Prince Edward Island."
+        },
+        "radio_contacts": {
+            "short": "ScanPEI is Prince Edward Island's largest radio communications data provider, featuring a frequency database which includes conventional and trunked radio system information. We specialize in",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://scanpei.webs.com/",
+            "facebook": "http://www.facebook.com/scanpei",
+            "twitter": "http://twitter.com/ScanPEI",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""],
+        "radio_source": "",
+        "radio_image": "https://static-media.streema.com/media/cache/94/74/947470de6d408731fa3161b282742d80.jpg"
+    }, {
+        "title": "Ici Radio-Canada Première - CBAF-FM-15",
+        "no_play": false,
+        "frequency": "FM 88.1",
+        "link_deatils": "/radios/Premiere_Chaine_Charlottetown_CBAF_FM",
+        "link_player": "/radios/play/Premiere_Chaine_Charlottetown_CBAF_FM",
+        "image": "https://static-media.streema.com/media/cache/9f/aa/9faa0c48b0782d7a638cc0e1a2bd48ba.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Canada",
+            "link": "/country/Canada"
+        }, {
+            "title": "Prince Edward Island",
+            "link": "/country/Canada/state/Prince_Edward_Island"
+        }, {
+            "title": "Charlottetown",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Community", "News", "Talk"],
+        "location": {
+            "city": "Charlottetown, PE",
+            "country": "Canada"
+        },
+        "profile_slogan": "",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "Première Chaîne Charlottetown - CBAF-FM-15 is a broadcast station from Charlottetown, Prince Edward Island, Canada, playing Community, News, Talk.",
+            "rest": "Première Chaîne Charlottetown - CBAF-FM-15 is a broadcast station from Charlottetown, Prince Edward Island, Canada, playing Community, News, Talk."
+        },
+        "radio_contacts": {
+            "short": "Première Chaîne Charlottetown - CBAF-FM-15 is a broadcast station from Charlottetown, Prince Edward Island, Canada, playing Community, News, Talk.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://ici.radio-canada.ca/premiere",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Premiere_Chaine_Charlottetown_CBAF_FM",
+            "title": "Play Ici Radio-Canada Première - CBAF-FM-15"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2EMCT3_CHR",
+        "radio_image": "https://static-media.streema.com/media/cache/85/f6/85f60c1e7efb975b712d91fa49789819.jpg"
+    }, {
+        "title": "Weatheradio Canada - XLM647",
+        "no_play": true,
+        "frequency": "VHF 162.4",
+        "link_deatils": "/radios/Weatheradio_Canada_XLM647",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/11/bb/11bb545973ca5d44689b1b3aeabcce2b.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Canada",
+            "link": "/country/Canada"
+        }, {
+            "title": "Prince Edward Island",
+            "link": "/country/Canada/state/Prince_Edward_Island"
+        }, {
+            "title": "Charlottetown",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Emergency & Public Safety", "Scanner", "Weather"],
+        "location": {
+            "city": "Charlottetown, PE",
+            "country": "Canada"
+        },
+        "profile_slogan": "",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "Weatheradio Canada - XLM647 is the transmitter that broadcasts local weather and disaster information for the Charlottetown, Prince Edward Island, Canada, area.",
+            "rest": "Weatheradio Canada - XLM647 is the transmitter that broadcasts local weather and disaster information for the Charlottetown, Prince Edward Island, Canada, area."
+        },
+        "radio_contacts": {
+            "short": "Weatheradio Canada - XLM647 is the transmitter that broadcasts local weather and disaster information for the Charlottetown, Prince Edward Island, Canada, area.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.weatheroffice.gc.ca/city/pages/pe-5_metric_e.html",
+            "facebook": "http://www.facebook.com/environmentcan",
+            "twitter": "http://twitter.com/environmentca",
+            "phone": "800-603-9059",
+            "address": "77 Westmorland Street, Suite 260, Fredericton, New Brunswick",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Prince Edward Island EMS",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Prince_Edward_Island_EMS",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/da/75/da7504062d0237e714bb163442fd535e.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Canada",
+            "link": "/country/Canada"
+        }, {
+            "title": "Prince Edward Island",
+            "link": "/country/Canada/state/Prince_Edward_Island"
+        }, {
+            "title": "Charlottetown",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [""],
+        "location": {
+            "city": "Charlottetown, PE",
+            "country": "Canada"
+        },
+        "profile_slogan": "Prince Edward Island's Radio Scanning Resource",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "ScanPEI is Prince Edward Island's largest radio communications data provider, featuring a frequency database which includes conventional and trunked radio system information. We specialize in",
+            "rest": "public safety live audio communications broadcasting Police, Fire, and EMS across Prince Edward Island."
+        },
+        "radio_contacts": {
+            "short": "ScanPEI is Prince Edward Island's largest radio communications data provider, featuring a frequency database which includes conventional and trunked radio system information. We specialize in",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://scanpei.webs.com/",
+            "facebook": "http://www.facebook.com/scanpei",
+            "twitter": "http://twitter.com/scanpei",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}, {
+    "title": "O'Leary",
+    "link": "https://streema.com/radios/OLeary_PE",
+    "msg_results": "3 Radio Stations from O'Leary",
+    "page_copy": "Listen to radio stations from O'Leary PE, from a wide variety of genres like Emergency & Public Safety, Information, Scanner and Weather.  Enjoy stations such as Weatheradio Canada - XLK645, Prince County RCMP, Tignish and Alberton Fire Departments, Prince County RCMP, Tignish and Alberton Fire Departments and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Weatheradio Canada - XLK645",
+        "no_play": true,
+        "frequency": "VHF 162.475",
+        "link_deatils": "/radios/Weatheradio_Canada_XLK645",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/11/bb/11bb545973ca5d44689b1b3aeabcce2b.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Canada",
+            "link": "/country/Canada"
+        }, {
+            "title": "Prince Edward Island",
+            "link": "/country/Canada/state/Prince_Edward_Island"
+        }, {
+            "title": "O'Leary",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Emergency & Public Safety", "Scanner", "Weather"],
+        "location": {
+            "city": "O'Leary, PE",
+            "country": "Canada"
+        },
+        "profile_slogan": "",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "Weatheradio Canada - XLK645 is the transmitter that broadcasts local weather and disaster information for the O'Leary area of Prince Edward Island, Canada.",
+            "rest": "Weatheradio Canada - XLK645 is the transmitter that broadcasts local weather and disaster information for the O'Leary area of Prince Edward Island, Canada."
+        },
+        "radio_contacts": {
+            "short": "Weatheradio Canada - XLK645 is the transmitter that broadcasts local weather and disaster information for the O'Leary area of Prince Edward Island, Canada.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://weather.gc.ca/city/pages/pe-5_metric_e.html",
+            "facebook": "http://www.facebook.com/environmentcan",
+            "twitter": "http://twitter.com/environmentca",
+            "phone": "902-426-7231",
+            "address": "45 Alderney Drive Dartmouth, Nova Scotia B2Y 2N6",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Prince County RCMP, Tignish and Alberton Fire Departments",
+        "no_play": true,
+        "frequency": "VHF",
+        "link_deatils": "/radios/Prince_County_RCMP_Tignish_and_Alberton_Fire_Depar",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/ca/8a/ca8ab54cebd95a17b3a13ff31aacb5d4.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Canada",
+            "link": "/country/Canada"
+        }, {
+            "title": "Prince Edward Island",
+            "link": "/country/Canada/state/Prince_Edward_Island"
+        }, {
+            "title": "O'Leary",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Scanner"],
+        "location": {
+            "city": "O'Leary, PE",
+            "country": "Canada"
+        },
+        "profile_slogan": "Keeping Islanders Safe!",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "ScanPEI is Prince Edward Island's largest radio communications data provider, featuring a frequency database which includes conventional and trunked radio system information. It specialises in",
+            "rest": "public safety live audio communications broadcasting Police, Fire, and EMS across Prince Edward Island,including Prince County RCMP."
+        },
+        "radio_contacts": {
+            "short": "ScanPEI is Prince Edward Island's largest radio communications data provider, featuring a frequency database which includes conventional and trunked radio system information. It specialises in",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://scanpei.webs.com/listen",
+            "facebook": "http://www.facebook.com/scanpei",
+            "twitter": "http://twitter.com/scanpei",
+            "phone": "1-800-222-8477",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Prince County RCMP, Tignish and Alberton Fire Departments",
+        "no_play": true,
+        "frequency": "VHF",
+        "link_deatils": "/radios/Prince_County_RCMP_Tignish_and_Alberton_Fire_Dep",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/5a/c1/5ac1d0031ac6baf00f0b4eb62d815aea.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Canada",
+            "link": "/country/Canada"
+        }, {
+            "title": "Prince Edward Island",
+            "link": "/country/Canada/state/Prince_Edward_Island"
+        }, {
+            "title": "O'Leary",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Emergency & Public Safety", "Information", "Scanner"],
+        "location": {
+            "city": "O'Leary, PE",
+            "country": "Canada"
+        },
+        "profile_slogan": "",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "The Prince County RCMP, Tignish and Alberton Fire Departments scanner stream provides audio from the radio communications between the emergency dispatch center and emergency services",
+            "rest": "providers in O'Leary, PE, Canada."
+        },
+        "radio_contacts": {
+            "short": "The Prince County RCMP, Tignish and Alberton Fire Departments scanner stream provides audio from the radio communications between the emergency dispatch center and emergency services",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.broadcastify.com/listen/feed/1080/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}]

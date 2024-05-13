@@ -1,0 +1,497 @@
+[{
+    "title": "Logroño",
+    "link": "https://streema.com/radios/Logrono",
+    "msg_results": "5 Radio Stations from Logroño",
+    "page_copy": "Listen to radio stations from Logroño, from a wide variety of genres like Information, Pop, Rock, Sports and Top 40.  Enjoy stations such as Onda Ocio, LOS40, Cadena COPE Logroño, MegaStar FM, Europa FM and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Onda Ocio",
+        "no_play": false,
+        "frequency": "FM 107.3",
+        "link_deatils": "/radios/Onda_Ocio",
+        "link_player": "/radios/play/Onda_Ocio",
+        "image": "https://static-media.streema.com/media/cache/1b/08/1b0828017a13908cf78c4a9c1f52b48f.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "La Rioja",
+            "link": "/radios/country/Spain/state/La_Rioja_2"
+        }, {
+            "title": "Logroño",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Classics", "Dance", "Oldies", "Pop"],
+        "location": {
+            "city": "Logroño",
+            "country": "Spain"
+        },
+        "profile_slogan": "Música Siempre",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "El 14 de Agosto del 2017, Onda Ocio nació para transformar una nueva variedad musical en la que se ha perdido y en la que",
+            "rest": "queremos recordar, con los mejores géneros Pop, Rock y Dance de la década de los 50 hasta nuestros días, sin perder la actualidad de hoy en día evitando géneros que hoy en día están de moda."
+        },
+        "radio_contacts": {
+            "short": "El 14 de Agosto del 2017, Onda Ocio nació para transformar una nueva variedad musical en la que se ha perdido y en la que",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://ondaocio.es/",
+            "facebook": "http://www.facebook.com/ondaocio",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Onda_Ocio",
+            "title": "Play Onda Ocio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://radioserver10.profesionalhosting.com:23333/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/78/a7/78a7b07ccb9e679993da4f04004e4a3e.jpg"
+    }, {
+        "title": "LOS40",
+        "no_play": false,
+        "frequency": "FM 91.7",
+        "link_deatils": "/radios/Los_40.com",
+        "link_player": "/radios/play/Los_40.com",
+        "image": "https://static-media.streema.com/media/cache/03/d4/03d498b761545f3da0a6bdd4b0b94e4a.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "La Rioja",
+            "link": "/radios/country/Spain/state/La_Rioja_2"
+        }, {
+            "title": "Logroño",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Pop", "RnB", "Rock", "Top 40"],
+        "location": {
+            "city": "Logroño",
+            "country": "Spain"
+        },
+        "profile_slogan": "Todos los Exitos",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Los 40 Principales is a broadcast radio station in Logroño, Spain, providing Adult Contemporary Top 40 World Pop music.",
+            "rest": "Los 40 Principales is a broadcast radio station in Logroño, Spain, providing Adult Contemporary Top 40 World Pop music."
+        },
+        "radio_contacts": {
+            "short": "Los 40 Principales is a broadcast radio station in Logroño, Spain, providing Adult Contemporary Top 40 World Pop music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://los40.com/",
+            "facebook": "http://www.facebook.com/los40principales.es",
+            "twitter": "http://twitter.com/Los40_Spain",
+            "phone": "+34 91 347 0700",
+            "address": "Gran Via 32 - 8th  Madrid, Spain  ES-28013",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Los_40.com",
+            "title": "Play LOS40"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/1a/99/1a998af3b752b07ade04880f8114dec6.jpg"
+    }, {
+        "title": "Cadena COPE Logroño",
+        "no_play": false,
+        "frequency": "FM 91.1",
+        "link_deatils": "/radios/Cadena_COPE_9",
+        "link_player": "/radios/play/Cadena_COPE_9",
+        "image": "https://static-media.streema.com/media/cache/1b/e5/1be5e75c1f86c88f4233f2f40d3886c7.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "La Rioja",
+            "link": "/radios/country/Spain/state/La_Rioja_2"
+        }, {
+            "title": "Logroño",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Live Shows", "Sports"],
+        "location": {
+            "city": "Logroño",
+            "country": "Spain"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Cadena COPE is a broadcast radio station from Logroño, Spain providing News, Sports, Talk and Live shows.",
+            "rest": "Cadena COPE is a broadcast radio station from Logroño, Spain providing News, Sports, Talk and Live shows."
+        },
+        "radio_contacts": {
+            "short": "Cadena COPE is a broadcast radio station from Logroño, Spain providing News, Sports, Talk and Live shows.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.cope.es/Menu/Local/Logrono/Logrono",
+            "facebook": "http://www.facebook.com/cope",
+            "twitter": "http://twitter.com/cope_es",
+            "phone": "91.595.12.00",
+            "address": "Madre de Dios, 17, 26004 Logroño, Logroño, Spain",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Cadena_COPE_9",
+            "title": "Play Cadena COPE Logroño"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://wecast-m02-05.flumotion.com/copesedes/logrono.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/dd/3a/dd3a63b4ab1834e2c4b7670ae9205f6d.jpg"
+    }, {
+        "title": "MegaStar FM",
+        "no_play": false,
+        "frequency": "FM 98.2",
+        "link_deatils": "/radios/ABC_Punto_Radio_Logrono_98.2",
+        "link_player": "/radios/play/ABC_Punto_Radio_Logrono_98.2",
+        "image": "https://static-media.streema.com/media/cache/21/c2/21c2ab01aa9547e8e5eb1f4156ba3c72.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "La Rioja",
+            "link": "/radios/country/Spain/state/La_Rioja_2"
+        }, {
+            "title": "Logroño",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Information", "News", "Sports", "Talk"],
+        "location": {
+            "city": "Logroño",
+            "country": "Spain"
+        },
+        "profile_slogan": "SOLO TEMAZOS",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "MegaStar FM 98.2 is a broadcast Radio station from Logroño, Spain, provides Sports, Talk, News and Information Programs.",
+            "rest": "MegaStar FM 98.2 is a broadcast Radio station from Logroño, Spain, provides Sports, Talk, News and Information Programs."
+        },
+        "radio_contacts": {
+            "short": "MegaStar FM 98.2 is a broadcast Radio station from Logroño, Spain, provides Sports, Talk, News and Information Programs.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.megastar.fm/",
+            "facebook": "http://www.facebook.com/MegaStarFM",
+            "twitter": "http://twitter.com/@megastar",
+            "phone": "+34 900 100 016",
+            "address": "Alfonso XI 4 28014 Madrid, Spain",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/ABC_Punto_Radio_Logrono_98.2",
+            "title": "Play MegaStar FM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://megastar-cope-rrcast.flumotion.com/cope/megastar-low.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/ad/72/ad725ba0efd9c4b97ef0ff7c0db7652a.jpg"
+    }, {
+        "title": "Europa FM",
+        "no_play": false,
+        "frequency": "FM 92.9",
+        "link_deatils": "/radios/Europa_FM_Logrono_92.9_FM",
+        "link_player": "/radios/play/Europa_FM_Logrono_92.9_FM",
+        "image": "https://static-media.streema.com/media/cache/ac/f5/acf53585a23d1317af1388c067a30eab.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "La Rioja",
+            "link": "/radios/country/Spain/state/La_Rioja_2"
+        }, {
+            "title": "Logroño",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["90s", "Europe", "Hits", "Rock"],
+        "location": {
+            "city": "Logroño",
+            "country": "Spain"
+        },
+        "profile_slogan": "The best pop-rock 90's to today and most innovative programs",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Europa FM (Logroño) 92.9 is a broadcast based radio station from Logroño that plays 90's, Rock, Euro Hits, Chill genre of music.",
+            "rest": "Europa FM (Logroño) 92.9 is a broadcast based radio station from Logroño that plays 90's, Rock, Euro Hits, Chill genre of music."
+        },
+        "radio_contacts": {
+            "short": "Europa FM (Logroño) 92.9 is a broadcast based radio station from Logroño that plays 90's, Rock, Euro Hits, Chill genre of music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.europafm.com/",
+            "facebook": "http://www.facebook.com/tueuropafm",
+            "twitter": "http://twitter.com/europa_fm",
+            "phone": "00 34 902 10 32 62",
+            "address": "Las Ramblas 88-94, 4ª planta 08002 Barcelona, Spain",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Europa_FM_Logrono_92.9_FM",
+            "title": "Play Europa FM"
+        },
+        "radio_shows": [""],
+        "radio_source": "",
+        "radio_image": "https://static-media.streema.com/media/cache/8f/f5/8ff583940a408a8f86ff78eff8c93830.jpg"
+    }]
+}, {
+    "title": "Logroño",
+    "link": "https://streema.com/radios/Logrono_2",
+    "msg_results": "4 Radio Stations from Logroño",
+    "page_copy": "Listen to radio stations from Logroño, from a wide variety of genres like Entertainment, News, Sports, Talk and Top 40.  Enjoy stations such as Cadena SER - Radio Rioja, Canal Ebro, Onda Cero La Rioja, Cadena SER - Radio Rioja and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Cadena SER - Radio Rioja",
+        "no_play": true,
+        "frequency": "FM 99.8",
+        "link_deatils": "/radios/Radio_Rioja_2",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/ca/53/ca53ea5f866550ec5fadbf48dd830803.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "La Rioja",
+            "link": "/radios/country/Spain/state/La_Rioja_2"
+        }, {
+            "title": "Logroño",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "1 Listens",
+            "stars": 0
+        },
+        "genres": ["Entertainment", "News", "Sports", "Talk"],
+        "location": {
+            "city": "Logroño",
+            "country": "Spain"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Radio Rioja is a broadcast radio station on the Cadena SER Radio Network from Logroño, Spain providing Sports, News, Information, Entertainment and Music.",
+            "rest": "Radio Rioja is a broadcast radio station on the Cadena SER Radio Network from Logroño, Spain providing Sports, News, Information, Entertainment and Music."
+        },
+        "radio_contacts": {
+            "short": "Radio Rioja is a broadcast radio station on the Cadena SER Radio Network from Logroño, Spain providing Sports, News, Information, Entertainment and Music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiorioja.es/",
+            "facebook": "http://www.facebook.com/pages/Radio-Rioja/208881705795678",
+            "twitter": "http://twitter.com/RadioRioja",
+            "phone": "941 22 26 12",
+            "address": "Avenida de Portugal 12, 1º",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Canal Ebro",
+        "no_play": false,
+        "frequency": "FM 100.9",
+        "link_deatils": "/radios/Canal_Ebro",
+        "link_player": "/radios/play/Canal_Ebro",
+        "image": "https://static-media.streema.com/media/cache/9d/c7/9dc709783823fd75ad77cb7c96aef433.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "La Rioja",
+            "link": "/radios/country/Spain/state/La_Rioja_2"
+        }, {
+            "title": "Logroño",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Hip Hop", "Pop", "Top 40"],
+        "location": {
+            "city": "Logroño",
+            "country": "Spain"
+        },
+        "profile_slogan": "The radio makes you happy",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Canal Ebro aim to make you happy, they accompany you in Logroño from the 100.9 and 100.8 Arnedo from the FM.",
+            "rest": "Canal Ebro aim to make you happy, they accompany you in Logroño from the 100.9 and 100.8 Arnedo from the FM."
+        },
+        "radio_contacts": {
+            "short": "Canal Ebro aim to make you happy, they accompany you in Logroño from the 100.9 and 100.8 Arnedo from the FM.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.canalebro.com/",
+            "facebook": "http://www.facebook.com/canalebro",
+            "twitter": "",
+            "phone": "00 34 941 31 07 33",
+            "address": "Breton de los Herreros, 48-1º Logroño 26201",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Canal_Ebro",
+            "title": "Play Canal Ebro"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streaming.capsulaimposible.com:8000/stream/2/canalebro.mp3/;",
+        "radio_image": "https://static-media.streema.com/media/cache/7d/4c/7d4cb8ce4446b486a10ce20cf93d4584.jpg"
+    }, {
+        "title": "Onda Cero La Rioja",
+        "no_play": false,
+        "frequency": "FM 89.1",
+        "link_deatils": "/radios/Onda_Cero_La_Rioja",
+        "link_player": "/radios/play/Onda_Cero_La_Rioja",
+        "image": "https://static-media.streema.com/media/cache/15/9a/159a62e6eb4e1719b101edb45241cef7.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "La Rioja",
+            "link": "/radios/country/Spain/state/La_Rioja_2"
+        }, {
+            "title": "Logroño",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Entertainment", "Information", "Local", "News", "Talk"],
+        "location": {
+            "city": "Logroño",
+            "country": "Spain"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Onda Cero La Rioja es una emisora de radio FM de Logroño, La Rioja, Spain, transmitiendo Entertainment, Information, Local.",
+            "rest": "Onda Cero La Rioja es una emisora de radio FM de Logroño, La Rioja, Spain, transmitiendo Entertainment, Information, Local."
+        },
+        "radio_contacts": {
+            "short": "Onda Cero La Rioja es una emisora de radio FM de Logroño, La Rioja, Spain, transmitiendo Entertainment, Information, Local.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.ondacero.es/",
+            "facebook": "http://www.facebook.com/ondacero",
+            "twitter": "http://twitter.com/OndaCero_es",
+            "phone": "Masdeuno@ondacero.es",
+            "address": "Fuerteventura 12, San Sebastián de los Reyes, 28703 Madrid",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Onda_Cero_La_Rioja",
+            "title": "Play Onda Cero La Rioja"
+        },
+        "radio_shows": [""],
+        "radio_source": "https://livefastly-webs.ondacero.es/logrono-pull/audio/master.m3u8",
+        "radio_image": "https://static-media.streema.com/media/cache/35/ca/35ca520f83a5c83870b42559992eb5b3.jpg"
+    }, {
+        "title": "Cadena SER - Radio Rioja",
+        "no_play": false,
+        "frequency": "AM 1179",
+        "link_deatils": "/radios/Radio_Rioja",
+        "link_player": "/radios/play/Radio_Rioja",
+        "image": "https://static-media.streema.com/media/cache/b4/ff/b4ff4d1e58241b25a005b90e960979db.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "La Rioja",
+            "link": "/radios/country/Spain/state/La_Rioja_2"
+        }, {
+            "title": "Logroño",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Entertainment", "News", "Sports", "Talk"],
+        "location": {
+            "city": "Logroño",
+            "country": "Spain"
+        },
+        "profile_slogan": "La Radio líder en La Rioja",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Radio Rioja 100.1 is a broadcast Radio station from Logroño, Spain, playing Spanish Talk programs.",
+            "rest": "Radio Rioja 100.1 is a broadcast Radio station from Logroño, Spain, playing Spanish Talk programs."
+        },
+        "radio_contacts": {
+            "short": "Radio Rioja 100.1 is a broadcast Radio station from Logroño, Spain, playing Spanish Talk programs.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiorioja.es/",
+            "facebook": "http://www.facebook.com/pages/Radio-Rioja/208881705795678",
+            "twitter": "http://twitter.com/RadioRioja",
+            "phone": "+34 941 22 26 12",
+            "address": "Avenida de Portugal 12 26001 Logroño, Spain",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Rioja",
+            "title": "Play Cadena SER - Radio Rioja"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_RIOJA.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/fa/43/fa4337c16ea6652cea29cda2dba42dda.jpg"
+    }]
+}]

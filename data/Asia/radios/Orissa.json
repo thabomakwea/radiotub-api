@@ -1,0 +1,294 @@
+[
+    {
+        "title": "Bhubaneswar",
+        "link": "https://streema.com/radios/Bhubaneswar",
+        "msg_results": "4 Radio Stations from Bhubaneswar",
+        "page_copy": "Listen to radio stations from Bhubaneswar OR, from a wide variety of genres like Bollywood, India, Indian, Pop and Religious.  Enjoy stations such as 91.9 Sarthak FM, Odiaradio, Red FM 93.5, Radio Choklate and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+        "radios": [
+            {
+                "title": "91.9 Sarthak FM",
+                "no_play": false,
+                "frequency": "FM 91.9",
+                "link_deatils": "/radios/91.9_Sarthak_FM",
+                "link_player": "/radios/play/91.9_Sarthak_FM",
+                "image": "https://static-media.streema.com/media/cache/5a/c0/5ac03eedac41ca995e91876288166a69.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "India",
+                        "link": "/radios/country/India"
+                    },
+                    {
+                        "title": "Orissa",
+                        "link": "/radios/country/India/state/Orissa"
+                    },
+                    {
+                        "title": "Bhubaneswar",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Bollywood",
+                    "Hindi",
+                    "India",
+                    "Indian"
+                ],
+                "location": {
+                    "city": "Bhubaneswar, OR",
+                    "country": "India"
+                },
+                "profile_slogan": "The 1st Odia FM playing 24X7 Odia Songs",
+                "radio_language": "Hindi",
+                "radio_info": {
+                    "short": "A 36 years entertainment brand & only FM station playing 24X7 Odia Songs",
+                    "rest": "A 36 years entertainment brand & only FM station playing 24X7 Odia Songs"
+                },
+                "radio_contacts": {
+                    "short": "A 36 years entertainment brand & only FM station playing 24X7 Odia Songs",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://www.sarthakfm.com/",
+                    "facebook": "http://www.facebook.com/sidharthmusicodia/",
+                    "twitter": "http://twitter.com/919sarthakfm",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/91.9_Sarthak_FM",
+                    "title": "Play 91.9 Sarthak FM"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://sarthakfm.out.airtime.pro:8000/sarthakfm_a",
+                "radio_image": "https://static-media.streema.com/media/cache/64/91/64916cfd485eeefbc0de6be1db422354.jpg"
+            },
+            {
+                "title": "Odiaradio",
+                "no_play": false,
+                "frequency": "Web",
+                "link_deatils": "/radios/Odiaradio",
+                "link_player": "/radios/play/Odiaradio",
+                "image": "https://static-media.streema.com/media/cache/b8/a2/b8a2c5f87b7d12109a0638429751a398.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "India",
+                        "link": "/radios/country/India"
+                    },
+                    {
+                        "title": "Orissa",
+                        "link": "/radios/country/India/state/Orissa"
+                    },
+                    {
+                        "title": "Bhubaneswar",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "India",
+                    "Indian",
+                    "Odia",
+                    "Oldies",
+                    "Religious",
+                    "Talk"
+                ],
+                "location": {
+                    "city": "Bhubaneswar, OR",
+                    "country": "India"
+                },
+                "profile_slogan": "Odisha's First Internet Radio Station",
+                "radio_language": "Bengali",
+                "radio_info": {
+                    "short": "Odiaradio is an internet radio station from Bhubaneshwar, Orissa, India providing Odiya music and program.",
+                    "rest": "Odiaradio is an internet radio station from Bhubaneshwar, Orissa, India providing Odiya music and program."
+                },
+                "radio_contacts": {
+                    "short": "Odiaradio is an internet radio station from Bhubaneshwar, Orissa, India providing Odiya music and program.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://odiaradio.com/",
+                    "facebook": "http://www.facebook.com/odiaradio",
+                    "twitter": "http://twitter.com/odiaradio",
+                    "phone": "+91-8260921450",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Odiaradio",
+                    "title": "Play Odiaradio"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://onair.odiaradio.com:8080/listen",
+                "radio_image": "https://static-media.streema.com/media/cache/2a/d7/2ad7e5732f480f522203148b234a5902.jpg"
+            },
+            {
+                "title": "Red FM 93.5",
+                "no_play": true,
+                "frequency": "FM 93.5",
+                "link_deatils": "/radios/Red_FM_93.5_Bhubaneswar",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/51/4a/514a4eb66b0382b8dafa50eaa9ba7c53.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "India",
+                        "link": "/radios/country/India"
+                    },
+                    {
+                        "title": "Orissa",
+                        "link": "/radios/country/India/state/Orissa"
+                    },
+                    {
+                        "title": "Bhubaneswar",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Bollywood",
+                    "Entertainment",
+                    "India",
+                    "Live Shows",
+                    "Top 40"
+                ],
+                "location": {
+                    "city": "Bhubaneswar, OR",
+                    "country": "India"
+                },
+                "profile_slogan": "Bajaate Raho!",
+                "radio_language": "Hindi",
+                "radio_info": {
+                    "short": "Superhits Red FM 93.5 is a broadcast radio station on the Sun Group of Television and Radio network from Bhubaneshwar, Orissa, India providing Top 40/Pop",
+                    "rest": "Bollywood Hits music, news, information, live shows and entertainment.\n\n------\nShows: Anbudan SuryanFM, Blade No. 1, Chinna Thambi  - Periya Thambi, En Uyire, Hello Suryan FM, Iniya Iravu, Kaadhal  Kaadhal, Kaalaithendral, Kisu Kisu Geetha, Kittu Mama Susie Maami, Magalir Mattum, Natchathira Neram, Ninaithaley Innikum, Oor Suthalaam Vaanga, Paatukku pattu, Pudhu Paadal, Rusinga Rasinga, Siruvar Neram, Suryodhayam, Ungallukkaaga"
+                },
+                "radio_contacts": {
+                    "short": "Superhits Red FM 93.5 is a broadcast radio station on the Sun Group of Television and Radio network from Bhubaneshwar, Orissa, India providing Top 40/Pop",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://www.redfmindia.in/bhubaneswar",
+                    "facebook": "http://www.facebook.com/redfmindia",
+                    "twitter": "http://twitter.com/935redfm",
+                    "phone": "+91 674 2396975",
+                    "address": "South Asia FM Limited, Swagat Palace, Plot No.45, Unit-IV, Mouza- Bhournanagar, Bhubaneswar - 751001 India",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [
+                    "Anbudan SuryanFM",
+                    "Blade No. 1",
+                    "Chinna Thambi  - Periya Thambi",
+                    "En Uyire",
+                    "Hello Suryan FM",
+                    "See all shows...",
+                    "Iniya Iravu\n                    \n                      Kaadhal  Kaadhal\n                    \n                      Kaalaithendral\n                    \n                      Kisu Kisu Geetha\n                    \n                      Kittu Mama Susie Maami\n                    \n                      Magalir Mattum\n                    \n                      Natchathira Neram\n                    \n                      Ninaithaley Innikum\n                    \n                      Oor Suthalaam Vaanga\n                    \n                      Pudhu Paadal\n                    \n                      Rusinga Rasinga\n                    \n                      Siruvar Neram\n                    \n                      Suryodhayam\n                    \n                      Ungallukkaaga",
+                    "Iniya Iravu",
+                    "Kaadhal  Kaadhal",
+                    "Kaalaithendral",
+                    "Kisu Kisu Geetha",
+                    "Kittu Mama Susie Maami",
+                    "Magalir Mattum",
+                    "Natchathira Neram",
+                    "Ninaithaley Innikum",
+                    "Oor Suthalaam Vaanga",
+                    "Pudhu Paadal",
+                    "Rusinga Rasinga",
+                    "Siruvar Neram",
+                    "Suryodhayam",
+                    "Ungallukkaaga"
+                ]
+            },
+            {
+                "title": "Radio Choklate",
+                "no_play": true,
+                "frequency": "FM 104.0",
+                "link_deatils": "/radios/Radio_Choklate",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/79/84/79841d9fac181412bf32663e009ef13a.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "India",
+                        "link": "/radios/country/India"
+                    },
+                    {
+                        "title": "Orissa",
+                        "link": "/radios/country/India/state/Orissa"
+                    },
+                    {
+                        "title": "Bhubaneswar",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "\n        \n          \n          \n          \n          \n        ",
+                    "stars": 5
+                },
+                "genres": [
+                    "Bollywood",
+                    "Hits",
+                    "India",
+                    "Indian",
+                    "Pop"
+                ],
+                "location": {
+                    "city": "Bhubaneswar, OR",
+                    "country": "India"
+                },
+                "profile_slogan": "Dhum mitha",
+                "radio_language": "Odia",
+                "radio_info": {
+                    "short": "Radio Choklate is a broadcast radio station in Bhubaneswar, Orissa, India, providing Oriya and Bollywood music and Bollywood Entertainment News.",
+                    "rest": "Radio Choklate is a broadcast radio station in Bhubaneswar, Orissa, India, providing Oriya and Bollywood music and Bollywood Entertainment News."
+                },
+                "radio_contacts": {
+                    "short": "Radio Choklate is a broadcast radio station in Bhubaneswar, Orissa, India, providing Oriya and Bollywood music and Bollywood Entertainment News.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://radiochoklateonline.com/",
+                    "facebook": "http://www.facebook.com/pages/Radio-Choklate-104-FM-Dhum-Mitha/496384883764150",
+                    "twitter": "http://twitter.com/radiochoklate",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            }
+        ]
+    }
+]

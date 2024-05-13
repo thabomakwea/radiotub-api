@@ -1,0 +1,697 @@
+[
+    {
+        "title": "Banikoara",
+        "link": "https://streema.com/radios/Banikoara",
+        "msg_results": "1 Radio Stations from Banikoara",
+        "page_copy": "Listen to radio stations from Banikoara, from a wide variety of genres like Folk.  Enjoy stations such as Radio Bani Gansé and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+        "radios": [
+            {
+                "title": "Radio Bani Gansé",
+                "no_play": true,
+                "frequency": "FM 104.2",
+                "link_deatils": "/radios/Radio_Bani_Ganse",
+                "link_player": "",
+                "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Benin",
+                        "link": "/radios/country/Benin"
+                    },
+                    {
+                        "title": "Banikoara",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Folk"
+                ],
+                "location": {
+                    "city": "Banikoara",
+                    "country": "Benin"
+                },
+                "profile_slogan": "",
+                "radio_language": "Multilingual",
+                "radio_info": {
+                    "short": "Radio Bani Gansé 104.2 is a radio station broadcasting from Banikoara, Benin, Station Airs Local Music.",
+                    "rest": "Radio Bani Gansé 104.2 is a radio station broadcasting from Banikoara, Benin, Station Airs Local Music."
+                },
+                "radio_contacts": {
+                    "short": "Radio Bani Gansé 104.2 is a radio station broadcasting from Banikoara, Benin, Station Airs Local Music.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "",
+                    "facebook": "",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            }
+        ]
+    },
+    {
+        "title": "Cotonou",
+        "link": "https://streema.com/radios/Cotonou",
+        "msg_results": "9 Radio Stations from Cotonou",
+        "page_copy": "Listen to radio stations from Cotonou, from a wide variety of genres like African, Community, Culture, News and Talk.  Enjoy stations such as CAPP FM 99.6, Radio Tokpa, Radio Maranatha, KultuRadio, Radio Immaculée Conception-Bénin and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+        "radios": [
+            {
+                "title": "CAPP FM 99.6",
+                "no_play": false,
+                "frequency": "FM 99.6",
+                "link_deatils": "/radios/Capp_FM",
+                "link_player": "/radios/play/Capp_FM",
+                "image": "https://static-media.streema.com/media/cache/ef/63/ef6343764dac83a33ab1c939fef27ac1.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Benin",
+                        "link": "/radios/country/Benin"
+                    },
+                    {
+                        "title": "Cotonou",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "90 Listens",
+                    "stars": 0
+                },
+                "genres": [
+                    "African",
+                    "Community",
+                    "French",
+                    "News"
+                ],
+                "location": {
+                    "city": "Cotonou",
+                    "country": "Benin"
+                },
+                "profile_slogan": "La radio du succès",
+                "radio_language": "French",
+                "radio_info": {
+                    "short": "Capp FM 99.6 is a broadcast based radio station from Cotonou, plays African music.",
+                    "rest": "Capp FM 99.6 is a broadcast based radio station from Cotonou, plays African music."
+                },
+                "radio_contacts": {
+                    "short": "Capp FM 99.6 is a broadcast based radio station from Cotonou, plays African music.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.cappfm.com/",
+                    "facebook": "http://www.facebook.com/radiocappfm/",
+                    "twitter": "http://twitter.com/cappfm",
+                    "phone": "(+229)21 33 35 03",
+                    "address": "Cotonou Akpakpa en face du centre Lazaret , Bénin",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Capp_FM",
+                    "title": "Play CAPP FM 99.6"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://cappfm.ice.infomaniak.ch/cappfm-96.mp3",
+                "radio_image": "https://static-media.streema.com/media/cache/53/cf/53cf815c8a0567b6e29beb5fef65f107.jpg"
+            },
+            {
+                "title": "Radio Tokpa",
+                "no_play": false,
+                "frequency": "FM 104.3",
+                "link_deatils": "/radios/Radio_Tokpa_104.3",
+                "link_player": "/radios/play/Radio_Tokpa_104.3",
+                "image": "https://static-media.streema.com/media/cache/09/cb/09cb7e8df536baf73e7df7a048b797b4.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Benin",
+                        "link": "/radios/country/Benin"
+                    },
+                    {
+                        "title": "Cotonou",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "90 Listens",
+                    "stars": 0
+                },
+                "genres": [
+                    "African",
+                    "Entertainment",
+                    "Information",
+                    "News"
+                ],
+                "location": {
+                    "city": "Cotonou",
+                    "country": "Benin"
+                },
+                "profile_slogan": "Votre Partenaire",
+                "radio_language": "French",
+                "radio_info": {
+                    "short": "Radio Tokpa 104.3, a radio station in Cotonou Africa, Benin, Africa, providing Community programs and African music.",
+                    "rest": "Radio Tokpa 104.3, a radio station in Cotonou Africa, Benin, Africa, providing Community programs and African music."
+                },
+                "radio_contacts": {
+                    "short": "Radio Tokpa 104.3, a radio station in Cotonou Africa, Benin, Africa, providing Community programs and African music.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://radiotokpa.info/",
+                    "facebook": "http://www.facebook.com/Radio-Tokpa-138370212875174/",
+                    "twitter": "http://twitter.com/radtokpa",
+                    "phone": "+229 21 31 45 32",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Radio_Tokpa_104.3",
+                    "title": "Play Radio Tokpa"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://live.radiotokpa.info:8019/live.mp3",
+                "radio_image": "https://static-media.streema.com/media/cache/14/a7/14a756502dda16c563cdb9f745bfc0e1.jpg"
+            },
+            {
+                "title": "Radio Maranatha",
+                "no_play": false,
+                "frequency": "FM 103.1",
+                "link_deatils": "/radios/Radio_Maranatha_2",
+                "link_player": "/radios/play/Radio_Maranatha_2",
+                "image": "https://static-media.streema.com/media/cache/3b/95/3b95d61bc11f07cffc7c8b3a6cb47e8c.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Benin",
+                        "link": "/radios/country/Benin"
+                    },
+                    {
+                        "title": "Cotonou",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "30 Listens",
+                    "stars": 0
+                },
+                "genres": [
+                    "Christian",
+                    "Gospel",
+                    "Music",
+                    "Talk"
+                ],
+                "location": {
+                    "city": "Cotonou",
+                    "country": "Benin"
+                },
+                "profile_slogan": "Nous nous Préoccupons de votre bien-être Spirituel",
+                "radio_language": "French",
+                "radio_info": {
+                    "short": "RADIO MARANATHA FM 103.10 is a broadcast radio station from Cotonou, Benin providing Christian Religious Gospel music and talks.",
+                    "rest": "RADIO MARANATHA FM 103.10 is a broadcast radio station from Cotonou, Benin providing Christian Religious Gospel music and talks."
+                },
+                "radio_contacts": {
+                    "short": "RADIO MARANATHA FM 103.10 is a broadcast radio station from Cotonou, Benin providing Christian Religious Gospel music and talks.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.maranathabenin.org/",
+                    "facebook": "http://www.facebook.com/RadioteleEvangeliqueMaranatha/",
+                    "twitter": "http://twitter.com/Maranatha6net",
+                    "phone": "00229) 21 - 32 – 53",
+                    "address": "03 BP 4113 Cotonou Rép du Bénin",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Radio_Maranatha_2",
+                    "title": "Play Radio Maranatha"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://154.72.112.49:8000/live",
+                "radio_image": "https://static-media.streema.com/media/cache/e1/f0/e1f01acbadfde1c43a27939e8b2877bd.jpg"
+            },
+            {
+                "title": "KultuRadio",
+                "no_play": false,
+                "frequency": "Web",
+                "link_deatils": "/radios/KultuRadio",
+                "link_player": "/radios/play/KultuRadio",
+                "image": "https://static-media.streema.com/media/cache/8d/2c/8d2cd07cc32ec30d61cd377e968d238d.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Benin",
+                        "link": "/radios/country/Benin"
+                    },
+                    {
+                        "title": "Cotonou",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "30 Listens",
+                    "stars": 0
+                },
+                "genres": [
+                    "Culture"
+                ],
+                "location": {
+                    "city": "Cotonou",
+                    "country": "Benin"
+                },
+                "profile_slogan": "",
+                "radio_language": "French",
+                "radio_info": {
+                    "short": "Notre radio est une radio spécialiser dans la promotion de la culture en Affrique. Nous faisons plusieurs émission à cet effet.",
+                    "rest": "Notre radio est une radio spécialiser dans la promotion de la culture en Affrique. Nous faisons plusieurs émission à cet effet."
+                },
+                "radio_contacts": {
+                    "short": "Notre radio est une radio spécialiser dans la promotion de la culture en Affrique. Nous faisons plusieurs émission à cet effet.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://kultu.tv/",
+                    "facebook": "http://www.facebook.com/KULTU-RADIO-100221778574148/",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/KultuRadio",
+                    "title": "Play KultuRadio"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://kulturadio2019.radioca.st:8596/stream/;",
+                "radio_image": "https://static-media.streema.com/media/cache/4f/5f/4f5f503306dee5bcd22e1c79db692bab.jpg"
+            },
+            {
+                "title": "Radio Immaculée Conception-Bénin",
+                "no_play": false,
+                "frequency": "FM 101.0",
+                "link_deatils": "/radios/Radio_Immaculee_Concepcion",
+                "link_player": "/radios/play/Radio_Immaculee_Concepcion",
+                "image": "https://static-media.streema.com/media/cache/2f/fd/2ffda222c8574ed48aa9d958dd1bbf56.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Benin",
+                        "link": "/radios/country/Benin"
+                    },
+                    {
+                        "title": "Cotonou",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "30 Listens",
+                    "stars": 5
+                },
+                "genres": [
+                    "Children's Family",
+                    "Christian",
+                    "Religious",
+                    "Talk"
+                ],
+                "location": {
+                    "city": "Cotonou",
+                    "country": "Benin"
+                },
+                "profile_slogan": "La radio catholique du Bénin",
+                "radio_language": "Française",
+                "radio_info": {
+                    "short": "Radio Immaculée Concepción is a broadcast radio station from Cotonou, Benin providing Christian Religious music, talks and program. ------ Shows: The Word, Flash Informativo, Hour",
+                    "rest": " of Inspiration, A haute voix, Ecoute dans la nuit, En marche vers dimanche, Evangile et commentaire, Foi et psychologie, Un Prêtre Vous Répond, Angélus, Cathé-Quiz, Chapelet de la Divine Miséricorde, Dédicaces sans frontières, Educanto, En communion, Espace temps, Évènements, Famille en mission, Focus On Africa, Foi et spiritualité, Journal Afrique Info, Journal International, Justice et paix, Kplon nu akota lebi, La graine, Laissez les venir à moi, Le Bon Berger, Le corps à cœur, Le Pain du Dimanche, Les clefs du Royaume, Les témoins du Christ, Libertas, Marie au monde, Musique et Chants d'Inspiration, Musi-Quiz, Prières du matin, Prières du soir, Progressio, Rendez-Vous Avec l'Afrique, Rosaire I, Rosaire III et Bénédiction, Sourires et chansons, Spiritus, Ste. Messe, Témoignages et partages, Toi qui cherches, Vous m'avez visité"
+                },
+                "radio_contacts": {
+                    "short": "Radio Immaculée Concepción is a broadcast radio station from Cotonou, Benin providing Christian Religious music, talks and program. ------ Shows: The Word, Flash Informativo, Hour",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://ric.immacolata.com/",
+                    "facebook": "http://www.facebook.com/Radio-Immacul%C3%A9e-Conception-1653905751514521/?ref=page_internal",
+                    "twitter": "http://twitter.com/satricbenin",
+                    "phone": "+229 95 96 12 23 / +229 95 40 10 59",
+                    "address": "BP 88 Allada, Cotonou, Benin",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Radio_Immaculee_Concepcion",
+                    "title": "Play Radio Immaculée Conception-Bénin"
+                },
+                "radio_shows": [
+                    "The Word",
+                    "Flash Informativo",
+                    "A haute voix",
+                    "Ecoute dans la nuit",
+                    "En marche vers dimanche",
+                    "See all shows...",
+                    "Evangile et commentaire\n                    \n                      Foi et psychologie\n                    \n                      Un Prêtre Vous Répond\n                    \n                      Angélus\n                    \n                      Focus On Africa",
+                    "Evangile et commentaire",
+                    "Foi et psychologie",
+                    "Un Prêtre Vous Répond",
+                    "Angélus",
+                    "Focus On Africa"
+                ],
+                "radio_source": "http://37.187.90.196:8981/stream/;",
+                "radio_image": "https://static-media.streema.com/media/cache/2a/0b/2a0bec0b57d6df9027c3900e52b99bb5.jpg"
+            },
+            {
+                "title": "Radio Africa Musika",
+                "no_play": false,
+                "frequency": "Web",
+                "link_deatils": "/radios/Radio_AFRICA_MUSIKA",
+                "link_player": "/radios/play/Radio_AFRICA_MUSIKA",
+                "image": "https://static-media.streema.com/media/cache/ff/a6/ffa6a35071a1251edc1c1d2abecc499c.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Benin",
+                        "link": "/radios/country/Benin"
+                    },
+                    {
+                        "title": "Cotonou",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "African",
+                    "Hip Hop",
+                    "Pop",
+                    "World"
+                ],
+                "location": {
+                    "city": "Cotonou",
+                    "country": "Benin"
+                },
+                "profile_slogan": "The African Music Non-stop",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "Radio Africa Musika is an internet radio station from Cotonou, Benin, providing variety of helpful services to African artists, we also maintain the free aspect",
+                    "rest": "of African music promotion."
+                },
+                "radio_contacts": {
+                    "short": "Radio Africa Musika is an internet radio station from Cotonou, Benin, providing variety of helpful services to African artists, we also maintain the free aspect",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://africamusika.com/",
+                    "facebook": "http://www.facebook.com/RadioAfricaMusika/",
+                    "twitter": "http://twitter.com/AfricaMusika",
+                    "phone": "+229 97 12 19 72",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Radio_AFRICA_MUSIKA",
+                    "title": "Play Radio Africa Musika"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://37.59.28.208:8158/stream/;",
+                "radio_image": "https://static-media.streema.com/media/cache/29/a3/29a3d2124b245bea2352ed855fb4fec4.jpg"
+            },
+            {
+                "title": "pluspresfm.net",
+                "no_play": true,
+                "frequency": "Web",
+                "link_deatils": "/radios/pluspresfm.net",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/b0/fc/b0fc69643de1af5a94a36dcc29e54c49.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Benin",
+                        "link": "/radios/country/Benin"
+                    },
+                    {
+                        "title": "Cotonou",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "African",
+                    "Community",
+                    "Culture",
+                    "Talk"
+                ],
+                "location": {
+                    "city": "Cotonou",
+                    "country": "Benin"
+                },
+                "profile_slogan": "La webradio diffusant depuis Cotonou",
+                "radio_language": "French",
+                "radio_info": {
+                    "short": "Pluspresfm . net is the radio that promotes the African continent, and their values ​​and customs, a bridge between the past, present and future.",
+                    "rest": "Pluspresfm . net is the radio that promotes the African continent, and their values ​​and customs, a bridge between the past, present and future."
+                },
+                "radio_contacts": {
+                    "short": "Pluspresfm . net is the radio that promotes the African continent, and their values ​​and customs, a bridge between the past, present and future.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://pluspresfm.net/",
+                    "facebook": "http://www.facebook.com/Pluspresfm.net",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            },
+            {
+                "title": "Golfe FM",
+                "no_play": true,
+                "frequency": "FM 105.7",
+                "link_deatils": "/radios/Golfe_FM",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/17/42/174214c4bdab9de1ab77c7b8e38818fd.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Benin",
+                        "link": "/radios/country/Benin"
+                    },
+                    {
+                        "title": "Cotonou",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [""],
+                "location": {
+                    "city": "Cotonou",
+                    "country": "Benin"
+                },
+                "profile_slogan": "",
+                "radio_language": "French",
+                "radio_info": {
+                    "short": "We are the future restez branche",
+                    "rest": "We are the future restez branche"
+                },
+                "radio_contacts": {
+                    "short": "We are the future restez branche",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.eit.bj/golfefm.htm",
+                    "facebook": "",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            },
+            {
+                "title": "Radio Web Aximin",
+                "no_play": true,
+                "frequency": "Web",
+                "link_deatils": "/radios/Radio_Web_Aximin",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/ea/b3/eab3d49d89bc8036897794769f0b84e6.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Benin",
+                        "link": "/radios/country/Benin"
+                    },
+                    {
+                        "title": "Cotonou",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "African",
+                    "French",
+                    "Music",
+                    "Talk"
+                ],
+                "location": {
+                    "city": "Cotonou",
+                    "country": "Benin"
+                },
+                "profile_slogan": "La Voix du Marché",
+                "radio_language": "French",
+                "radio_info": {
+                    "short": "Radio Web Aximin est la radio de la plateforme numérique d'achat et de vente en ligne www.aximin.com, elle a été créée pour donner plus de",
+                    "rest": "visibilité aux partenaires de la plateforme  et faire la promotion de la culture Béninoise;  son slogan, la voix du marché."
+                },
+                "radio_contacts": {
+                    "short": "Radio Web Aximin est la radio de la plateforme numérique d'achat et de vente en ligne www.aximin.com, elle a été créée pour donner plus de",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://aximin.com/",
+                    "facebook": "http://www.facebook.com/radiowebaximin",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            }
+        ]
+    },
+    {
+        "title": "Parakou",
+        "link": "https://streema.com/radios/Parakou",
+        "msg_results": "1 Radio Stations from Parakou",
+        "page_copy": "Listen to radio stations from Parakou, from a wide variety of genres like Culture and French.  Enjoy stations such as Fraternité FM and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+        "radios": [
+            {
+                "title": "Fraternité FM",
+                "no_play": true,
+                "frequency": "FM 96.5",
+                "link_deatils": "/radios/Fraternite_FM",
+                "link_player": "",
+                "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Benin",
+                        "link": "/radios/country/Benin"
+                    },
+                    {
+                        "title": "Parakou",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "\n        \n          \n          \n          \n          \n        ",
+                    "stars": 5
+                },
+                "genres": [
+                    "Culture",
+                    "French"
+                ],
+                "location": {
+                    "city": "Parakou",
+                    "country": "Benin"
+                },
+                "profile_slogan": "",
+                "radio_language": "French",
+                "radio_info": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contacts": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.fraternite-info.com/",
+                    "facebook": "",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            }
+        ]
+    }
+]

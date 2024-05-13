@@ -1,0 +1,1611 @@
+[{
+    "title": "Bydgoszcz",
+    "link": "https://streema.com/radios/Bydgoszcz",
+    "msg_results": "5 Radio Stations from Bydgoszcz",
+    "page_copy": "Listen to radio stations from Bydgoszcz, from a wide variety of genres like Adult Contemporary, Electronica, Hits, Pop and Rock.  Enjoy stations such as Radio Silesia, Radio Eska Bydgoszcz, RMF - RMF MAXXX, Radio PLUS, Radio Bawelna and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Radio Silesia",
+        "no_play": false,
+        "frequency": "FM 96.2",
+        "link_deatils": "/radios/Radio_Silesia",
+        "link_player": "/radios/play/Radio_Silesia",
+        "image": "https://static-media.streema.com/media/cache/f5/09/f509317d1698372113d91cdb68c2dade.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Kuyavian-Pomeranian",
+            "link": "/radios/country/Poland/state/Kuyavian_Pomeranian"
+        }, {
+            "title": "Bydgoszcz",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["News"],
+        "location": {
+            "city": "Bydgoszcz",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.tvs.pl/tv/seria/radio-silesia",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Silesia",
+            "title": "Play Radio Silesia"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streaming.tvs.pl:8010/plus.aac/;",
+        "radio_image": "https://static-media.streema.com/media/cache/09/c2/09c251b26496fe0b41689d866f253828.jpg"
+    }, {
+        "title": "Radio Eska Bydgoszcz",
+        "no_play": false,
+        "frequency": "FM 94.4",
+        "link_deatils": "/radios/Radio_Eska_Bydgoszcz",
+        "link_player": "/radios/play/Radio_Eska_Bydgoszcz",
+        "image": "https://static-media.streema.com/media/cache/87/0b/870b56803c0f34b999e1dffb9ff77227.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Kuyavian-Pomeranian",
+            "link": "/radios/country/Poland/state/Kuyavian_Pomeranian"
+        }, {
+            "title": "Bydgoszcz",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Pop", "Rock", "Top 40"],
+        "location": {
+            "city": "Bydgoszcz",
+            "country": "Poland"
+        },
+        "profile_slogan": "Muzyka w Twoim klimacie tam, gdzie jesteś",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Radio Eska Bydgoszcz FM 94.4 is a broadcast radio station from Bydgoszcz, Poland, providing Top 40 Adult Contemporary Pop and Rock music as part of",
+            "rest": "Radio Eska network of radio stations in Poland."
+        },
+        "radio_contacts": {
+            "short": "Radio Eska Bydgoszcz FM 94.4 is a broadcast radio station from Bydgoszcz, Poland, providing Top 40 Adult Contemporary Pop and Rock music as part of",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.eska.pl/?stationId=19",
+            "facebook": "http://www.facebook.com/radioeska",
+            "twitter": "http://twitter.com/eska_pl",
+            "phone": "+48 22 516 47 00",
+            "address": "ul. Jubilerska 10, 04-190 Warsaw, Poland",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Eska_Bydgoszcz",
+            "title": "Play Radio Eska Bydgoszcz"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://pldm.ml/radio?url=http://www.eskago.pl/radio/eska-bydgoszcz",
+        "radio_image": "https://static-media.streema.com/media/cache/ea/4b/ea4b9f0ed3044d21c03ec8c86c74f312.jpg"
+    }, {
+        "title": "RMF - RMF MAXXX",
+        "no_play": false,
+        "frequency": "FM 106.1",
+        "link_deatils": "/radios/Radio_Gra_Bydgoszcz",
+        "link_player": "/radios/play/Radio_Gra_Bydgoszcz",
+        "image": "https://static-media.streema.com/media/cache/95/f2/95f289cc8abd7dd61d6550f5007598a8.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Kuyavian-Pomeranian",
+            "link": "/radios/country/Poland/state/Kuyavian_Pomeranian"
+        }, {
+            "title": "Bydgoszcz",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Hits", "Pop", "RnB", "Rock"],
+        "location": {
+            "city": "Bydgoszcz",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Portal rozrywkowy na którym znaleźć można zapowiedzi najważniejszych wydarzeń rozrywkowych i kulturalnych w woj. kujawsko-pomorskim w szczególności w takich miastach jak Bydgoszcz, Toruń, Włocławek i",
+            "rest": "Inowrocław. Wydarzenia, fotorelacje z najciekawszych imprez, baza klubów i restauracji w Bydgoszczy, Toruniu, Inowrocławiu, Włocławku. Na portalu należącym do Grupy Gra znajdują się również opisy programów Radia Gra i profile prezenterów i dziennikarzy czterech stacji radia G"
+        },
+        "radio_contacts": {
+            "short": "Portal rozrywkowy na którym znaleźć można zapowiedzi najważniejszych wydarzeń rozrywkowych i kulturalnych w woj. kujawsko-pomorskim w szczególności w takich miastach jak Bydgoszcz, Toruń, Włocławek i",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.rmfmaxxx.pl/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Gra_Bydgoszcz",
+            "title": "Play RMF - RMF MAXXX"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://31.192.216.7:80/RMFMAXXX48",
+        "radio_image": "https://static-media.streema.com/media/cache/51/66/516610f6705dbac9d665870bd1168256.jpg"
+    }, {
+        "title": "Radio PLUS",
+        "no_play": false,
+        "frequency": "FM 102.6",
+        "link_deatils": "/radios/Radio_Plus_Legnica",
+        "link_player": "/radios/play/Radio_Plus_Legnica",
+        "image": "https://static-media.streema.com/media/cache/fd/b7/fdb7d5bc684b47b09c6311fb86a16f62.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Kuyavian-Pomeranian",
+            "link": "/radios/country/Poland/state/Kuyavian_Pomeranian"
+        }, {
+            "title": "Bydgoszcz",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Hits", "Pop", "Rock"],
+        "location": {
+            "city": "Bydgoszcz",
+            "country": "Poland"
+        },
+        "profile_slogan": "W Świątecznym Klimacie",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Radio PLUS is a broadcast radio station from Bydgoszcz, Poland, providing Top 40 Adult Contemporary Pop and Rock music.",
+            "rest": "Radio PLUS is a broadcast radio station from Bydgoszcz, Poland, providing Top 40 Adult Contemporary Pop and Rock music."
+        },
+        "radio_contacts": {
+            "short": "Radio PLUS is a broadcast radio station from Bydgoszcz, Poland, providing Top 40 Adult Contemporary Pop and Rock music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radioplus.pl/?stationId=20&stacja=bydgoszcz",
+            "facebook": "http://www.facebook.com/PlusRadio",
+            "twitter": "",
+            "phone": "+48 (52) 371 17 72",
+            "address": "Aleja Jana Pawła II 117, 85-152 Bydgoszcz, Poland",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Plus_Legnica",
+            "title": "Play Radio PLUS"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://plu-bdg.cdn.eurozet.pl:8302/;",
+        "radio_image": "https://static-media.streema.com/media/cache/a7/2b/a72b42296d40369722e492bf483ed725.jpg"
+    }, {
+        "title": "Radio Bawelna",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Bawelna",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/eb/9b/eb9b269fd242d44e7ae223d784f740a7.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Kuyavian-Pomeranian",
+            "link": "/radios/country/Poland/state/Kuyavian_Pomeranian"
+        }, {
+            "title": "Bydgoszcz",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Electronica"],
+        "location": {
+            "city": "Bydgoszcz",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Radio Bawełna - pozytywne Dzwieki",
+            "rest": "Radio Bawełna - pozytywne Dzwieki"
+        },
+        "radio_contacts": {
+            "short": "Radio Bawełna - pozytywne Dzwieki",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiobawelna.com/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}, {
+    "title": "Torun",
+    "link": "https://streema.com/radios/Torun",
+    "msg_results": "7 Radio Stations from Torun",
+    "page_copy": "Listen to radio stations from Torun, from a wide variety of genres like Adult Contemporary, Christian, Hits, Pop and Rock.  Enjoy stations such as Dubstep24h Radio, Meloradio, Radio Eska Toruń, Radio GRA Toruń, Radio Maryja and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Dubstep24h Radio",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Dubstep24h_Radio",
+        "link_player": "/radios/play/Dubstep24h_Radio",
+        "image": "https://static-media.streema.com/media/cache/00/d0/00d0ce32af867f617d984c21ba0dfec4.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Kuyavian-Pomeranian",
+            "link": "/radios/country/Poland/state/Kuyavian_Pomeranian"
+        }, {
+            "title": "Torun",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dubstep"],
+        "location": {
+            "city": "Torun",
+            "country": "Poland"
+        },
+        "profile_slogan": "The best dubstep in the world",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://dub24h.5v.pl/",
+            "facebook": "",
+            "twitter": "http://twitter.com/dubstep9702",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Dubstep24h_Radio",
+            "title": "Play Dubstep24h Radio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.zeno.fm/mtyue30es7zuv",
+        "radio_image": "https://static-media.streema.com/media/cache/14/89/1489490583e2f11e820899684d8b8d9a.jpg"
+    }, {
+        "title": "Meloradio",
+        "no_play": false,
+        "frequency": "FM 92.8",
+        "link_deatils": "/radios/Planeta_FM_Planeta_FM_Poznan",
+        "link_player": "/radios/play/Planeta_FM_Planeta_FM_Poznan",
+        "image": "https://static-media.streema.com/media/cache/62/9f/629fa5fa4607a289dc0dc6dd035d7a70.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Kuyavian-Pomeranian",
+            "link": "/radios/country/Poland/state/Kuyavian_Pomeranian"
+        }, {
+            "title": "Torun",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Hits", "Pop", "RnB", "Rock"],
+        "location": {
+            "city": "Torun",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Meloradio is a broadcast radio station in Torun, Poland, providing Pop, Rock and R&B Hits music as part of the Radio Zet network.",
+            "rest": "Meloradio is a broadcast radio station in Torun, Poland, providing Pop, Rock and R&B Hits music as part of the Radio Zet network."
+        },
+        "radio_contacts": {
+            "short": "Meloradio is a broadcast radio station in Torun, Poland, providing Pop, Rock and R&B Hits music as part of the Radio Zet network.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.meloradio.pl/",
+            "facebook": "http://www.facebook.com/meloradiopl/",
+            "twitter": "",
+            "phone": "+ 48 56 657 00 77",
+            "address": "ul. Prosta 8/2a  87-100 Toruń, Poland",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Planeta_FM_Planeta_FM_Poznan",
+            "title": "Play Meloradio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://r.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5",
+        "radio_image": "https://static-media.streema.com/media/cache/d1/89/d1898f8368af5bd0091dc2a55ec6bf8c.jpg"
+    }, {
+        "title": "Radio Eska Toruń",
+        "no_play": false,
+        "frequency": "FM 104.6",
+        "link_deatils": "/radios/Radio_Eska_Torun",
+        "link_player": "/radios/play/Radio_Eska_Torun",
+        "image": "https://static-media.streema.com/media/cache/23/1f/231fa26009a7ce5f5f8d476f87b3b1e1.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Kuyavian-Pomeranian",
+            "link": "/radios/country/Poland/state/Kuyavian_Pomeranian"
+        }, {
+            "title": "Torun",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Hits", "Rock", "Top 40"],
+        "location": {
+            "city": "Torun",
+            "country": "Poland"
+        },
+        "profile_slogan": "Muzyka w Twoim klimacie tam, gdzie jesteś",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Radio Eska Toruń is a broadcast radio station from Torun, Poland providing Polish Top 40/Pop Hits music.",
+            "rest": "Radio Eska Toruń is a broadcast radio station from Torun, Poland providing Polish Top 40/Pop Hits music."
+        },
+        "radio_contacts": {
+            "short": "Radio Eska Toruń is a broadcast radio station from Torun, Poland providing Polish Top 40/Pop Hits music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.eska.pl/torun/",
+            "facebook": "http://www.facebook.com/radioeska",
+            "twitter": "http://twitter.com/eska_pl",
+            "phone": "+48 22 516 47 00",
+            "address": "ul. Jubilerska 10, 04-190 Warsaw, Poland",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Eska_Torun",
+            "title": "Play Radio Eska Toruń"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://pldm.ml/radio?url=http://www.eskago.pl/radio/eska-torun",
+        "radio_image": "https://static-media.streema.com/media/cache/e0/56/e056bddcce541308550a0f25c00f2659.jpg"
+    }, {
+        "title": "Radio GRA Toruń",
+        "no_play": false,
+        "frequency": "FM 88.8",
+        "link_deatils": "/radios/Radio_Gra_Torun",
+        "link_player": "/radios/play/Radio_Gra_Torun",
+        "image": "https://static-media.streema.com/media/cache/bc/8d/bc8dfb189345a91a0007ec214a2b0a0d.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Kuyavian-Pomeranian",
+            "link": "/radios/country/Poland/state/Kuyavian_Pomeranian"
+        }, {
+            "title": "Torun",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Pop", "Rock"],
+        "location": {
+            "city": "Torun",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Radio GRA Toruń is a broadcast radio station in Torun, Poland, providing Adult Contemporary Pop and Rock music.",
+            "rest": "Radio GRA Toruń is a broadcast radio station in Torun, Poland, providing Adult Contemporary Pop and Rock music."
+        },
+        "radio_contacts": {
+            "short": "Radio GRA Toruń is a broadcast radio station in Torun, Poland, providing Adult Contemporary Pop and Rock music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://gra.fm/",
+            "facebook": "http://www.facebook.com/RadioGRA",
+            "twitter": "",
+            "phone": "+48 56 654 32 10",
+            "address": "ul. Szosa Chełmińska 166, 87-100 Torun, Poland",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Gra_Torun",
+            "title": "Play Radio GRA Toruń"
+        },
+        "radio_shows": [""],
+        "radio_source": "https://rs9-krk2.rmfstream.pl/RADIOGRA",
+        "radio_image": "https://static-media.streema.com/media/cache/99/79/99791f9c5993e3850d39b87abdd81c3c.jpg"
+    }, {
+        "title": "Radio Maryja",
+        "no_play": false,
+        "frequency": "FM 90.4",
+        "link_deatils": "/radios/Radio_Maryja",
+        "link_player": "/radios/play/Radio_Maryja",
+        "image": "https://static-media.streema.com/media/cache/4a/9a/4a9ad9db79a324a6fb5457873102225e.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Kuyavian-Pomeranian",
+            "link": "/radios/country/Poland/state/Kuyavian_Pomeranian"
+        }, {
+            "title": "Torun",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Christian", "Religious"],
+        "location": {
+            "city": "Torun",
+            "country": "Poland"
+        },
+        "profile_slogan": "Katolicki Głos w Twoim domu",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Radio Maryja 90.4 is a broadcast Radio station from Torun, Kuyavian-Pomeranian, Poland, providing Religious, Christian, Talk, News and Informative programs. ------ Shows: Aktualnosci dnia, Aniol",
+            "rest": " Panski, Aniol Panski z Ojcem Swietym, Audycja dla chorych, Audycja dla dzieci, Audycja dla malzonków i rodziców, Audycja dla mlodziezy, Audycja dla rolników, Audycja literacka, Czas pozdrowien, Czas Wzrastania, Czytac, aby byc madrym, Czytasz i wiecej wiesz, Eucharystia, Fascynacje muzyczne, Felieton Z Cyklu Glos Z Francji, Felieton z cyklu Myslac Ojczyzna, Felieton Z Cyklu Spróbuj Pomyslec, Glos Z Krakowa, Godzinki Ku Czci Matki Bozej Nieustajacej Pomocy, Godzinki ku czci Niepokalanego Poczecia N.M.P, Informacje dnia, Jutrznia, Katecheza, Kompleta, Koronka do Bozego Milosierdzia, Medytacja, Medytacja Ignacjanska, Modlitwa Aniol Panski, Modlitwa popoludniowa z Liturgii Godzin, Modlitwy dzieci, Moge, chce pomóc, Muzyka mistrzów, Nabozenstwo majowe, Nowenna Do Matki Bozej Nieustajacej Pomocy, Papiez Polak do rodaków, Porady ekologa, Porady Kulinarne, Porady lekarskie, Porady pedagoga i psychologa, Program dla USA i Kanady, Program nocny, Prosby I Podziekowania Na Nieustanna Nowenne, Przeglad Tygodnika Katolickiego, Pytania o Slowo Boze, Radiowa lektura, Rózaniec, Rozmowy niedokonczone, Rozpoczecie programu, Rozwazania O Duchowosci Wyplyn Na Glebie, Serwis informacyjny, Spotkania z Biblia, Szukajac Slowa Bozego, Transmisja Apelu z Jasnej Góry, Transmisja Mszy sw, Transmisja Spotkania Rodziny Radia Maryja, W Holdzie Ojcu Swietemu Janowi Pawlowi II, W nurcie nauczania Ojca Swietego Jana Pawla II, W Rodzinie Radia Maryja, Wiadomosci, Z Ojczyzny Jezusa, Z zycia Wyzszej Szkoly Kultury Spolecznej I Medialnej - FLESZ"
+        },
+        "radio_contacts": {
+            "short": "Radio Maryja 90.4 is a broadcast Radio station from Torun, Kuyavian-Pomeranian, Poland, providing Religious, Christian, Talk, News and Informative programs. ------ Shows: Aktualnosci dnia, Aniol",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiomaryja.pl/",
+            "facebook": "http://www.facebook.com/RadioMaryja",
+            "twitter": "http://twitter.com/RadioMaryja",
+            "phone": "56-610-72-58",
+            "address": "ul. Żwirki i Wigury 80, 87-100 Toruń, Polska",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Maryja",
+            "title": "Play Radio Maryja"
+        },
+        "radio_shows": ["Aktualnosci dnia", "Aniol Panski", "Aniol Panski z Ojcem Swietym", "Audycja dla chorych", "Audycja dla dzieci", "See all shows...", "Audycja dla malzonków i rodziców\n                    \n                      Audycja dla mlodziezy\n                    \n                      Audycja dla rolników\n                    \n                      Audycja literacka\n                    \n                      Czas pozdrowien\n                    \n                      Czas Wzrastania\n                    \n                      Czytac, aby byc madrym\n                    \n                      Czytasz i wiecej wiesz\n                    \n                      Eucharystia\n                    \n                      Fascynacje muzyczne\n                    \n                      Felieton Z Cyklu Glos Z Francji\n                    \n                      Felieton z cyklu Myslac Ojczyzna\n                    \n                      Felieton Z Cyklu Spróbuj Pomyslec\n                    \n                      Glos Z Krakowa\n                    \n                      Godzinki ku czci Niepokalanego Poczecia N.M.P\n                    \n                      Informacje dnia\n                    \n                      Jutrznia\n                    \n                      Katecheza\n                    \n                      Kompleta\n                    \n                      Koronka do Bozego Milosierdzia\n                    \n                      Medytacja\n                    \n                      Medytacja Ignacjanska\n                    \n                      Modlitwa Aniol Panski\n                    \n                      Modlitwa popoludniowa z Liturgii Godzin\n                    \n                      Modlitwy dzieci\n                    \n                      Moge, chce pomóc\n                    \n                      Muzyka mistrzów\n                    \n                      Nabozenstwo majowe\n                    \n                      Nowenna Do Matki Bozej Nieustajacej Pomocy\n                    \n                      Papiez Polak do rodaków\n                    \n                      Porady ekologa\n                    \n                      Porady Kulinarne\n                    \n                      Porady lekarskie\n                    \n                      Porady pedagoga i psychologa\n                    \n                      Program dla USA i Kanady\n                    \n                      Program nocny\n                    \n                      Przeglad Tygodnika Katolickiego\n                    \n                      Pytania o Slowo Boze\n                    \n                      Radiowa lektura\n                    \n                      Rózaniec\n                    \n                      Rozmowy niedokonczone\n                    \n                      Rozpoczecie programu\n                    \n                      Serwis informacyjny\n                    \n                      Spotkania z Biblia\n                    \n                      Szukajac Slowa Bozego\n                    \n                      Transmisja Apelu z Jasnej Góry\n                    \n                      Transmisja Mszy sw\n                    \n                      Transmisja Spotkania Rodziny Radia Maryja\n                    \n                      W Holdzie Ojcu Swietemu Janowi Pawlowi II\n                    \n                      W nurcie nauczania Ojca Swietego Jana Pawla II\n                    \n                      W Rodzinie Radia Maryja\n                    \n                      Wiadomosci\n                    \n                      Z Ojczyzny Jezusa", "Audycja dla malzonków i rodziców", "Audycja dla mlodziezy", "Audycja dla rolników", "Audycja literacka", "Czas pozdrowien", "Czas Wzrastania", "Czytac, aby byc madrym", "Czytasz i wiecej wiesz", "Eucharystia", "Fascynacje muzyczne", "Felieton Z Cyklu Glos Z Francji", "Felieton z cyklu Myslac Ojczyzna", "Felieton Z Cyklu Spróbuj Pomyslec", "Glos Z Krakowa", "Godzinki ku czci Niepokalanego Poczecia N.M.P", "Informacje dnia", "Jutrznia", "Katecheza", "Kompleta", "Koronka do Bozego Milosierdzia", "Medytacja", "Medytacja Ignacjanska", "Modlitwa Aniol Panski", "Modlitwa popoludniowa z Liturgii Godzin", "Modlitwy dzieci", "Moge, chce pomóc", "Muzyka mistrzów", "Nabozenstwo majowe", "Nowenna Do Matki Bozej Nieustajacej Pomocy", "Papiez Polak do rodaków", "Porady ekologa", "Porady Kulinarne", "Porady lekarskie", "Porady pedagoga i psychologa", "Program dla USA i Kanady", "Program nocny", "Przeglad Tygodnika Katolickiego", "Pytania o Slowo Boze", "Radiowa lektura", "Rózaniec", "Rozmowy niedokonczone", "Rozpoczecie programu", "Serwis informacyjny", "Spotkania z Biblia", "Szukajac Slowa Bozego", "Transmisja Apelu z Jasnej Góry", "Transmisja Mszy sw", "Transmisja Spotkania Rodziny Radia Maryja", "W Holdzie Ojcu Swietemu Janowi Pawlowi II", "W nurcie nauczania Ojca Swietego Jana Pawla II", "W Rodzinie Radia Maryja", "Wiadomosci", "Z Ojczyzny Jezusa"],
+        "radio_source": "http://51.68.135.155:80/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/bd/c4/bdc4d6e5c7ecd4834e1f3651df33a635.jpg"
+    }, {
+        "title": "Radio Wrota Nadziei",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Wrota_Nadziei",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/ed/3c/ed3c4040e1e1651fca406bcd61d123d5.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Kuyavian-Pomeranian",
+            "link": "/radios/country/Poland/state/Kuyavian_Pomeranian"
+        }, {
+            "title": "Torun",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Christian", "Gospel", "Religious", "Talk"],
+        "location": {
+            "city": "Torun",
+            "country": "Poland"
+        },
+        "profile_slogan": "Głosząc Ewangelię Wszelkiemu Stworzeniu",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Radio Wrota Nadziei jest inicjatywą Kościoła Bożego w Toruniu oraz Fundacji Wrota Nadziei.Nasze cele:Uwielbiać Pana Jezusa ChrystusaGłosić ewangelię wszelkiemu stworzeniePromować czytanie i zrozumienie Pisma Świętego",
+            "rest": "Radio Wrota Nadziei jest inicjatywą Kościoła Bożego w Toruniu oraz Fundacji Wrota Nadziei.Nasze cele:Uwielbiać Pana Jezusa ChrystusaGłosić ewangelię wszelkiemu stworzeniePromować czytanie i zrozumienie Pisma Świętego"
+        },
+        "radio_contacts": {
+            "short": "Radio Wrota Nadziei jest inicjatywą Kościoła Bożego w Toruniu oraz Fundacji Wrota Nadziei.Nasze cele:Uwielbiać Pana Jezusa ChrystusaGłosić ewangelię wszelkiemu stworzeniePromować czytanie i zrozumienie Pisma Świętego",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radio.wrotanadziei.org",
+            "facebook": "http://www.facebook.com/radiowrotanadziei/",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "SIM Radio",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/SIM_Radio",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/5a/1b/5a1b46bed8ccaee7bcde836ab4d14348.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Kuyavian-Pomeranian",
+            "link": "/radios/country/Poland/state/Kuyavian_Pomeranian"
+        }, {
+            "title": "Torun",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["College", "Entertainment"],
+        "location": {
+            "city": "Torun",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "SIM Radio is an internet college radio station from Torun, Poland, providing music and entertainment.",
+            "rest": "SIM Radio is an internet college radio station from Torun, Poland, providing music and entertainment."
+        },
+        "radio_contacts": {
+            "short": "SIM Radio is an internet college radio station from Torun, Poland, providing music and entertainment.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.simradio.pl/",
+            "facebook": "",
+            "twitter": "http://twitter.com/SIM_Radio",
+            "phone": "720 323 793",
+            "address": "Rozgłośnia akademicka Wyższej Szkoły Kultury Społecznej i Medialnej ul. Droga Starotoruńska 3",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}, {
+    "title": "Warzachewka Polska",
+    "link": "https://streema.com/radios/Warzachewka_Polska",
+    "msg_results": "3 Radio Stations from Warzachewka Polska",
+    "page_copy": "Listen to radio stations from Warzachewka Polska, from a wide variety of genres like 80s, Classical, Disco, Electronica and Top 40.  Enjoy stations such as Radio Muza80, Radio ZNIN, Baby Radio and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Radio Muza80",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Muza_80",
+        "link_player": "/radios/play/Radio_Muza_80",
+        "image": "https://static-media.streema.com/media/cache/73/4f/734f0042723748fc180c278b08ce2c0d.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Kuyavian-Pomeranian",
+            "link": "/radios/country/Poland/state/Kuyavian_Pomeranian"
+        }, {
+            "title": "Warzachewka Polska",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["80s", "Disco", "Electronica", "Rock", "Top 40"],
+        "location": {
+            "city": "Warzachewka Polska",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://rm80.pl/",
+            "facebook": "http://www.facebook.com/Muza80/",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Muza_80",
+            "title": "Play Radio Muza80"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://91.232.4.33:9011/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/74/f0/74f04242b37a8d07fee2493ac8d7cfa9.jpg"
+    }, {
+        "title": "Radio ZNIN",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_ZNIN",
+        "link_player": "/radios/play/Radio_ZNIN",
+        "image": "https://static-media.streema.com/media/cache/1b/ac/1bacc1129ca88a8556983861336504cd.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Kuyavian-Pomeranian",
+            "link": "/radios/country/Poland/state/Kuyavian_Pomeranian"
+        }, {
+            "title": "Warzachewka Polska",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance", "Electronica", "News", "World"],
+        "location": {
+            "city": "Warzachewka Polska",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Radio Żnin",
+            "rest": "Radio Żnin"
+        },
+        "radio_contacts": {
+            "short": "Radio Żnin",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radioznin.fm/",
+            "facebook": "http://www.facebook.com/radiozninfm/",
+            "twitter": "http://twitter.com/Radio_Znin_FM",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_ZNIN",
+            "title": "Play Radio ZNIN"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream4.nadaje.com:8052/;;",
+        "radio_image": "https://static-media.streema.com/media/cache/97/64/9764a94f8f957ab998196b5082cc5faf.jpg"
+    }, {
+        "title": "Baby Radio",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Baby_Radio",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/de/45/de452dc2b9c690f8784aa8af85f32993.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Kuyavian-Pomeranian",
+            "link": "/radios/country/Poland/state/Kuyavian_Pomeranian"
+        }, {
+            "title": "Warzachewka Polska",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "\n        \n          \n          \n          \n          \n        ",
+            "stars": 5
+        },
+        "genres": ["Classical", "Entertainment"],
+        "location": {
+            "city": "Warzachewka Polska",
+            "country": "Poland"
+        },
+        "profile_slogan": "Pierwsze Radio Dzieci",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Baby Radio is an internet radio station for children broadcasting from Warzachewka Polska, Kuyavian-Pomeranian, Poland, providing music, stories, poems and entertainment.",
+            "rest": "Baby Radio is an internet radio station for children broadcasting from Warzachewka Polska, Kuyavian-Pomeranian, Poland, providing music, stories, poems and entertainment."
+        },
+        "radio_contacts": {
+            "short": "Baby Radio is an internet radio station for children broadcasting from Warzachewka Polska, Kuyavian-Pomeranian, Poland, providing music, stories, poems and entertainment.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.babyradio.pl/",
+            "facebook": "http://www.facebook.com/pages/Babyradiopl-radio-dzieci/123975630969278",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}, {
+    "title": "Wloclawek",
+    "link": "https://streema.com/radios/Wloclawek",
+    "msg_results": "15 Radio Stations from Wloclawek",
+    "page_copy": "Listen to radio stations from Wloclawek, from a wide variety of genres like Adult Contemporary, Dance, Metal, Rock and Top 40.  Enjoy stations such as Radio HIT, RMF - RMF MAXXX, Radio Megastacja - Kanal Mystica, Radio Megastacja Kanal Hot, Radio Megastacja Kanal Cafe Club and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Radio HIT",
+        "no_play": false,
+        "frequency": "FM 107.6",
+        "link_deatils": "/radios/Radio_Hit_3",
+        "link_player": "/radios/play/Radio_Hit_3",
+        "image": "https://static-media.streema.com/media/cache/0d/31/0d314ea2015cadc6fdf26e92b4d80943.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Kuyavian-Pomeranian",
+            "link": "/radios/country/Poland/state/Kuyavian_Pomeranian"
+        }, {
+            "title": "Wloclawek",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Pop", "Top 40"],
+        "location": {
+            "city": "Wloclawek",
+            "country": "Poland"
+        },
+        "profile_slogan": "Muzyka łagodzi obyczaje",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Radio HIT is a broadcast radio station from Wloclawek, Kuyavian-Pomeranian, Poland, playing Adult Contemporary, Top 40 and Pop radio music.",
+            "rest": "Radio HIT is a broadcast radio station from Wloclawek, Kuyavian-Pomeranian, Poland, playing Adult Contemporary, Top 40 and Pop radio music."
+        },
+        "radio_contacts": {
+            "short": "Radio HIT is a broadcast radio station from Wloclawek, Kuyavian-Pomeranian, Poland, playing Adult Contemporary, Top 40 and Pop radio music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiohit.net.pl/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "54 233 72 72",
+            "address": "ul. Ptasia 387-800 Włocławek, Poland",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Hit_3",
+            "title": "Play Radio HIT"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://46.170.199.85:8000/;",
+        "radio_image": "https://static-media.streema.com/media/cache/7f/26/7f26fa08f44ceae258bea43ded600c30.jpg"
+    }, {
+        "title": "RMF - RMF MAXXX",
+        "no_play": false,
+        "frequency": "FM 89.2",
+        "link_deatils": "/radios/Radio_Gra_Wloclawek",
+        "link_player": "/radios/play/Radio_Gra_Wloclawek",
+        "image": "https://static-media.streema.com/media/cache/0a/e7/0ae7cd830bc9178fc4decf84932c8fcd.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Kuyavian-Pomeranian",
+            "link": "/radios/country/Poland/state/Kuyavian_Pomeranian"
+        }, {
+            "title": "Wloclawek",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Dance", "Pop", "Top 40"],
+        "location": {
+            "city": "Wloclawek",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Portal rozrywkowy na którym znaleźć można zapowiedzi najważniejszych wydarzeń rozrywkowych i kulturalnych w woj. kujawsko-pomorskim w szczególności w takich miastach jak Bydgoszcz, Toruń, Włocławek i",
+            "rest": "Inowrocław. Wydarzenia, fotorelacje z najciekawszych imprez, baza klubów i restauracji w Bydgoszczy, Toruniu, Inowrocławiu, Włocławku. Na portalu należącym do Grupy Gra znajdują się również opisy programów Radia Gra i profile prezenterów i dziennikarzy czterech stacji radia G"
+        },
+        "radio_contacts": {
+            "short": "Portal rozrywkowy na którym znaleźć można zapowiedzi najważniejszych wydarzeń rozrywkowych i kulturalnych w woj. kujawsko-pomorskim w szczególności w takich miastach jak Bydgoszcz, Toruń, Włocławek i",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.rmfmaxxx.pl/",
+            "facebook": "http://www.facebook.com/pages/RMF-MAXXX/114083575305140",
+            "twitter": "http://twitter.com/rmfmaxxx",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Gra_Wloclawek",
+            "title": "Play RMF - RMF MAXXX"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://195.150.20.7/RMFMAXXX48",
+        "radio_image": "https://static-media.streema.com/media/cache/45/0c/450cc3750373dd06dde7ae2075137b96.jpg"
+    }, {
+        "title": "Radio Megastacja - Kanal Mystica",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Megastacja_Kanal_Mystica",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/75/4c/754c23f31f4d2af7d2aa2415d6edf4e9.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Kuyavian-Pomeranian",
+            "link": "/radios/country/Poland/state/Kuyavian_Pomeranian"
+        }, {
+            "title": "Wloclawek",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Celtic", "Gothic", "Metal", "Rock"],
+        "location": {
+            "city": "Wloclawek",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Radio Megastacja - Kanal Mystica is a radio channel on the Radio Megastacja internet radio station from Wloclawek, Poland providing mysterious, dark and sometimes spontaneous",
+            "rest": "melodies from Old Celtic sources."
+        },
+        "radio_contacts": {
+            "short": "Radio Megastacja - Kanal Mystica is a radio channel on the Radio Megastacja internet radio station from Wloclawek, Poland providing mysterious, dark and sometimes spontaneous",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://rock.megastacja.net/",
+            "facebook": "http://www.facebook.com/rock.megastacja.net?ref=stream&hc_location=stream",
+            "twitter": "",
+            "phone": "+48(22) 201 07 62",
+            "address": "3 Maja 9",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio Megastacja Kanal Hot",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Megastacja_Kanal_Hot",
+        "link_player": "",
+        "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Kuyavian-Pomeranian",
+            "link": "/radios/country/Poland/state/Kuyavian_Pomeranian"
+        }, {
+            "title": "Wloclawek",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [],
+        "location": {
+            "city": "Wloclawek",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Twój rytm twoja muzyka",
+            "rest": "Twój rytm twoja muzyka"
+        },
+        "radio_contacts": {
+            "short": "Twój rytm twoja muzyka",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio Megastacja Kanal Cafe Club",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Megastacja_Kanal_Cafe_Club",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/1d/98/1d989c2c58a292e2ac8b7929a3509728.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Kuyavian-Pomeranian",
+            "link": "/radios/country/Poland/state/Kuyavian_Pomeranian"
+        }, {
+            "title": "Wloclawek",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Top 40"],
+        "location": {
+            "city": "Wloclawek",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Pożegnaj się z komercją, włącz radio megastacja.net - MUZYKA DO PRACY, ROCK, MUZYKA FILMOWA, JAZZ. Konkursy, wejściówki na koncerty, Usłyszysz u nas zespół - Gorgonzolla,",
+            "rest": "International Rock Conspiracy 2011, MUSTAINE, WETWATER (blues connection) FESTIVAL, Pendragon ujawnia okładkę płyty. Trasa koncertowa już w kwietniu!, KillMatriarch - 'Revolution', Szwedzka formacja Steelwing supportem ACCEPT!, Polski Sonisphere Festival - oficjalne potwierdzenie headlinera Iron Maiden, MOTÖRHEAD"
+        },
+        "radio_contacts": {
+            "short": "Pożegnaj się z komercją, włącz radio megastacja.net - MUZYKA DO PRACY, ROCK, MUZYKA FILMOWA, JAZZ. Konkursy, wejściówki na koncerty, Usłyszysz u nas zespół - Gorgonzolla,",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.megastacja.net/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio Megastacja Kanal Club",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Megastacja_Kanal_Club",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/23/49/23496d8cdf291a4f72af9e4fe9eed7d5.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Kuyavian-Pomeranian",
+            "link": "/radios/country/Poland/state/Kuyavian_Pomeranian"
+        }, {
+            "title": "Wloclawek",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [],
+        "location": {
+            "city": "Wloclawek",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Twój rytm twoja muzyka",
+            "rest": "Twój rytm twoja muzyka"
+        },
+        "radio_contacts": {
+            "short": "Twój rytm twoja muzyka",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.megastacja.net/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio Megastacja Kanal Disco Polo",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Megastacja_Kanal_Disco_Polo",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/1d/98/1d989c2c58a292e2ac8b7929a3509728.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Kuyavian-Pomeranian",
+            "link": "/radios/country/Poland/state/Kuyavian_Pomeranian"
+        }, {
+            "title": "Wloclawek",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Disco", "Electronica"],
+        "location": {
+            "city": "Wloclawek",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Pożegnaj się z komercją, włącz radio megastacja.net - MUZYKA DO PRACY, ROCK, MUZYKA FILMOWA, JAZZ. Konkursy, wejściówki na koncerty, WETWATER (blues connection) FESTIVAL, Pendragon ujawnia",
+            "rest": "okładkę płyty. Trasa koncertowa już w kwietniu!, KillMatriarch - 'Revolution', Szwedzka formacja Steelwing supportem ACCEPT!, Polski Sonisphere Festival - oficjalne potwierdzenie headlinera Iron Maiden, MOTÖRHEAD drugą gwiazdą Sonisphere Festival 2011, Ozzy Osbourne na koncercie w Poznaniu w sier"
+        },
+        "radio_contacts": {
+            "short": "Pożegnaj się z komercją, włącz radio megastacja.net - MUZYKA DO PRACY, ROCK, MUZYKA FILMOWA, JAZZ. Konkursy, wejściówki na koncerty, WETWATER (blues connection) FESTIVAL, Pendragon ujawnia",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.megastacja.net/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio Megastacja Kanal Hip Hop",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Megastacja_Kanal_Hip_Hop",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/1d/98/1d989c2c58a292e2ac8b7929a3509728.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Kuyavian-Pomeranian",
+            "link": "/radios/country/Poland/state/Kuyavian_Pomeranian"
+        }, {
+            "title": "Wloclawek",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Hip Hop"],
+        "location": {
+            "city": "Wloclawek",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Pożegnaj się z komercją, włącz radio megastacja.net - MUZYKA DO PRACY, ROCK, MUZYKA FILMOWA, JAZZ. Konkursy, wejściówki na koncerty, Usłyszysz u nas zespół - Gorgonzolla,",
+            "rest": "International Rock Conspiracy 2011, MUSTAINE, WETWATER (blues connection) FESTIVAL, Pendragon ujawnia okładkę płyty. Trasa koncertowa już w kwietniu!, KillMatriarch - 'Revolution', Szwedzka formacja Steelwing supportem ACCEPT!, Polski Sonisphere Festival - oficjalne potwierdzenie headlinera Iron Maiden, MOTÖRHEAD"
+        },
+        "radio_contacts": {
+            "short": "Pożegnaj się z komercją, włącz radio megastacja.net - MUZYKA DO PRACY, ROCK, MUZYKA FILMOWA, JAZZ. Konkursy, wejściówki na koncerty, Usłyszysz u nas zespół - Gorgonzolla,",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.megastacja.net/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio Megastacja",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Megastacja_Kanal_Christmas",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/75/4c/754c23f31f4d2af7d2aa2415d6edf4e9.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Kuyavian-Pomeranian",
+            "link": "/radios/country/Poland/state/Kuyavian_Pomeranian"
+        }, {
+            "title": "Wloclawek",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Polish"],
+        "location": {
+            "city": "Wloclawek",
+            "country": "Poland"
+        },
+        "profile_slogan": "24h rockowego uderzenia",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Radio Megastacja Kanal Rock is an Internet Radio station from Wloclawek,",
+            "rest": "Radio Megastacja Kanal Rock is an Internet Radio station from Wloclawek,"
+        },
+        "radio_contacts": {
+            "short": "Radio Megastacja Kanal Rock is an Internet Radio station from Wloclawek,",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://rock.megastacja.net/",
+            "facebook": "http://www.facebook.com/rock.megastacja.net",
+            "twitter": "",
+            "phone": "+48(22) 201 07 62",
+            "address": "3 Maja 9 87-800 Wloclawek, Poland",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio Megastacja Kanal Polska",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Megastacja_Kanal_Polska",
+        "link_player": "",
+        "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Kuyavian-Pomeranian",
+            "link": "/radios/country/Poland/state/Kuyavian_Pomeranian"
+        }, {
+            "title": "Wloclawek",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [],
+        "location": {
+            "city": "Wloclawek",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Twój rytm twoja muzyka",
+            "rest": "Twój rytm twoja muzyka"
+        },
+        "radio_contacts": {
+            "short": "Twój rytm twoja muzyka",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio Megastacja Kanal Mix",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Megastacja_Kanal_Mix",
+        "link_player": "",
+        "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Kuyavian-Pomeranian",
+            "link": "/radios/country/Poland/state/Kuyavian_Pomeranian"
+        }, {
+            "title": "Wloclawek",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [],
+        "location": {
+            "city": "Wloclawek",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Twój rytm twoja muzyka",
+            "rest": "Twój rytm twoja muzyka"
+        },
+        "radio_contacts": {
+            "short": "Twój rytm twoja muzyka",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio Megastacja Romantica",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Megastacja_Romantica",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/75/4c/754c23f31f4d2af7d2aa2415d6edf4e9.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Kuyavian-Pomeranian",
+            "link": "/radios/country/Poland/state/Kuyavian_Pomeranian"
+        }, {
+            "title": "Wloclawek",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Gothic", "Jazz", "Love Songs", "Metal", "Rock"],
+        "location": {
+            "city": "Wloclawek",
+            "country": "Poland"
+        },
+        "profile_slogan": "24h rockowego uderzenia",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Radio Megastacja Romantica is an Internet Radio station from Wloclawek, playing rock, metal, gothic, jazz music.",
+            "rest": "Radio Megastacja Romantica is an Internet Radio station from Wloclawek, playing rock, metal, gothic, jazz music."
+        },
+        "radio_contacts": {
+            "short": "Radio Megastacja Romantica is an Internet Radio station from Wloclawek, playing rock, metal, gothic, jazz music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.megastacja.net/",
+            "facebook": "http://www.facebook.com/rock.megastacja.net",
+            "twitter": "",
+            "phone": "+48(22) 201 07 62",
+            "address": "Rock.Megastacja.Net PO post 77 90-980 Lodz 7",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio Megastacja Kanal Mega Old Dance",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Megastacja_Kanal_Mega_Old_Dance",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/1d/98/1d989c2c58a292e2ac8b7929a3509728.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Kuyavian-Pomeranian",
+            "link": "/radios/country/Poland/state/Kuyavian_Pomeranian"
+        }, {
+            "title": "Wloclawek",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance", "Electronica"],
+        "location": {
+            "city": "Wloclawek",
+            "country": "Poland"
+        },
+        "profile_slogan": "24h rockowego uderzenia",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Radio Megastacja Kanal Mega Old Dance is an Internet Radio station from Wloclawek, playing Electronica and Dance music.",
+            "rest": "Radio Megastacja Kanal Mega Old Dance is an Internet Radio station from Wloclawek, playing Electronica and Dance music."
+        },
+        "radio_contacts": {
+            "short": "Radio Megastacja Kanal Mega Old Dance is an Internet Radio station from Wloclawek, playing Electronica and Dance music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.megastacja.net/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "+48(22) 201 07 62",
+            "address": "3 Maja 9 87-800 Wloclawek, Poland",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio Megastacja Kanal Trance",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Megastacja_Kanal_Trance",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/1d/98/1d989c2c58a292e2ac8b7929a3509728.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Kuyavian-Pomeranian",
+            "link": "/radios/country/Poland/state/Kuyavian_Pomeranian"
+        }, {
+            "title": "Wloclawek",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Trance"],
+        "location": {
+            "city": "Wloclawek",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Pożegnaj się z komercją, włącz radio megastacja.net - MUZYKA DO PRACY, ROCK, MUZYKA FILMOWA, JAZZ. Konkursy, wejściówki na koncerty, MUSTAINE, WETWATER (blues connection) FESTIVAL, Pendragon",
+            "rest": "ujawnia okładkę płyty. Trasa koncertowa już w kwietniu!, KillMatriarch - 'Revolution', Szwedzka formacja Steelwing supportem ACCEPT!, Polski Sonisphere Festival - oficjalne potwierdzenie headlinera Iron Maiden, MOTÖRHEAD drugą gwiazdą Sonisphere Festival 2011, Ozzy Osbourne na koncercie w Pozna"
+        },
+        "radio_contacts": {
+            "short": "Pożegnaj się z komercją, włącz radio megastacja.net - MUZYKA DO PRACY, ROCK, MUZYKA FILMOWA, JAZZ. Konkursy, wejściówki na koncerty, MUSTAINE, WETWATER (blues connection) FESTIVAL, Pendragon",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.megastacja.net/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio Rock.megastacja.net",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Rock.megastacja.net",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/4c/4c/4c4c4ad9e57137338e1cc1179a2d6bb2.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Kuyavian-Pomeranian",
+            "link": "/radios/country/Poland/state/Kuyavian_Pomeranian"
+        }, {
+            "title": "Wloclawek",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Alternative", "Metal", "Punk", "Rock"],
+        "location": {
+            "city": "Wloclawek",
+            "country": "Poland"
+        },
+        "profile_slogan": "Twój rytm Twoja muzyka",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Radio Rock.megastacja.net is an internet radio station from Wloclawek, Poland, providing Alernative, Metal and Punk Rock music.",
+            "rest": "Radio Rock.megastacja.net is an internet radio station from Wloclawek, Poland, providing Alernative, Metal and Punk Rock music."
+        },
+        "radio_contacts": {
+            "short": "Radio Rock.megastacja.net is an internet radio station from Wloclawek, Poland, providing Alernative, Metal and Punk Rock music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://rock.megastacja.net/",
+            "facebook": "http://www.facebook.com/rock.megastacja.net/info",
+            "twitter": "",
+            "phone": "+48(22) 201 07 62",
+            "address": "skr. pocztowa 77 90-980 Łódź 7",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}]

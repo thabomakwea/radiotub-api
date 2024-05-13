@@ -1,0 +1,452 @@
+[
+    {
+        "title": "Manama",
+        "link": "https://streema.com/radios/Manama",
+        "msg_results": "7 Radio Stations from Manama",
+        "page_copy": "Listen to radio stations from Manama, from a wide variety of genres like Adult Contemporary, Bollywood, Country, Islamic and Religious.  Enjoy stations such as Bahrain FM, The Voice of Ummah, Radio Bahrain, 961Oldies Online Radio, Discover Islam TV and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+        "radios": [
+            {
+                "title": "Bahrain FM",
+                "no_play": false,
+                "frequency": "FM 93.3",
+                "link_deatils": "/radios/Bahrain_FM",
+                "link_player": "/radios/play/Bahrain_FM",
+                "image": "https://static-media.streema.com/media/cache/66/09/660936881c4418bb2b7434d5269e8d1c.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "Bahrain",
+                        "link": "/radios/country/Bahrain"
+                    },
+                    {
+                        "title": "Manama",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "30 Listens",
+                    "stars": 0
+                },
+                "genres": [
+                    "Arabic",
+                    "News",
+                    "Talk"
+                ],
+                "location": {
+                    "city": "Manama",
+                    "country": "Bahrain"
+                },
+                "profile_slogan": "",
+                "radio_language": "Arabic",
+                "radio_info": {
+                    "short": "Bahrain FM provides Bahrain World News from the most comprehensive global news network on the internet. News and analysis on Bahrain and international current events,",
+                    "rest": "media, audio, concert, music and more. Searchable news in 44 languages from WorldNews Network"
+                },
+                "radio_contacts": {
+                    "short": "Bahrain FM provides Bahrain World News from the most comprehensive global news network on the internet. News and analysis on Bahrain and international current events,",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.bahrainfm.com/",
+                    "facebook": "",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Bahrain_FM",
+                    "title": "Play Bahrain FM"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://185.105.4.106:1935/live/radio-93-3/playlist.m3u8",
+                "radio_image": "https://static-media.streema.com/media/cache/8d/7e/8d7e75d93c336932bdf3e2c0d6e68061.jpg"
+            },
+            {
+                "title": "The Voice of Ummah",
+                "no_play": false,
+                "frequency": "Web",
+                "link_deatils": "/radios/The_Voice_of_Ummah",
+                "link_player": "/radios/play/The_Voice_of_Ummah",
+                "image": "https://static-media.streema.com/media/cache/db/55/db55f3ed1c795bc6bbb3a9ff554a91d7.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "Bahrain",
+                        "link": "/radios/country/Bahrain"
+                    },
+                    {
+                        "title": "Manama",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Islamic",
+                    "Religious",
+                    "Spanish",
+                    "Spiritual"
+                ],
+                "location": {
+                    "city": "Manama",
+                    "country": "Bahrain"
+                },
+                "profile_slogan": "Islam Is The Only Solution!",
+                "radio_language": "Spanish",
+                "radio_info": {
+                    "short": "The Voice of Ummah Is an Internet Based radio website from , The First Islamic Internet Radio Channel From Bahrain, which streams URDU / ARABIC",
+                    "rest": " and ENGLISH programs."
+                },
+                "radio_contacts": {
+                    "short": "The Voice of Ummah Is an Internet Based radio website from , The First Islamic Internet Radio Channel From Bahrain, which streams URDU / ARABIC",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.voiceofummah.org/",
+                    "facebook": "http://www.facebook.com/pages/The-Voice-of-Ummah/150903981652027",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": "https://static-media.streema.com/media/cache/a1/6e/a16e8c78a659e92f125061684ceaa6d9.jpg"
+            },
+            {
+                "title": "Radio Bahrain",
+                "no_play": true,
+                "frequency": "AM 1584",
+                "link_deatils": "/radios/Radio_Bahrain",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/3d/ed/3ded3c83abaa0a56cd2942f3a2da7aa0.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "Bahrain",
+                        "link": "/radios/country/Bahrain"
+                    },
+                    {
+                        "title": "Manama",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "\n        \n          \n          \n          \n          \n        ",
+                    "stars": 3
+                },
+                "genres": [
+                    "Adult Contemporary",
+                    "Variety"
+                ],
+                "location": {
+                    "city": "Manama",
+                    "country": "Bahrain"
+                },
+                "profile_slogan": "The Beat of the Gulf",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "Other than playing music, Radio Bahrain broadcast local and intertiol news every hour. He also broadcasts weather forecasts, traffic news, local announcements, live reports from",
+                    "rest": "various sporting, social and economic events that happen on the island. Also, this station plays recorded programs such as: classical music, general interest features, Islamic, historical, recipes, book club, comedy, drama, in-concert as well as live English commentary on major sporting events."
+                },
+                "radio_contacts": {
+                    "short": "Other than playing music, Radio Bahrain broadcast local and intertiol news every hour. He also broadcasts weather forecasts, traffic news, local announcements, live reports from",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.radiobahrain.fm/",
+                    "facebook": "",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            },
+            {
+                "title": "961Oldies Online Radio",
+                "no_play": true,
+                "frequency": "Web",
+                "link_deatils": "/radios/961Oldies_Online_Radio",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/5b/da/5bda7d9f09a6eea1cdfe2077eb81a93e.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "Bahrain",
+                        "link": "/radios/country/Bahrain"
+                    },
+                    {
+                        "title": "Manama",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "80s",
+                    "90s",
+                    "Arabesk",
+                    "English"
+                ],
+                "location": {
+                    "city": "Manama",
+                    "country": "Bahrain"
+                },
+                "profile_slogan": "",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contacts": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.961oldies.com/",
+                    "facebook": "http://www.facebook.com/961oldies",
+                    "twitter": "http://twitter.com/961oldies",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            },
+            {
+                "title": "Discover Islam TV",
+                "no_play": true,
+                "frequency": "Web",
+                "link_deatils": "/radios/Discover_Islam_TV",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/26/41/26417411d10e29cff54ecc77a67adfa0.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "Bahrain",
+                        "link": "/radios/country/Bahrain"
+                    },
+                    {
+                        "title": "Manama",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Islamic",
+                    "Religious"
+                ],
+                "location": {
+                    "city": "Manama",
+                    "country": "Bahrain"
+                },
+                "profile_slogan": "",
+                "radio_language": "Multilingual",
+                "radio_info": {
+                    "short": "Tune in to Religious and Secular Society, Women’s in Herritance, as well as shows such as Mainstream Islam, and many more. ------ Shows: Timeless Time,",
+                    "rest": " A Tribute to Muhammad Asad, Abortion Contraception, After Math of Sep. 11th, Architects in Nature, Aritual prayer in Islam, Astray, Behind The Musical: Cat Steven’s, Choosing Islam, Christian Debate, Christian Muslim Relationship, Cloning, Colonized Minds, Coming To Grips with 21st Century, Commonly Misunder Stood, Da’awa: Islamic out Reach, Da’awah: Islamic Out reach, Deeper Roots, Dialogue of civilizations, Dietary Laws in Islam, Does Religion Teach Terrorism, Dome Of The Rock, Dr.Murad Hofman, Dressing Modestly, Facts That Science Reveals, Faith Was Against Free Expression, Fathwa’s Against Free Expression, Film: The Message, Food Regulations in Islam, Future of Muslims, God - a Historical Perspective, God Man Relationship, History of Al Madinah Al Munawara, How to Counter the False Image, Implementing Shari’ah, In Search Of Inner Peace, Is Islam an Arab Religion?, Islam & Democracy: Women in Islam, Shariah; Islamic Law, Islam and Christianity, Islam and Muslims, Islam and Terrorism, Islam and the West, Islam and The West, Islam and Violence, Islam In Africa, Islam in India, Islam Under Attack, Islam: A Pictorid Essay, Islam: Empire of faith, Islamic Fundamentalism, Islamic Social Values, Islamization of Education, Jesus and Mary, Jihad and Terrorism, Let’s Pray # 1, Mainstream Islam, Marriage in Islam, Miracle Of Man’s Creation, Miracle of Man's Creation, Mohammed In The Bible, Muslim Belief in Jesus, Muslim Hopes For The Future, Muslims in the next Millennium, Mystical Poetry in Islam, Names of God, One Big Family, Palestine is Still Issue, Polygamy and Divorce, Polygamy in Africa, Power of Israeli Lobby, Preview of U.S Debate in the U.A.E, Prophet Mohammad, Racism, Ramadan Mubarak, Readings From The Holy Quran, Religious and Secular Society, Saut Ul Quran, Shari’ah and Women, Social Disintegration, Spiritual and Health Benefits of Sallah, Spirituality in Islam, Splendor In The Seas, Swaggart vs Dedat, Tawheed, Tawheed the Islamic Doctrine of God, Terrorism, The Book of Signs, The Clash of Civilizations, The Collapse Of Evolution, The Creation Of The Universe, The Disasters Darwinism, The Disasters Darwinism Brought To Humanity, The explanation of the Holy Quran, The Guests of God, The History of Al-Aqsa, The Humble Muslim, The Life & Death Of Malcom, The Life of The Prophet Mohammad, The Miracle in the Cell, The Qur’an and Modern Science, The Quran and Space Science, The Quran And Space Sciences, The secret beyond matter, The Wonder of Islamic Science, True Islam and Fundamentalism, Universal Religion and Islam, War on Terrorism, Western Civilization & Islam, What is Islam?, What is Jihad?, What is Shari’ah?, Who is Allah?, Why A Ritual Prayer in Islam, Why False Image of Islam Flourish in America?, Women’s in Herritance"
+                },
+                "radio_contacts": {
+                    "short": "Tune in to Religious and Secular Society, Women’s in Herritance, as well as shows such as Mainstream Islam, and many more. ------ Shows: Timeless Time,",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.islamchannel.tv/DiscoverIslam/",
+                    "facebook": "",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [
+                    "Astray",
+                    "Choosing Islam",
+                    "Christian Debate",
+                    "Cloning",
+                    "Islam and Christianity",
+                    "See all shows...",
+                    "Islam and Muslims\n                    \n                      Islam and Terrorism\n                    \n                      Islam and the West\n                    \n                      Islam and The West\n                    \n                      Islam: Empire of faith\n                    \n                      Jesus and Mary\n                    \n                      Names of God\n                    \n                      Prophet Mohammad\n                    \n                      Racism\n                    \n                      Ramadan Mubarak\n                    \n                      Tawheed\n                    \n                      Terrorism\n                    \n                      War on Terrorism\n                    \n                      What is Islam?\n                    \n                      Who is Allah?",
+                    "Islam and Muslims",
+                    "Islam and Terrorism",
+                    "Islam and the West",
+                    "Islam and The West",
+                    "Islam: Empire of faith",
+                    "Jesus and Mary",
+                    "Names of God",
+                    "Prophet Mohammad",
+                    "Racism",
+                    "Ramadan Mubarak",
+                    "Tawheed",
+                    "Terrorism",
+                    "War on Terrorism",
+                    "What is Islam?",
+                    "Who is Allah?"
+                ]
+            },
+            {
+                "title": "Your FM 104.2",
+                "no_play": true,
+                "frequency": "FM 104.2",
+                "link_deatils": "/radios/Radio_Voice_104.2",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/1b/75/1b75a48c15582a5a4aff55105186ad9b.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "Bahrain",
+                        "link": "/radios/country/Bahrain"
+                    },
+                    {
+                        "title": "Manama",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Bollywood",
+                    "Entertainment",
+                    "Indian",
+                    "Information"
+                ],
+                "location": {
+                    "city": "Manama",
+                    "country": "Bahrain"
+                },
+                "profile_slogan": "Desi Doz Har Roz",
+                "radio_language": "Multilingual",
+                "radio_info": {
+                    "short": "Your FM 104.2 is a broadcast Radio station from Manama, Bahrain, providing Infotainment programs 24x7 / 365 days a year with special programs all through",
+                    "rest": "the day in Hindi and Malayalam."
+                },
+                "radio_contacts": {
+                    "short": "Your FM 104.2 is a broadcast Radio station from Manama, Bahrain, providing Infotainment programs 24x7 / 365 days a year with special programs all through",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.yourfm.bh/",
+                    "facebook": "http://www.facebook.com/YourFm104.2",
+                    "twitter": "http://twitter.com/1042RV",
+                    "phone": "+973 17 36 93 70",
+                    "address": "13, Building No. 618,  Road No. 3914, Block No.339,  P.O. Box No. 76024,  Kingdom of Bahrain",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            },
+            {
+                "title": "Radio Voice",
+                "no_play": true,
+                "frequency": "Web",
+                "link_deatils": "/radios/Radio_Voice",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/e5/8f/e58f0cb26796ce054fc51eac72d4d253.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "Bahrain",
+                        "link": "/radios/country/Bahrain"
+                    },
+                    {
+                        "title": "Manama",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Bollywood",
+                    "Country",
+                    "Folk"
+                ],
+                "location": {
+                    "city": "Manama",
+                    "country": "Bahrain"
+                },
+                "profile_slogan": "U R NOT ALONE ! The only Asian Radio Station in the Kingdom of Bahrain",
+                "radio_language": "Hindi",
+                "radio_info": {
+                    "short": "Radio Voice is an internet radio station from Manama, Bahrain providing Local music.",
+                    "rest": "Radio Voice is an internet radio station from Manama, Bahrain providing Local music."
+                },
+                "radio_contacts": {
+                    "short": "Radio Voice is an internet radio station from Manama, Bahrain providing Local music.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.radiovoice.bh/",
+                    "facebook": "http://www.facebook.com/rv1042",
+                    "twitter": "http://twitter.com/1042RV",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            }
+        ]
+    }
+]

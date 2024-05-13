@@ -1,0 +1,321 @@
+[{
+    "title": "Örebro",
+    "link": "https://streema.com/radios/Orebro",
+    "msg_results": "6 Radio Stations from Örebro",
+    "page_copy": "Listen to radio stations from Örebro, from a wide variety of genres like Children's Family, Music, News, Swedish and Talk.  Enjoy stations such as SR P4 Örebro, Kurdradyo, Radio Campus Örebro, Bananradion, FM SS Radio and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "SR P4 Örebro",
+        "no_play": false,
+        "frequency": "FM 102.8",
+        "link_deatils": "/radios/SR_P4_Orebo",
+        "link_player": "/radios/play/SR_P4_Orebo",
+        "image": "https://static-media.streema.com/media/cache/64/9a/649abfde7126cc030f5ef4857b777c5b.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Örebro",
+            "link": "/country/Sweden/state/Orebro"
+        }, {
+            "title": "Örebro",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Information", "News", "Talk"],
+        "location": {
+            "city": "Örebro",
+            "country": "Sweden"
+        },
+        "profile_slogan": "",
+        "radio_language": "Swedish",
+        "radio_info": {
+            "short": "SR P4 Örebro is a broadcast radio station from Örebro, Sweden providing Local news, current affairs, culture, talk, live shows and music. ------ Shows: Barnradion,",
+            "rest": " Bildningsbyrån, Boulevard, Boulevard, Country, Da Capo, Dagens Eko Kvart I Fem, Dokumentär, Ekonyheter, Enhörning & Livh, Fredagsfabriken, Frukost, Karlavagnen, Klartext, Kulturspaning, Lantz I P4, Livemusik, Mannheimer & Tengby, Melodikrysset, Önskeskivan, P4 Dans, P4 Extra, P4 Junior, P4 Musik, P4 Premiär, P4 Retro, Radiosporten, Rakt På Sak, Ring Så Spelar Vi, Sisuradio, Sportextra, Svensktoppen, Unga Radioteatern, Vaken, Wermelin, Wollter I P4"
+        },
+        "radio_contacts": {
+            "short": "SR P4 Örebro is a broadcast radio station from Örebro, Sweden providing Local news, current affairs, culture, talk, live shows and music. ------ Shows: Barnradion,",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://sverigesradio.se/sida/default.aspx?programid=159",
+            "facebook": "http://www.facebook.com/SRP4orebro",
+            "twitter": "http://twitter.com/P4Orebro",
+            "phone": "+46 19 19 20 00",
+            "address": "Västra Bangatan 15",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/SR_P4_Orebo",
+            "title": "Play SR P4 Örebro"
+        },
+        "radio_shows": ["Barnradion", "Country", "Da Capo", "Dokumentär", "Karlavagnen", "See all shows...", "Klartext\n                    \n                      Lantz I P4\n                    \n                      Melodikrysset\n                    \n                      P4 Dans\n                    \n                      P4 Extra\n                    \n                      P4 Musik\n                    \n                      P4 Premiär\n                    \n                      Radiosporten\n                    \n                      Ring Så Spelar Vi\n                    \n                      Sisuradio\n                    \n                      Sportextra\n                    \n                      Svensktoppen\n                    \n                      Vaken\n                    \n                      Wermelin", "Klartext", "Lantz I P4", "Melodikrysset", "P4 Dans", "P4 Extra", "P4 Musik", "P4 Premiär", "Radiosporten", "Ring Så Spelar Vi", "Sisuradio", "Sportextra", "Svensktoppen", "Vaken", "Wermelin"],
+        "radio_source": "http://http-live.sr.se/p4orebro-aac-32",
+        "radio_image": "https://static-media.streema.com/media/cache/7a/d0/7ad0eb0a51cdb800f3aed97a2c347ed5.jpg"
+    }, {
+        "title": "Kurdradyo",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Kurdradyo",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/a8/54/a854e82c23e5b1ee6d354eba40015ec3.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Örebro",
+            "link": "/country/Sweden/state/Orebro"
+        }, {
+            "title": "Örebro",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Classics", "Folk", "Music", "Swedish"],
+        "location": {
+            "city": "Örebro",
+            "country": "Sweden"
+        },
+        "profile_slogan": "",
+        "radio_language": "",
+        "radio_info": {
+            "short": "Kurdradyo är en Web-radiostation från Örebro, Örebro, Sweden, som spelar Music.",
+            "rest": "Kurdradyo är en Web-radiostation från Örebro, Örebro, Sweden, som spelar Music."
+        },
+        "radio_contacts": {
+            "short": "Kurdradyo är en Web-radiostation från Örebro, Örebro, Sweden, som spelar Music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.kurdradio.se/",
+            "facebook": "http://www.facebook.com/kurdradio.se/",
+            "twitter": "",
+            "phone": "+46737334444",
+            "address": "Riagatan Örebro / Sweden",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio Campus Örebro",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Campus_Orebro",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/e8/07/e80751065f78aecb5ebc71f08cb73775.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Örebro",
+            "link": "/country/Sweden/state/Orebro"
+        }, {
+            "title": "Örebro",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["College", "Ethnic", "Hits", "Swedish"],
+        "location": {
+            "city": "Örebro",
+            "country": "Sweden"
+        },
+        "profile_slogan": "Radio Campus Örebro radiocampus.se",
+        "radio_language": "Swedish",
+        "radio_info": {
+            "short": "Radio Campus Örebro is a web based internet radio station from Sweden that plays Swedish genre of music.",
+            "rest": "Radio Campus Örebro is a web based internet radio station from Sweden that plays Swedish genre of music."
+        },
+        "radio_contacts": {
+            "short": "Radio Campus Örebro is a web based internet radio station from Sweden that plays Swedish genre of music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://radiocampus.se/",
+            "facebook": "http://www.facebook.com/radiocampusorebro",
+            "twitter": "",
+            "phone": "",
+            "address": "Fakultetsgatan 3, 70218 Örebro, Sweden",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Bananradion",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Bananradion",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/54/41/5441854c2665361fcc3b1c347335ce55.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Örebro",
+            "link": "/country/Sweden/state/Orebro"
+        }, {
+            "title": "Örebro",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Children's Family", "Pop", "Swedish", "World"],
+        "location": {
+            "city": "Örebro",
+            "country": "Sweden"
+        },
+        "profile_slogan": "Lyssna på svängig musik 24/7",
+        "radio_language": "Swedish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://bananradion.bananklubben.se/",
+            "facebook": "http://www.facebook.com/bananradion/",
+            "twitter": "http://twitter.com/bananklubben",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "FM SS Radio",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/fmssradio",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/af/7f/af7fba350e26ebd7c00c31bf782364b7.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Örebro",
+            "link": "/country/Sweden/state/Orebro"
+        }, {
+            "title": "Örebro",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["African", "Hip Hop", "Rap", "Talk"],
+        "location": {
+            "city": "Örebro",
+            "country": "Sweden"
+        },
+        "profile_slogan": "fmssradio",
+        "radio_language": "French",
+        "radio_info": {
+            "short": "We are an online music radio station offering different types of musics , broadcastings, interviews, publicities, promotions for your campany, ect.....For more info, please check",
+            "rest": "k www.fmssradio.com"
+        },
+        "radio_contacts": {
+            "short": "We are an online music radio station offering different types of musics , broadcastings, interviews, publicities, promotions for your campany, ect.....For more info, please check",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://fmssradio.com/",
+            "facebook": "",
+            "twitter": "http://twitter.com/FmssRstation",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Örebro Närradio",
+        "no_play": true,
+        "frequency": "FM 95.3",
+        "link_deatils": "/radios/Orebro_Narradio",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/1d/46/1d467bfc58016a3e5202dfa7f32193c9.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Örebro",
+            "link": "/country/Sweden/state/Orebro"
+        }, {
+            "title": "Örebro",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Culture"],
+        "location": {
+            "city": "Örebro",
+            "country": "Sweden"
+        },
+        "profile_slogan": "",
+        "radio_language": "Swedish",
+        "radio_info": {
+            "short": "Orebro Narradio är en FM-radiostation från Örebro, Örebro, Sweden, som spelar Culture.",
+            "rest": "Orebro Narradio är en FM-radiostation från Örebro, Örebro, Sweden, som spelar Culture."
+        },
+        "radio_contacts": {
+            "short": "Orebro Narradio är en FM-radiostation från Örebro, Örebro, Sweden, som spelar Culture.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.orebronarradio.se/",
+            "facebook": "http://www.facebook.com/pages/%C3%96rebro-N%C3%A4rradio-953-MHz/120932844666559",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}]

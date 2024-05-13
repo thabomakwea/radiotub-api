@@ -1,0 +1,71 @@
+[
+    {
+        "title": "Malabo",
+        "link": "https://streema.com/radios/Malabo_2",
+        "msg_results": "1 Radio Stations from Malabo",
+        "page_copy": "Listen to radio stations from Malabo, from a wide variety of genres like Live Shows, News, Sports and Talk.  Enjoy stations such as TVGE International and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+        "radios": [
+            {
+                "title": "TVGE International",
+                "no_play": true,
+                "frequency": "Web",
+                "link_deatils": "/radios/TVGE_International",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/b1/97/b1978603748c0c29e65bb5c25e640d41.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Equatorial Guinea",
+                        "link": "/radios/country/Niue"
+                    },
+                    {
+                        "title": "Malabo",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Live Shows",
+                    "News",
+                    "Sports",
+                    "Talk"
+                ],
+                "location": {
+                    "city": "Malabo",
+                    "country": "Equatorial Guinea"
+                },
+                "profile_slogan": "",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "TVGE International is an internet radio station from Bata, Equatorial Guinea providing Sports news, information, talk shows and live matches.",
+                    "rest": "TVGE International is an internet radio station from Bata, Equatorial Guinea providing Sports news, information, talk shows and live matches."
+                },
+                "radio_contacts": {
+                    "short": "TVGE International is an internet radio station from Bata, Equatorial Guinea providing Sports news, information, talk shows and live matches.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.rtvgeint.tv/",
+                    "facebook": "http://www.facebook.com/pages/Tvgeinternacional-tracetv-mtv-tve-super-sport-y-aqui-no-hay-quien-viva/152546901533737",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            }
+        ]
+    }
+]

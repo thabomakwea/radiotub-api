@@ -1,0 +1,385 @@
+[{
+    "title": "Madrid",
+    "link": "https://streema.com/radios/Madrid_Norte",
+    "msg_results": "7 Radio Stations from Madrid",
+    "page_copy": "Listen to radio stations from Madrid, from a wide variety of genres like 70s, 80s, Balada, Pop and Rock.  Enjoy stations such as BananaSka, Formula Disco Spain, Onda Wantuki Madrid, Formula Disco - Formula Romantica Spain , Formula Rockera Online and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "BananaSka",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Banana_Ska",
+        "link_player": "/radios/play/Banana_Ska",
+        "image": "https://static-media.streema.com/media/cache/32/d1/32d12ce8512b608fdc84463257fb6702.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/country/Spain"
+        }, {
+            "title": "Community of Madrid",
+            "link": "/country/Spain/state/Madrid_2"
+        }, {
+            "title": "Madrid",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Punk", "Reggae", "Ska", "Tropical"],
+        "location": {
+            "city": "Madrid",
+            "country": "Spain"
+        },
+        "profile_slogan": "The best Ska of all times live from Madrid :)",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Ska! Ska! Ska! :)",
+            "rest": "Ska! Ska! Ska! :)"
+        },
+        "radio_contacts": {
+            "short": "Ska! Ska! Ska! :)",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://bananaska.playtheradio.com/",
+            "facebook": "",
+            "twitter": "http://twitter.com/BananaSkaRadio",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Banana_Ska",
+            "title": "Play BananaSka"
+        },
+        "radio_shows": [""],
+        "radio_source": "https://streamingv2.shoutcast.com/BananaSka",
+        "radio_image": "https://static-media.streema.com/media/cache/81/21/812194001d614c4cf22cf5eb51cb001b.jpg"
+    }, {
+        "title": "Formula Disco Spain",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Formula_Disco",
+        "link_player": "/radios/play/Formula_Disco",
+        "image": "https://static-media.streema.com/media/cache/ea/dc/eadc1fc4ec5d2c67fa3ad5a627dde502.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/country/Spain"
+        }, {
+            "title": "Community of Madrid",
+            "link": "/country/Spain/state/Madrid_2"
+        }, {
+            "title": "Madrid",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["70s", "80s", "Balada", "Classic Hits"],
+        "location": {
+            "city": "Madrid",
+            "country": "Spain"
+        },
+        "profile_slogan": "Directo al corazon",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.formuladisco.tk/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Formula_Disco",
+            "title": "Play Formula Disco Spain"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://one.cloudstreaming.eu:6112/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/bf/b6/bfb6ede9c79df1c2203b468598281309.jpg"
+    }, {
+        "title": "Onda Wantuki Madrid",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Onda_Wantuki_Madrid",
+        "link_player": "/radios/play/Onda_Wantuki_Madrid",
+        "image": "https://static-media.streema.com/media/cache/67/14/6714f70f01354f25c142cdbbe36d931c.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/country/Spain"
+        }, {
+            "title": "Community of Madrid",
+            "link": "/country/Spain/state/Madrid_2"
+        }, {
+            "title": "Madrid",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["80s", "Country", "Pop", "Rock"],
+        "location": {
+            "city": "Madrid",
+            "country": "Spain"
+        },
+        "profile_slogan": "Los mejores programas de diferentes emisoras libres de Madrid y más cosas",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Emisión de distintos programas de varias radios libres, siempre buena música.",
+            "rest": "Emisión de distintos programas de varias radios libres, siempre buena música."
+        },
+        "radio_contacts": {
+            "short": "Emisión de distintos programas de varias radios libres, siempre buena música.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://onda-wantuki-wc.webnode.es/",
+            "facebook": "http://www.facebook.com/roberto.roberplus/",
+            "twitter": "http://twitter.com/wantukis",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Onda_Wantuki_Madrid",
+            "title": "Play Onda Wantuki Madrid"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.zeno.fm/5dfkzqm70s8uv",
+        "radio_image": "https://static-media.streema.com/media/cache/d9/e6/d9e6617a95db0da5ea3628dec2420e7f.jpg"
+    }, {
+        "title": "Formula Disco - Formula Romantica Spain",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Formula_Disco_Formula_Romantica_Spain",
+        "link_player": "/radios/play/Formula_Disco_Formula_Romantica_Spain",
+        "image": "https://static-media.streema.com/media/cache/d0/99/d099f41965eebe8aa192a2e3335f989f.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/country/Spain"
+        }, {
+            "title": "Community of Madrid",
+            "link": "/country/Spain/state/Madrid_2"
+        }, {
+            "title": "Madrid",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["90s", "Balada", "Bolero", "Romantic"],
+        "location": {
+            "city": "Madrid",
+            "country": "Spain"
+        },
+        "profile_slogan": "Directo Al Corazó",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.formuladisco.tk/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Formula_Disco_Formula_Romantica_Spain",
+            "title": "Play Formula Disco - Formula Romantica Spain "
+        },
+        "radio_shows": [""],
+        "radio_source": "http://one.cloudstreaming.eu:6100/live",
+        "radio_image": "https://static-media.streema.com/media/cache/ba/da/badae800077ebb9fbeefd19a1a36fce6.jpg"
+    }, {
+        "title": "Formula Rockera Online",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Formula_Disco_Formula_Online_Radio",
+        "link_player": "/radios/play/Formula_Disco_Formula_Online_Radio",
+        "image": "https://static-media.streema.com/media/cache/a5/6d/a56dc6912ce1e18528370cdd7bc70c7c.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/country/Spain"
+        }, {
+            "title": "Community of Madrid",
+            "link": "/country/Spain/state/Madrid_2"
+        }, {
+            "title": "Madrid",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Classic Rock", "Hard Rock", "Metal", "Rock"],
+        "location": {
+            "city": "Madrid",
+            "country": "Spain"
+        },
+        "profile_slogan": "El Mejor Rock de Todos Los Tiempos.",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "la mejor seleccion musical, pop rock de los 90s 2000s y programas de jazz, blues, rock, country, misterio y contenidos de interes.",
+            "rest": "la mejor seleccion musical, pop rock de los 90s 2000s y programas de jazz, blues, rock, country, misterio y contenidos de interes."
+        },
+        "radio_contacts": {
+            "short": "la mejor seleccion musical, pop rock de los 90s 2000s y programas de jazz, blues, rock, country, misterio y contenidos de interes.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.formuladisco.tk/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Formula_Disco_Formula_Online_Radio",
+            "title": "Play Formula Rockera Online"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://one.cloudstreaming.eu:6123/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/79/b3/79b32ca4aa43aa7d4cbe83ce10eb3602.jpg"
+    }, {
+        "title": "Melodía FM",
+        "no_play": false,
+        "frequency": "FM 94.6",
+        "link_deatils": "/radios/Melodia_FM_10",
+        "link_player": "/radios/play/Melodia_FM_10",
+        "image": "https://static-media.streema.com/media/cache/4f/72/4f72c0211eee26455ab36122d0c89f5f.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/country/Spain"
+        }, {
+            "title": "Community of Madrid",
+            "link": "/country/Spain/state/Madrid_2"
+        }, {
+            "title": "Madrid",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Hits", "Pop", "Spanish"],
+        "location": {
+            "city": "Madrid",
+            "country": "Spain"
+        },
+        "profile_slogan": "Siente la buena musica",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Melodía FM 94.6 is a broadcast radio station from Madrid Norte, Spain, providing adult contemporary, best Spanish and international pop rock of the eighties and",
+            "rest": "nineties."
+        },
+        "radio_contacts": {
+            "short": "Melodía FM 94.6 is a broadcast radio station from Madrid Norte, Spain, providing adult contemporary, best Spanish and international pop rock of the eighties and",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.melodia-fm.com/",
+            "facebook": "http://www.facebook.com/tumelodiafm",
+            "twitter": "http://twitter.com/melodia_fm",
+            "phone": "91 436 68 00",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Melodia_FM_10",
+            "title": "Play Melodía FM"
+        },
+        "radio_shows": [""],
+        "radio_source": "",
+        "radio_image": "https://static-media.streema.com/media/cache/fd/5d/fd5d4dc5a14228f674d83e99fb9b3b54.jpg"
+    }, {
+        "title": "Radio Oblivion Boulevard",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/65_75_Oblivion_Boulevard",
+        "link_player": "/radios/play/65_75_Oblivion_Boulevard",
+        "image": "https://static-media.streema.com/media/cache/25/c7/25c7c40dc5a0f74c98d02bf8339c75ed.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/country/Spain"
+        }, {
+            "title": "Community of Madrid",
+            "link": "/country/Spain/state/Madrid_2"
+        }, {
+            "title": "Madrid",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["60s", "70s", "Rock", "Soul"],
+        "location": {
+            "city": "Madrid",
+            "country": "Spain"
+        },
+        "profile_slogan": "From the epicentre of the best music vibes....Radio Oblivion Boulevard",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "This advertising-free Internet radio (24x7) intends to pay tribute to many singers and groups, mainly British and American, that have faded away (or almost) into",
+            "rest": "\"oblivion\" but that contributed to the big changes experienced in the rock, folk, soul and blues scene around the period 1965-1975, probably the most influential decade in the evolution of popular music towards the modern styles and genres of today.\nGenres: 60s, 70s, Rock, Folk, Soul\n\n"
+        },
+        "radio_contacts": {
+            "short": "This advertising-free Internet radio (24x7) intends to pay tribute to many singers and groups, mainly British and American, that have faded away (or almost) into",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://oblivion-boulevard.torontocast.stream/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/65_75_Oblivion_Boulevard",
+            "title": "Play Radio Oblivion Boulevard"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streaming.radionomy.com/65-75OBLIVIONBOULEVARD",
+        "radio_image": "https://static-media.streema.com/media/cache/3b/0e/3b0ef29585bb8b444b2a41b9915af316.jpg"
+    }]
+}]

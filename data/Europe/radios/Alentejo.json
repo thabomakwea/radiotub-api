@@ -1,0 +1,898 @@
+[{
+        "title": "Elvas",
+        "link": "https://streema.com/radios/Elvas",
+        "msg_results": "5 Radio Stations from Elvas",
+        "page_copy": "Listen to radio stations from Elvas, from a wide variety of genres like Classic Hits, Classic Rock, Oldies, Pop and RnB.  Enjoy stations such as Rádio Elvas, Rádio Nostalgia Elvas, Radio K7 , CC Radio Portugal, Renascenca Elvas and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+        "radios": [{
+                "title": "Rádio Elvas",
+                "no_play": false,
+                "frequency": "FM 91.5",
+                "link_deatils": "/radios/Radio_Elvas",
+                "link_player": "/radios/play/Radio_Elvas",
+                "image": "https://static-media.streema.com/media/cache/da/17/da174e7887ba2777dde5aeb5bc8a86cd.jpg",
+                "breadcrumb": [{
+                        "title": "Europe",
+                        "link": "/radios/region/Europe"
+                    },
+                    {
+                        "title": "Portugal",
+                        "link": "/radios/country/Portugal"
+                    },
+                    {
+                        "title": "Alentejo",
+                        "link": "/radios/country/Portugal/state/Alentejo"
+                    },
+                    {
+                        "title": "Elvas",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Community",
+                    "Information"
+                ],
+                "location": {
+                    "city": "Elvas",
+                    "country": "Portugal"
+                },
+                "profile_slogan": "Estação de rádio regional do Alentejo",
+                "radio_language": "Portuguese",
+                "radio_info": {
+                    "short": "The [Radio Elvas] began regular broadcasts on 10 February 2001. On August 15, 2001, the Radio Elvas also begins broadcasting on 104.3 FM, with the",
+                    "rest": "power of 50 W, one microcobertura to the city of Elvas and surroundings, which also reaches Campo Maior and Badajoz."
+                },
+                "radio_contacts": {
+                    "short": "The [Radio Elvas] began regular broadcasts on 10 February 2001. On August 15, 2001, the Radio Elvas also begins broadcasting on 104.3 FM, with the",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.radioelvas.com/",
+                    "facebook": "http://www.facebook.com/pages/R%C3%A1dio-ELVAS/300211689941",
+                    "twitter": "http://twitter.com/radioelvas",
+                    "phone": "+351 268 622 044",
+                    "address": "R. dos Chilões 1 R/C, 7350 Elvas (Portugal)",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Radio_Elvas",
+                    "title": "Play Rádio Elvas"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://radios.dotsi.pt:8025/stream",
+                "radio_image": "https://static-media.streema.com/media/cache/4d/6f/4d6fa88119a26fb034e4742f430e0e30.jpg"
+            },
+            {
+                "title": "Rádio Nostalgia Elvas",
+                "no_play": false,
+                "frequency": "Web",
+                "link_deatils": "/radios/Radio_Nostalgia_Elvas",
+                "link_player": "/radios/play/Radio_Nostalgia_Elvas",
+                "image": "https://static-media.streema.com/media/cache/7f/35/7f35051f778de705164654314035b521.jpg",
+                "breadcrumb": [{
+                        "title": "Europe",
+                        "link": "/radios/region/Europe"
+                    },
+                    {
+                        "title": "Portugal",
+                        "link": "/radios/country/Portugal"
+                    },
+                    {
+                        "title": "Alentejo",
+                        "link": "/radios/country/Portugal/state/Alentejo"
+                    },
+                    {
+                        "title": "Elvas",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Classic Hits",
+                    "Classic Rock",
+                    "Oldies",
+                    "Pop",
+                    "RnB"
+                ],
+                "location": {
+                    "city": "Elvas",
+                    "country": "Portugal"
+                },
+                "profile_slogan": "Bons tempos, grandes canções!",
+                "radio_language": "Portuguese",
+                "radio_info": {
+                    "short": "No ar desde 2014, a transmitir a partir da bonita cidade fronteiriça de Elvas, a Rádio Nostalgia Elvas é uma estação de rádio que apresenta",
+                    "rest": "uma programação focada na música que marcou o passado."
+                },
+                "radio_contacts": {
+                    "short": "No ar desde 2014, a transmitir a partir da bonita cidade fronteiriça de Elvas, a Rádio Nostalgia Elvas é uma estação de rádio que apresenta",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://radio-nostalgiaelvas.blogspot.com/",
+                    "facebook": "http://www.facebook.com/radio.nostalgiaelvas",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Radio_Nostalgia_Elvas",
+                    "title": "Play Rádio Nostalgia Elvas"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://stm6.srvstm.com:6162/;;",
+                "radio_image": "https://static-media.streema.com/media/cache/5d/36/5d3678d5fa2079233048860c14a8145b.jpg"
+            },
+            {
+                "title": "Radio K7",
+                "no_play": false,
+                "frequency": "Web",
+                "link_deatils": "/radios/Radio_K7",
+                "link_player": "/radios/play/Radio_K7",
+                "image": "https://static-media.streema.com/media/cache/d6/07/d6075088dccaf08cfc66a031801d482b.jpg",
+                "breadcrumb": [{
+                        "title": "Europe",
+                        "link": "/radios/region/Europe"
+                    },
+                    {
+                        "title": "Portugal",
+                        "link": "/radios/country/Portugal"
+                    },
+                    {
+                        "title": "Alentejo",
+                        "link": "/radios/country/Portugal/state/Alentejo"
+                    },
+                    {
+                        "title": "Elvas",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Classic Hits",
+                    "Classic Rock",
+                    "Oldies",
+                    "Pop",
+                    "RnB"
+                ],
+                "location": {
+                    "city": "Elvas",
+                    "country": "Portugal"
+                },
+                "profile_slogan": "Musica com historia",
+                "radio_language": "Portuguese",
+                "radio_info": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contacts": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://radiok7.lusitaniacb.net/",
+                    "facebook": "http://www.facebook.com/gruporadiolusitaniacb",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Radio_K7",
+                    "title": "Play Radio K7 "
+                },
+                "radio_shows": [""],
+                "radio_source": "https://sslstreamconverter.com/public/radiostreamfiles/radio397.php",
+                "radio_image": "https://static-media.streema.com/media/cache/57/20/572018cd6e3a06375e8a191011c9ffe4.jpg"
+            },
+            {
+                "title": "CC Radio Portugal",
+                "no_play": false,
+                "frequency": "Web",
+                "link_deatils": "/radios/CC_RADIO_PORTUGAL",
+                "link_player": "/radios/play/CC_RADIO_PORTUGAL",
+                "image": "https://static-media.streema.com/media/cache/c8/51/c8516677c442080d1ff6d65af4eea316.jpg",
+                "breadcrumb": [{
+                        "title": "Europe",
+                        "link": "/radios/region/Europe"
+                    },
+                    {
+                        "title": "Portugal",
+                        "link": "/radios/country/Portugal"
+                    },
+                    {
+                        "title": "Alentejo",
+                        "link": "/radios/country/Portugal/state/Alentejo"
+                    },
+                    {
+                        "title": "Elvas",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Dance Hits",
+                    "Hits",
+                    "Romantic"
+                ],
+                "location": {
+                    "city": "Elvas",
+                    "country": "Portugal"
+                },
+                "profile_slogan": "Inspira-te!",
+                "radio_language": "Portuguese",
+                "radio_info": {
+                    "short": "Webradio romantica do Grupo Radio Lusitania CB",
+                    "rest": "Webradio romantica do Grupo Radio Lusitania CB"
+                },
+                "radio_contacts": {
+                    "short": "Webradio romantica do Grupo Radio Lusitania CB",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.ccradio.lusitaniacb.net/",
+                    "facebook": "",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/CC_RADIO_PORTUGAL",
+                    "title": "Play CC Radio Portugal"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://rlcbdance.no-ip.org:8000/;;",
+                "radio_image": "https://static-media.streema.com/media/cache/d2/8e/d28eeae3a41a61d8158712a4a4ecb99b.jpg"
+            },
+            {
+                "title": "Renascenca Elvas",
+                "no_play": false,
+                "frequency": "FM 99.8",
+                "link_deatils": "/radios/Renascenca_Elvas",
+                "link_player": "/radios/play/Renascenca_Elvas",
+                "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+                "breadcrumb": [{
+                        "title": "Europe",
+                        "link": "/radios/region/Europe"
+                    },
+                    {
+                        "title": "Portugal",
+                        "link": "/radios/country/Portugal"
+                    },
+                    {
+                        "title": "Alentejo",
+                        "link": "/radios/country/Portugal/state/Alentejo"
+                    },
+                    {
+                        "title": "Elvas",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Religious",
+                    "Sports"
+                ],
+                "location": {
+                    "city": "Elvas",
+                    "country": "Portugal"
+                },
+                "profile_slogan": "",
+                "radio_language": "Portuguese",
+                "radio_info": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contacts": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.rr-elvas.com/",
+                    "facebook": "",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Renascenca_Elvas",
+                    "title": "Play Renascenca Elvas"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA.flv",
+                "radio_image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.150.1311873be3ab.png"
+            }
+        ]
+    },
+    {
+        "title": "Évora",
+        "link": "https://streema.com/radios/Evora",
+        "msg_results": "9 Radio Stations from Évora",
+        "page_copy": "Listen to radio stations from Évora, from a wide variety of genres like 80s, Disco, Latin, Pop and Portuguese.  Enjoy stations such as Rádio Quando Portugal Canta, Radio Telefonia do Alentejo, Radio 7 Mares, Rádio Campanário, Radio Star Mix and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+        "radios": [{
+                "title": "Rádio Quando Portugal Canta",
+                "no_play": false,
+                "frequency": "Web",
+                "link_deatils": "/radios/Radio_Quando_Portugal_Canta",
+                "link_player": "/radios/play/Radio_Quando_Portugal_Canta",
+                "image": "https://static-media.streema.com/media/cache/26/ca/26ca8d5cf88dd86c5e4315212f7bf45a.jpg",
+                "breadcrumb": [{
+                        "title": "Europe",
+                        "link": "/radios/region/Europe"
+                    },
+                    {
+                        "title": "Portugal",
+                        "link": "/radios/country/Portugal"
+                    },
+                    {
+                        "title": "Alentejo",
+                        "link": "/radios/country/Portugal/state/Alentejo"
+                    },
+                    {
+                        "title": "Évora",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Anime",
+                    "Disco",
+                    "Kizomba",
+                    "Latin"
+                ],
+                "location": {
+                    "city": "Évora",
+                    "country": "Portugal"
+                },
+                "profile_slogan": "a radio que toca no seu coraçao",
+                "radio_language": "Portuguese",
+                "radio_info": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contacts": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://radio-quando-portugal-canta.webnode.com/",
+                    "facebook": "http://www.facebook.com/canta.portugal.92",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Radio_Quando_Portugal_Canta",
+                    "title": "Play Rádio Quando Portugal Canta"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://stream.zeno.fm/utvwsxzcz4zuv",
+                "radio_image": "https://static-media.streema.com/media/cache/43/8c/438ccc3ba45dccd7166dc7bab4f0469b.jpg"
+            },
+            {
+                "title": "Radio Telefonia do Alentejo",
+                "no_play": false,
+                "frequency": "FM 103.2",
+                "link_deatils": "/radios/Radio_Telefonia_do_Alentejo",
+                "link_player": "/radios/play/Radio_Telefonia_do_Alentejo",
+                "image": "https://static-media.streema.com/media/cache/60/76/60761369f6555b861d1dd43d3cbf30ff.jpg",
+                "breadcrumb": [{
+                        "title": "Europe",
+                        "link": "/radios/region/Europe"
+                    },
+                    {
+                        "title": "Portugal",
+                        "link": "/radios/country/Portugal"
+                    },
+                    {
+                        "title": "Alentejo",
+                        "link": "/radios/country/Portugal/state/Alentejo"
+                    },
+                    {
+                        "title": "Évora",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "News",
+                    "Pop",
+                    "Portuguese",
+                    "Talk"
+                ],
+                "location": {
+                    "city": "Évora",
+                    "country": "Portugal"
+                },
+                "profile_slogan": "Uma Onda De Emoções!",
+                "radio_language": "Portuguese",
+                "radio_info": {
+                    "short": "Radio Telefonia do Alentejo is a broadcast radio station from Évora, Alentejo, Portugal, providing Portuguese, News, Talk and playing Pop music.",
+                    "rest": "Radio Telefonia do Alentejo is a broadcast radio station from Évora, Alentejo, Portugal, providing Portuguese, News, Talk and playing Pop music."
+                },
+                "radio_contacts": {
+                    "short": "Radio Telefonia do Alentejo is a broadcast radio station from Évora, Alentejo, Portugal, providing Portuguese, News, Talk and playing Pop music.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.radiotelefoniadoalentejo.com.pt/",
+                    "facebook": "http://www.facebook.com/R%C3%A1dio-Telefonia-do-Alentejo-1032-634674866629636/",
+                    "twitter": "http://twitter.com/RadioTelefonia",
+                    "phone": "+351 266 730 415",
+                    "address": "Instalações - Estrada de Arraiolos, Km 2 - Arcos da Cartuxa • 7000-683 Évora, Portugal",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Radio_Telefonia_do_Alentejo",
+                    "title": "Play Radio Telefonia do Alentejo"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://centova.radio.com.pt/proxy/561?mp=/stream",
+                "radio_image": "https://static-media.streema.com/media/cache/1a/a3/1aa3287ae18a811175302ebdd2fc727a.jpg"
+            },
+            {
+                "title": "Radio 7 Mares",
+                "no_play": false,
+                "frequency": "Web",
+                "link_deatils": "/radios/Radio_7_Mares",
+                "link_player": "/radios/play/Radio_7_Mares",
+                "image": "https://static-media.streema.com/media/cache/bb/69/bb6992feb36b6590dc15e193ad4f6b7b.jpg",
+                "breadcrumb": [{
+                        "title": "Europe",
+                        "link": "/radios/region/Europe"
+                    },
+                    {
+                        "title": "Portugal",
+                        "link": "/radios/country/Portugal"
+                    },
+                    {
+                        "title": "Alentejo",
+                        "link": "/radios/country/Portugal/state/Alentejo"
+                    },
+                    {
+                        "title": "Évora",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "80s",
+                    "Pop",
+                    "Portuguese",
+                    "World"
+                ],
+                "location": {
+                    "city": "Évora",
+                    "country": "Portugal"
+                },
+                "profile_slogan": "Bem vindas e Bem vindos",
+                "radio_language": "Portuguese",
+                "radio_info": {
+                    "short": "A Radio 7 Mares a radio da amizade, com musica ao seu gosto e um espaço de expressão e convivio. Sejam bem vindas e bem",
+                    "rest": "vindos"
+                },
+                "radio_contacts": {
+                    "short": "A Radio 7 Mares a radio da amizade, com musica ao seu gosto e um espaço de expressão e convivio. Sejam bem vindas e bem",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://radio7mares7.wixsite.com/radio",
+                    "facebook": "http://www.facebook.com/groups/SandraRamalhoSetemares/",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Radio_7_Mares",
+                    "title": "Play Radio 7 Mares"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://195.154.177.67:8066/;",
+                "radio_image": "https://static-media.streema.com/media/cache/2c/f6/2cf66f56161d56fae35e272c4bf921a7.jpg"
+            },
+            {
+                "title": "Rádio Campanário",
+                "no_play": false,
+                "frequency": "FM 90.6",
+                "link_deatils": "/radios/Radio_Campanario",
+                "link_player": "/radios/play/Radio_Campanario",
+                "image": "https://static-media.streema.com/media/cache/9b/28/9b28406db9a54205fd07733975d7ac48.jpg",
+                "breadcrumb": [{
+                        "title": "Europe",
+                        "link": "/radios/region/Europe"
+                    },
+                    {
+                        "title": "Portugal",
+                        "link": "/radios/country/Portugal"
+                    },
+                    {
+                        "title": "Alentejo",
+                        "link": "/radios/country/Portugal/state/Alentejo"
+                    },
+                    {
+                        "title": "Évora",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Top 40"
+                ],
+                "location": {
+                    "city": "Évora",
+                    "country": "Portugal"
+                },
+                "profile_slogan": "Voice of Vila Viçosa",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "The Belfry Radio - Voice of Vila Viçosa CRL began operating officially February 11, 1987 in the form of cooperative. Before he had worked some",
+                    "rest": "time as experimental.\n \nThis antenna station came in response to a gap exists in the area: the need to give voice to the Alentejo and disclosure of everything that is happening in the Alentejo cultural, religious, sports, information ...\n \nIn his rise to radio had its studios and transmitter antenna at St. Bartholomew, thus deriving its name 'Belfast'. Later changed to the existing facilities and its antenna to a higher coverage. Over the 21 years of existence has been modernized with regard to facilities and technological level."
+                },
+                "radio_contacts": {
+                    "short": "The Belfry Radio - Voice of Vila Viçosa CRL began operating officially February 11, 1987 in the form of cooperative. Before he had worked some",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.radiocampanario.com/r/",
+                    "facebook": "http://www.facebook.com/groups/154729377940706/",
+                    "twitter": "",
+                    "phone": "268980222 //  268999122  //  268881046",
+                    "address": "Rádio Campanário - Voz de Vila ViçosaApartado 227160-999 Vila Viçosa",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Radio_Campanario",
+                    "title": "Play Rádio Campanário"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://centova.radios.pt:8425/stream",
+                "radio_image": "https://static-media.streema.com/media/cache/22/09/220988837d6d99da4abf3568bbae6730.jpg"
+            },
+            {
+                "title": "Radio Star Mix",
+                "no_play": false,
+                "frequency": "Web",
+                "link_deatils": "/radios/Radio_Star_Mix",
+                "link_player": "/radios/play/Radio_Star_Mix",
+                "image": "https://static-media.streema.com/media/cache/78/ec/78ec610ec8711152eac874296eb8c014.jpg",
+                "breadcrumb": [{
+                        "title": "Europe",
+                        "link": "/radios/region/Europe"
+                    },
+                    {
+                        "title": "Portugal",
+                        "link": "/radios/country/Portugal"
+                    },
+                    {
+                        "title": "Alentejo",
+                        "link": "/radios/country/Portugal/state/Alentejo"
+                    },
+                    {
+                        "title": "Évora",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "60s",
+                    "80s",
+                    "90s",
+                    "Alternative"
+                ],
+                "location": {
+                    "city": "Évora",
+                    "country": "Portugal"
+                },
+                "profile_slogan": "",
+                "radio_language": "Portuguese",
+                "radio_info": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contacts": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://onradiostarmix.blogspot.com/",
+                    "facebook": "http://www.facebook.com/antonioouro.ouro.98",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Radio_Star_Mix",
+                    "title": "Play Radio Star Mix"
+                },
+                "radio_shows": [""],
+                "radio_source": "https://ssl.ndvendas.eu:9714/stream/;",
+                "radio_image": "https://static-media.streema.com/media/cache/ce/a9/cea97735a505cdd1d5a7d7a87106882d.jpg"
+            },
+            {
+                "title": "Radio Do Amor Ana Da Noite 2",
+                "no_play": false,
+                "frequency": "Web",
+                "link_deatils": "/radios/Radio_Do_Amor_Ana_Da_Noite",
+                "link_player": "/radios/play/Radio_Do_Amor_Ana_Da_Noite",
+                "image": "https://static-media.streema.com/media/cache/b6/ac/b6ac8631159fa1f565850dc43af99dd6.jpg",
+                "breadcrumb": [{
+                        "title": "Europe",
+                        "link": "/radios/region/Europe"
+                    },
+                    {
+                        "title": "Portugal",
+                        "link": "/radios/country/Portugal"
+                    },
+                    {
+                        "title": "Alentejo",
+                        "link": "/radios/country/Portugal/state/Alentejo"
+                    },
+                    {
+                        "title": "Évora",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Disco",
+                    "Fado",
+                    "Latin",
+                    "Romantic"
+                ],
+                "location": {
+                    "city": "Évora",
+                    "country": "Portugal"
+                },
+                "profile_slogan": "A Radio Onde Toca O Amor",
+                "radio_language": "Portuguese",
+                "radio_info": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contacts": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://radio-do-amor-ana-da-noite-2.webnode.fr/",
+                    "facebook": "http://www.facebook.com/Analuisaradioamoranadanoite/",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Radio_Do_Amor_Ana_Da_Noite",
+                    "title": "Play Radio Do Amor Ana Da Noite 2"
+                },
+                "radio_shows": [""],
+                "radio_source": "https://ssl.ndvendas.eu:9944/stream/;",
+                "radio_image": "https://static-media.streema.com/media/cache/0c/d6/0cd6156c776a75a797ad9f27e3a544ac.jpg"
+            },
+            {
+                "title": "Diana FM",
+                "no_play": false,
+                "frequency": "FM 94.1",
+                "link_deatils": "/radios/Diana_FM",
+                "link_player": "/radios/play/Diana_FM",
+                "image": "https://static-media.streema.com/media/cache/b6/15/b615b2e0d1adfe943648f19d103ffa39.jpg",
+                "breadcrumb": [{
+                        "title": "Europe",
+                        "link": "/radios/region/Europe"
+                    },
+                    {
+                        "title": "Portugal",
+                        "link": "/radios/country/Portugal"
+                    },
+                    {
+                        "title": "Alentejo",
+                        "link": "/radios/country/Portugal/state/Alentejo"
+                    },
+                    {
+                        "title": "Évora",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "News",
+                    "Sports"
+                ],
+                "location": {
+                    "city": "Évora",
+                    "country": "Portugal"
+                },
+                "profile_slogan": "",
+                "radio_language": "Portuguese",
+                "radio_info": {
+                    "short": "DianaFm's main aim is to provide the Alentejo Évora and a radio with quality programming. issue of The Evora on FM frequency of 94.1 MHz,",
+                    "rest": "is proud of the pair a strong informational component and debate opinions on local reality, the country and the world to offer its listeners, a careful selection of music and fun fied."
+                },
+                "radio_contacts": {
+                    "short": "DianaFm's main aim is to provide the Alentejo Évora and a radio with quality programming. issue of The Evora on FM frequency of 94.1 MHz,",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.dianafm.com/",
+                    "facebook": "http://www.facebook.com/rdianafm",
+                    "twitter": "http://twitter.com/radiodianafm",
+                    "phone": "+351 266 700 333",
+                    "address": "MARÉ EE 08, 7000-500 Évora Évora",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Diana_FM",
+                    "title": "Play Diana FM"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://centova.radio.com.pt:9460/stream",
+                "radio_image": "https://static-media.streema.com/media/cache/4b/13/4b13c0736c40398ce71792082cb4c86f.jpg"
+            },
+            {
+                "title": "Web Radio Portugal Mix",
+                "no_play": true,
+                "frequency": "Web",
+                "link_deatils": "/radios/WEB_RADIO_PORTUGAL_MIX",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/0c/51/0c512de45b2c97c21c9946b6ab794a76.jpg",
+                "breadcrumb": [{
+                        "title": "Europe",
+                        "link": "/radios/region/Europe"
+                    },
+                    {
+                        "title": "Portugal",
+                        "link": "/radios/country/Portugal"
+                    },
+                    {
+                        "title": "Alentejo",
+                        "link": "/radios/country/Portugal/state/Alentejo"
+                    },
+                    {
+                        "title": "Évora",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "80s",
+                    "Dance",
+                    "Europe",
+                    "Portuguese"
+                ],
+                "location": {
+                    "city": "Évora",
+                    "country": "Portugal"
+                },
+                "profile_slogan": "A  MUSICA E O OUVIINTE",
+                "radio_language": "Portuguese",
+                "radio_info": {
+                    "short": "WELCOME WEB RADIO PORTUGAL MIX",
+                    "rest": "WELCOME WEB RADIO PORTUGAL MIX"
+                },
+                "radio_contacts": {
+                    "short": "WELCOME WEB RADIO PORTUGAL MIX",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://xat.com/WEBRadioPortugalMix",
+                    "facebook": "http://www.facebook.com/WEBRadioPortugalMix",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""]
+            },
+            {
+                "title": "Radio Myplace Mix",
+                "no_play": true,
+                "frequency": "Web",
+                "link_deatils": "/radios/Radio_Myplace_Mix",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/59/76/597619ba0f4f9338240e2079c583a467.jpg",
+                "breadcrumb": [{
+                        "title": "Europe",
+                        "link": "/radios/region/Europe"
+                    },
+                    {
+                        "title": "Portugal",
+                        "link": "/radios/country/Portugal"
+                    },
+                    {
+                        "title": "Alentejo",
+                        "link": "/radios/country/Portugal/state/Alentejo"
+                    },
+                    {
+                        "title": "Évora",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Christian",
+                    "Music",
+                    "Portuguese"
+                ],
+                "location": {
+                    "city": "Évora",
+                    "country": "Portugal"
+                },
+                "profile_slogan": "",
+                "radio_language": "Portuguese",
+                "radio_info": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contacts": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://xat.com/SALA_Da_RADIO_Myplace_MiX",
+                    "facebook": "",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""]
+            }
+        ]
+    }
+]

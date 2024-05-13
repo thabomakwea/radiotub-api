@@ -1,0 +1,1039 @@
+[{
+    "title": "Bolzano",
+    "link": "https://streema.com/radios/Bolzano",
+    "msg_results": "5 Radio Stations from Bolzano",
+    "page_copy": "Listen to radio stations from Bolzano, from a wide variety of genres like Hits, Information, News, Pop and Variety.  Enjoy stations such as Radio Grüne Welle, Rai Südtirol, Radio Sacra Famiglia 91.2, Suedtirol 1, NBC Rete Regione FM and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Radio Grüne Welle",
+        "no_play": false,
+        "frequency": "FM 103.0",
+        "link_deatils": "/radios/Radio_Grune_Welle",
+        "link_player": "/radios/play/Radio_Grune_Welle",
+        "image": "https://static-media.streema.com/media/cache/e4/2b/e42b4aacec8488cf2cac5855a50de9a9.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Trentino-Alto Adige",
+            "link": "/country/Italy/state/Trentino_Alto_Adige"
+        }, {
+            "title": "Bolzano",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Folk", "German", "Italian"],
+        "location": {
+            "city": "Bolzano",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Kirchensender der diozese bozenbrixen",
+            "rest": "Kirchensender der diozese bozenbrixen"
+        },
+        "radio_contacts": {
+            "short": "Kirchensender der diozese bozenbrixen",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.rgw.it/",
+            "facebook": "http://www.facebook.com/Radio-Gr%C3%BCne-Welle-174904572363/",
+            "twitter": "http://twitter.com/GruneRadio",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Grune_Welle",
+            "title": "Play Radio Grüne Welle"
+        },
+        "radio_shows": [""],
+        "radio_source": "https://nr11.newradio.it:19196/rgwhigh",
+        "radio_image": "https://static-media.streema.com/media/cache/4c/0b/4c0bf201eb631204bfe825b140e786ae.jpg"
+    }, {
+        "title": "Rai Südtirol",
+        "no_play": false,
+        "frequency": "FM 99.6",
+        "link_deatils": "/radios/Rai_Sud_Tirol",
+        "link_player": "/radios/play/Rai_Sud_Tirol",
+        "image": "https://static-media.streema.com/media/cache/ab/0e/ab0eeaed037b7529cd2543f459893599.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Trentino-Alto Adige",
+            "link": "/country/Italy/state/Trentino_Alto_Adige"
+        }, {
+            "title": "Bolzano",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Community", "News", "Variety"],
+        "location": {
+            "city": "Bolzano",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Rai Südtirol ist das Südtiroler Gesicht, ist die Südtiroler Stimme des öffentlich-rechtlichen Rundfunks Rai. Mit der Tagesschau erreichen wir täglich bis zu 180 000 Zuschauer.",
+            "rest": "Zwei von drei Südtirolerinnen und Südtirolern entscheiden sich für unser Programm.\n\nRai Südtirol versteht sich als ein Stück Heimat und möchte auch Sie begleiten, unterhalten, informieren, wo immer Sie es wünschen. Im Hörfunk senden wir täglich über 15 Stunden, im Fernsehen durchschnittlich zwei Stunden. Es ist ein Mix aus aktueller Information und anspruchsvollem, vorwiegend in Südtirol produziertem Programm."
+        },
+        "radio_contacts": {
+            "short": "Rai Südtirol ist das Südtiroler Gesicht, ist die Südtiroler Stimme des öffentlich-rechtlichen Rundfunks Rai. Mit der Tagesschau erreichen wir täglich bis zu 180 000 Zuschauer.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.raibz.rai.it/",
+            "facebook": "",
+            "twitter": "http://twitter.com/raisuedtirol",
+            "phone": "0471 902111",
+            "address": "Mazziniplatz 23  39100 Bozen",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Rai_Sud_Tirol",
+            "title": "Play Rai Südtirol"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://radiobzlive.rai.it/RAIBZ_Livestream",
+        "radio_image": "https://static-media.streema.com/media/cache/f9/72/f9729629468a5ede4051dd916bb50c15.jpg"
+    }, {
+        "title": "Radio Sacra Famiglia 91.2",
+        "no_play": false,
+        "frequency": "FM 91.2",
+        "link_deatils": "/radios/Radio_Sacra_Famiglia_91.2",
+        "link_player": "/radios/play/Radio_Sacra_Famiglia_91.2",
+        "image": "https://static-media.streema.com/media/cache/5b/8a/5b8ac66383013dff7f881299a5b2b940.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Trentino-Alto Adige",
+            "link": "/country/Italy/state/Trentino_Alto_Adige"
+        }, {
+            "title": "Bolzano",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Information", "News", "Talk"],
+        "location": {
+            "city": "Bolzano",
+            "country": "Italy"
+        },
+        "profile_slogan": "La Radio della gente, per la gente",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Radio Sacra Famiglia is an Internet Radio station broadcasting from Bolzano, Trentino-Alto Adige, Italy, provides Local News and Information Programs.",
+            "rest": "Radio Sacra Famiglia is an Internet Radio station broadcasting from Bolzano, Trentino-Alto Adige, Italy, provides Local News and Information Programs."
+        },
+        "radio_contacts": {
+            "short": "Radio Sacra Famiglia is an Internet Radio station broadcasting from Bolzano, Trentino-Alto Adige, Italy, provides Local News and Information Programs.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiosacrafamiglia.it/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "0471-98.07.57",
+            "address": "Piazza Duomo, 3 39100 Bolzano Italia",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Sacra_Famiglia_91.2",
+            "title": "Play Radio Sacra Famiglia 91.2"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://nr6.newradio.it:9174/;listen&ext=.mp3;",
+        "radio_image": "https://static-media.streema.com/media/cache/30/57/3057b85c456348f4deeff6fd9ecae7ef.jpg"
+    }, {
+        "title": "Suedtirol 1",
+        "no_play": false,
+        "frequency": "FM 103.7",
+        "link_deatils": "/radios/Suedtirol",
+        "link_player": "/radios/play/Suedtirol",
+        "image": "https://static-media.streema.com/media/cache/13/9f/139f52ccac1df36bd2ddffafd7b56d1f.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Trentino-Alto Adige",
+            "link": "/country/Italy/state/Trentino_Alto_Adige"
+        }, {
+            "title": "Bolzano",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Comedy", "DJ", "Entertainment", "Hits"],
+        "location": {
+            "city": "Bolzano",
+            "country": "Italy"
+        },
+        "profile_slogan": "Südtirols bester Musikmix!",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Suedtirol 1 is a broadcast radio station from Bolzano, Italy providing News, Comedy, Music, Mix Hits and Entertainment.",
+            "rest": "Suedtirol 1 is a broadcast radio station from Bolzano, Italy providing News, Comedy, Music, Mix Hits and Entertainment."
+        },
+        "radio_contacts": {
+            "short": "Suedtirol 1 is a broadcast radio station from Bolzano, Italy providing News, Comedy, Music, Mix Hits and Entertainment.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.suedtirol1.it/",
+            "facebook": "http://www.facebook.com/suedtirol1",
+            "twitter": "http://twitter.com/Suedtirol1",
+            "phone": "+39 0471 443000",
+            "address": "Innsbruckerstraße 23, 39100 Bozen",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Suedtirol",
+            "title": "Play Suedtirol 1"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://str2.creacast.com/sudtirol1a",
+        "radio_image": "https://static-media.streema.com/media/cache/cb/83/cb83b1fef7c8c851fbaf30fb07c29f36.jpg"
+    }, {
+        "title": "NBC Rete Regione FM",
+        "no_play": false,
+        "frequency": "FM 88.4",
+        "link_deatils": "/radios/NBC_Rete_Regione_FM",
+        "link_player": "/radios/play/NBC_Rete_Regione_FM",
+        "image": "https://static-media.streema.com/media/cache/6a/ae/6aae0f57dffa665402c2d971022a0eb5.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Trentino-Alto Adige",
+            "link": "/country/Italy/state/Trentino_Alto_Adige"
+        }, {
+            "title": "Bolzano",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Hits", "Pop", "Top 40"],
+        "location": {
+            "city": "Bolzano",
+            "country": "Italy"
+        },
+        "profile_slogan": "La radio delle Alpi",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "NBC Rete Regione FM offers every day the best music of the moment, and of course a selection of the great successes of the past.",
+            "rest": "Do not miss the great big previews of the song. All tracks are also released without interruption from start to finish."
+        },
+        "radio_contacts": {
+            "short": "NBC Rete Regione FM offers every day the best music of the moment, and of course a selection of the great successes of the past.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://audio1.meway.tv:8016",
+            "facebook": "http://www.facebook.com/pages/Radio-Nbc/137769048117",
+            "twitter": "http://twitter.com/NBCreteregione",
+            "phone": "+39 0471 972747",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/NBC_Rete_Regione_FM",
+            "title": "Play NBC Rete Regione FM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://audio1.meway.tv:8016/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/f0/e2/f0e286cc8c0a6ba4d4bf0359acdbbb25.jpg"
+    }]
+}, {
+    "title": "Rovereto",
+    "link": "https://streema.com/radios/Rovereto",
+    "msg_results": "4 Radio Stations from Rovereto",
+    "page_copy": "Listen to radio stations from Rovereto, from a wide variety of genres like Children's Family, Italian, Music, Pop and Top 40.  Enjoy stations such as Radio Mater, Radio 80, Captivate Radio, Exformat and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Radio Mater",
+        "no_play": false,
+        "frequency": "FM 90.3",
+        "link_deatils": "/radios/Radio_Mater",
+        "link_player": "/radios/play/Radio_Mater",
+        "image": "https://static-media.streema.com/media/cache/ba/c1/bac10eef3b330551b9b46a5839a39dec.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Trentino-Alto Adige",
+            "link": "/country/Italy/state/Trentino_Alto_Adige"
+        }, {
+            "title": "Rovereto",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Children's Family", "Music"],
+        "location": {
+            "city": "Rovereto",
+            "country": "Italy"
+        },
+        "profile_slogan": "La radio che porta la Chiesa in casa e che tutti riunisce nell",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Radio Mater is a broadcast radio station from Rovereto, TRE, Italy providing Christian Religious music and program.",
+            "rest": "Radio Mater is a broadcast radio station from Rovereto, TRE, Italy providing Christian Religious music and program."
+        },
+        "radio_contacts": {
+            "short": "Radio Mater is a broadcast radio station from Rovereto, TRE, Italy providing Christian Religious music and program.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiomater.org/it/",
+            "facebook": "http://www.facebook.com/radiomater",
+            "twitter": "http://twitter.com/RadioMater",
+            "phone": "031 64.52.14",
+            "address": "Casella postale 1  22030 Longone al Segrino (Co)",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Mater",
+            "title": "Play Radio Mater"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://s3.shoutitaly.com:8016/;",
+        "radio_image": "https://static-media.streema.com/media/cache/d8/44/d844e428e782afd783d0ca835c5c6a6d.jpg"
+    }, {
+        "title": "Radio 80",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Gamma_The_Only_One",
+        "link_player": "/radios/play/Radio_Gamma_The_Only_One",
+        "image": "https://static-media.streema.com/media/cache/a4/54/a454811d0463bece6b49b36584008652.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Trentino-Alto Adige",
+            "link": "/country/Italy/state/Trentino_Alto_Adige"
+        }, {
+            "title": "Rovereto",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Hits", "Italian", "Pop", "Top 40"],
+        "location": {
+            "city": "Rovereto",
+            "country": "Italy"
+        },
+        "profile_slogan": "La prima radio dal Trentino nel mondo",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Radio 80 è una stazione radio en ligne di Rovereto, Trentino-Alto Adige, Italy, che trasmette Italian, Pop, Top 40.",
+            "rest": "Radio 80 è una stazione radio en ligne di Rovereto, Trentino-Alto Adige, Italy, che trasmette Italian, Pop, Top 40."
+        },
+        "radio_contacts": {
+            "short": "Radio 80 è una stazione radio en ligne di Rovereto, Trentino-Alto Adige, Italy, che trasmette Italian, Pop, Top 40.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiottanta.com/",
+            "facebook": "http://www.facebook.com/pages/RADIO-80-ForeverYoung/263919785081",
+            "twitter": "",
+            "phone": "0464413200",
+            "address": "Giovannini n.3 - 38068 Rovereto TN",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Gamma_The_Only_One",
+            "title": "Play Radio 80"
+        },
+        "radio_shows": [""],
+        "radio_source": "https://nr11.newradio.it:19208/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/8a/f4/8af4ed4574648955e954aed2a7c48309.jpg"
+    }, {
+        "title": "Captivate Radio",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Captivate_Radio",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/e5/05/e5059d160f3b876dfd562e52b2e3ebc3.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Trentino-Alto Adige",
+            "link": "/country/Italy/state/Trentino_Alto_Adige"
+        }, {
+            "title": "Rovereto",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [],
+        "location": {
+            "city": "Rovereto",
+            "country": "Italy"
+        },
+        "profile_slogan": "Lasciati Accaptivare",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Captivate Radio is an Internet Radio station broadcasting from Rovereto, Trentino-Alto Adige, Italy, providing Chill-out, Hits, Top Charts, Pop and Rock Music.",
+            "rest": "Captivate Radio is an Internet Radio station broadcasting from Rovereto, Trentino-Alto Adige, Italy, providing Chill-out, Hits, Top Charts, Pop and Rock Music."
+        },
+        "radio_contacts": {
+            "short": "Captivate Radio is an Internet Radio station broadcasting from Rovereto, Trentino-Alto Adige, Italy, providing Chill-out, Hits, Top Charts, Pop and Rock Music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.captivateradio.com/",
+            "facebook": "http://www.facebook.com/captivateradio",
+            "twitter": "http://twitter.com/CaptivateRadio",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Exformat",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Exformat",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/72/48/72487b7e4263d5ddfbe7621b2a9807e2.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Trentino-Alto Adige",
+            "link": "/country/Italy/state/Trentino_Alto_Adige"
+        }, {
+            "title": "Rovereto",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [],
+        "location": {
+            "city": "Rovereto",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Produzioni Cinetelevisive Teatro di Posa",
+            "rest": "Produzioni Cinetelevisive Teatro di Posa"
+        },
+        "radio_contacts": {
+            "short": "Produzioni Cinetelevisive Teatro di Posa",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.exformat.com/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}, {
+    "title": "Trento",
+    "link": "https://streema.com/radios/Trento",
+    "msg_results": "10 Radio Stations from Trento",
+    "page_copy": "Listen to radio stations from Trento, from a wide variety of genres like Adult Contemporary, Italian, News, Oldies and Pop.  Enjoy stations such as Radio Italia Anni 60 - Trentino Alto Adige, RTT La Radio, Radio Digi-One, SanbaRadio, Radio Italia Anni 60 - Trentino Alto Adige and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Radio Italia Anni 60 - Trentino Alto Adige",
+        "no_play": false,
+        "frequency": "FM 89.5",
+        "link_deatils": "/radios/Radio_Italia_Anni_60_Trentino_Alto_Adige",
+        "link_player": "/radios/play/Radio_Italia_Anni_60_Trentino_Alto_Adige",
+        "image": "https://static-media.streema.com/media/cache/84/44/8444111556061c748c5eb7b1059a0409.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Trentino-Alto Adige",
+            "link": "/country/Italy/state/Trentino_Alto_Adige"
+        }, {
+            "title": "Trento",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Italian", "Oldies"],
+        "location": {
+            "city": "Trento",
+            "country": "Italy"
+        },
+        "profile_slogan": "Le canzoni che si fanno recordare",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Radio Italia Anni 60 - Trentino Alto Adige is a broadcast radio station from Trento, Italy providing Oldies music.",
+            "rest": "Radio Italia Anni 60 - Trentino Alto Adige is a broadcast radio station from Trento, Italy providing Oldies music."
+        },
+        "radio_contacts": {
+            "short": "Radio Italia Anni 60 - Trentino Alto Adige is a broadcast radio station from Trento, Italy providing Oldies music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radioitaliatrentinoaltoadige.it/index.php",
+            "facebook": "http://www.facebook.com/RadioItaliaAnni60.TrentinoAltoAdige",
+            "twitter": "",
+            "phone": "0461/898990",
+            "address": "Via Zambra, 11",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Italia_Anni_60_Trentino_Alto_Adige",
+            "title": "Play Radio Italia Anni 60 - Trentino Alto Adige"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://ice10.fluidstream.net:8080/anni60tn.aac",
+        "radio_image": "https://static-media.streema.com/media/cache/7a/60/7a605faf088e9e2519641f17d2d6eb9c.jpg"
+    }, {
+        "title": "RTT La Radio",
+        "no_play": false,
+        "frequency": "FM 87.8",
+        "link_deatils": "/radios/RTT_la_Radio",
+        "link_player": "/radios/play/RTT_la_Radio",
+        "image": "https://static-media.streema.com/media/cache/23/35/23355a0b58c4224fe29e21969f6c969d.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Trentino-Alto Adige",
+            "link": "/country/Italy/state/Trentino_Alto_Adige"
+        }, {
+            "title": "Trento",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Italian", "News", "Pop", "Traffic"],
+        "location": {
+            "city": "Trento",
+            "country": "Italy"
+        },
+        "profile_slogan": "la radio del Trentino",
+        "radio_language": "Italy",
+        "radio_info": {
+            "short": "RTT la Radio è una stazione radio FM di Trento, Trentino-Alto Adige, Italy, che trasmette Italian, News, Pop.",
+            "rest": "RTT la Radio è una stazione radio FM di Trento, Trentino-Alto Adige, Italy, che trasmette Italian, News, Pop."
+        },
+        "radio_contacts": {
+            "short": "RTT la Radio è una stazione radio FM di Trento, Trentino-Alto Adige, Italy, che trasmette Italian, News, Pop.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radioetv.it/",
+            "facebook": "http://www.facebook.com/RTTLaRadio/",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/RTT_la_Radio",
+            "title": "Play RTT La Radio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://ice04.fluidstream.net:80/fluid7108.aac?FLID=1&type=.aac",
+        "radio_image": "https://static-media.streema.com/media/cache/64/db/64dbb4a3adc149ba8554b3da26d4e8cf.jpg"
+    }, {
+        "title": "Radio Digi-One",
+        "no_play": false,
+        "frequency": "FM 105.3",
+        "link_deatils": "/radios/Radio_Digi_One",
+        "link_player": "/radios/play/Radio_Digi_One",
+        "image": "https://static-media.streema.com/media/cache/4a/a1/4aa1338ec060a9c2f472b8c97ebf4d4d.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Trentino-Alto Adige",
+            "link": "/country/Italy/state/Trentino_Alto_Adige"
+        }, {
+            "title": "Trento",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Italian"],
+        "location": {
+            "city": "Trento",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Radio Digi-One è una stazione radio FM di Trento, Trentino-Alto Adige, Italy, che trasmette Italian.",
+            "rest": "Radio Digi-One è una stazione radio FM di Trento, Trentino-Alto Adige, Italy, che trasmette Italian."
+        },
+        "radio_contacts": {
+            "short": "Radio Digi-One è una stazione radio FM di Trento, Trentino-Alto Adige, Italy, che trasmette Italian.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiodigione.org/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Digi_One",
+            "title": "Play Radio Digi-One"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://188.165.192.5:8416/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/cd/04/cd0412011bcbd7a25ffa1c3742808eff.jpg"
+    }, {
+        "title": "SanbaRadio",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Sanbaradio",
+        "link_player": "/radios/play/Sanbaradio",
+        "image": "https://static-media.streema.com/media/cache/40/e4/40e4bac4c207e8b121596f7a320091bc.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Trentino-Alto Adige",
+            "link": "/country/Italy/state/Trentino_Alto_Adige"
+        }, {
+            "title": "Trento",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Community", "Italian", "Student Radio", "Talk"],
+        "location": {
+            "city": "Trento",
+            "country": "Italy"
+        },
+        "profile_slogan": "La radio degli studenti universitari di Trento",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Sanbaradio wants to be a communication tool, a reference point for the student community, certainly the one that is located in San Bartolomeo in the",
+            "rest": "student, but also of the entire student community and university thirties, want it to be a tool that can be used you to communicate, not unidirectional but multidirectional. in short, a community radio station."
+        },
+        "radio_contacts": {
+            "short": "Sanbaradio wants to be a communication tool, a reference point for the student community, certainly the one that is located in San Bartolomeo in the",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.sanbaradio.it/",
+            "facebook": "http://www.facebook.com/sanbaradio/",
+            "twitter": "http://twitter.com/sanbaradio",
+            "phone": "",
+            "address": "via della Malpensada, 140 38123 Trento, Trentino-Alto Adige, Italy",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Sanbaradio",
+            "title": "Play SanbaRadio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://ssl1.azotosolutions.com:8020/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/c6/4e/c64e80ee513fd509e0c1230feb643222.jpg"
+    }, {
+        "title": "Radio Italia Anni 60 - Trentino Alto Adige",
+        "no_play": false,
+        "frequency": "FM 89.5",
+        "link_deatils": "/radios/Radio_Italia_Anni_60_TAA",
+        "link_player": "/radios/play/Radio_Italia_Anni_60_TAA",
+        "image": "https://static-media.streema.com/media/cache/08/0e/080ebd97b379419627b0c4e1a73aec56.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Trentino-Alto Adige",
+            "link": "/country/Italy/state/Trentino_Alto_Adige"
+        }, {
+            "title": "Trento",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["60s", "70s", "80s", "Oldies"],
+        "location": {
+            "city": "Trento",
+            "country": "Italy"
+        },
+        "profile_slogan": "Radio Italia Anni 60 - Trentino Alto Adige",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Le canzoni che si fanno ricordare. Tutta la grande musica italiana ed internazionale dagli anni '60 ad oggi",
+            "rest": "Le canzoni che si fanno ricordare. Tutta la grande musica italiana ed internazionale dagli anni '60 ad oggi"
+        },
+        "radio_contacts": {
+            "short": "Le canzoni che si fanno ricordare. Tutta la grande musica italiana ed internazionale dagli anni '60 ad oggi",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radioitaliaannisessanta.it/index.php/taa-home",
+            "facebook": "http://www.facebook.com/pages/Radio-Italia-Anni-60/188764791167359",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Italia_Anni_60_TAA",
+            "title": "Play Radio Italia Anni 60 - Trentino Alto Adige"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://wma01.fluidstream.net:7140/;stream.nsv;",
+        "radio_image": "https://static-media.streema.com/media/cache/76/0b/760b8dad0c2f21f1882c742149713e51.jpg"
+    }, {
+        "title": "Radio Tele Trentino",
+        "no_play": false,
+        "frequency": "FM 87.8",
+        "link_deatils": "/radios/Radio_Tele_Trentino",
+        "link_player": "/radios/play/Radio_Tele_Trentino",
+        "image": "https://static-media.streema.com/media/cache/a1/41/a141aa13c04dae68cf05039ef2ae7c5c.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Trentino-Alto Adige",
+            "link": "/country/Italy/state/Trentino_Alto_Adige"
+        }, {
+            "title": "Trento",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary"],
+        "location": {
+            "city": "Trento",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Radio Tele Trentino è una stazione radio FM di Trento, Trentino-Alto Adige, Italy, che trasmette Adult Contemporary.",
+            "rest": "Radio Tele Trentino è una stazione radio FM di Trento, Trentino-Alto Adige, Italy, che trasmette Adult Contemporary."
+        },
+        "radio_contacts": {
+            "short": "Radio Tele Trentino è una stazione radio FM di Trento, Trentino-Alto Adige, Italy, che trasmette Adult Contemporary.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.rttlaradio.it/",
+            "facebook": "http://www.facebook.com/RTTLaRadio/",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Tele_Trentino",
+            "title": "Play Radio Tele Trentino"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://ice04.fluidstream.net:80/fluid7108.aac",
+        "radio_image": "https://static-media.streema.com/media/cache/fe/42/fe42cc781b13236bd7763f135ad465f0.jpg"
+    }, {
+        "title": "Radio Garda - Tendenzia",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Garda_Tendenzia",
+        "link_player": "/radios/play/Radio_Garda_Tendenzia",
+        "image": "https://static-media.streema.com/media/cache/15/d7/15d790f3758dfccb5d3e0917228ae7f3.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Trentino-Alto Adige",
+            "link": "/country/Italy/state/Trentino_Alto_Adige"
+        }, {
+            "title": "Trento",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance", "House", "Soul"],
+        "location": {
+            "city": "Trento",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "La Radio Italiana che batte sul tempo tutte le radio, ritmo, formato e la musica che non si ascolta altrove, SoulFull, House, elettronica dubstep, dance…",
+            "rest": " Inizia ora il viaggio nella tenenza con “Tendenzia”"
+        },
+        "radio_contacts": {
+            "short": "La Radio Italiana che batte sul tempo tutte le radio, ritmo, formato e la musica che non si ascolta altrove, SoulFull, House, elettronica dubstep, dance…",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiogarda.fm/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Garda_Tendenzia",
+            "title": "Play Radio Garda - Tendenzia"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.webradio.bz:8000/tendenzia",
+        "radio_image": "https://static-media.streema.com/media/cache/75/74/757458fdd5e7d320efcb812b465dc1f2.jpg"
+    }, {
+        "title": "Radio Dolomiti",
+        "no_play": false,
+        "frequency": "FM 99.2",
+        "link_deatils": "/radios/Radio_Dolomiti",
+        "link_player": "/radios/play/Radio_Dolomiti",
+        "image": "https://static-media.streema.com/media/cache/3b/12/3b12921b0bdbe91e5f2dde415d52ae0d.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Trentino-Alto Adige",
+            "link": "/country/Italy/state/Trentino_Alto_Adige"
+        }, {
+            "title": "Trento",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["News", "Pop", "Top 40", "Variety"],
+        "location": {
+            "city": "Trento",
+            "country": "Italy"
+        },
+        "profile_slogan": "La radio dei grandi ascoltatori!",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Radio Dolomiti broadcasts music and information from the December 24, 1975, the first private radio station in Trentino. Since then Radio Dolomiti has always been",
+            "rest": "at the top of the charts listening."
+        },
+        "radio_contacts": {
+            "short": "Radio Dolomiti broadcasts music and information from the December 24, 1975, the first private radio station in Trentino. Since then Radio Dolomiti has always been",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiodolomiti.com/",
+            "facebook": "http://www.facebook.com/radiodolomiti",
+            "twitter": "http://twitter.com/radiodolomiti",
+            "phone": "0461.922222 (direct)",
+            "address": "Via African Missions, 17 38122 Trento, Italy",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Dolomiti",
+            "title": "Play Radio Dolomiti"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://136.243.214.150:8068/;;",
+        "radio_image": "https://static-media.streema.com/media/cache/a5/a2/a5a2b98eb807c1da735ca02939f66bfe.jpg"
+    }, {
+        "title": "Radio Italia Anni 60 Trentino Alto Adige",
+        "no_play": false,
+        "frequency": "FM 105.9",
+        "link_deatils": "/radios/Radio_Italia_Anni",
+        "link_player": "/radios/play/Radio_Italia_Anni",
+        "image": "https://static-media.streema.com/media/cache/f2/84/f2844fead68d965e5879d7f1a0cbb9e0.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Trentino-Alto Adige",
+            "link": "/country/Italy/state/Trentino_Alto_Adige"
+        }, {
+            "title": "Trento",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Classics", "Hits", "Music", "Oldies"],
+        "location": {
+            "city": "Trento",
+            "country": "Italy"
+        },
+        "profile_slogan": "le canzoni che si fanno ricordare",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Radio Italia Anni 60 is a broadcast radio station from Trento, Trentino-Alto Adige, Italy, providing Hits music from the 60's to the current international hits.",
+            "rest": "Radio Italia Anni 60 is a broadcast radio station from Trento, Trentino-Alto Adige, Italy, providing Hits music from the 60's to the current international hits."
+        },
+        "radio_contacts": {
+            "short": "Radio Italia Anni 60 is a broadcast radio station from Trento, Trentino-Alto Adige, Italy, providing Hits music from the 60's to the current international hits.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radioitaliaannisessanta.it/index.php/taa-home",
+            "facebook": "http://www.facebook.com/RadioItaliaAnni60.TrentinoAltoAdige",
+            "twitter": "",
+            "phone": "0461/828990",
+            "address": "Via Zambra, 11 - 38121 Trento (TN) - Italia",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Italia_Anni",
+            "title": "Play Radio Italia Anni 60 Trentino Alto Adige"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://str01.fluidstream.net:7130/;",
+        "radio_image": "https://static-media.streema.com/media/cache/20/07/20071851fdf680ac621ffe87bbf13188.jpg"
+    }, {
+        "title": "Radio Studio Sette",
+        "no_play": true,
+        "frequency": "FM 90.0",
+        "link_deatils": "/radios/Radio_Studio_Sette",
+        "link_player": "",
+        "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Trentino-Alto Adige",
+            "link": "/country/Italy/state/Trentino_Alto_Adige"
+        }, {
+            "title": "Trento",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Italian"],
+        "location": {
+            "city": "Trento",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Radio Studio Sette è una stazione radio FM di Trento, Trentino-Alto Adige, Italy, che trasmette Italian.",
+            "rest": "Radio Studio Sette è una stazione radio FM di Trento, Trentino-Alto Adige, Italy, che trasmette Italian."
+        },
+        "radio_contacts": {
+            "short": "Radio Studio Sette è una stazione radio FM di Trento, Trentino-Alto Adige, Italy, che trasmette Italian.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiostudiosette.com/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}]

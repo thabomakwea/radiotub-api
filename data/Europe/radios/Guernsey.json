@@ -1,0 +1,55 @@
+[{
+    "title": "Guernsey",
+    "link": "https://streema.com/radios/Guernsey",
+    "msg_results": "1 Radio Stations from Guernsey",
+    "page_copy": "Guernsey Radio Stations on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.  Get in touch via the Contact Us below if you're interested in these apps. Also, find the top new songs, playlists, and music on our website!",
+    "radios": [{
+        "title": "GNetradio",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/GNetradio",
+        "link_player": "/radios/play/GNetradio",
+        "image": "https://static-media.streema.com/media/cache/7a/c1/7ac16bcc8fc28501748107a7198381a3.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Guernsey",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance", "Hip Hop", "Pop", "Rock"],
+        "location": {
+            "city": "Guernsey",
+            "country": "Guernsey"
+        },
+        "profile_slogan": "Guernsey's Online Community Station",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "Guernsey's non profit community station, raising money for local charity.",
+            "rest": "Guernsey's non profit community station, raising money for local charity."
+        },
+        "radio_contacts": {
+            "short": "Guernsey's non profit community station, raising money for local charity.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://gnetradio.com/",
+            "facebook": "http://www.facebook.com/gnetradio",
+            "twitter": "http://twitter.com/gnetradio",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/GNetradio",
+            "title": "Play GNetradio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://s2.radio.co/s3508e02d2/listen",
+        "radio_image": "https://static-media.streema.com/media/cache/b0/1d/b01d214e7da3c27508a5d69eb303694e.jpg"
+    }]
+}]

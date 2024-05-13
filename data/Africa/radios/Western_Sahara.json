@@ -1,0 +1,71 @@
+[
+    {
+        "title": "El Aaiún",
+        "link": "https://streema.com/radios/El_Aaiun",
+        "msg_results": "1 Radio Stations from El Aaiún",
+        "page_copy": "Listen to radio stations from El Aaiún, from a wide variety of genres like Arabic, News, Spanish and Talk.  Enjoy stations such as Radio Nacional de la RASD and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+        "radios": [
+            {
+                "title": "Radio Nacional de la RASD",
+                "no_play": true,
+                "frequency": "AM 1550",
+                "link_deatils": "/radios/Radio_Nacional_de_la_RASD",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/02/ba/02ba00eaba70213977b4404e4ba61681.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Western Sahara",
+                        "link": "/radios/country/Western_Sahara"
+                    },
+                    {
+                        "title": "El Aaiún",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Arabic",
+                    "News",
+                    "Spanish",
+                    "Talk"
+                ],
+                "location": {
+                    "city": "El Aaiún",
+                    "country": "Western Sahara"
+                },
+                "profile_slogan": "Ésta es la Radio Nacional de la República Arabe Saharaui Democrática",
+                "radio_language": "Arabic",
+                "radio_info": {
+                    "short": "Western sahara",
+                    "rest": "Western sahara"
+                },
+                "radio_contacts": {
+                    "short": "Western sahara",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.rasdradio.info/",
+                    "facebook": "http://www.facebook.com/radiosahara/?ref=page_internal",
+                    "twitter": "",
+                    "phone": "+213 49 37 70 14",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            }
+        ]
+    }
+]

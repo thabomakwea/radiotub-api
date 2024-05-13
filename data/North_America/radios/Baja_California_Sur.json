@@ -1,0 +1,809 @@
+[{
+    "title": "La Paz",
+    "link": "https://streema.com/radios/La_Paz_BS",
+    "msg_results": "15 Radio Stations from La Paz",
+    "page_copy": "Listen to radio stations from La Paz BS, from a wide variety of genres like Grupera, Latin, Mexican, Spanish and Talk.  Enjoy stations such as Radio HZ - XHHZ, Super Stereo 96 - XHPAZ, Luces de la Ciudad, Digimix 95.9 FM - XHPAL, Alegría Mexicana - XHW and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Radio HZ - XHHZ",
+        "no_play": false,
+        "frequency": "FM 105.5",
+        "link_deatils": "/radios/XEHZ_105.5_FM",
+        "link_player": "/radios/play/XEHZ_105.5_FM",
+        "image": "https://static-media.streema.com/media/cache/ef/3c/ef3cacdbb5f77147046214d0df0cb1cb.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/radios/country/Mexico"
+        }, {
+            "title": "Baja California Sur",
+            "link": "/radios/country/Mexico/state/Baja_California_Sur"
+        }, {
+            "title": "La Paz",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "90 Listens",
+            "stars": 0
+        },
+        "genres": ["Grupera", "Latin", "Mexican", "Spanish"],
+        "location": {
+            "city": "La Paz, BS",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Radio HZ - XHHZ es una emisora de radio FM de La Paz, Baja California Sur, Mexico, transmitiendo Grupera, Mexican.",
+            "rest": "Radio HZ - XHHZ es una emisora de radio FM de La Paz, Baja California Sur, Mexico, transmitiendo Grupera, Mexican."
+        },
+        "radio_contacts": {
+            "short": "Radio HZ - XHHZ es una emisora de radio FM de La Paz, Baja California Sur, Mexico, transmitiendo Grupera, Mexican.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.xehz.com/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "23000 251515",
+            "address": "CALLE HIDALGO 314 XEHZ-AM, SECTOR LA PAZ CENTRO, CP",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XEHZ_105.5_FM",
+            "title": "Play Radio HZ - XHHZ"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://www.xehz.com:8080/xehz",
+        "radio_image": "https://static-media.streema.com/media/cache/26/3c/263c2d30f166182f884724b698042be3.jpg"
+    }, {
+        "title": "Super Stereo 96 - XHPAZ",
+        "no_play": false,
+        "frequency": "FM 96.7",
+        "link_deatils": "/radios/XHPAZ",
+        "link_player": "/radios/play/XHPAZ",
+        "image": "https://static-media.streema.com/media/cache/9f/bf/9fbf77ebb2f0dde97ab7a8c8bb9e1d4c.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/radios/country/Mexico"
+        }, {
+            "title": "Baja California Sur",
+            "link": "/radios/country/Mexico/state/Baja_California_Sur"
+        }, {
+            "title": "La Paz",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "90 Listens",
+            "stars": 0
+        },
+        "genres": ["Music"],
+        "location": {
+            "city": "La Paz, BS",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "Super Stereo 96 - XHPAZ is a broadcast Radio station from La Paz, Baja California Sur, Mexico, providing Pop Latino Music and Spanish Talk programs.",
+            "rest": "Super Stereo 96 - XHPAZ is a broadcast Radio station from La Paz, Baja California Sur, Mexico, providing Pop Latino Music and Spanish Talk programs."
+        },
+        "radio_contacts": {
+            "short": "Super Stereo 96 - XHPAZ is a broadcast Radio station from La Paz, Baja California Sur, Mexico, providing Pop Latino Music and Spanish Talk programs.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.superstereo96.com/i.html",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XHPAZ",
+            "title": "Play Super Stereo 96 - XHPAZ"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://www.panoramainformativo.com.mx:8080/panorama",
+        "radio_image": "https://static-media.streema.com/media/cache/1b/8e/1b8e53e35deb961b555e77e585a478c1.jpg"
+    }, {
+        "title": "Luces de la Ciudad",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Luces_de_la_Ciudad",
+        "link_player": "/radios/play/Luces_de_la_Ciudad",
+        "image": "https://static-media.streema.com/media/cache/13/a9/13a95d0236a9eab9eaa2abcb0220caa1.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/radios/country/Mexico"
+        }, {
+            "title": "Baja California Sur",
+            "link": "/radios/country/Mexico/state/Baja_California_Sur"
+        }, {
+            "title": "La Paz",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["70s", "80s", "Classic Rock", "Dance", "Pop", "RnB"],
+        "location": {
+            "city": "La Paz, BS",
+            "country": "Mexico"
+        },
+        "profile_slogan": "La noche inicia con luces de la ciudad",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Luces de la Ciudad es un concepto creado para chavorrucos. Música de los 70’s y 80’s de diferentes géneros como Disco, Rock, Pop en inglés",
+            "rest": "y español y una que otra curiosidad."
+        },
+        "radio_contacts": {
+            "short": "Luces de la Ciudad es un concepto creado para chavorrucos. Música de los 70’s y 80’s de diferentes géneros como Disco, Rock, Pop en inglés",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://zeno.fm/Luces-de-la-Ciudad/",
+            "facebook": "http://www.facebook.com/Luces-de-la-ciudad-212723278836368/",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Luces_de_la_Ciudad",
+            "title": "Play Luces de la Ciudad"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.zeno.fm/62xyd0nrawzuv",
+        "radio_image": "https://static-media.streema.com/media/cache/5f/11/5f115bed24c6b0e9ec400f1a433e7369.jpg"
+    }, {
+        "title": "Digimix 95.9 FM - XHPAL",
+        "no_play": false,
+        "frequency": "FM 95.9",
+        "link_deatils": "/radios/XHPAL",
+        "link_player": "/radios/play/XHPAL",
+        "image": "https://static-media.streema.com/media/cache/0f/0d/0f0d9c8cd60c6d534f1f3081241ad9a1.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/radios/country/Mexico"
+        }, {
+            "title": "Baja California Sur",
+            "link": "/radios/country/Mexico/state/Baja_California_Sur"
+        }, {
+            "title": "La Paz",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["40s", "90s", "Classics", "Information"],
+        "location": {
+            "city": "La Paz, BS",
+            "country": "Mexico"
+        },
+        "profile_slogan": "100% Clásicos!!!",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Digimix 95.9 FM - XHPAL is a broadcast radio station from La Paz, BS, Mexico providing 50's to 90's Classic music and information.",
+            "rest": "Digimix 95.9 FM - XHPAL is a broadcast radio station from La Paz, BS, Mexico providing 50's to 90's Classic music and information."
+        },
+        "radio_contacts": {
+            "short": "Digimix 95.9 FM - XHPAL is a broadcast radio station from La Paz, BS, Mexico providing 50's to 90's Classic music and information.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.digimix95.com/",
+            "facebook": "http://www.facebook.com/pages/Digimix-95/136098389900058",
+            "twitter": "",
+            "phone": "",
+            "address": "West Third Ring Road, Haidian District, Beijing, the 10th Wanghailou Block D",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XHPAL",
+            "title": "Play Digimix 95.9 FM - XHPAL"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://www.digimix95.com:8080/digimix95",
+        "radio_image": "https://static-media.streema.com/media/cache/80/26/8026e4260c86ec14b948279d3521ef23.jpg"
+    }, {
+        "title": "Alegría Mexicana - XHW",
+        "no_play": false,
+        "frequency": "FM 90.1",
+        "link_deatils": "/radios/XHW_Alegria_Mexicana",
+        "link_player": "/radios/play/XHW_Alegria_Mexicana",
+        "image": "https://static-media.streema.com/media/cache/d0/01/d001df463ea596fa881ac3eb4ccd0ddc.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/radios/country/Mexico"
+        }, {
+            "title": "Baja California Sur",
+            "link": "/radios/country/Mexico/state/Baja_California_Sur"
+        }, {
+            "title": "La Paz",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Balada", "Grupera", "Mexican", "Ranchera"],
+        "location": {
+            "city": "La Paz, BS",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Alegría Mexicana - XHW is a broadcast radio station in La Paz, Mexico, providing Mexican Grupera, Banda and Ranchera music.",
+            "rest": "Alegría Mexicana - XHW is a broadcast radio station in La Paz, Mexico, providing Mexican Grupera, Banda and Ranchera music."
+        },
+        "radio_contacts": {
+            "short": "Alegría Mexicana - XHW is a broadcast radio station in La Paz, Mexico, providing Mexican Grupera, Banda and Ranchera music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.alegriamexicana.com/i.php",
+            "facebook": "",
+            "twitter": "http://twitter.com/xhwfm",
+            "phone": "+52 612 125 9670",
+            "address": "HIdalgo No. 314, La Paz 23000, BCS, Mexico",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XHW_Alegria_Mexicana",
+            "title": "Play Alegría Mexicana - XHW"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://www.alegriamexicana.com:8080/alegriamexicana",
+        "radio_image": "https://static-media.streema.com/media/cache/48/91/48913954cb7465a20c73f27efff57e54.jpg"
+    }, {
+        "title": "Radio Fórmula - La Paz - XHNT",
+        "no_play": false,
+        "frequency": "FM 97.5",
+        "link_deatils": "/radios/XHNT",
+        "link_player": "/radios/play/XHNT",
+        "image": "https://static-media.streema.com/media/cache/89/5a/895a7a0efd8d7dc8a03d12c90cc481a9.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/radios/country/Mexico"
+        }, {
+            "title": "Baja California Sur",
+            "link": "/radios/country/Mexico/state/Baja_California_Sur"
+        }, {
+            "title": "La Paz",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Health", "Lifestyle", "Sports", "Talk"],
+        "location": {
+            "city": "La Paz, BS",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Radio Fórmula - Primera Cadena - XHNT es una emisora de radio FM de La Paz, Baja California Sur, Mexico, transmitiendo Health, Lifestyle, Sports.",
+            "rest": "Radio Fórmula - Primera Cadena - XHNT es una emisora de radio FM de La Paz, Baja California Sur, Mexico, transmitiendo Health, Lifestyle, Sports."
+        },
+        "radio_contacts": {
+            "short": "Radio Fórmula - Primera Cadena - XHNT es una emisora de radio FM de La Paz, Baja California Sur, Mexico, transmitiendo Health, Lifestyle, Sports.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://radioformulalapaz.com/",
+            "facebook": "http://www.facebook.com/radioformulalapaz/",
+            "twitter": "http://twitter.com/RF_LAPAZ",
+            "phone": "12 30790 / 12 89896",
+            "address": "Altamirano / 5 de Feb. y Navarro 23000 La Paz, Baja California Sur, Mexico",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XHNT",
+            "title": "Play Radio Fórmula - La Paz - XHNT"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.radiojar.com/n9nz7y4n3p8uv",
+        "radio_image": "https://static-media.streema.com/media/cache/fd/b1/fdb13896030ec295c945efe5a15d27c0.jpg"
+    }, {
+        "title": "Radio Color De Esperanza",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Color_De_Esperanza",
+        "link_player": "/radios/play/Radio_Color_De_Esperanza",
+        "image": "https://static-media.streema.com/media/cache/e1/91/e191e9c0362d7cf2c2f1e365fb97f10a.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/radios/country/Mexico"
+        }, {
+            "title": "Baja California Sur",
+            "link": "/radios/country/Mexico/state/Baja_California_Sur"
+        }, {
+            "title": "La Paz",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Alternative", "Latin"],
+        "location": {
+            "city": "La Paz, BS",
+            "country": "Mexico"
+        },
+        "profile_slogan": "El Camino hacia a ti, a traves de la musica",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://xat.com/Color_de_Esperanza",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Color_De_Esperanza",
+            "title": "Play Radio Color De Esperanza"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.zeno.fm/33fyupgvnc9uv",
+        "radio_image": "https://static-media.streema.com/media/cache/ca/52/ca52dea0dd08d143ed7f789d76694d46.jpg"
+    }, {
+        "title": "Radio HZ - XEHZ",
+        "no_play": false,
+        "frequency": "AM 990",
+        "link_deatils": "/radios/XEHZ",
+        "link_player": "/radios/play/XEHZ",
+        "image": "https://static-media.streema.com/media/cache/03/ca/03ca5994fe61289c8fe68393dfe31eed.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/radios/country/Mexico"
+        }, {
+            "title": "Baja California Sur",
+            "link": "/radios/country/Mexico/state/Baja_California_Sur"
+        }, {
+            "title": "La Paz",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "\n        \n          \n          \n          \n          \n        ",
+            "stars": 3
+        },
+        "genres": ["Grupera", "Latin", "Pop", "Spanish"],
+        "location": {
+            "city": "La Paz, BS",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "XEHZ (990 AM, \"Radio 990\") is a Mexican radio station that serves the area around La Paz, Baja California Sur.",
+            "rest": "XEHZ (990 AM, \"Radio 990\") is a Mexican radio station that serves the area around La Paz, Baja California Sur."
+        },
+        "radio_contacts": {
+            "short": "XEHZ (990 AM, \"Radio 990\") is a Mexican radio station that serves the area around La Paz, Baja California Sur.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.xehz.com",
+            "facebook": "",
+            "twitter": "",
+            "phone": "251515",
+            "address": "CALLE HIDALGO  314 XEHZ-AM, SECTOR LA PAZ CENTRO, CP 23000",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XEHZ",
+            "title": "Play Radio HZ - XEHZ"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://www.xehz.com:8080/xehz",
+        "radio_image": "https://static-media.streema.com/media/cache/3e/88/3e88ef29f1fd8c045a49c07acaea4233.jpg"
+    }, {
+        "title": "Promeza Radio",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/CustodiaRadio.net",
+        "link_player": "/radios/play/CustodiaRadio.net",
+        "image": "https://static-media.streema.com/media/cache/9f/04/9f046c7b35fa98ab71842ad9ad6521fb.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/radios/country/Mexico"
+        }, {
+            "title": "Baja California Sur",
+            "link": "/radios/country/Mexico/state/Baja_California_Sur"
+        }, {
+            "title": "La Paz",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Christian", "Gospel", "Religious", "Talk"],
+        "location": {
+            "city": "La Paz, BS",
+            "country": "Mexico"
+        },
+        "profile_slogan": "Mucho más que música!",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "CustodiaRadio.net is an Internet Radio station broadcasting from La Paz, Baja California Sur, Mexico, Provides Evangelical, Christian, Religious and Gospel programs.",
+            "rest": "CustodiaRadio.net is an Internet Radio station broadcasting from La Paz, Baja California Sur, Mexico, Provides Evangelical, Christian, Religious and Gospel programs."
+        },
+        "radio_contacts": {
+            "short": "CustodiaRadio.net is an Internet Radio station broadcasting from La Paz, Baja California Sur, Mexico, Provides Evangelical, Christian, Religious and Gospel programs.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://promeza.com.mx/custodiaradio/",
+            "facebook": "http://www.facebook.com/custodiaradio",
+            "twitter": "http://twitter.com/custodiaradio",
+            "phone": "",
+            "address": "P. O. Box  23000",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/CustodiaRadio.net",
+            "title": "Play Promeza Radio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://promezaradio.radioca.st/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/89/fa/89fab37f83d7303987434b89ebf8e87b.jpg"
+    }, {
+        "title": "Radio Red Yaqui",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Red_Yaqui",
+        "link_player": "/radios/play/Radio_Red_Yaqui",
+        "image": "https://static-media.streema.com/media/cache/59/58/59581668c21c58da5a4bf88e44085e1d.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/radios/country/Mexico"
+        }, {
+            "title": "Baja California Sur",
+            "link": "/radios/country/Mexico/state/Baja_California_Sur"
+        }, {
+            "title": "La Paz",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Balada", "Grupera", "Mexican", "Ranchera", "Variety"],
+        "location": {
+            "city": "La Paz, BS",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Radio Red Yaqui is an online radio station in Mexico, providing variety of music.",
+            "rest": "Radio Red Yaqui is an online radio station in Mexico, providing variety of music."
+        },
+        "radio_contacts": {
+            "short": "Radio Red Yaqui is an online radio station in Mexico, providing variety of music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radioredyaqui.com.mx/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Red_Yaqui",
+            "title": "Play Radio Red Yaqui"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://192.99.44.11:9855/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/ec/23/ec235393d55c2788fb49e5933a7c2103.jpg"
+    }, {
+        "title": "Radio Fórmula - Primera Cadena - XENT",
+        "no_play": false,
+        "frequency": "AM 790",
+        "link_deatils": "/radios/XENT",
+        "link_player": "/radios/play/XENT",
+        "image": "https://static-media.streema.com/media/cache/86/98/8698a0c51b287f985b54351e817b5370.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/radios/country/Mexico"
+        }, {
+            "title": "Baja California Sur",
+            "link": "/radios/country/Mexico/state/Baja_California_Sur"
+        }, {
+            "title": "La Paz",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Health", "Lifestyle", "Sports", "Talk"],
+        "location": {
+            "city": "La Paz, BS",
+            "country": "Mexico"
+        },
+        "profile_slogan": "Tu encuentro con las grandes personalidades!",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Radio Fórmula - Primera Cadena - XENT is a broadcast radio station on the Groupo Formula radio network from La Paz, BS, Mexico providing News,",
+            "rest": "Spanish Talk, Live shows and Information."
+        },
+        "radio_contacts": {
+            "short": "Radio Fórmula - Primera Cadena - XENT is a broadcast radio station on the Groupo Formula radio network from La Paz, BS, Mexico providing News,",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://radioformulalapaz.com/",
+            "facebook": "http://www.facebook.com/radioformulalapaz/",
+            "twitter": "http://twitter.com/RF_LAPAZ",
+            "phone": "+52 55 5279 5672",
+            "address": "Altamirano / 5 de Feb. y Navarro 23000 La Paz, Baja California Sur, Mexico",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XENT",
+            "title": "Play Radio Fórmula - Primera Cadena - XENT"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.radiojar.com/n9nz7y4n3p8uv",
+        "radio_image": "https://static-media.streema.com/media/cache/53/f7/53f7cbfee8d3148a088e399f3e517e86.jpg"
+    }, {
+        "title": "Radio UABCS - XEUBS",
+        "no_play": false,
+        "frequency": "AM 1180",
+        "link_deatils": "/radios/XEUBS",
+        "link_player": "/radios/play/XEUBS",
+        "image": "https://static-media.streema.com/media/cache/ff/fb/fffb68f8f81a513700a4900b94c86a6f.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/radios/country/Mexico"
+        }, {
+            "title": "Baja California Sur",
+            "link": "/radios/country/Mexico/state/Baja_California_Sur"
+        }, {
+            "title": "La Paz",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["College", "Information", "News"],
+        "location": {
+            "city": "La Paz, BS",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "XEUBS is a broadcast radio station from La Paz, Baja California Sur, Mexico providing College news, information and music.",
+            "rest": "XEUBS is a broadcast radio station from La Paz, Baja California Sur, Mexico providing College news, information and music."
+        },
+        "radio_contacts": {
+            "short": "XEUBS is a broadcast radio station from La Paz, Baja California Sur, Mexico providing College news, information and music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.facebook.com/radiouabcs/",
+            "facebook": "http://www.facebook.com/radiouabcs/",
+            "twitter": "http://twitter.com/uabcsoficial",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XEUBS",
+            "title": "Play Radio UABCS - XEUBS"
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "XHPAB-FM",
+        "no_play": true,
+        "frequency": "FM 98.3",
+        "link_deatils": "/radios/XEPAB",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/cd/04/cd04ef057686198e07f54a598393a3ae.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/radios/country/Mexico"
+        }, {
+            "title": "Baja California Sur",
+            "link": "/radios/country/Mexico/state/Baja_California_Sur"
+        }, {
+            "title": "La Paz",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Mexican", "Spanish"],
+        "location": {
+            "city": "La Paz, BS",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "XEPAB is a Mexican radio station that serves the area around La Paz, Baja California Sur. Station Airs Spanish and Mexican regional programs.",
+            "rest": "XEPAB is a Mexican radio station that serves the area around La Paz, Baja California Sur. Station Airs Spanish and Mexican regional programs."
+        },
+        "radio_contacts": {
+            "short": "XEPAB is a Mexican radio station that serves the area around La Paz, Baja California Sur. Station Airs Spanish and Mexican regional programs.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "La Radio de Sudcalifornia - XEBCS-AM",
+        "no_play": true,
+        "frequency": "AM 1050",
+        "link_deatils": "/radios/XEBCS",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/b6/e0/b6e032b1b483f215886552cc57e35b9a.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/radios/country/Mexico"
+        }, {
+            "title": "Baja California Sur",
+            "link": "/radios/country/Mexico/state/Baja_California_Sur"
+        }, {
+            "title": "La Paz",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Community", "Latin", "Mexican", "Talk"],
+        "location": {
+            "city": "La Paz, BS",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "XEBCS-AM is a Mexican radio station that serves the area around La Paz, Baja California Sur. Station Airs government news and Information programs.",
+            "rest": "XEBCS-AM is a Mexican radio station that serves the area around La Paz, Baja California Sur. Station Airs government news and Information programs."
+        },
+        "radio_contacts": {
+            "short": "XEBCS-AM is a Mexican radio station that serves the area around La Paz, Baja California Sur. Station Airs government news and Information programs.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.iertbcscontigo.gob.mx/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "XHZPL",
+        "no_play": true,
+        "frequency": "FM 100.7",
+        "link_deatils": "/radios/XHZPL",
+        "link_player": "",
+        "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/radios/country/Mexico"
+        }, {
+            "title": "Baja California Sur",
+            "link": "/radios/country/Mexico/state/Baja_California_Sur"
+        }, {
+            "title": "La Paz",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Romantic"],
+        "location": {
+            "city": "La Paz, BS",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "XHZPL is a broadcast radio station from La Paz, BS, Mexico providing Romantic and Love music.",
+            "rest": "XHZPL is a broadcast radio station from La Paz, BS, Mexico providing Romantic and Love music."
+        },
+        "radio_contacts": {
+            "short": "XHZPL is a broadcast radio station from La Paz, BS, Mexico providing Romantic and Love music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://xhzpl.com/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}]

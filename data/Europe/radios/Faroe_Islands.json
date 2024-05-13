@@ -1,0 +1,380 @@
+[{
+    "title": "Argir",
+    "link": "https://streema.com/radios/Argir",
+    "msg_results": "1 Radio Stations from Argir",
+    "page_copy": "Listen to radio stations from Argir, from a wide variety of genres like .  Enjoy stations such as Lindin Radio and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Lindin Radio",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Lindin_FM",
+        "link_player": "/radios/play/Lindin_FM",
+        "image": "https://static-media.streema.com/media/cache/31/43/3143ddae78a91f330c525a69ac63217a.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Faroe Islands, Denmark",
+            "link": "/radios/country/Faroe_Islands"
+        }, {
+            "title": "Argir",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [],
+        "location": {
+            "city": "Argir",
+            "country": "Faroe Islands, Denmark"
+        },
+        "profile_slogan": "",
+        "radio_language": "",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.lindin.fo/",
+            "facebook": "http://www.facebook.com/Lindin.fo/",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Lindin_FM",
+            "title": "Play Lindin Radio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://lindinhigh.stream.fo:8000/lindinhigh",
+        "radio_image": "https://static-media.streema.com/media/cache/60/d7/60d7221c08283ded02747e8311d1b08e.jpg"
+    }]
+}, {
+    "title": "Klaksvík",
+    "link": "https://streema.com/radios/Klaksvik",
+    "msg_results": "",
+    "page_copy": "Klaksvík Radio Stations on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.  Get in touch via the Contact Us below if you're interested in these apps. Also, find the top new songs, playlists, and music on our website!",
+    "radios": []
+}, {
+    "title": "Saltangará",
+    "link": "https://streema.com/radios/Saltangara",
+    "msg_results": "1 Radio Stations from Saltangará",
+    "page_copy": "Listen to radio stations from Saltangará, from a wide variety of genres like Entertainment, Music, Politics, Pop and Talk.  Enjoy stations such as R7 Kringvarp and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "R7 Kringvarp",
+        "no_play": false,
+        "frequency": "FM 102.0",
+        "link_deatils": "/radios/R7_Kringvarp",
+        "link_player": "/radios/play/R7_Kringvarp",
+        "image": "https://static-media.streema.com/media/cache/a0/a4/a0a4e8ffcb399a220a2f3f7581470a5a.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Faroe Islands, Denmark",
+            "link": "/radios/country/Faroe_Islands"
+        }, {
+            "title": "Saltangará",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Entertainment", "Information", "Music", "News", "Politics", "Pop", "Talk"],
+        "location": {
+            "city": "Saltangará",
+            "country": "Faroe Islands, Denmark"
+        },
+        "profile_slogan": "Kringvarp fyri øll, um alt landið",
+        "radio_language": "Icelandic",
+        "radio_info": {
+            "short": "R7 Kringvarp is a broadcast radio station from Saltangará, Faroe Islands, Denmark, providing News, Talk, Information, Entertainment and Pop Music.",
+            "rest": "R7 Kringvarp is a broadcast radio station from Saltangará, Faroe Islands, Denmark, providing News, Talk, Information, Entertainment and Pop Music."
+        },
+        "radio_contacts": {
+            "short": "R7 Kringvarp is a broadcast radio station from Saltangará, Faroe Islands, Denmark, providing News, Talk, Information, Entertainment and Pop Music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://r7.fo/",
+            "facebook": "http://www.facebook.com/r7kringvarp",
+            "twitter": "",
+            "phone": "+298 207777",
+            "address": "Heiðavegur 25 600 Saltangará, Faroe Islands",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/R7_Kringvarp",
+            "title": "Play R7 Kringvarp"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://lurta.r7.fo:8084/r7_high.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/00/89/0089bd358521498d353460092bb243fb.jpg"
+    }]
+}, {
+    "title": "Tórshavn",
+    "link": "https://streema.com/radios/Torshavn",
+    "msg_results": "5 Radio Stations from Tórshavn",
+    "page_copy": "Listen to radio stations from Tórshavn, from a wide variety of genres like Ambient, Classic Hits, Folk, News and Trap.  Enjoy stations such as Radio.fo, Nordic Spirit, VoxPop Radio, FM 1, KVF Útvarp and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Radio.fo",
+        "no_play": false,
+        "frequency": "FM 102.0",
+        "link_deatils": "/radios/Radio.fo",
+        "link_player": "/radios/play/Radio.fo",
+        "image": "https://static-media.streema.com/media/cache/63/bd/63bd0da9a860d7b7e6f618bd370d9f7f.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Faroe Islands, Denmark",
+            "link": "/radios/country/Faroe_Islands"
+        }, {
+            "title": "Tórshavn",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Classic Hits", "Contemporary Christian", "Easy Listening", "Talk"],
+        "location": {
+            "city": "Tórshavn",
+            "country": "Faroe Islands, Denmark"
+        },
+        "profile_slogan": "Góð tónlist og smáræði",
+        "radio_language": "Danish",
+        "radio_info": {
+            "short": "Radio.fo er føroyskt útvarp á netinum, ið ynskir at veita føroyingum gott útvarp, góðan tónleik og góðar sendingar.",
+            "rest": "Radio.fo er føroyskt útvarp á netinum, ið ynskir at veita føroyingum gott útvarp, góðan tónleik og góðar sendingar."
+        },
+        "radio_contacts": {
+            "short": "Radio.fo er føroyskt útvarp á netinum, ið ynskir at veita føroyingum gott útvarp, góðan tónleik og góðar sendingar.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radio.fo/",
+            "facebook": "http://www.facebook.com/Radiofo-105781978052030",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio.fo",
+            "title": "Play Radio.fo"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streaming.radio.co/s4d14b9fcc/listen",
+        "radio_image": "https://static-media.streema.com/media/cache/61/80/61800dabaf20ea5143d860ab49d3b75f.jpg"
+    }, {
+        "title": "Nordic Spirit",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Nordic_Spirit",
+        "link_player": "/radios/play/Nordic_Spirit",
+        "image": "https://static-media.streema.com/media/cache/bf/df/bfdf48918a89869721ce1579240c5273.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Faroe Islands, Denmark",
+            "link": "/radios/country/Faroe_Islands"
+        }, {
+            "title": "Tórshavn",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Adult", "Ambient", "Folk", "Trap"],
+        "location": {
+            "city": "Tórshavn",
+            "country": "Faroe Islands, Denmark"
+        },
+        "profile_slogan": "Feel the spirit of the north",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "NORDICSPIRIT is a webradio and WE playing Viking music, Dark Ambient and Nordic Folk music 24/7.",
+            "rest": "NORDICSPIRIT is a webradio and WE playing Viking music, Dark Ambient and Nordic Folk music 24/7."
+        },
+        "radio_contacts": {
+            "short": "NORDICSPIRIT is a webradio and WE playing Viking music, Dark Ambient and Nordic Folk music 24/7.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://nordicspirit.live/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Nordic_Spirit",
+            "title": "Play Nordic Spirit"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.zeno.fm/y5xus73e9e9uv",
+        "radio_image": "https://static-media.streema.com/media/cache/a7/8b/a78b9a010efddeea9f714574cb1aba68.jpg"
+    }, {
+        "title": "VoxPop Radio",
+        "no_play": false,
+        "frequency": "FM 104.1",
+        "link_deatils": "/radios/VoxPop_Radio",
+        "link_player": "/radios/play/VoxPop_Radio",
+        "image": "https://static-media.streema.com/media/cache/0e/30/0e30fe122dfb3b6fd058c13a880b8c50.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Faroe Islands, Denmark",
+            "link": "/radios/country/Faroe_Islands"
+        }, {
+            "title": "Tórshavn",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [],
+        "location": {
+            "city": "Tórshavn",
+            "country": "Faroe Islands, Denmark"
+        },
+        "profile_slogan": "",
+        "radio_language": "",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.midlar.fo/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/VoxPop_Radio",
+            "title": "Play VoxPop Radio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.midlar.fo/voxpop",
+        "radio_image": "https://static-media.streema.com/media/cache/4d/17/4d17da0ca0347132b2e79b853be9e03e.jpg"
+    }, {
+        "title": "FM 1",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/FM_1_Faroe_Islands",
+        "link_player": "/radios/play/FM_1_Faroe_Islands",
+        "image": "https://static-media.streema.com/media/cache/11/6e/116eaa2e53fea74de191681ee2ff8349.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Faroe Islands, Denmark",
+            "link": "/radios/country/Faroe_Islands"
+        }, {
+            "title": "Tórshavn",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [],
+        "location": {
+            "city": "Tórshavn",
+            "country": "Faroe Islands, Denmark"
+        },
+        "profile_slogan": "",
+        "radio_language": "",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.midlar.fo/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/FM_1_Faroe_Islands",
+            "title": "Play FM 1"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.midlar.fo/ras2",
+        "radio_image": "https://static-media.streema.com/media/cache/9d/c7/9dc7914b615d3ad2e8761171c838a0e9.jpg"
+    }, {
+        "title": "KVF Útvarp",
+        "no_play": true,
+        "frequency": "FM 89.9",
+        "link_deatils": "/radios/KVF_Utvarp",
+        "link_player": "",
+        "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Faroe Islands, Denmark",
+            "link": "/radios/country/Faroe_Islands"
+        }, {
+            "title": "Tórshavn",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Information", "News"],
+        "location": {
+            "city": "Tórshavn",
+            "country": "Faroe Islands, Denmark"
+        },
+        "profile_slogan": "",
+        "radio_language": "Afrikaans",
+        "radio_info": {
+            "short": "KVF Útvarp is a broadcast radio station from Tórshavn, Faroe Islands, providing News, Information, Top 40/Pop and Classic Rock.",
+            "rest": "KVF Útvarp is a broadcast radio station from Tórshavn, Faroe Islands, providing News, Information, Top 40/Pop and Classic Rock."
+        },
+        "radio_contacts": {
+            "short": "KVF Útvarp is a broadcast radio station from Tórshavn, Faroe Islands, providing News, Information, Top 40/Pop and Classic Rock.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://kvf.fo/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}]

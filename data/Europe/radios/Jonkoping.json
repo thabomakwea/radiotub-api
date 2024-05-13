@@ -1,0 +1,275 @@
+[{
+    "title": "Jönköping",
+    "link": "https://streema.com/radios/Jonkoping",
+    "msg_results": "5 Radio Stations from Jönköping",
+    "page_copy": "Listen to radio stations from Jönköping, from a wide variety of genres like Dance, Electronica, Hits, Rap and Teen Pop.  Enjoy stations such as Radio Vättervag, HitNet, Radio Live SE, SR P4 Jönköping, KaosVerket.FM and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Radio Vättervag",
+        "no_play": false,
+        "frequency": "FM 98.5",
+        "link_deatils": "/radios/Radio_Vattervag",
+        "link_player": "/radios/play/Radio_Vattervag",
+        "image": "https://static-media.streema.com/media/cache/8b/c2/8bc2140360a4bca3ec68526ef34732ab.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/radios/country/Sweden"
+        }, {
+            "title": "Jönköping",
+            "link": "/radios/country/Sweden/state/Jonkoping"
+        }, {
+            "title": "Jönköping",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Folk"],
+        "location": {
+            "city": "Jönköping",
+            "country": "Sweden"
+        },
+        "profile_slogan": "",
+        "radio_language": "Swedish",
+        "radio_info": {
+            "short": "Jonkopings narradio",
+            "rest": "Jonkopings narradio"
+        },
+        "radio_contacts": {
+            "short": "Jonkopings narradio",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiovv.com/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Vattervag",
+            "title": "Play Radio Vättervag"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://uk5.internet-radio.com:8199/live",
+        "radio_image": "https://static-media.streema.com/media/cache/97/d6/97d6c77daf814b999ae5211c456f2fce.jpg"
+    }, {
+        "title": "HitNet",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/HitNet",
+        "link_player": "/radios/play/HitNet",
+        "image": "https://static-media.streema.com/media/cache/d7/21/d721b0dd5b51d8aeca5eb990bccf19d2.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/radios/country/Sweden"
+        }, {
+            "title": "Jönköping",
+            "link": "/radios/country/Sweden/state/Jonkoping"
+        }, {
+            "title": "Jönköping",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance", "Hits", "Pop", "Top 40"],
+        "location": {
+            "city": "Jönköping",
+            "country": "Sweden"
+        },
+        "profile_slogan": "Nr.1 For New Music & All The Hits!",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "Hit music based radio station in Sweden.",
+            "rest": "Hit music based radio station in Sweden."
+        },
+        "radio_contacts": {
+            "short": "Hit music based radio station in Sweden.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://hitnet.live/",
+            "facebook": "http://www.facebook.com/hitnetonline",
+            "twitter": "",
+            "phone": "",
+            "address": "Birger Jarlsgatan 5C, 554 63 Jönköping, Sweden",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/HitNet",
+            "title": "Play HitNet"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.hitnet.live:8000/radio.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/47/61/4761c14cd52986479600f11289d5cbc4.jpg"
+    }, {
+        "title": "Radio Live SE",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Live_SE",
+        "link_player": "/radios/play/Radio_Live_SE",
+        "image": "https://static-media.streema.com/media/cache/c3/49/c349e77b2e5b282ad959cd0b33da7e39.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/radios/country/Sweden"
+        }, {
+            "title": "Jönköping",
+            "link": "/radios/country/Sweden/state/Jonkoping"
+        }, {
+            "title": "Jönköping",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "\n        \n          \n          \n          \n          \n        ",
+            "stars": 5
+        },
+        "genres": ["Dance", "Electronica", "Teen Pop"],
+        "location": {
+            "city": "Jönköping",
+            "country": "Sweden"
+        },
+        "profile_slogan": "",
+        "radio_language": "Swedish",
+        "radio_info": {
+            "short": "Radio Live - Radiostationen av ungdomar för ungdomar.",
+            "rest": "Radio Live - Radiostationen av ungdomar för ungdomar."
+        },
+        "radio_contacts": {
+            "short": "Radio Live - Radiostationen av ungdomar för ungdomar.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://radiolive.se/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Live_SE",
+            "title": "Play Radio Live SE"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.radiolive.se:80/live",
+        "radio_image": "https://static-media.streema.com/media/cache/5e/d9/5ed95c34e6799125313e9b37a94809cc.jpg"
+    }, {
+        "title": "SR P4 Jönköping",
+        "no_play": false,
+        "frequency": "FM 100.8",
+        "link_deatils": "/radios/SR_P4_Jonkoping",
+        "link_player": "/radios/play/SR_P4_Jonkoping",
+        "image": "https://static-media.streema.com/media/cache/f9/0b/f90b993c9d664758fb64e0a5e174e545.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/radios/country/Sweden"
+        }, {
+            "title": "Jönköping",
+            "link": "/radios/country/Sweden/state/Jonkoping"
+        }, {
+            "title": "Jönköping",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Rock", "Variety"],
+        "location": {
+            "city": "Jönköping",
+            "country": "Sweden"
+        },
+        "profile_slogan": "",
+        "radio_language": "Swedish",
+        "radio_info": {
+            "short": "Sveriges Radio Jönköping - för dig som bor i eller bryr dig om Jönköpings län",
+            "rest": "Sveriges Radio Jönköping - för dig som bor i eller bryr dig om Jönköpings län"
+        },
+        "radio_contacts": {
+            "short": "Sveriges Radio Jönköping - för dig som bor i eller bryr dig om Jönköpings län",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://sverigesradio.se/sida/default.aspx?programid=91",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/SR_P4_Jonkoping",
+            "title": "Play SR P4 Jönköping"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://http-live.sr.se/p4jonkoping-mp3-192",
+        "radio_image": "https://static-media.streema.com/media/cache/8a/b2/8ab2ea0c44ea1e3e9ff3a7e4988d1012.jpg"
+    }, {
+        "title": "KaosVerket.FM",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/KaosVerket.FM",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/df/7f/df7fb2c6c23ee68a0fd0878fa40fa623.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/radios/country/Sweden"
+        }, {
+            "title": "Jönköping",
+            "link": "/radios/country/Sweden/state/Jonkoping"
+        }, {
+            "title": "Jönköping",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Classics", "Dubstep", "Hip Hop", "Rap"],
+        "location": {
+            "city": "Jönköping",
+            "country": "Sweden"
+        },
+        "profile_slogan": "KaosVerket Radio",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "playing tunes from our own lable",
+            "rest": "playing tunes from our own lable"
+        },
+        "radio_contacts": {
+            "short": "playing tunes from our own lable",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.facebook.com/KaosVerket/",
+            "facebook": "http://www.facebook.com/kaosverket",
+            "twitter": "http://twitter.com/kaosverket",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}]

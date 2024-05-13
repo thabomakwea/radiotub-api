@@ -1,0 +1,113 @@
+[{
+    "title": "Bydgoszcz",
+    "link": "https://streema.com/radios/Bydgoszcz_2",
+    "msg_results": "2 Radio Stations from Bydgoszcz",
+    "page_copy": "Listen to radio stations from Bydgoszcz, from a wide variety of genres like Funk, News, RnB, Soul and Sports.  Enjoy stations such as Polskie Radio PiK, Orange Park Radio and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Polskie Radio PiK",
+        "no_play": false,
+        "frequency": "FM 100.1",
+        "link_deatils": "/radios/Radio_Pik",
+        "link_player": "/radios/play/Radio_Pik",
+        "image": "https://static-media.streema.com/media/cache/8e/d7/8ed72112e99a72cbc2d561bb50f5b3a2.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/country/Poland"
+        }, {
+            "title": "Masovia",
+            "link": "/country/Poland/state/Warszawa"
+        }, {
+            "title": "Bydgoszcz",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["News", "Sports"],
+        "location": {
+            "city": "Bydgoszcz",
+            "country": "Poland"
+        },
+        "profile_slogan": "Rozgłośnia Regionalna Polskiego Radia na Pomorzu i Kujawach",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Polish Radio Pik combines tradition Pomeranian Polish Radio, which began its mission in ether in Torun in 1935 and launched in 1945, the Polish Radio",
+            "rest": "in Bydgoszcz. After the war, gave radio station in the structures of the Committee for Radio and Television, being a kind of field division of the Polish Radio in Warsaw."
+        },
+        "radio_contacts": {
+            "short": "Polish Radio Pik combines tradition Pomeranian Polish Radio, which began its mission in ether in Torun in 1935 and launched in 1945, the Polish Radio",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiopik.pl/",
+            "facebook": "http://www.facebook.com/radiopik",
+            "twitter": "http://twitter.com/radiopik",
+            "phone": "+48 52 327 40 00",
+            "address": "Gdańska 48 85-006 Bydgoszcz, Poland",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Pik",
+            "title": "Play Polskie Radio PiK"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.radiopik.pl:9004",
+        "radio_image": "https://static-media.streema.com/media/cache/97/d0/97d0da8d9039575e8d7244ea8c99dbdb.jpg"
+    }, {
+        "title": "Orange Park Radio",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/The_Orange_Park_Radio",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/0e/91/0e91e3680b5e636b1f0cb51f40a39e1a.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/country/Poland"
+        }, {
+            "title": "Masovia",
+            "link": "/country/Poland/state/Warszawa"
+        }, {
+            "title": "Bydgoszcz",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Funk", "RnB", "Soul"],
+        "location": {
+            "city": "Bydgoszcz",
+            "country": "Poland"
+        },
+        "profile_slogan": "Your 24/7 Prince Radio",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "The Orange Park Radio is an Internet Radio station broadcasting from Germany, providing Funk, R'n'B, Hits USA, Pop and Rock Music.",
+            "rest": "The Orange Park Radio is an Internet Radio station broadcasting from Germany, providing Funk, R'n'B, Hits USA, Pop and Rock Music."
+        },
+        "radio_contacts": {
+            "short": "The Orange Park Radio is an Internet Radio station broadcasting from Germany, providing Funk, R'n'B, Hits USA, Pop and Rock Music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://orangeparkradio.playtheradio.com/",
+            "facebook": "",
+            "twitter": "http://twitter.com/princeradio_org",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}]

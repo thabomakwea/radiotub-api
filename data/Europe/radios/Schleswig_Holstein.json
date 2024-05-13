@@ -1,0 +1,2219 @@
+[{
+    "title": "Kiel",
+    "link": "https://streema.com/radios/Kiel",
+    "msg_results": "41 Radio Stations from Kiel",
+    "page_copy": "Listen to radio stations from Kiel, from a wide variety of genres like 90s, German, Pop, RnB and Schlager.  Enjoy stations such as Als-Radio, Freeqnet Radio, R.SH - LiveStream, Kiel FM, NDR 1 Welle Nord and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Als-Radio",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/als_radio",
+        "link_player": "/radios/play/als_radio",
+        "image": "https://static-media.streema.com/media/cache/d4/3b/d43bd122d10c9f0f0218d7a284a1cd61.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Comedy", "Pop", "Rock", "Schlager"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "Infotainment.",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Radio für Patienten mit Amyotropher Lateralsklerose. Infos, Interviews und Nachrichten rund um die ALS dazu viel bunte Musik.",
+            "rest": "Radio für Patienten mit Amyotropher Lateralsklerose. Infos, Interviews und Nachrichten rund um die ALS dazu viel bunte Musik."
+        },
+        "radio_contacts": {
+            "short": "Radio für Patienten mit Amyotropher Lateralsklerose. Infos, Interviews und Nachrichten rund um die ALS dazu viel bunte Musik.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://laut.fm/als-radio",
+            "facebook": "",
+            "twitter": "http://twitter.com/radioalsforum",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/als_radio",
+            "title": "Play Als-Radio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://laut.fm/als-radio",
+        "radio_image": "https://static-media.streema.com/media/cache/07/96/079697fae3116dd6f74295efbed8b2e7.jpg"
+    }, {
+        "title": "Freeqnet Radio",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Freeqnet_Radio",
+        "link_player": "/radios/play/Freeqnet_Radio",
+        "image": "https://static-media.streema.com/media/cache/8c/ef/8cef90af8f913e2a84a5bdbc84cd0906.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Culture"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Freeqnet Radio ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Culture.",
+            "rest": "Freeqnet Radio ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Culture."
+        },
+        "radio_contacts": {
+            "short": "Freeqnet Radio ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Culture.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://blog.freeqnet.de/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Freeqnet_Radio",
+            "title": "Play Freeqnet Radio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://freeqradio.stream.laut.fm/freeqradio?pl=m3u&t302=2022-01-24_15-48-01&uuid=a510d97d-36ab-4ae2-a6d2-23987e569520",
+        "radio_image": "https://static-media.streema.com/media/cache/1a/1b/1a1b83e31df4bf0180d862c1e7cb0589.jpg"
+    }, {
+        "title": "R.SH - LiveStream",
+        "no_play": false,
+        "frequency": "FM 102.4",
+        "link_deatils": "/radios/Radio_Schleswig_Holstein",
+        "link_player": "/radios/play/Radio_Schleswig_Holstein",
+        "image": "https://static-media.streema.com/media/cache/8c/4f/8c4f228ac4d9a86a409c62c67d926676.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Classic Hits", "Comedy", "News", "Pop", "RnB", "Rock", "Talk"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "R.SH-Livestream",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "R.SH Live is a broadcast radio station in Kiel, Schleswig-Holstein, Germany, providing Classic, Hits, Pop and Rock music.",
+            "rest": "R.SH Live is a broadcast radio station in Kiel, Schleswig-Holstein, Germany, providing Classic, Hits, Pop and Rock music."
+        },
+        "radio_contacts": {
+            "short": "R.SH Live is a broadcast radio station in Kiel, Schleswig-Holstein, Germany, providing Classic, Hits, Pop and Rock music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.rsh.de/",
+            "facebook": "http://www.facebook.com/rshradio",
+            "twitter": "http://twitter.com/RSHradio",
+            "phone": "0431 - 98 6 98 000",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Schleswig_Holstein",
+            "title": "Play R.SH - LiveStream"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.rsh.de/rsh-live/mp3-192/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/6e/e1/6ee1bc88c483b6bcf8de76dc438f8bba.jpg"
+    }, {
+        "title": "Kiel FM",
+        "no_play": false,
+        "frequency": "FM 101.2",
+        "link_deatils": "/radios/Kiel_FM",
+        "link_player": "/radios/play/Kiel_FM",
+        "image": "https://static-media.streema.com/media/cache/a4/b0/a4b0cd5e3e4ae7759cc6a786c0bce0a7.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Top 40"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Kiel FM (Offener Kanal Kiel) ist ein FM radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Top 40.",
+            "rest": "Kiel FM (Offener Kanal Kiel) ist ein FM radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Top 40."
+        },
+        "radio_contacts": {
+            "short": "Kiel FM (Offener Kanal Kiel) ist ein FM radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Top 40.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.facebook.com/Kiel-FM-173635096162636/",
+            "facebook": "http://www.facebook.com/Kiel-FM-173635096162636/",
+            "twitter": "http://twitter.com/ok_kiel",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Kiel_FM",
+            "title": "Play Kiel FM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://radio.oksh.de:8000/kielfm.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/bf/74/bf74b6e3c90b3d61fcc382c870e2d8b7.jpg"
+    }, {
+        "title": "NDR 1 Welle Nord",
+        "no_play": false,
+        "frequency": "FM 90.9",
+        "link_deatils": "/radios/NDR_1_Welle_Nord",
+        "link_player": "/radios/play/NDR_1_Welle_Nord",
+        "image": "https://static-media.streema.com/media/cache/19/22/1922739f0b7751b33ea21db0586b44b1.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "\n        \n          \n          \n          \n          \n        ",
+            "stars": 5
+        },
+        "genres": [],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Aktuelle Informationen aus Schleswig-Holstein, viel Service und dazu die schönsten Hits, Ihre Lieblingsoldies und das Beste auf Deutsch.",
+            "rest": "Aktuelle Informationen aus Schleswig-Holstein, viel Service und dazu die schönsten Hits, Ihre Lieblingsoldies und das Beste auf Deutsch."
+        },
+        "radio_contacts": {
+            "short": "Aktuelle Informationen aus Schleswig-Holstein, viel Service und dazu die schönsten Hits, Ihre Lieblingsoldies und das Beste auf Deutsch.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.ndr.de/wellenord/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/NDR_1_Welle_Nord",
+            "title": "Play NDR 1 Welle Nord"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://icecast.ndr.de/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/e5/ef/e5efe7532f0c2b7e1a12af30c766d818.jpg"
+    }, {
+        "title": "R.SH - auf Sylt",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/R.SH_auf_Sylt",
+        "link_player": "/radios/play/R.SH_auf_Sylt",
+        "image": "https://static-media.streema.com/media/cache/6f/d9/6fd95eceea7de51793abb6bd0e811bac.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance", "German", "Pop", "Schlager"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "R.SH - auf Sylt ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Dance, Pop, Schlager.",
+            "rest": "R.SH - auf Sylt ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Dance, Pop, Schlager."
+        },
+        "radio_contacts": {
+            "short": "R.SH - auf Sylt ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Dance, Pop, Schlager.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.rsh.de/",
+            "facebook": "http://www.facebook.com/rshradio",
+            "twitter": "http://twitter.com/RSHradio",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/R.SH_auf_Sylt",
+            "title": "Play R.SH - auf Sylt"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.rsh.de/rsh-sylt/mp3-192/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/50/c9/50c9e102ba0e6a55d04640cbda9640ad.jpg"
+    }, {
+        "title": "R.SH - Top 40 - Charts",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/R.SH_Top",
+        "link_player": "/radios/play/R.SH_Top",
+        "image": "https://static-media.streema.com/media/cache/a0/63/a063182936fb5634eeb90faca98ddc6b.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "English", "German", "Pop", "Rock", "Top 40"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "R.SH - Top 40 ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Adult Contemporary, English, Pop.",
+            "rest": "R.SH - Top 40 ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Adult Contemporary, English, Pop."
+        },
+        "radio_contacts": {
+            "short": "R.SH - Top 40 ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Adult Contemporary, English, Pop.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.rsh.de/",
+            "facebook": "http://www.facebook.com/rshradio",
+            "twitter": "http://twitter.com/RSHradio",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/R.SH_Top",
+            "title": "Play R.SH - Top 40 - Charts"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.rsh.de/rsh-nordparade/mp3-192/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/00/1d/001d5e623a2cdb83a749a5e7021e2153.jpg"
+    }, {
+        "title": "R.SH - Fresh",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/R.SH_Fresh",
+        "link_player": "/radios/play/R.SH_Fresh",
+        "image": "https://static-media.streema.com/media/cache/6a/fc/6afc1fe32c905bf394e6097137881d9b.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["German", "Indie", "Pop", "RnB", "Rock"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "R.SH - Fresh ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Indie, Pop, RnB.",
+            "rest": "R.SH - Fresh ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Indie, Pop, RnB."
+        },
+        "radio_contacts": {
+            "short": "R.SH - Fresh ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Indie, Pop, RnB.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.rsh.de/",
+            "facebook": "http://www.facebook.com/rshradio",
+            "twitter": "http://twitter.com/RSHradio",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/R.SH_Fresh",
+            "title": "Play R.SH - Fresh"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.rsh.de/fresh/mp3-192/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/d5/2b/d52b1d6daf37ec0fe4bb4a564ce07cd1.jpg"
+    }, {
+        "title": "R.SH - Gold",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/R.SH_Gold",
+        "link_player": "/radios/play/R.SH_Gold",
+        "image": "https://static-media.streema.com/media/cache/49/e3/49e3ba2f2d3524a70bd93e47dec93c67.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Classic Rock", "Oldies", "Pop", "RnB", "Schlager", "Standards"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "R.SH - Gold ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Classic Rock, Oldies, Pop.",
+            "rest": "R.SH - Gold ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Classic Rock, Oldies, Pop."
+        },
+        "radio_contacts": {
+            "short": "R.SH - Gold ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Classic Rock, Oldies, Pop.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.rsh.de/",
+            "facebook": "http://www.facebook.com/rshradio",
+            "twitter": "http://twitter.com/RSHradio",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/R.SH_Gold",
+            "title": "Play R.SH - Gold"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.rsh.de/gold/mp3-192/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/ef/02/ef02d46755c26646cbfb8374e5b8561e.jpg"
+    }, {
+        "title": "R.SH - 90er",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/R.SH_90er",
+        "link_player": "/radios/play/R.SH_90er",
+        "image": "https://static-media.streema.com/media/cache/dd/60/dd60fcb97222318526b85b94f34aa4e7.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["90s", "Classic Hits", "German", "Pop", "RnB", "Rock", "Schlager"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "R.SH - 90er ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet 90s, Pop, RnB.",
+            "rest": "R.SH - 90er ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet 90s, Pop, RnB."
+        },
+        "radio_contacts": {
+            "short": "R.SH - 90er ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet 90s, Pop, RnB.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.rsh.de/",
+            "facebook": "http://www.facebook.com/rshradio",
+            "twitter": "http://twitter.com/RSHradio",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/R.SH_90er",
+            "title": "Play R.SH - 90er"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.rsh.de/90er/mp3-192/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/5a/4f/5a4f1e9ec3cd6e3fcbe7e621c2c5db2a.jpg"
+    }, {
+        "title": "R.SH - Relax",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/R.SH_Relax",
+        "link_player": "/radios/play/R.SH_Relax",
+        "image": "https://static-media.streema.com/media/cache/e1/30/e13093af1162ce2cb9a8858bbd389e11.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Easy Listening", "German", "Pop", "RnB", "Rock"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "R.SH - Relax ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Easy Listening, Pop, RnB.",
+            "rest": "R.SH - Relax ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Easy Listening, Pop, RnB."
+        },
+        "radio_contacts": {
+            "short": "R.SH - Relax ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Easy Listening, Pop, RnB.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.rsh.de/",
+            "facebook": "http://www.facebook.com/rshradio",
+            "twitter": "http://twitter.com/RSHradio",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/R.SH_Relax",
+            "title": "Play R.SH - Relax"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.rsh.de/relax/mp3-192/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/3a/22/3a22c02456b55ae11ee3d20bfa0fc4e3.jpg"
+    }, {
+        "title": "R.SH - Kids",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/R.SH_Kids",
+        "link_player": "/radios/play/R.SH_Kids",
+        "image": "https://static-media.streema.com/media/cache/7c/af/7caf1410316623b78f24660f21640fe8.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Children's Family", "Entertainment", "Kids"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "R.SH - Kids ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Children's Family, Entertainment, Kids.",
+            "rest": "R.SH - Kids ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Children's Family, Entertainment, Kids."
+        },
+        "radio_contacts": {
+            "short": "R.SH - Kids ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Children's Family, Entertainment, Kids.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.rsh.de/",
+            "facebook": "http://www.facebook.com/rshradio",
+            "twitter": "http://twitter.com/RSHradio",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/R.SH_Kids",
+            "title": "Play R.SH - Kids"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.rsh.de/kids/mp3-192/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/5e/b6/5eb6684736b1152cb21e6c24c10b4a5d.jpg"
+    }, {
+        "title": "R.SH - Deutsch",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/R.SH_Deutsch",
+        "link_player": "/radios/play/R.SH_Deutsch",
+        "image": "https://static-media.streema.com/media/cache/85/bf/85bf1a1f13d551b8b1ca6806c9b01064.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["German", "Pop", "Schlager"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "R.SH - Deutsch ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Pop, Schlager.",
+            "rest": "R.SH - Deutsch ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Pop, Schlager."
+        },
+        "radio_contacts": {
+            "short": "R.SH - Deutsch ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Pop, Schlager.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.rsh.de/",
+            "facebook": "http://www.facebook.com/rshradio",
+            "twitter": "http://twitter.com/RSHradio",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/R.SH_Deutsch",
+            "title": "Play R.SH - Deutsch"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.rsh.de/deutsch/mp3-192/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/84/89/8489721125f57475249a5d2d189a0b22.jpg"
+    }, {
+        "title": "R.SH - Mittmann Mix",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/R.SH_Mittmann_Mix",
+        "link_player": "/radios/play/R.SH_Mittmann_Mix",
+        "image": "https://static-media.streema.com/media/cache/c0/75/c075301bc6c9edf379cb963ffb040961.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance", "DJ", "German", "House", "Pop"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "R.SH - Mittmann Mix ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Dance, DJ, House.",
+            "rest": "R.SH - Mittmann Mix ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Dance, DJ, House."
+        },
+        "radio_contacts": {
+            "short": "R.SH - Mittmann Mix ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Dance, DJ, House.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.rsh.de/",
+            "facebook": "http://www.facebook.com/rshradio",
+            "twitter": "http://twitter.com/RSHradio",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/R.SH_Mittmann_Mix",
+            "title": "Play R.SH - Mittmann Mix"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.rsh.de/rsh-mittmannmix/mp3-192/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/a8/2b/a82b8f87fbb2d45cfb9538a139848e95.jpg"
+    }, {
+        "title": "R.SH - Dance",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/R.SH_Dance",
+        "link_player": "/radios/play/R.SH_Dance",
+        "image": "https://static-media.streema.com/media/cache/f6/a0/f6a0fa960ecbea91174c09d438f0be80.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance", "Disco", "German", "Pop", "Techno"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "R.SH - Dance ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Dance, Disco, Pop.",
+            "rest": "R.SH - Dance ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Dance, Disco, Pop."
+        },
+        "radio_contacts": {
+            "short": "R.SH - Dance ist ein Web radiosender aus Kiel, Schleswig-Holstein, Germany, und bietet Dance, Disco, Pop.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.rsh.de/",
+            "facebook": "http://www.facebook.com/rshradio",
+            "twitter": "http://twitter.com/RSHradio",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/R.SH_Dance",
+            "title": "Play R.SH - Dance"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.rsh.de/dance/mp3-192/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/6b/02/6b020c4e5f1904170fdae56e804a089b.jpg"
+    }, {
+        "title": "NORA Webstreams - Webstream",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/NORA_Webstreams_Webstream",
+        "link_player": "/radios/play/NORA_Webstreams_Webstream",
+        "image": "https://static-media.streema.com/media/cache/d8/84/d8843be1b8041fc53fe17125e3014437.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["80s", "90s", "Classic Hits", "Classic Rock", "Disco", "Pop", "RnB", "Schlager"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "WIR LIEBEN MUSIK",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Auf NORA Webstreams genießen Sie die Musik der 70er, 80er und 90er Jahre - hier laufen die unvergesslichen Highlights aus über 30 Jahren Rock und",
+            "rest": "Pop und aktuelle Hits. Von ABBA, bis ZZ-Top, von Billy Ocean bis Bon Jovi von Cindy Lauper bis Suzie Quatro. Aber das ist noch nicht alles: Sie hängen speziell an den 80ern? Dann empfehlen wir Ihnen unseren NORA 80er-Stream. Ausschließlich mit der Musik aus dem Jahrzehnt, als Neon-Stulpen, Vokuhila und Karottenhosen noch kein modisches Vergehen waren. Aber auch für die ästhetisch unverfänglicheren 60er und 70er gibt es bei uns das passende Angebot: NORA Oldies - mit geschmackssicheren Bands wie den Eagles, den Beatles, Smokie und vielen mehr.\nViel Spaß mit unseren guten Songs - klicken Sie einfach auf Ihren jeweiligen Lieblings-NORA-Webstream."
+        },
+        "radio_contacts": {
+            "short": "Auf NORA Webstreams genießen Sie die Musik der 70er, 80er und 90er Jahre - hier laufen die unvergesslichen Highlights aus über 30 Jahren Rock und",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.norawebstreams.de/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "0431 - 99 06 808",
+            "address": "Wittland 3, 24109 Kiel",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/NORA_Webstreams_Webstream",
+            "title": "Play NORA Webstreams - Webstream"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.norawebstreams.de/nora-live/mp3-192/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/1a/5d/1a5daa84e467c86af7e8d4a161146f30.jpg"
+    }, {
+        "title": "NORA Webstreams - Oldies 60er & 70er",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/NORA_Webstreams_Oldies_60er_and_70er",
+        "link_player": "/radios/play/NORA_Webstreams_Oldies_60er_and_70er",
+        "image": "https://static-media.streema.com/media/cache/5c/50/5c500d453c4446d351d493da8ff58a52.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Classic Hits", "Classic Rock", "German", "Pop", "RnB", "Schlager"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "ES GIBT SIE NOCH, DIE GUTEN SONGS! Auf NORA Webstreams genießen Sie die Musik der 70er, 80er und 90er Jahre - hier laufen die unvergesslichen",
+            "rest": "Highlights aus über 30 Jahren Rock und Pop und aktuelle Hits. Von ABBA, bis ZZ-Top, von Billy Ocean bis Bon Jovi von Cindy Lauper bis Suzie Quatro. Aber das ist noch nicht alles: Sie hängen speziell an den 80ern? Dann empfehlen wir Ihnen unseren NORA 80er-Stream. Ausschließlich mit der Musik aus dem Jahrzehnt, als Neon-Stulpen, Vokuhila und Karottenhosen noch kein modisches Vergehen waren. Aber auch für die ästhetisch unverfänglicheren 60er und 70er gibt es bei uns das passende Angebot: NORA Oldies - mit geschmackssicheren Bands wie den Eagles, den Beatles, Smokie und vielen mehr.\nViel Spaß mit unseren guten Songs - klicken Sie einfach auf Ihren jeweiligen Lieblings-NORA-Webstream."
+        },
+        "radio_contacts": {
+            "short": "ES GIBT SIE NOCH, DIE GUTEN SONGS! Auf NORA Webstreams genießen Sie die Musik der 70er, 80er und 90er Jahre - hier laufen die unvergesslichen",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.norawebstreams.de/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "0431 - 99 06 808",
+            "address": "Wittland 3, 24109 Kiel",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/NORA_Webstreams_Oldies_60er_and_70er",
+            "title": "Play NORA Webstreams - Oldies 60er & 70er"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.norawebstreams.de/nora-oldies/mp3-192/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/e8/18/e818367fcbed46f708e2254325f210a3.jpg"
+    }, {
+        "title": "NORA Webstreams - 80er",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/NORA_Webstreams_80er",
+        "link_player": "/radios/play/NORA_Webstreams_80er",
+        "image": "https://static-media.streema.com/media/cache/b4/b8/b4b80978aee8ada112599f30183c19d1.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["80s", "German", "Pop", "RnB", "Rock", "Schlager"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "WIR LIEBEN MUSIK.",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "ES GIBT SIE NOCH, DIE GUTEN SONGS! Auf NORA Webstreams genießen Sie die Musik der 70er, 80er und 90er Jahre - hier laufen die unvergesslichen",
+            "rest": "Highlights aus über 30 Jahren Rock und Pop und aktuelle Hits. Von ABBA, bis ZZ-Top, von Billy Ocean bis Bon Jovi von Cindy Lauper bis Suzie Quatro. Aber das ist noch nicht alles: Sie hängen speziell an den 80ern? Dann empfehlen wir Ihnen unseren NORA 80er-Stream. Ausschließlich mit der Musik aus dem Jahrzehnt, als Neon-Stulpen, Vokuhila und Karottenhosen noch kein modisches Vergehen waren. Aber auch für die ästhetisch unverfänglicheren 60er und 70er gibt es bei uns das passende Angebot: NORA Oldies - mit geschmackssicheren Bands wie den Eagles, den Beatles, Smokie und vielen mehr.\nViel Spaß mit unseren guten Songs - klicken Sie einfach auf Ihren jeweiligen Lieblings-NORA-Webstream."
+        },
+        "radio_contacts": {
+            "short": "ES GIBT SIE NOCH, DIE GUTEN SONGS! Auf NORA Webstreams genießen Sie die Musik der 70er, 80er und 90er Jahre - hier laufen die unvergesslichen",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.norawebstreams.de/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "0431 - 99 06 808",
+            "address": "Wittland 3, 24109 Kiel",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/NORA_Webstreams_80er",
+            "title": "Play NORA Webstreams - 80er"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.norawebstreams.de/nora-80er/mp3-192/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/08/0d/080d4fed89f2d3fe38bc3f192ccc53c8.jpg"
+    }, {
+        "title": "90s90s - Boygroups",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/90s90s_Boygroups",
+        "link_player": "/radios/play/90s90s_Boygroups",
+        "image": "https://static-media.streema.com/media/cache/af/7d/af7dac1ca43bbbe06fe359a9890d953d.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["90s", "Pop"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "Triff die Jungs, die Du in den 90ern geliebt hast",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "90s90s Boygroups. Kevin, Howie, Nick und alle Hits der Backstreet Boys. Robbie, Mark, Howard und alles von Take That. Aber natürlich auch NKOTB, Caught in",
+            "rest": "the Act, N’SYNC und Boyzone. 90s90s Boygroups: das ist ein Radio für die erste große Liebe in den 90s."
+        },
+        "radio_contacts": {
+            "short": "90s90s Boygroups. Kevin, Howie, Nick und alle Hits der Backstreet Boys. Robbie, Mark, Howard und alles von Take That. Aber natürlich auch NKOTB, Caught in",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.90s90s.de/",
+            "facebook": "http://www.facebook.com/90s90sRadio",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/90s90s_Boygroups",
+            "title": "Play 90s90s - Boygroups"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.90s90s.de/boygroup/mp3-192/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/0f/40/0f407977d0af729ed759236af55a7bec.jpg"
+    }, {
+        "title": "90s90s - Clubhits",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/90s90s_The_Beat",
+        "link_player": "/radios/play/90s90s_The_Beat",
+        "image": "https://static-media.streema.com/media/cache/1c/11/1c1117776b9ab91c8ff1263894a9c9bf.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["90s", "RnB"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "Hier gibt es die coole Musik der 90er-Charts",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "90s90s Clubhits setzt den Fokus auf Urban, Dance und Hip Hop Hits der 90er oder kurz: auf den Beat of the 90s. Einfach die Songs,",
+            "rest": " auf die man in den 90s richtig abfeiern konnte, und auch heute. "
+        },
+        "radio_contacts": {
+            "short": "90s90s Clubhits setzt den Fokus auf Urban, Dance und Hip Hop Hits der 90er oder kurz: auf den Beat of the 90s. Einfach die Songs,",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.90s90s.de/",
+            "facebook": "http://www.facebook.com/90s90sRadio",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/90s90s_The_Beat",
+            "title": "Play 90s90s - Clubhits"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.90s90s.de/main/mp3-192/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/f5/54/f55435ecf6c35f6fb8ab7b5f459d185d.jpg"
+    }, {
+        "title": "90s90s - 90er Hits",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/90s90s_Hits",
+        "link_player": "/radios/play/90s90s_Hits",
+        "image": "https://static-media.streema.com/media/cache/22/75/227556d23b04e9658b85c071b00aec48.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["90s"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "Hier laufen von Ace of Base über",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "90s90s Hits: Hier laufen von Ace of Base über Celine Dion, Rednex, Roxette bis U96 die große Radiohits der 90er. Frisch gemischt und immer gute",
+            "rest": "Laune. "
+        },
+        "radio_contacts": {
+            "short": "90s90s Hits: Hier laufen von Ace of Base über Celine Dion, Rednex, Roxette bis U96 die große Radiohits der 90er. Frisch gemischt und immer gute",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.90s90s.de/",
+            "facebook": "http://www.facebook.com/90s90sRadio",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/90s90s_Hits",
+            "title": "Play 90s90s - 90er Hits"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.90s90s.de/pop/mp3-192/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/d5/1c/d51cb109249534b97e268e5c74b34f57.jpg"
+    }, {
+        "title": "RADIO BOB! Schleswig-Holstein",
+        "no_play": false,
+        "frequency": "FM 97.0",
+        "link_deatils": "/radios/Radio_Nora",
+        "link_player": "/radios/play/Radio_Nora",
+        "image": "https://static-media.streema.com/media/cache/63/fb/63fbd68ab8bdc17a34c1ee028ca94f58.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Rock"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "Wir lieben Musik",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "RADIO BOB! is a broadcast radio station from Kiel, Germany providing Classics, Hits music and information.",
+            "rest": "RADIO BOB! is a broadcast radio station from Kiel, Germany providing Classics, Hits music and information."
+        },
+        "radio_contacts": {
+            "short": "RADIO BOB! is a broadcast radio station from Kiel, Germany providing Classics, Hits music and information.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiobob.de/sh/home",
+            "facebook": "http://www.facebook.com/RADIOBOB.de",
+            "twitter": "http://twitter.com/radio_bob",
+            "phone": "01805-818681",
+            "address": "Wittland 3",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Nora",
+            "title": "Play RADIO BOB! Schleswig-Holstein"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.radiobob.de/bob-shlive/mp3-192/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/dd/c0/ddc0d86e2a60166336e911fc95337420.jpg"
+    }, {
+        "title": "delta radio - Deutsch Rap Klassiker",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/delta_radio_Deutsch_Rap_Klassiker",
+        "link_player": "/radios/play/delta_radio_Deutsch_Rap_Klassiker",
+        "image": "https://static-media.streema.com/media/cache/0e/02/0e02f5672349cb939366e11c58927dcb.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["German", "Hip Hop", "Rap"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "Wir brauchen Bass, Digga! Die besten deutschen Rap Klassiker aller Zeiten",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "The best German rap classics of all time. There's plenty of beef, beats and battles in here. The perfect playlist to cruise through the Hood",
+            "rest": "with sneakers, cap and sweatpants and present the good old massive gold chain. For you compiled by delta radio."
+        },
+        "radio_contacts": {
+            "short": "The best German rap classics of all time. There's plenty of beef, beats and battles in here. The perfect playlist to cruise through the Hood",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.deltaradio.de/",
+            "facebook": "http://www.facebook.com/deltaradio",
+            "twitter": "http://twitter.com/deltaradio",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/delta_radio_Deutsch_Rap_Klassiker",
+            "title": "Play delta radio - Deutsch Rap Klassiker"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.deltaradio.de/deutschrap-klassiker/mp3-192/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/a4/68/a468127d8a095dad3b9ccd08ffb787ea.jpg"
+    }, {
+        "title": "delta radio - At Home",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/delta_radio_At_Home",
+        "link_player": "/radios/play/delta_radio_At_Home",
+        "image": "https://static-media.streema.com/media/cache/19/94/199457d6534a1f07481991f8f55cfa3a.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Hits"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.deltaradio.de/",
+            "facebook": "http://www.facebook.com/deltaradio",
+            "twitter": "http://twitter.com/deltaradio",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/delta_radio_At_Home",
+            "title": "Play delta radio - At Home"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.deltaradio.de/101/mp3-128/",
+        "radio_image": "https://static-media.streema.com/media/cache/95/6f/956f5ba963667a54d129167f39f7c265.jpg"
+    }, {
+        "title": "delta radio - X-MAS",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/delta_radio_X_MAS",
+        "link_player": "/radios/play/delta_radio_X_MAS",
+        "image": "https://static-media.streema.com/media/cache/13/93/1393a09bc49cee12188374ec8556ce5d.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Christmas", "Holidays"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.deltaradio.de/",
+            "facebook": "http://www.facebook.com/deltaradio",
+            "twitter": "http://twitter.com/deltaradio",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/delta_radio_X_MAS",
+            "title": "Play delta radio - X-MAS"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.deltaradio.de/x-mas/mp3-128/",
+        "radio_image": "https://static-media.streema.com/media/cache/06/5f/065f6231617644640150339c7740e165.jpg"
+    }, {
+        "title": "90s90s - Dance",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/90s90s_Dance",
+        "link_player": "/radios/play/90s90s_Dance",
+        "image": "https://static-media.streema.com/media/cache/08/40/0840fef04d4d3ca487a70dc8ff81658f.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["90s", "Dance", "Hits", "Pop"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "90er Dance-Musik füllt die Tanzflächen",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "90er Dance-Musik füllt die Tanzflächen. Die Dance-Dekade ist zurück, denn 90s90s Dance feiert den schnellen Beat. Egal ob Klassiker oder seltene DJ-Projekte, wir haben alle",
+            "rest": "Platten aufgelegt und uns für die besten Tanznummern entschieden. Dieses Radio geht direkt in die Beine."
+        },
+        "radio_contacts": {
+            "short": "90er Dance-Musik füllt die Tanzflächen. Die Dance-Dekade ist zurück, denn 90s90s Dance feiert den schnellen Beat. Egal ob Klassiker oder seltene DJ-Projekte, wir haben alle",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.90s90s.de/",
+            "facebook": "http://www.facebook.com/90s90sRadio",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/90s90s_Dance",
+            "title": "Play 90s90s - Dance"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.90s90s.de/eurodance/mp3-192/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/49/00/4900bc1f0ad42c3cdebbee5e65741da8.jpg"
+    }, {
+        "title": "90s90s - Grunge",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/90s90s_Grunge",
+        "link_player": "/radios/play/90s90s_Grunge",
+        "image": "https://static-media.streema.com/media/cache/20/7c/207c7dc09878a2b67d58c667bec235ed.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "\n        \n          \n          \n          \n          \n        ",
+            "stars": 5
+        },
+        "genres": ["90s", "Grunge"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "Was in Seattle in den USA begann, begeistert noch immer Generationen",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Lange Haare, zerrissene Jeans, Holzfällerhemden und eine Garage für die Proben, das reichte in den 90ern in Seattle um eine Grunge-Band zu gründen.",
+            "rest": "Lange Haare, zerrissene Jeans, Holzfällerhemden und eine Garage für die Proben, das reichte in den 90ern in Seattle um eine Grunge-Band zu gründen."
+        },
+        "radio_contacts": {
+            "short": "Lange Haare, zerrissene Jeans, Holzfällerhemden und eine Garage für die Proben, das reichte in den 90ern in Seattle um eine Grunge-Band zu gründen.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.90s90s.de/",
+            "facebook": "http://www.facebook.com/90s90sRadio",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/90s90s_Grunge",
+            "title": "Play 90s90s - Grunge"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.90s90s.de/grunge/mp3-192/streams/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/33/f8/33f879002f9eceac5b0a59c22ff3a4e7.jpg"
+    }, {
+        "title": "90s90s - Soul & RnB",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/90s90s_Black_and_RnB",
+        "link_player": "/radios/play/90s90s_Black_and_RnB",
+        "image": "https://static-media.streema.com/media/cache/5d/bc/5dbc9c0c0b186075f1fef99d1e53d9fd.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["90s", "Funk", "RnB", "Soul"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.90s90s.de/",
+            "facebook": "http://www.facebook.com/90s90sRadio",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/90s90s_Black_and_RnB",
+            "title": "Play 90s90s - Soul & RnB"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.90s90s.de/rnb/mp3-192/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/95/07/95075f5b40b1340a556461b7128fac69.jpg"
+    }, {
+        "title": "90s90s - HipHop & Rap",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/90s90s_HipHop_and_Rap",
+        "link_player": "/radios/play/90s90s_HipHop_and_Rap",
+        "image": "https://static-media.streema.com/media/cache/78/7f/787fa38f71aa2d81b19fac15e379ccc4.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["90s", "Hip Hop", "Old School", "Rap"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.90s90s.de/",
+            "facebook": "http://www.facebook.com/90s90sRadio",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/90s90s_HipHop_and_Rap",
+            "title": "Play 90s90s - HipHop & Rap"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.90s90s.de/hiphop/mp3-192/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/2f/5b/2f5b1842cbdb23dcd673848b221c171e.jpg"
+    }, {
+        "title": "90s90s - Techno",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/90s90s_Techno",
+        "link_player": "/radios/play/90s90s_Techno",
+        "image": "https://static-media.streema.com/media/cache/b7/a1/b7a150bd579c7cd3a630c0c759da217f.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["90s", "Techno"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.90s90s.de/",
+            "facebook": "http://www.facebook.com/90s90sRadio",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/90s90s_Techno",
+            "title": "Play 90s90s - Techno"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.90s90s.de/techno/mp3-192/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/17/5e/175e633d1e03bc65ac8a22cdd85e3eac.jpg"
+    }, {
+        "title": "R.SH - 80er",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/R.SH_80er",
+        "link_player": "/radios/play/R.SH_80er",
+        "image": "https://static-media.streema.com/media/cache/cb/3e/cb3e3dbd4e91f6f45a0f0688b2abac82.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["80s", "German", "Pop", "RnB", "Rock"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "R.SH 80er is an internet radio station from Kiel, Germany, providing 80's and Dance music.",
+            "rest": "R.SH 80er is an internet radio station from Kiel, Germany, providing 80's and Dance music."
+        },
+        "radio_contacts": {
+            "short": "R.SH 80er is an internet radio station from Kiel, Germany, providing 80's and Dance music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.rsh.de/",
+            "facebook": "http://www.facebook.com/rshradio",
+            "twitter": "http://twitter.com/RSHradio",
+            "phone": "0431 - 98 6 98 000",
+            "address": "Wittland 3, 24109 Kiel",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/R.SH_80er",
+            "title": "Play R.SH - 80er"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.rsh.de/rsh-80er/mp3-192/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/d0/df/d0dfb2a19664418be751cc881d2e670a.jpg"
+    }, {
+        "title": "NORA Webstreams - Oldie Party",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/NORA_Webstreams_Oldie_Party",
+        "link_player": "/radios/play/NORA_Webstreams_Oldie_Party",
+        "image": "https://static-media.streema.com/media/cache/a0/0f/a00f7e16bb4879b5bb2ab6817928c2c4.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["60s", "70s", "Classic Rock", "German", "Oldies", "Pop"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.norawebstreams.de/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/NORA_Webstreams_Oldie_Party",
+            "title": "Play NORA Webstreams - Oldie Party"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.norawebstreams.de/nora-oldies/mp3-192/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/f2/a5/f2a5f5e4818eac80d19c5ce773c3b4ef.jpg"
+    }, {
+        "title": "NORA Webstreams - Weihnachten",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/NORA_Webstreams_Weihnachten",
+        "link_player": "/radios/play/NORA_Webstreams_Weihnachten",
+        "image": "https://static-media.streema.com/media/cache/b9/7c/b97c72656133a3df78ba97e09ac4e433.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Christmas", "German", "Holidays", "Pop", "Standards", "Traditional"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.norawebstreams.de/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/NORA_Webstreams_Weihnachten",
+            "title": "Play NORA Webstreams - Weihnachten"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.norawebstreams.de/nora-event01/mp3-192/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/91/0c/910cac2fe1b908c1aae38a797fa5748a.jpg"
+    }, {
+        "title": "R.SH - Oldies",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/R.SH_Oldies",
+        "link_player": "/radios/play/R.SH_Oldies",
+        "image": "https://static-media.streema.com/media/cache/3e/4e/3e4e01bee9d309d8465dd1ee467b2bdf.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Classic Hits", "Classic Rock", "Oldies", "Pop", "RnB"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.rsh.de/",
+            "facebook": "http://www.facebook.com/rshradio",
+            "twitter": "http://twitter.com/RSHradio",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/R.SH_Oldies",
+            "title": "Play R.SH - Oldies"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.rsh.de/oldies/mp3-192/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/9f/03/9f036e4b8c5cc946bde17c83b7f35a08.jpg"
+    }, {
+        "title": "R.SH - Sommerhits",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/R.SH_Sommerhits",
+        "link_player": "/radios/play/R.SH_Sommerhits",
+        "image": "https://static-media.streema.com/media/cache/06/d3/06d36f843373546764eb8bb9b8d8f44e.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Classic Hits", "Pop", "RnB", "Rock"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.rsh.de/",
+            "facebook": "http://www.facebook.com/rshradio",
+            "twitter": "http://twitter.com/RSHradio",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/R.SH_Sommerhits",
+            "title": "Play R.SH - Sommerhits"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.rsh.de/sommerhits/mp3-192/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/fc/27/fc27b618cdbcd4003b4b1b7324f84ebc.jpg"
+    }, {
+        "title": "All Time Classics Radio",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/all_time_classics_Radio",
+        "link_player": "/radios/play/all_time_classics_Radio",
+        "image": "https://static-media.streema.com/media/cache/4c/54/4c54591deace1b7f5e5a4dba456bfd32.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Alternative", "Classic Hits", "Classic Rock", "Metal", "Rock"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "Die besten Hits aller Zeiten",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "All Time Classics Radio is an internet radio station from Kiel, Schleswig-Holstein, Germany, playing Rock, Metal, Alternative Rock and Classic Rock music.",
+            "rest": "All Time Classics Radio is an internet radio station from Kiel, Schleswig-Holstein, Germany, playing Rock, Metal, Alternative Rock and Classic Rock music."
+        },
+        "radio_contacts": {
+            "short": "All Time Classics Radio is an internet radio station from Kiel, Schleswig-Holstein, Germany, playing Rock, Metal, Alternative Rock and Classic Rock music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.alltimeclassics.de/",
+            "facebook": "http://www.facebook.com/alltimeclassicsradio",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/all_time_classics_Radio",
+            "title": "Play All Time Classics Radio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.laut.fm/alltimeclassics",
+        "radio_image": "https://static-media.streema.com/media/cache/53/13/5313179d2ea9b5a68bc6b36e5e8b0026.jpg"
+    }, {
+        "title": "Schlagerplanet Radio - 100% Discofox",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Schlagerplanet_Radio_100_Discofox",
+        "link_player": "/radios/play/Schlagerplanet_Radio_100_Discofox",
+        "image": "https://static-media.streema.com/media/cache/05/f3/05f3ab28728717c27fbc848418bbee2a.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance", "Easy Listening", "Pop", "Schlager"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "100% Discofox  by Schlagerplanet Radio – 100% your music!",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "You like to dance to german Schlager music? This is the perfect station for everybody who loves the discofox-Beats from Stars like Helene Fischer, Kerstin",
+            "rest": "Ott, Stereoact, Fantasy and more. Discofox is the by far most popular dance in the world of german Schlager. You can hear the beats from stars like Helene Fischer, Kerstin Ott, Fantasy or Stereoact on one radio station. Where ever and when ever you want to dance, nonstop and without interruptions. Schlagerplanet radio offers multiple radioprograms, that include many genres of music from Germany. 100% Volksmusik, 100% Partyschlager, 100% Deutsch and 100% Schlager are some of your new radioprograms for german music."
+        },
+        "radio_contacts": {
+            "short": "You like to dance to german Schlager music? This is the perfect station for everybody who loves the discofox-Beats from Stars like Helene Fischer, Kerstin",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.schlagerplanetradio.com/",
+            "facebook": "http://www.facebook.com/schlagerplanetradio/",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Schlagerplanet_Radio_100_Discofox",
+            "title": "Play Schlagerplanet Radio - 100% Discofox"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.schlagerplanetradio.com/discofox/mp3-192/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/2e/02/2e029fc78a3a344ff6e58d1a5d4ecb44.jpg"
+    }, {
+        "title": "90s90s - In The Mix",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/90s90s_In_The_Mix",
+        "link_player": "/radios/play/90s90s_In_The_Mix",
+        "image": "https://static-media.streema.com/media/cache/4d/bb/4dbb01dd1a694cb5c7d73cb841ea90b8.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["90s", "Dance", "Hits", "House"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "The Sound Of The 90s nonstop mixed by Oli P.",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "90s Music is bursting every dancefloor. The decade of Dance is Back, 90s90s In The Mix – the official Radio station mixed and hosted by",
+            "rest": "Oli P. celebrates the Sound of the 90s. Regardless if Classics, Anthems: 90s-Icon Oli P. collected all the records of 90s Hits and 90s Dance and picked out only the best and mixed them for you. 90s90s In The Mix is the perfect radio station for your weekend party, a fast ride in your car or to hang out with your friends. If there was a genre in the 90s that made history, it's definitely the 90s Mixsound."
+        },
+        "radio_contacts": {
+            "short": "90s Music is bursting every dancefloor. The decade of Dance is Back, 90s90s In The Mix – the official Radio station mixed and hosted by",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.90s90s.de/",
+            "facebook": "http://www.facebook.com/90s90sRadio",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/90s90s_In_The_Mix",
+            "title": "Play 90s90s - In The Mix"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.90s90s.de/inthemix/mp3-192/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/44/ae/44aed2ce4282d4a9ef80f5db0b8eac53.jpg"
+    }, {
+        "title": "90s90s - Hiphop Deutsch",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/90s90s_Hiphop_Deutsch",
+        "link_player": "/radios/play/90s90s_Hiphop_Deutsch",
+        "image": "https://static-media.streema.com/media/cache/3a/ec/3aecac0541d174cbe4677d05dd19df11.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["90s", "Hip Hop", "Hits", "Rap"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "Zll the Hymns from the 90ies-German-Hiphop-Scene nonstop",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "In the 90ies a crowd of german hiphop-acts started their career. All over the land established clubs and pulsing scenes. In the big urban centers",
+            "rest": "like Hamburg, Stuttgart, Munich, Frankfurt and Berlin – every area in Germany had it´s own style and fashion. From socio-critic lyrics to „fun hiphop“ – it was an extremely bright range in this movement. The radio 90s90s Hiphop deutsch combines the big commercial hits of this decade with tracks from the underground – the perfect mix for a journey into the most pulsing era of german hiphop."
+        },
+        "radio_contacts": {
+            "short": "In the 90ies a crowd of german hiphop-acts started their career. All over the land established clubs and pulsing scenes. In the big urban centers",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.90s90s.de/",
+            "facebook": "http://www.facebook.com/90s90sRadio",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/90s90s_Hiphop_Deutsch",
+            "title": "Play 90s90s - Hiphop Deutsch"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.90s90s.de/hiphop-german/mp3-192/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/fc/1c/fc1cefcefadec4dc5b850a3a62dedd49.jpg"
+    }, {
+        "title": "90s90s - Summer",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/90s90s_Summer",
+        "link_player": "/radios/play/90s90s_Summer",
+        "image": "https://static-media.streema.com/media/cache/84/8a/848ab0ab27ac8f22e19a6b5bd026de64.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["90s", "Christmas", "Easy Listening", "Oldies"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "Der Sommersound der 90er",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "We bring back the summer feeling of the 90s. Put on your plastic bathing shoes and head to the lake. Loona and Ricky Martin's 90s",
+            "rest": "summer hits with them. You can chill in the sun to the 90s summer sound of Shaggy and Enrique Iglesias or dance the \"Macarena\" until you sweat. A Tequila Sunrise in your hand and the Vengaboys on your ears. Now summer can come - \"sexy ice cream\" for EVERYONE!"
+        },
+        "radio_contacts": {
+            "short": "We bring back the summer feeling of the 90s. Put on your plastic bathing shoes and head to the lake. Loona and Ricky Martin's 90s",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.90s90s.de/",
+            "facebook": "http://www.facebook.com/90s90sRadio",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/90s90s_Summer",
+            "title": "Play 90s90s - Summer"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams.90s90s.de/90s90s-sommerhits/mp3-192",
+        "radio_image": "https://static-media.streema.com/media/cache/8d/66/8d66446d1f908dc52c6b7cac394d26d1.jpg"
+    }, {
+        "title": "Hit Radio Kiel",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Hit_Radio_Kiel",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/ee/e9/eee96be1ac1e2d29d3501c0feb6a8783.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Schleswig-Holstein",
+            "link": "/country/Germany/state/Schleswig_Holstein"
+        }, {
+            "title": "Kiel",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["80s", "90s"],
+        "location": {
+            "city": "Kiel",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "Herzlich Willkommen beim HitRadioKiel. In unserer Teamliste könnt ihr alle unsere Moderatoren betrachten,und Über den Sendeplan verpasst Ihr keine Sendung mehr. Wollt auch ihr dabei",
+            "rest": "sein ? Dann meldet euch kostenlos in unserer Community an und findet dort viele Intressante Dinge.\nDas Team vom HitRadioKiel"
+        },
+        "radio_contacts": {
+            "short": "Herzlich Willkommen beim HitRadioKiel. In unserer Teamliste könnt ihr alle unsere Moderatoren betrachten,und Über den Sendeplan verpasst Ihr keine Sendung mehr. Wollt auch ihr dabei",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.hitradiokiel.de/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "Anke RoseOp'n Dörp 2424 217 BarsbekGermany",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}]

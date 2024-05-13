@@ -1,0 +1,277 @@
+[{
+    "title": "Castellón de la Plana",
+    "link": "https://streema.com/radios/Castellon_de_la_Plana_2",
+    "msg_results": "5 Radio Stations from Castellón de la Plana",
+    "page_copy": "Listen to radio stations from Castellón de la Plana, from a wide variety of genres like Adult Contemporary, Classic Hits, Pop, RnB and World.  Enjoy stations such as Cadena SER - Radio Castellón, LOS40 Urban, Los40 Castellón, Los40 Classic Castellón, Cadena Dial Castellón and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Cadena SER - Radio Castellón",
+        "no_play": false,
+        "frequency": "FM 91.2",
+        "link_deatils": "/radios/Radio_Castellon_Cadena_SER_91.2",
+        "link_player": "/radios/play/Radio_Castellon_Cadena_SER_91.2",
+        "image": "https://static-media.streema.com/media/cache/84/67/84676b86a7fb8aa62ad3aecbe3073060.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Castellón",
+            "link": "/radios/country/Spain/state/Castello"
+        }, {
+            "title": "Castellón de la Plana",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["News", "Sports", "Talk"],
+        "location": {
+            "city": "Castellón de la Plana",
+            "country": "Spain"
+        },
+        "profile_slogan": "Escucha con nosotros la vida",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Radio Castellón is a broadcast radio station in Castellón de la Plana, Spain, providing News, Talk and Sports shows.",
+            "rest": "Radio Castellón is a broadcast radio station in Castellón de la Plana, Spain, providing News, Talk and Sports shows."
+        },
+        "radio_contacts": {
+            "short": "Radio Castellón is a broadcast radio station in Castellón de la Plana, Spain, providing News, Talk and Sports shows.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://cadenaser.com/emisora/radio_castellon/",
+            "facebook": "http://www.facebook.com/radiocastellon",
+            "twitter": "http://twitter.com/radiocastellon",
+            "phone": "+34 964 723 130",
+            "address": "Calle Moyano, 5 12002, Castellón de la Plana, Spain",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Castellon_Cadena_SER_91.2",
+            "title": "Play Cadena SER - Radio Castellón"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.radiocastellon.com:4000/ser",
+        "radio_image": "https://static-media.streema.com/media/cache/0b/36/0b361d44d354631af0ca2001420814b0.jpg"
+    }, {
+        "title": "LOS40 Urban",
+        "no_play": false,
+        "frequency": "FM 105.1",
+        "link_deatils": "/radios/LOS40_Dance_Castellon",
+        "link_player": "/radios/play/LOS40_Dance_Castellon",
+        "image": "https://static-media.streema.com/media/cache/8e/50/8e502d548e1f32ab95c5aba399377e59.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Castellón",
+            "link": "/radios/country/Spain/state/Castello"
+        }, {
+            "title": "Castellón de la Plana",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Classic Hits", "Dance", "DJ", "Trance"],
+        "location": {
+            "city": "Castellón de la Plana",
+            "country": "Spain"
+        },
+        "profile_slogan": "¡El ritmo de la calle!",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "LOS40 Urban es una cadena de emisoras dedicadas exclusivamente a la música dance. Los DJ’s más destacados del panorama dance nacional e internacional, ofrecen la",
+            "rest": "información más completa y las últimas novedades de este tipo de música.\nEn Castellón la frecuencia es 105.1."
+        },
+        "radio_contacts": {
+            "short": "LOS40 Urban es una cadena de emisoras dedicadas exclusivamente a la música dance. Los DJ’s más destacados del panorama dance nacional e internacional, ofrecen la",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://play.los40.com/emisora/los40_urban/",
+            "facebook": "http://www.facebook.com/LOS40urban/",
+            "twitter": "http://twitter.com/los40urban?lang=en",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/LOS40_Dance_Castellon",
+            "title": "Play LOS40 Urban"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/a3/81/a381e4e2484753cfaca6a16d6ebd9be8.jpg"
+    }, {
+        "title": "Los40 Castellón",
+        "no_play": false,
+        "frequency": "FM 94.8",
+        "link_deatils": "/radios/Los40_Castellon",
+        "link_player": "/radios/play/Los40_Castellon",
+        "image": "https://static-media.streema.com/media/cache/c0/5b/c05bf80e7124872f7db8e58f0e8a789c.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Castellón",
+            "link": "/radios/country/Spain/state/Castello"
+        }, {
+            "title": "Castellón de la Plana",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Pop", "RnB", "Rock", "Top 40", "World"],
+        "location": {
+            "city": "Castellón de la Plana",
+            "country": "Spain"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://cadenaser.com/emisora/radio_castellon/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Los40_Castellon",
+            "title": "Play Los40 Castellón"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.radiocastellon.com:4000/40",
+        "radio_image": "https://static-media.streema.com/media/cache/ff/d7/ffd7e0d33d776384f6efae3940ab722c.jpg"
+    }, {
+        "title": "Los40 Classic Castellón",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Los_40_Classic_Castellon",
+        "link_player": "/radios/play/Los_40_Classic_Castellon",
+        "image": "https://static-media.streema.com/media/cache/af/48/af4848e7ec9e628d73df393c38713e51.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Castellón",
+            "link": "/radios/country/Spain/state/Castello"
+        }, {
+            "title": "Castellón de la Plana",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Classic Hits", "Classic Rock", "Oldies", "Pop", "RnB"],
+        "location": {
+            "city": "Castellón de la Plana",
+            "country": "Spain"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://cadenaser.com/emisora/radio_castellon/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Los_40_Classic_Castellon",
+            "title": "Play Los40 Classic Castellón"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.radiocastellon.com:4000/40cl",
+        "radio_image": "https://static-media.streema.com/media/cache/8e/10/8e10a0dd77b8032ec1bf16ccdac09cca.jpg"
+    }, {
+        "title": "Cadena Dial Castellón",
+        "no_play": false,
+        "frequency": "FM 97.1",
+        "link_deatils": "/radios/Cadena_Dial_Castellon",
+        "link_player": "/radios/play/Cadena_Dial_Castellon",
+        "image": "https://static-media.streema.com/media/cache/e0/c9/e0c95d2e8f7a8d5b57f015d5c85f1e66.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Castellón",
+            "link": "/radios/country/Spain/state/Castello"
+        }, {
+            "title": "Castellón de la Plana",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Pop", "World"],
+        "location": {
+            "city": "Castellón de la Plana",
+            "country": "Spain"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://cadenaser.com/emisora/radio_castellon/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Cadena_Dial_Castellon",
+            "title": "Play Cadena Dial Castellón"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.radiocastellon.com:4000/dial",
+        "radio_image": "https://static-media.streema.com/media/cache/44/63/44635ad625832934c17baaa1501180af.jpg"
+    }]
+}]

@@ -1,0 +1,593 @@
+[{
+    "title": "Zielona Góra",
+    "link": "https://streema.com/radios/Zielona_Gora",
+    "msg_results": "11 Radio Stations from Zielona Góra",
+    "page_copy": "Listen to radio stations from Zielona Góra, from a wide variety of genres like Adult Contemporary, Electronica, Hits, Polish and Rock.  Enjoy stations such as Radio Index, Radio Cyberstacja FM, Radio Zielona Góra, PR R Zachod, Radio PLUS and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Radio Index",
+        "no_play": false,
+        "frequency": "FM 96",
+        "link_deatils": "/radios/Index_96_FM",
+        "link_player": "/radios/play/Index_96_FM",
+        "image": "https://static-media.streema.com/media/cache/9e/0f/9e0f6f00cc02d7a5469e3dfc2fb8dd9a.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Lubusz",
+            "link": "/radios/country/Poland/state/Lubusz"
+        }, {
+            "title": "Zielona Góra",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Rock"],
+        "location": {
+            "city": "Zielona Góra",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Akademickie Radio Index 96 fm - wiadomości, prognoza pogody, informator imprezowy, konkursy, płyta tygodnia, index lista, z ostatniej chwili",
+            "rest": "Akademickie Radio Index 96 fm - wiadomości, prognoza pogody, informator imprezowy, konkursy, płyta tygodnia, index lista, z ostatniej chwili"
+        },
+        "radio_contacts": {
+            "short": "Akademickie Radio Index 96 fm - wiadomości, prognoza pogody, informator imprezowy, konkursy, płyta tygodnia, index lista, z ostatniej chwili",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.wzielonej.pl/",
+            "facebook": "",
+            "twitter": "http://twitter.com/index96fm",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Index_96_FM",
+            "title": "Play Radio Index"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.wzielonej.pl:8000/1",
+        "radio_image": "https://static-media.streema.com/media/cache/c8/7c/c87cd9d3cd4d7e343d35ac2a321c1cd7.jpg"
+    }, {
+        "title": "Radio Cyberstacja FM",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Cyberstacja_FM",
+        "link_player": "/radios/play/Radio_Cyberstacja_FM",
+        "image": "https://static-media.streema.com/media/cache/73/0d/730d4fe81ebec0c2bee5bc50b11c3bc0.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Lubusz",
+            "link": "/radios/country/Poland/state/Lubusz"
+        }, {
+            "title": "Zielona Góra",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Electronica", "Top 40"],
+        "location": {
+            "city": "Zielona Góra",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Badz na fali",
+            "rest": "Badz na fali"
+        },
+        "radio_contacts": {
+            "short": "Badz na fali",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.cyberstacja.com/",
+            "facebook": "http://www.facebook.com/CYBERStacja/",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Cyberstacja_FM",
+            "title": "Play Radio Cyberstacja FM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://sc.cyberstacja.pl:8000/radio.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/07/78/07788ccb3015e287892c3c44074f9f99.jpg"
+    }, {
+        "title": "Radio Zielona Góra",
+        "no_play": false,
+        "frequency": "FM 97.1",
+        "link_deatils": "/radios/Radio_Zielona_Gora_32_kbps",
+        "link_player": "/radios/play/Radio_Zielona_Gora_32_kbps",
+        "image": "https://static-media.streema.com/media/cache/55/f9/55f94acb37efd18b42beab9ebbea74f4.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Lubusz",
+            "link": "/radios/country/Poland/state/Lubusz"
+        }, {
+            "title": "Zielona Góra",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Folk", "Polish"],
+        "location": {
+            "city": "Zielona Góra",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.rzg.pl/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Zielona_Gora_32_kbps",
+            "title": "Play Radio Zielona Góra"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream03.rzg.pl:10107/;;",
+        "radio_image": "https://static-media.streema.com/media/cache/b3/8a/b38acc4b9ea4c16feb2410ee6ede29bf.jpg"
+    }, {
+        "title": "PR R Zachod",
+        "no_play": false,
+        "frequency": "FM 103.0",
+        "link_deatils": "/radios/PR_R_Zachod",
+        "link_player": "/radios/play/PR_R_Zachod",
+        "image": "https://static-media.streema.com/media/cache/2c/98/2c9878d6f36121cbdf58ac486fef7a0a.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Lubusz",
+            "link": "/radios/country/Poland/state/Lubusz"
+        }, {
+            "title": "Zielona Góra",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Hits", "Polish"],
+        "location": {
+            "city": "Zielona Góra",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.zachod.pl/",
+            "facebook": "",
+            "twitter": "http://twitter.com/radiozachod",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/PR_R_Zachod",
+            "title": "Play PR R Zachod"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream03.zachod.pl:10107/;;",
+        "radio_image": "https://static-media.streema.com/media/cache/91/c2/91c26eafb4551f5c5ea07464f1cdc5b5.jpg"
+    }, {
+        "title": "Radio PLUS",
+        "no_play": false,
+        "frequency": "FM 91.7",
+        "link_deatils": "/radios/Radio_Plus_9",
+        "link_player": "/radios/play/Radio_Plus_9",
+        "image": "https://static-media.streema.com/media/cache/fd/b7/fdb7d5bc684b47b09c6311fb86a16f62.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Lubusz",
+            "link": "/radios/country/Poland/state/Lubusz"
+        }, {
+            "title": "Zielona Góra",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Hits", "Pop", "Rock"],
+        "location": {
+            "city": "Zielona Góra",
+            "country": "Poland"
+        },
+        "profile_slogan": "W Świątecznym Klimacie",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "Radio PLUS is a broadcast radio station from Zielona Góra, Poland, providing Top 40 Adult Contemporary Pop and Rock music.",
+            "rest": "Radio PLUS is a broadcast radio station from Zielona Góra, Poland, providing Top 40 Adult Contemporary Pop and Rock music."
+        },
+        "radio_contacts": {
+            "short": "Radio PLUS is a broadcast radio station from Zielona Góra, Poland, providing Top 40 Adult Contemporary Pop and Rock music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radioplus.pl/?stationId=180&stacja=zielona_gora",
+            "facebook": "http://www.facebook.com/PlusRadio",
+            "twitter": "",
+            "phone": "+48 (68) 325 85 48",
+            "address": "os. Kaszubskie 8, 65-548 Zielona Góra, Poland",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Plus_9",
+            "title": "Play Radio PLUS"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://pl.cdn.eurozet.pl/plu-zgr.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/a7/2b/a72b42296d40369722e492bf483ed725.jpg"
+    }, {
+        "title": "Radio Cyberstacja - House",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Cyberstacja_House",
+        "link_player": "/radios/play/Radio_Cyberstacja_House",
+        "image": "https://static-media.streema.com/media/cache/06/e9/06e91c6bd8f54952c365899c54bf7c10.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Lubusz",
+            "link": "/radios/country/Poland/state/Lubusz"
+        }, {
+            "title": "Zielona Góra",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [],
+        "location": {
+            "city": "Zielona Góra",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Badz na fali",
+            "rest": "Badz na fali"
+        },
+        "radio_contacts": {
+            "short": "Badz na fali",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://cyberstacja.fm/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Cyberstacja_House",
+            "title": "Play Radio Cyberstacja - House"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://sc2.readycast.org:8180/;",
+        "radio_image": "https://static-media.streema.com/media/cache/1d/35/1d357d522028826187787d3a374a6110.jpg"
+    }, {
+        "title": "Radio Eska Zielona Góra",
+        "no_play": false,
+        "frequency": "FM 105.7",
+        "link_deatils": "/radios/Radio_Eska_Zielona_Gora",
+        "link_player": "/radios/play/Radio_Eska_Zielona_Gora",
+        "image": "https://static-media.streema.com/media/cache/23/75/2375910f249b5c1df128affde3b2107c.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Lubusz",
+            "link": "/radios/country/Poland/state/Lubusz"
+        }, {
+            "title": "Zielona Góra",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Hits", "Pop", "Rock", "Top 40"],
+        "location": {
+            "city": "Zielona Góra",
+            "country": "Poland"
+        },
+        "profile_slogan": "Muzyka w Twoim klimacie tam, gdzie jesteś",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Radio Eska Zielona Góra FM 105.7 is a broadcast radio station in Zielona Góra, Poland, providing Top 40 Adult Contemporary Pop and Rock music.",
+            "rest": "Radio Eska Zielona Góra FM 105.7 is a broadcast radio station in Zielona Góra, Poland, providing Top 40 Adult Contemporary Pop and Rock music."
+        },
+        "radio_contacts": {
+            "short": "Radio Eska Zielona Góra FM 105.7 is a broadcast radio station in Zielona Góra, Poland, providing Top 40 Adult Contemporary Pop and Rock music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.eska.pl/?stationId=39",
+            "facebook": "http://www.facebook.com/radioeska",
+            "twitter": "http://twitter.com/eska_pl",
+            "phone": "+48 22 516 47 00",
+            "address": "ul. Jubilerska 10, 04-190 Warsaw, Poland",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Eska_Zielona_Gora",
+            "title": "Play Radio Eska Zielona Góra"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://pldm.ml/radio?url=http://www.eskago.pl/radio/eska-zielona-gora",
+        "radio_image": "https://static-media.streema.com/media/cache/9e/35/9e3547f736b1c76fd05abc2ab9e6111d.jpg"
+    }, {
+        "title": "Radio Cyberstacja - Trance",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Cyberstacja_Trance",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/08/ff/08ffdf56d2375374c41dcaa0cb7aea0e.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Lubusz",
+            "link": "/radios/country/Poland/state/Lubusz"
+        }, {
+            "title": "Zielona Góra",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Trance"],
+        "location": {
+            "city": "Zielona Góra",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Radio Cyberstacja - Trance is a channel on the Radio Cyberstacja internet radio station from Zielona Góra, Lubusz, Poland, providing Trance music.",
+            "rest": "Radio Cyberstacja - Trance is a channel on the Radio Cyberstacja internet radio station from Zielona Góra, Lubusz, Poland, providing Trance music."
+        },
+        "radio_contacts": {
+            "short": "Radio Cyberstacja - Trance is a channel on the Radio Cyberstacja internet radio station from Zielona Góra, Lubusz, Poland, providing Trance music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://cyberstacja.fm/",
+            "facebook": "http://www.facebook.com/pages/cyberstacjafm/166014873463042",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio Cyberstacja Hip Hop",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Cyberstacja_Hip_Hop",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/32/97/329790b0779d8d7f671be2bd0b242334.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Lubusz",
+            "link": "/radios/country/Poland/state/Lubusz"
+        }, {
+            "title": "Zielona Góra",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Hip Hop", "Soul"],
+        "location": {
+            "city": "Zielona Góra",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Badz na fali",
+            "rest": "Badz na fali"
+        },
+        "radio_contacts": {
+            "short": "Badz na fali",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.cyberstacja.com/",
+            "facebook": "http://www.facebook.com/CYBERStacja",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio Cyberstacja Klub",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Cyberstacja_Klub",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/06/e9/06e91c6bd8f54952c365899c54bf7c10.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Lubusz",
+            "link": "/radios/country/Poland/state/Lubusz"
+        }, {
+            "title": "Zielona Góra",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Electronica"],
+        "location": {
+            "city": "Zielona Góra",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Badz na fali",
+            "rest": "Badz na fali"
+        },
+        "radio_contacts": {
+            "short": "Badz na fali",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.cyberstacja.com/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio Cyberstacja Gold",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Cyberstacja_Gold",
+        "link_player": "",
+        "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Lubusz",
+            "link": "/radios/country/Poland/state/Lubusz"
+        }, {
+            "title": "Zielona Góra",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [],
+        "location": {
+            "city": "Zielona Góra",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Badz na fali",
+            "rest": "Badz na fali"
+        },
+        "radio_contacts": {
+            "short": "Badz na fali",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}]

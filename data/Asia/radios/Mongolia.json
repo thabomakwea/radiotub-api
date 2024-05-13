@@ -1,0 +1,484 @@
+[
+    {
+        "title": "Ulan Bator",
+        "link": "https://streema.com/radios/Ulan_Bator",
+        "msg_results": "8 Radio Stations from Ulan Bator",
+        "page_copy": "Listen to radio stations from Ulan Bator, from a wide variety of genres like Christian, News, Talk, Top 40 and World.  Enjoy stations such as Гэр бүлийн радио 104.5, MGL Radio, Mindstorm Mongolian Music Radio, MRTV -3, Radio Ulaanbaatar and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+        "radios": [
+            {
+                "title": "Гэр бүлийн радио 104.5",
+                "no_play": false,
+                "frequency": "FM 104.5",
+                "link_deatils": "/radios/Wind_FM",
+                "link_player": "/radios/play/Wind_FM",
+                "image": "https://static-media.streema.com/media/cache/6e/24/6e24c2dd7b2492e11512e7c0371037fc.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "Mongolia",
+                        "link": "/radios/country/Mongolia"
+                    },
+                    {
+                        "title": "Ulan Bator",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "30 Listens",
+                    "stars": 0
+                },
+                "genres": [
+                    "Christian",
+                    "Community",
+                    "Culture"
+                ],
+                "location": {
+                    "city": "Ulan Bator",
+                    "country": "Mongolia"
+                },
+                "profile_slogan": "Итгэл төрүүлж, ирээдүйд хөтөлнө",
+                "radio_language": "Mongolian",
+                "radio_info": {
+                    "short": "Community family radio",
+                    "rest": "Community family radio"
+                },
+                "radio_contacts": {
+                    "short": "Community family radio",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.1045.mn/",
+                    "facebook": "http://www.facebook.com/gerbulradio",
+                    "twitter": "http://twitter.com/gerbulradio",
+                    "phone": "+976 11 46 1212",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Wind_FM",
+                    "title": "Play Гэр бүлийн радио 104.5"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://c2.radioboss.fm/stream/394",
+                "radio_image": "https://static-media.streema.com/media/cache/2d/a5/2da5684be8402da3ed92af66ec1cfa49.jpg"
+            },
+            {
+                "title": "MGL Radio",
+                "no_play": false,
+                "frequency": "FM 88.3",
+                "link_deatils": "/radios/MglRadio.com",
+                "link_player": "/radios/play/MglRadio.com",
+                "image": "https://static-media.streema.com/media/cache/d7/7a/d77a4ea5a3e1475a155b0198d0996f96.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "Mongolia",
+                        "link": "/radios/country/Mongolia"
+                    },
+                    {
+                        "title": "Ulan Bator",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Russian",
+                    "Talk",
+                    "World"
+                ],
+                "location": {
+                    "city": "Ulan Bator",
+                    "country": "Mongolia"
+                },
+                "profile_slogan": "",
+                "radio_language": "Mongolian",
+                "radio_info": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contacts": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.mglradio.com/",
+                    "facebook": "http://www.facebook.com/mglradio/",
+                    "twitter": "http://twitter.com/mglradio",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/MglRadio.com",
+                    "title": "Play MGL Radio"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://74.91.125.187:8096/stream/;",
+                "radio_image": "https://static-media.streema.com/media/cache/cc/d2/ccd2febc59728433766fe919015e8247.jpg"
+            },
+            {
+                "title": "Mindstorm Mongolian Music Radio",
+                "no_play": false,
+                "frequency": "Web",
+                "link_deatils": "/radios/Mindstorm_Mongolian_Music_Radio",
+                "link_player": "/radios/play/Mindstorm_Mongolian_Music_Radio",
+                "image": "https://static-media.streema.com/media/cache/c8/55/c855bdffd764518bc2ef9de497679902.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "Mongolia",
+                        "link": "/radios/country/Mongolia"
+                    },
+                    {
+                        "title": "Ulan Bator",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Electro",
+                    "Pop",
+                    "Rock",
+                    "Top 40"
+                ],
+                "location": {
+                    "city": "Ulan Bator",
+                    "country": "Mongolia"
+                },
+                "profile_slogan": "Таны дуртай интернет радио",
+                "radio_language": "Mongolian",
+                "radio_info": {
+                    "short": "Our internet radio station dedicated for all mongolian over the world.",
+                    "rest": "Our internet radio station dedicated for all mongolian over the world."
+                },
+                "radio_contacts": {
+                    "short": "Our internet radio station dedicated for all mongolian over the world.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://imindstorm.com/",
+                    "facebook": "http://www.facebook.com/MindstormNGO",
+                    "twitter": "http://twitter.com/imindstorm",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Mindstorm_Mongolian_Music_Radio",
+                    "title": "Play Mindstorm Mongolian Music Radio"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://e11670.cloudrad.io:8531/stream",
+                "radio_image": "https://static-media.streema.com/media/cache/e7/be/e7bea333b56b48c6f96d2c32dda0cccf.jpg"
+            },
+            {
+                "title": "MRTV -3",
+                "no_play": true,
+                "frequency": "Web",
+                "link_deatils": "/radios/MRTV",
+                "link_player": "",
+                "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "Mongolia",
+                        "link": "/radios/country/Mongolia"
+                    },
+                    {
+                        "title": "Ulan Bator",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Christian",
+                    "Religious"
+                ],
+                "location": {
+                    "city": "Ulan Bator",
+                    "country": "Mongolia"
+                },
+                "profile_slogan": "",
+                "radio_language": "Multilingual",
+                "radio_info": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contacts": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.mrtv3.net.mm/",
+                    "facebook": "",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            },
+            {
+                "title": "Radio Ulaanbaatar",
+                "no_play": true,
+                "frequency": "FM 102.5",
+                "link_deatils": "/radios/Radio_Ulaanbaatar",
+                "link_player": "",
+                "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "Mongolia",
+                        "link": "/radios/country/Mongolia"
+                    },
+                    {
+                        "title": "Ulan Bator",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [],
+                "location": {
+                    "city": "Ulan Bator",
+                    "country": "Mongolia"
+                },
+                "profile_slogan": "",
+                "radio_language": "Mongolian",
+                "radio_info": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contacts": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "",
+                    "facebook": "",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            },
+            {
+                "title": "Mongolin R",
+                "no_play": true,
+                "frequency": "FM 106.0",
+                "link_deatils": "/radios/Mongolin_R",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/1a/e0/1ae0eafd16c9d99267253fd1939df313.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "Mongolia",
+                        "link": "/radios/country/Mongolia"
+                    },
+                    {
+                        "title": "Ulan Bator",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "News"
+                ],
+                "location": {
+                    "city": "Ulan Bator",
+                    "country": "Mongolia"
+                },
+                "profile_slogan": "",
+                "radio_language": "Mongolian",
+                "radio_info": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contacts": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.mnb.mn/",
+                    "facebook": "",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            },
+            {
+                "title": "Vibe 105.5",
+                "no_play": true,
+                "frequency": "FM 105.5",
+                "link_deatils": "/radios/Info_Radio",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/07/61/07614c19131118a51a5f08b958f9096d.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "Mongolia",
+                        "link": "/radios/country/Mongolia"
+                    },
+                    {
+                        "title": "Ulan Bator",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Adult Contemporary",
+                    "Top 40"
+                ],
+                "location": {
+                    "city": "Ulan Bator",
+                    "country": "Mongolia"
+                },
+                "profile_slogan": "Mongolian first live broadcasting internet radio",
+                "radio_language": "Mongolian",
+                "radio_info": {
+                    "short": "Info Radio is a broadcast radio station from Ulaanbaatar, Mongolia providing Adult Contemporary and Top 40/Pop music.",
+                    "rest": "Info Radio is a broadcast radio station from Ulaanbaatar, Mongolia providing Adult Contemporary and Top 40/Pop music."
+                },
+                "radio_contacts": {
+                    "short": "Info Radio is a broadcast radio station from Ulaanbaatar, Mongolia providing Adult Contemporary and Top 40/Pop music.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://www.facebook.com/vibe1055",
+                    "facebook": "http://www.facebook.com/vibe1055",
+                    "twitter": "http://twitter.com/vibemongolia",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            },
+            {
+                "title": "Voice of Mongolia",
+                "no_play": true,
+                "frequency": "AM 990",
+                "link_deatils": "/radios/Voice_of_Mongolia",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/cd/84/cd84a6eb952f0b17909f0166b57dcd66.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "Mongolia",
+                        "link": "/radios/country/Mongolia"
+                    },
+                    {
+                        "title": "Ulan Bator",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Information",
+                    "News",
+                    "Talk",
+                    "World"
+                ],
+                "location": {
+                    "city": "Ulan Bator",
+                    "country": "Mongolia"
+                },
+                "profile_slogan": "The Voice Of Mongolia",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "The Voice Of Mongolia is the country's only overseas broadcasting service and is operated by Mongolian Radio & Television, a public service broadcaster of the",
+                    "rest": "Mongolian Government. Short-wave international broadcasting in Mongolia dates back over 30 years. The first broadcast in September 1964 was a half hour transmission in the Mongolian and Chinese languages, beamed to China. In the next few years, Mongolian international broadcasting expanded in terms of languages used, broadcast hours and target areas. The English service of Radio Ulaanbaatar, which was renamed The Voice Of Mongolia on January 1st, 1997, was launched on January 29th, 1965. Today the output of The Voice Of Mongolia consists of various programmes designed to provide information about Mongolia and the Mongolians, their history, traditions and culture. Keeping to the new policy of the Mongolian Government, The Voice Of Mongolia does not engage in propaganda, but in unbiased reporting. It broadcasts a total of 8 hours a day in 5 languages - Mongolian, English, Chinese, Russian and Japanese."
+                },
+                "radio_contacts": {
+                    "short": "The Voice Of Mongolia is the country's only overseas broadcasting service and is operated by Mongolian Radio & Television, a public service broadcaster of the",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://vom.mn/",
+                    "facebook": "",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            }
+        ]
+    }
+]

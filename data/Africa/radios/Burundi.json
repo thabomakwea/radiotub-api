@@ -1,0 +1,438 @@
+[
+    {
+        "title": "Bujumbura",
+        "link": "https://streema.com/radios/Bujumbura",
+        "msg_results": "7 Radio Stations from Bujumbura",
+        "page_copy": "Listen to radio stations from Bujumbura, from a wide variety of genres like Community, Education, Health, News and Talk.  Enjoy stations such as Radio Maria Burundi, Radio Isanganiro, RTNB - Chaîne  1, Radio Scolaire Nderagakura, Radio Bonesha FM and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+        "radios": [
+            {
+                "title": "Radio Maria Burundi",
+                "no_play": false,
+                "frequency": "FM 98.4",
+                "link_deatils": "/radios/Radio_Maria_Burundi",
+                "link_player": "/radios/play/Radio_Maria_Burundi",
+                "image": "https://static-media.streema.com/media/cache/95/1a/951a7a17c99b4f612105cf9c56bc32f5.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Burundi",
+                        "link": "/radios/country/Burundi"
+                    },
+                    {
+                        "title": "Bujumbura",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "810 Listens",
+                    "stars": 0
+                },
+                "genres": [
+                    "Christian",
+                    "Religious",
+                    "Spiritual",
+                    "Talk"
+                ],
+                "location": {
+                    "city": "Bujumbura",
+                    "country": "Burundi"
+                },
+                "profile_slogan": "",
+                "radio_language": "French",
+                "radio_info": {
+                    "short": "Radio Maria Burundi FM 98.4 is a broadcast Radio station from Bujumbura, Burundi, Provides Catholic music, meditations, especially for the prayer and recitation of the",
+                    "rest": "Rosary, the source of grace and love for men, being this way undertaken the complex task of penetrating the radio stations with programming content as required special evangelization."
+                },
+                "radio_contacts": {
+                    "short": "Radio Maria Burundi FM 98.4 is a broadcast Radio station from Bujumbura, Burundi, Provides Catholic music, meditations, especially for the prayer and recitation of the",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.radiomaria.bi/",
+                    "facebook": "http://www.facebook.com/rmaria.burundi.9/",
+                    "twitter": "",
+                    "phone": "+39 0332 229500",
+                    "address": "B.P. 2106 Bujumbura Bujumbura",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Radio_Maria_Burundi",
+                    "title": "Play Radio Maria Burundi"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://dreamsiteradiocp2.com:8082/stream/;",
+                "radio_image": "https://static-media.streema.com/media/cache/57/57/57575f079851d29e5fb504386ed4959d.jpg"
+            },
+            {
+                "title": "Radio Isanganiro",
+                "no_play": false,
+                "frequency": "FM 89.7",
+                "link_deatils": "/radios/isanganiro",
+                "link_player": "/radios/play/isanganiro",
+                "image": "https://static-media.streema.com/media/cache/20/fa/20fa1ef5081cab9a58bccd83be4337ee.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Burundi",
+                        "link": "/radios/country/Burundi"
+                    },
+                    {
+                        "title": "Bujumbura",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "480 Listens",
+                    "stars": 0
+                },
+                "genres": [
+                    "Community",
+                    "Information",
+                    "News",
+                    "Talk"
+                ],
+                "location": {
+                    "city": "Bujumbura",
+                    "country": "Burundi"
+                },
+                "profile_slogan": "Le Dialogue Vaut Mieux Que La Force",
+                "radio_language": "Kiswahili",
+                "radio_info": {
+                    "short": "Isanganiro is a broadcast radio station from Bujumbura, Burundi providing News and Talk programs.",
+                    "rest": "Isanganiro is a broadcast radio station from Bujumbura, Burundi providing News and Talk programs."
+                },
+                "radio_contacts": {
+                    "short": "Isanganiro is a broadcast radio station from Bujumbura, Burundi providing News and Talk programs.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.isanganiro.org/",
+                    "facebook": "http://www.facebook.com/Isanganiro",
+                    "twitter": "http://twitter.com/RadioIsanganiro",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/isanganiro",
+                    "title": "Play Radio Isanganiro"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://isanganiro.ice.infomaniak.ch/isanganiro-64.mp3",
+                "radio_image": "https://static-media.streema.com/media/cache/af/63/af63deb1b2b42a9a1df54a04d7f11d88.jpg"
+            },
+            {
+                "title": "RTNB - Chaîne  1",
+                "no_play": false,
+                "frequency": "FM 102.9",
+                "link_deatils": "/radios/RTNB_Chaine",
+                "link_player": "/radios/play/RTNB_Chaine",
+                "image": "https://static-media.streema.com/media/cache/f0/61/f06158febfe15c8b21522a2045350cba.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Burundi",
+                        "link": "/radios/country/Burundi"
+                    },
+                    {
+                        "title": "Bujumbura",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "150 Listens",
+                    "stars": 0
+                },
+                "genres": [
+                    "Culture",
+                    "Education",
+                    "Health",
+                    "Sports"
+                ],
+                "location": {
+                    "city": "Bujumbura",
+                    "country": "Burundi"
+                },
+                "profile_slogan": "Au service de la Nation",
+                "radio_language": "Multilingual",
+                "radio_info": {
+                    "short": "Chaîne 1 is a station in the broadcast radio station RTNB (Radio Télévision Nationale du Burundi) from Bujumbura, Burundi, providing Culture, Education, Health and Sports",
+                    "rest": " programming.\n"
+                },
+                "radio_contacts": {
+                    "short": "Chaîne 1 is a station in the broadcast radio station RTNB (Radio Télévision Nationale du Burundi) from Bujumbura, Burundi, providing Culture, Education, Health and Sports",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.rtnb.bi/fr/index.php",
+                    "facebook": "http://www.facebook.com/info.rtnb.bi/",
+                    "twitter": "",
+                    "phone": "(+257) 22 216 559",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/RTNB_Chaine",
+                    "title": "Play RTNB - Chaîne  1"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://41.79.226.195:8000/stream",
+                "radio_image": "https://static-media.streema.com/media/cache/95/a3/95a36efe15a095f3d6e47748137ba18f.jpg"
+            },
+            {
+                "title": "Radio Scolaire Nderagakura",
+                "no_play": false,
+                "frequency": "FM 87.9",
+                "link_deatils": "/radios/Radio_Scolaire_Nderagakura",
+                "link_player": "/radios/play/Radio_Scolaire_Nderagakura",
+                "image": "https://static-media.streema.com/media/cache/42/e4/42e442f779a049aa12ecd5763136db7d.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Burundi",
+                        "link": "/radios/country/Burundi"
+                    },
+                    {
+                        "title": "Bujumbura",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "60 Listens",
+                    "stars": 0
+                },
+                "genres": [
+                    "African",
+                    "Education",
+                    "English",
+                    "French"
+                ],
+                "location": {
+                    "city": "Bujumbura",
+                    "country": "Burundi"
+                },
+                "profile_slogan": "L'Education c'est notre priorité",
+                "radio_language": "French",
+                "radio_info": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contacts": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://radionderagakura.com/",
+                    "facebook": "http://www.facebook.com/radionderagakura/",
+                    "twitter": "http://twitter.com/radioscolaire1",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Radio_Scolaire_Nderagakura",
+                    "title": "Play Radio Scolaire Nderagakura"
+                },
+                "radio_shows": [""],
+                "radio_source": "https://eu10.fastcast4u.com/nderagakura/;",
+                "radio_image": "https://static-media.streema.com/media/cache/e8/9f/e89f4a83184d3580a9177feeed6ea224.jpg"
+            },
+            {
+                "title": "Radio Bonesha FM",
+                "no_play": false,
+                "frequency": "FM 96.8 / 87.7",
+                "link_deatils": "/radios/Bonesha_FM",
+                "link_player": "/radios/play/Bonesha_FM",
+                "image": "https://static-media.streema.com/media/cache/06/65/06654ee8e38c449409eb086105afa644.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Burundi",
+                        "link": "/radios/country/Burundi"
+                    },
+                    {
+                        "title": "Bujumbura",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "\n        \n          \n          \n          \n          \n        ",
+                    "stars": 2
+                },
+                "genres": [
+                    "Community",
+                    "Education",
+                    "Health",
+                    "News"
+                ],
+                "location": {
+                    "city": "Bujumbura",
+                    "country": "Burundi"
+                },
+                "profile_slogan": "Radio Sans Frontières (Radio Without Borders)",
+                "radio_language": "French",
+                "radio_info": {
+                    "short": "Radio Bonesha FM is a broadcast radio station in Bujumbura, Burundi, providing Health, Education, Culture and News programming. Radio Bonesha was born of a desire",
+                    "rest": "to interfere with the public in order to support the national reconciliation efforts and promote actions in favor of peace, development and the Values ​​Education for Human Rights, good governance, environment and public health."
+                },
+                "radio_contacts": {
+                    "short": "Radio Bonesha FM is a broadcast radio station in Bujumbura, Burundi, providing Health, Education, Culture and News programming. Radio Bonesha was born of a desire",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://boneshafm.bi/",
+                    "facebook": "http://www.facebook.com/Bonesha-Amakuru-483559535045913",
+                    "twitter": "http://twitter.com/BoneshaFM",
+                    "phone": "+257 22 21 70 69",
+                    "address": "Bujumbura, Bujumbura, Burundi",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": "https://static-media.streema.com/media/cache/2f/9f/2f9fbdb16adae2c13b67cc7405639242.jpg"
+            },
+            {
+                "title": "RTNB - Chaîne  2",
+                "no_play": true,
+                "frequency": "FM 92.9",
+                "link_deatils": "/radios/RTNB_Chaine_2",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/03/67/03675de2209931fedfeabeee31ccd4ac.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Burundi",
+                        "link": "/radios/country/Burundi"
+                    },
+                    {
+                        "title": "Bujumbura",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Information",
+                    "News",
+                    "Talk"
+                ],
+                "location": {
+                    "city": "Bujumbura",
+                    "country": "Burundi"
+                },
+                "profile_slogan": "Au service de la Nation",
+                "radio_language": "Multilingual",
+                "radio_info": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contacts": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.rtnb.bi/fr/index.php",
+                    "facebook": "http://www.facebook.com/info.rtnb.bi/",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            },
+            {
+                "title": "Radio Fréquence Menya (RFM 88.9)",
+                "no_play": true,
+                "frequency": "FM 88.9",
+                "link_deatils": "/radios/Radio_RFM_88_Bujumbura",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/e4/71/e471271dbf452237e26f576f22c5052b.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Burundi",
+                        "link": "/radios/country/Burundi"
+                    },
+                    {
+                        "title": "Bujumbura",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "African",
+                    "Culture",
+                    "Education",
+                    "Sports",
+                    "Tropical",
+                    "Variety"
+                ],
+                "location": {
+                    "city": "Bujumbura",
+                    "country": "Burundi"
+                },
+                "profile_slogan": "La Radio qui Chante",
+                "radio_language": "French",
+                "radio_info": {
+                    "short": "Radio Fréquence Menya (RFM 88.9) is a broadcast radio station from Bujumbura, Burundi, providing Sports, Culture, and Education playing. The station also plays Variety, African",
+                    "rest": "and Tropical music."
+                },
+                "radio_contacts": {
+                    "short": "Radio Fréquence Menya (RFM 88.9) is a broadcast radio station from Bujumbura, Burundi, providing Sports, Culture, and Education playing. The station also plays Variety, African",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://menya-media.org/menya/",
+                    "facebook": "http://www.facebook.com/RfmRadioFrequenceMenyaBujumbura/",
+                    "twitter": "",
+                    "phone": "+257 75 800 800",
+                    "address": "Quartier Asiatique, Avenue du Lac 7",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            }
+        ]
+    }
+]

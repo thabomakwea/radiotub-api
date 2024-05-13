@@ -1,0 +1,2251 @@
+[{
+    "title": "Kos",
+    "link": "https://streema.com/radios/Kos",
+    "msg_results": "3 Radio Stations from Kos",
+    "page_copy": "Listen to radio stations from Kos, from a wide variety of genres like Greek, Hits, Information and Music.  Enjoy stations such as Radio City93, Kaza Cafe Bar, TIAMO FM and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Radio City93",
+        "no_play": false,
+        "frequency": "FM 93.2",
+        "link_deatils": "/radios/City",
+        "link_player": "/radios/play/City",
+        "image": "https://static-media.streema.com/media/cache/a6/8b/a68b586d235b173b3bcfbaafd17dac3c.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Kos",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "\n        \n          \n          \n          \n          \n        ",
+            "stars": 5
+        },
+        "genres": ["Greek", "Hits", "Information", "Music"],
+        "location": {
+            "city": "Kos",
+            "country": "Greece"
+        },
+        "profile_slogan": "Παρέα με τα αστέρια!",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Radio City93 is a broadcast radio station from Kos, Greece providing Greek Hits music and information.",
+            "rest": "Radio City93 is a broadcast radio station from Kos, Greece providing Greek Hits music and information."
+        },
+        "radio_contacts": {
+            "short": "Radio City93 is a broadcast radio station from Kos, Greece providing Greek Hits music and information.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.city93.gr/",
+            "facebook": "http://www.facebook.com/pages/Radio-City93/188552634507892",
+            "twitter": "",
+            "phone": "+30 2242 021888",
+            "address": "Papatheofanous 10A - Agia Marina Kos, Dhodhekanisos, Greece",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/City",
+            "title": "Play Radio City93"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://radio.city93.gr:9996/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/70/31/7031080c4e85b9687dde9c5250a61437.jpg"
+    }, {
+        "title": "Kaza Cafe Bar",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Kaza_Cafe_Bar",
+        "link_player": "",
+        "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Kos",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [],
+        "location": {
+            "city": "Kos",
+            "country": "Greece"
+        },
+        "profile_slogan": "Welcome to Kaza Cafe Bar",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Kaza Cafe Bar is an internet radio station from Kos, Greece providing Greek music and information.",
+            "rest": "Kaza Cafe Bar is an internet radio station from Kos, Greece providing Greek music and information."
+        },
+        "radio_contacts": {
+            "short": "Kaza Cafe Bar is an internet radio station from Kos, Greece providing Greek music and information.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.kazacafebar.gr/",
+            "facebook": "http://www.facebook.com/cafebar.kaza",
+            "twitter": "http://twitter.com/Kazacafebar",
+            "phone": "+30 22420 49556",
+            "address": "Mitropoleos & Korai,85300 Kos Island, Greece",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "TIAMO FM",
+        "no_play": true,
+        "frequency": "FM 102.7",
+        "link_deatils": "/radios/TIAMO_FM",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/6b/0f/6b0fbb7ee541e81d48e27095a48d295e.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Kos",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Greek"],
+        "location": {
+            "city": "Kos",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Tiamo FM 102.7 is a broadcast Radio station from Kos, Greece, playing Greek local music.",
+            "rest": "Tiamo FM 102.7 is a broadcast Radio station from Kos, Greece, playing Greek local music."
+        },
+        "radio_contacts": {
+            "short": "Tiamo FM 102.7 is a broadcast Radio station from Kos, Greece, playing Greek local music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "",
+            "facebook": "",
+            "twitter": "",
+            "phone": "(22420) 23815",
+            "address": "4 AL. IPSILANDOU ST. KOS 85300",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}, {
+    "title": "Mykonos",
+    "link": "https://streema.com/radios/Mykonos",
+    "msg_results": "4 Radio Stations from Mykonos",
+    "page_copy": "Listen to radio stations from Mykonos, from a wide variety of genres like Dance, Electronica, Greek, Pop and Techno.  Enjoy stations such as Venus Radio 99.3, sweetFM, Cavo Paradiso Radio, Radio Meltemi Mykonos and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Venus Radio 99.3",
+        "no_play": false,
+        "frequency": "FM 99.3",
+        "link_deatils": "/radios/Venus_Radio_99.3",
+        "link_player": "/radios/play/Venus_Radio_99.3",
+        "image": "https://static-media.streema.com/media/cache/2a/eb/2aeb6b67ed6d4ead10e72bbe008e7ce5.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Mykonos",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "\n        \n          \n          \n          \n          \n        ",
+            "stars": 5
+        },
+        "genres": ["Dance", "Electronica", "Pop", "Techno"],
+        "location": {
+            "city": "Mykonos",
+            "country": "Greece"
+        },
+        "profile_slogan": "Mykonos' Top Radio Station!",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "To Venus Radio began broadcasting in 1989 and quickly won the hearts of both locals and visitors of all Mykonos and the Cyclades. Sends selected",
+            "rest": "music from around the world travel to your music, to entertain you, to accompany you and relaxes you by adding your own touch to your summer holiday."
+        },
+        "radio_contacts": {
+            "short": "To Venus Radio began broadcasting in 1989 and quickly won the hearts of both locals and visitors of all Mykonos and the Cyclades. Sends selected",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.venusradio.gr/",
+            "facebook": "http://www.facebook.com/groups/38577374415/",
+            "twitter": "http://twitter.com/VenusRadio993",
+            "phone": "+30 699 460 5000",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Venus_Radio_99.3",
+            "title": "Play Venus Radio 99.3"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://s7.onweb.gr:8410/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/5b/0a/5b0a5eb85fc5a0d9466a6252cf0f80c5.jpg"
+    }, {
+        "title": "sweetFM",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/sweetFM",
+        "link_player": "/radios/play/sweetFM",
+        "image": "https://static-media.streema.com/media/cache/2e/12/2e120ae09d79cfd906c083ada6eb87e1.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Mykonos",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [],
+        "location": {
+            "city": "Mykonos",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "sweetFM is an internet radio station from Greece providing Easy Listening Pop music.",
+            "rest": "sweetFM is an internet radio station from Greece providing Easy Listening Pop music."
+        },
+        "radio_contacts": {
+            "short": "sweetFM is an internet radio station from Greece providing Easy Listening Pop music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://sweetfm.gr/",
+            "facebook": "",
+            "twitter": "http://twitter.com/sweetFM_",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/sweetFM",
+            "title": "Play sweetFM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://neos.win:8588/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/ec/16/ec1635e17837e6b948f6d450d5b054c3.jpg"
+    }, {
+        "title": "Cavo Paradiso Radio",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/CavoParadiso_Radio",
+        "link_player": "/radios/play/CavoParadiso_Radio",
+        "image": "https://static-media.streema.com/media/cache/9c/35/9c35d4dc89b11f63128d0a63a81d7856.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Mykonos",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance", "House", "Pop", "Top 40"],
+        "location": {
+            "city": "Mykonos",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "CavoParadiso Radio is an internet radio station from Mykonos, Greece, providing Electronic Dance and House music.",
+            "rest": "CavoParadiso Radio is an internet radio station from Mykonos, Greece, providing Electronic Dance and House music."
+        },
+        "radio_contacts": {
+            "short": "CavoParadiso Radio is an internet radio station from Mykonos, Greece, providing Electronic Dance and House music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.cavoparadisoradio.com/",
+            "facebook": "http://www.facebook.com/pages/Cavo-Paradiso-Radio-Official-Page/341610644403?v=wall",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/CavoParadiso_Radio",
+            "title": "Play Cavo Paradiso Radio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://s5.onweb.gr:8488/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/47/5b/475b0f56eb2f00438ed07af90660f8df.jpg"
+    }, {
+        "title": "Radio Meltemi Mykonos",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/RADIO_MELTEMI_MYKONOS",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/31/bf/31bfe1a16dd87f1753760d390a878c11.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Mykonos",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "\n        \n          \n          \n          \n          \n        ",
+            "stars": 5
+        },
+        "genres": ["Disco", "Greek", "Pop", "Rock"],
+        "location": {
+            "city": "Mykonos",
+            "country": "Greece"
+        },
+        "profile_slogan": "We blow the hits around your ears!",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "Local radiostation on the island of Mykonos. Promoting the Island in the English language. Tips for trips and all the hits.",
+            "rest": "Local radiostation on the island of Mykonos. Promoting the Island in the English language. Tips for trips and all the hits."
+        },
+        "radio_contacts": {
+            "short": "Local radiostation on the island of Mykonos. Promoting the Island in the English language. Tips for trips and all the hits.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://radiomeltemi.weebly.com/",
+            "facebook": "http://www.facebook.com/Radio.Meltemi.Mykonos",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}, {
+    "title": "Rhodes",
+    "link": "https://streema.com/radios/Rhodes",
+    "msg_results": "31 Radio Stations from Rhodes",
+    "page_copy": "Listen to radio stations from Rhodes, from a wide variety of genres like Folk, Greek, Music, Pop and Top 40.  Enjoy stations such as Παλμός 99.5, Radio Χριστιανισμός 90 FM, Status Internet Radio, ERT Open - ERA Rhodes, Rodos FM 90.7 and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Παλμός 99.5",
+        "no_play": false,
+        "frequency": "FM 99.5",
+        "link_deatils": "/radios/Radio_Palmos",
+        "link_player": "/radios/play/Radio_Palmos",
+        "image": "https://static-media.streema.com/media/cache/ac/89/ac89bceabbfd4c92a99d7977623b8ec3.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Rhodes",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Culture", "News", "Sports", "Talk"],
+        "location": {
+            "city": "Rhodes",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Radio Palmos 99.5 is a broadcast radio station on the Radio Palmos group from Rhodes, Greece providing News, Sports, Culture, Talks and Information.",
+            "rest": "Radio Palmos 99.5 is a broadcast radio station on the Radio Palmos group from Rhodes, Greece providing News, Sports, Culture, Talks and Information."
+        },
+        "radio_contacts": {
+            "short": "Radio Palmos 99.5 is a broadcast radio station on the Radio Palmos group from Rhodes, Greece providing News, Sports, Culture, Talks and Information.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.palmosnews.com/",
+            "facebook": "http://www.facebook.com/palmosmedia",
+            "twitter": "",
+            "phone": "2241074995",
+            "address": "Αθηνών 120, 85100 Ρόδος",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Palmos",
+            "title": "Play Παλμός 99.5"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://netradio.live24.gr/palmos995-rho",
+        "radio_image": "https://static-media.streema.com/media/cache/8c/ea/8cea14f775658f1830eee23236ad6f1e.jpg"
+    }, {
+        "title": "Radio Χριστιανισμός 90 FM",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Christianismos_90_FM",
+        "link_player": "/radios/play/Christianismos_90_FM",
+        "image": "https://static-media.streema.com/media/cache/db/88/db88c22a48461e1df4c3fca0394cf285.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Rhodes",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Christian"],
+        "location": {
+            "city": "Rhodes",
+            "country": "Greece"
+        },
+        "profile_slogan": "ΤΟ ΧΡΙΣΤΙΑΝΙΚΟ ΡΑΔΙΟΦΩΝΟ ΣΤΗΝ ΥΠΗΡΕΣΙΑ ΤΟΥ ΕΥΑΓΓΕΛΙΟΥ",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Το Χριστιανικό Ραδιόφωνο ‘Χριστιανισμός 90 FM’ στο Internet. Εικοσιτέσσερις ώρες πρόγραμμα με κηρύγματα, μαθήματα, Χριστιανικούς ύμνους.",
+            "rest": "Το Χριστιανικό Ραδιόφωνο ‘Χριστιανισμός 90 FM’ στο Internet. Εικοσιτέσσερις ώρες πρόγραμμα με κηρύγματα, μαθήματα, Χριστιανικούς ύμνους."
+        },
+        "radio_contacts": {
+            "short": "Το Χριστιανικό Ραδιόφωνο ‘Χριστιανισμός 90 FM’ στο Internet. Εικοσιτέσσερις ώρες πρόγραμμα με κηρύγματα, μαθήματα, Χριστιανικούς ύμνους.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://christianismos.gr/",
+            "facebook": "http://www.facebook.com/christianismos",
+            "twitter": "http://twitter.com/Christianismos_",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Christianismos_90_FM",
+            "title": "Play Radio Χριστιανισμός 90 FM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://8.38.78.173:8156/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/74/da/74da7c9dc4011fae50994a2935a4cee8.jpg"
+    }, {
+        "title": "Status Internet Radio",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Status_Radio_Web_Radio",
+        "link_player": "/radios/play/Status_Radio_Web_Radio",
+        "image": "https://static-media.streema.com/media/cache/99/a8/99a891eed48da2d9ea1a50506978a5fd.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Rhodes",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Greek", "Pop", "Top 40"],
+        "location": {
+            "city": "Rhodes",
+            "country": "Greece"
+        },
+        "profile_slogan": "Η επόμενη γενιά του ραδιοφώνου!",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Status Internet Radio is an internet radio station from Rhodes, South Aegean, Greece, playing Greek, Pop, Top 40 and Adult Contemporary music.",
+            "rest": "Status Internet Radio is an internet radio station from Rhodes, South Aegean, Greece, playing Greek, Pop, Top 40 and Adult Contemporary music."
+        },
+        "radio_contacts": {
+            "short": "Status Internet Radio is an internet radio station from Rhodes, South Aegean, Greece, playing Greek, Pop, Top 40 and Adult Contemporary music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://statusonline.gr",
+            "facebook": "http://www.facebook.com/statusradio",
+            "twitter": "",
+            "phone": "+30 6906660501",
+            "address": "Rhodes, South Aegean - Greece",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Status_Radio_Web_Radio",
+            "title": "Play Status Internet Radio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://cast5.magicstreams.gr:8250/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/68/0c/680c53cc4d5e982f3839b4ef4c771a42.jpg"
+    }, {
+        "title": "ERT Open - ERA Rhodes",
+        "no_play": false,
+        "frequency": "FM 92.7 / 93.1",
+        "link_deatils": "/radios/ERT_Open_ERA_Rhodes",
+        "link_player": "/radios/play/ERT_Open_ERA_Rhodes",
+        "image": "https://static-media.streema.com/media/cache/61/32/613254509670baacb3afba653408e5f5.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Rhodes",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Community", "Entertainment", "News", "Talk"],
+        "location": {
+            "city": "Rhodes",
+            "country": "Greece"
+        },
+        "profile_slogan": "Ελεύθερη φωνή για την κοινωνία",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "ERA Rhodes (ΕΡΑ Ρόδου) is a broadcast radio station in Rhodes, Greece, providing Community News, Talk and Entertainment as part of ERT Open (Ανοιχτη ΕΡΤ),",
+            "rest": "an Athens, Greece based organization dedicated to the tradition of citizen-based public broadcasting as an alternative to government controlled public media."
+        },
+        "radio_contacts": {
+            "short": "ERA Rhodes (ΕΡΑ Ρόδου) is a broadcast radio station in Rhodes, Greece, providing Community News, Talk and Entertainment as part of ERT Open (Ανοιχτη ΕΡΤ),",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://erarodou.blogspot.com/",
+            "facebook": "http://www.facebook.com/erarodos",
+            "twitter": "http://twitter.com/ErtSocial",
+            "phone": "",
+            "address": "Kallithea Avenue 3rd km, PO Box 208, 85100 Rhodes, Greece",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""],
+        "radio_source": "",
+        "radio_image": "https://static-media.streema.com/media/cache/27/9f/279f85c0109e7965fab9601fffd4080e.jpg"
+    }, {
+        "title": "Rodos FM 90.7",
+        "no_play": false,
+        "frequency": "FM 90.7",
+        "link_deatils": "/radios/Hristianismos_FM_2",
+        "link_player": "/radios/play/Hristianismos_FM_2",
+        "image": "https://static-media.streema.com/media/cache/f4/55/f4551b1cc19f715ff48b32bcb778c4c4.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Rhodes",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Greek", "Music"],
+        "location": {
+            "city": "Rhodes",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Rodos FM 90.7 is a broadcast radio station from Rhodes, Greece providing Greek music.",
+            "rest": "Rodos FM 90.7 is a broadcast radio station from Rhodes, Greece providing Greek music."
+        },
+        "radio_contacts": {
+            "short": "Rodos FM 90.7 is a broadcast radio station from Rhodes, Greece providing Greek music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.rodosfm.gr/",
+            "facebook": "http://www.facebook.com/RODOSFM",
+            "twitter": "",
+            "phone": "22410 60482,  6977343687",
+            "address": "Γεωργίου Σεφέρη 108 Ρόδος,",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Hristianismos_FM_2",
+            "title": "Play Rodos FM 90.7"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://i.streams.ovh:9327/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/1b/a6/1ba6a1f2d57f10815d2f925e120ef76e.jpg"
+    }, {
+        "title": "Lihnari 91.7 FM",
+        "no_play": false,
+        "frequency": "FM 91.7",
+        "link_deatils": "/radios/Lihnari_rhodes_dodecanese",
+        "link_player": "/radios/play/Lihnari_rhodes_dodecanese",
+        "image": "https://static-media.streema.com/media/cache/d3/bd/d3bdd402fe71f46242c2d8a8c9032259.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Rhodes",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Eclectic", "Music"],
+        "location": {
+            "city": "Rhodes",
+            "country": "Greece"
+        },
+        "profile_slogan": "Lihnari Rodos Radio",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Lihnari 91.7 FM is a broadcast radio station from Rhodes, Greece providing Greek music.",
+            "rest": "Lihnari 91.7 FM is a broadcast radio station from Rhodes, Greece providing Greek music."
+        },
+        "radio_contacts": {
+            "short": "Lihnari 91.7 FM is a broadcast radio station from Rhodes, Greece providing Greek music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.lihnarifm.gr/",
+            "facebook": "http://www.facebook.com/pages/προΤΑΣΗ/119670584800094",
+            "twitter": "http://twitter.com/LihnariRadio",
+            "phone": "22410-77130",
+            "address": "Athens 109",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Lihnari_rhodes_dodecanese",
+            "title": "Play Lihnari 91.7 FM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://eco.onestreaming.com:8037/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/27/c0/27c098d3c153c848b79b27436e6e673e.jpg"
+    }, {
+        "title": "V Greece",
+        "no_play": false,
+        "frequency": "FM 104.5",
+        "link_deatils": "/radios/Virgin_104.5_FM",
+        "link_player": "",
+        "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Rhodes",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Pop", "RnB", "Rock", "Top 40"],
+        "location": {
+            "city": "Rhodes",
+            "country": "Greece"
+        },
+        "profile_slogan": "Το νέο ραδιόφωνο στη Ρόδο",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "V Greece 104.5 FM is a broadcast Radio station from Rhodes, South Aegean, Greece, providing the best music choices for the Rhodes and inquire about",
+            "rest": "the Top Hits playing currently in the global music scene."
+        },
+        "radio_contacts": {
+            "short": "V Greece 104.5 FM is a broadcast Radio station from Rhodes, South Aegean, Greece, providing the best music choices for the Rhodes and inquire about",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "",
+            "facebook": "",
+            "twitter": "",
+            "phone": "+30 22410 61871",
+            "address": "Xioy 2, Rhodes, 85100 Greece",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio1 - Rock",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio1_Rock",
+        "link_player": "/radios/play/Radio1_Rock",
+        "image": "https://static-media.streema.com/media/cache/50/a8/50a8c420bfc77afb80efe0c0c50420fc.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Rhodes",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Hard Rock", "Hardcore", "Metal"],
+        "location": {
+            "city": "Rhodes",
+            "country": "Greece"
+        },
+        "profile_slogan": "Life's Original Soundtrack",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "Radio1 Rock is a channel on the internet radio station radio1.gr from Rhodes, South Aegean, Greece, providing Rock, Hard Rock, Metal and Classic Rock Music.",
+            "rest": "Radio1 Rock is a channel on the internet radio station radio1.gr from Rhodes, South Aegean, Greece, providing Rock, Hard Rock, Metal and Classic Rock Music."
+        },
+        "radio_contacts": {
+            "short": "Radio1 Rock is a channel on the internet radio station radio1.gr from Rhodes, South Aegean, Greece, providing Rock, Hard Rock, Metal and Classic Rock Music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radio1.gr/",
+            "facebook": "http://www.facebook.com/radio1fm88",
+            "twitter": "http://twitter.com/Radio1Rodos",
+            "phone": "+30 2241 069888",
+            "address": "108 Geo. Seferi St., 85100 Rhodes, Greece",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio1_Rock",
+            "title": "Play Radio1 - Rock"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://111.gr:8012/;",
+        "radio_image": "https://static-media.streema.com/media/cache/8a/d7/8ad7d2791d90919d6d72b464abaa6745.jpg"
+    }, {
+        "title": "Sto Kokkino FM",
+        "no_play": false,
+        "frequency": "FM 103.7",
+        "link_deatils": "/radios/Sto_Kokkino_FM_3",
+        "link_player": "/radios/play/Sto_Kokkino_FM_3",
+        "image": "https://static-media.streema.com/media/cache/34/c5/34c5dcc6e3eac4d1525335961a6f78ce.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Rhodes",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [],
+        "location": {
+            "city": "Rhodes",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.stokokkino.gr/",
+            "facebook": "http://www.facebook.com/1055stokokkino/",
+            "twitter": "http://twitter.com/stokokkino1055",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Sto_Kokkino_FM_3",
+            "title": "Play Sto Kokkino FM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.radiojar.com/a1n0yftmb",
+        "radio_image": "https://static-media.streema.com/media/cache/46/47/464718daed4ef2a431aaede3ddcb8f34.jpg"
+    }, {
+        "title": "Rodos FM",
+        "no_play": false,
+        "frequency": "FM 90.7",
+        "link_deatils": "/radios/Rodos_FM",
+        "link_player": "/radios/play/Rodos_FM",
+        "image": "https://static-media.streema.com/media/cache/70/18/7018e26cb0ef7c1c2e1f24be5a4c2e32.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Rhodes",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Entertainment", "Folk", "Information", "News", "Talk"],
+        "location": {
+            "city": "Rhodes",
+            "country": "Greece"
+        },
+        "profile_slogan": "Υπάρχει λόγος να γίνεις η παρέα του",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Rodos FM is a broadcast radio station from Rhodes, South Aegean, Greece, providing News, Talk, Information programming and playing Folk music.",
+            "rest": "Rodos FM is a broadcast radio station from Rhodes, South Aegean, Greece, providing News, Talk, Information programming and playing Folk music."
+        },
+        "radio_contacts": {
+            "short": "Rodos FM is a broadcast radio station from Rhodes, South Aegean, Greece, providing News, Talk, Information programming and playing Folk music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.rodosfm.gr/",
+            "facebook": "http://www.facebook.com/RODOSFM907/",
+            "twitter": "",
+            "phone": "22410 60482 | 6977 343687",
+            "address": "Γ.Σεφέρη 108, Ρόδος, 85100",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Rodos_FM",
+            "title": "Play Rodos FM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://i.streams.ovh:9327/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/d6/c2/d6c2b2a7188904bb80c02cc793ff6a4e.jpg"
+    }, {
+        "title": "RadioHits",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/RadioHits",
+        "link_player": "/radios/play/RadioHits",
+        "image": "https://static-media.streema.com/media/cache/9e/36/9e36586762c12e2f4928f59823c67dca.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Rhodes",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["70s", "80s", "90s", "House"],
+        "location": {
+            "city": "Rhodes",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://zeno.fm/radiohitshuzagsb9sd0uv/",
+            "facebook": "http://www.facebook.com/apollon.smithaios.5/",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/RadioHits",
+            "title": "Play RadioHits"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.zenolive.com/yww9fsb9sd0uv",
+        "radio_image": "https://static-media.streema.com/media/cache/c1/22/c1221107fe6a2224af131da9157587b3.jpg"
+    }, {
+        "title": "Top FM Δωδεκανήσου",
+        "no_play": false,
+        "frequency": "FM 102.4",
+        "link_deatils": "/radios/Top_FM_3",
+        "link_player": "/radios/play/Top_FM_3",
+        "image": "https://static-media.streema.com/media/cache/91/a3/91a396a37dbeb07dcdce6b18094485e6.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Rhodes",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["News", "Sports", "Talk"],
+        "location": {
+            "city": "Rhodes",
+            "country": "Greece"
+        },
+        "profile_slogan": "Το Αθλητικό Ραδιόφωνο της Δωδεκανήσου",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "The Top FM Dodecanese founded in 1995, Stigma of the station gave the first time began to emitted into the air of the Aegean as",
+            "rest": "the station is the musical Athletic Sports Music depending on the time of year. Station Keep the exclusive transmission of FM sport- recreation for the whole region of southeastern Aegean !!"
+        },
+        "radio_contacts": {
+            "short": "The Top FM Dodecanese founded in 1995, Stigma of the station gave the first time began to emitted into the air of the Aegean as",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.fmtop.gr/",
+            "facebook": "http://www.facebook.com/pages/Top-Fm-12NHSOY/250465398180",
+            "twitter": "",
+            "phone": "+30 2241 068585",
+            "address": "Γεωργίου Παπανδρέου και Λειβαδιάς 22, Ανάληψη 85100 Rhodes, Greece",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Top_FM_3",
+            "title": "Play Top FM Δωδεκανήσου"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://live3.istoikona.com:8376/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/e3/2e/e32e44369dcb6b39c43e1b63f3c4530d.jpg"
+    }, {
+        "title": "Radio1 - Golden 80s",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio1_Gold",
+        "link_player": "/radios/play/Radio1_Gold",
+        "image": "https://static-media.streema.com/media/cache/50/a8/50a8c420bfc77afb80efe0c0c50420fc.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Rhodes",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["80s", "Oldies"],
+        "location": {
+            "city": "Rhodes",
+            "country": "Greece"
+        },
+        "profile_slogan": "Life's Original Soundtrack",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "Radio1 Gold is a channel on the internet radio station radio1.gr from Rhodes, South Aegean, Greece, providing Oldies music.",
+            "rest": "Radio1 Gold is a channel on the internet radio station radio1.gr from Rhodes, South Aegean, Greece, providing Oldies music."
+        },
+        "radio_contacts": {
+            "short": "Radio1 Gold is a channel on the internet radio station radio1.gr from Rhodes, South Aegean, Greece, providing Oldies music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radio1.gr/",
+            "facebook": "http://www.facebook.com/radio1fm88",
+            "twitter": "http://twitter.com/Radio1Rodos",
+            "phone": "+30 2241 069888",
+            "address": "108 Geo. Seferi St., 85100 Rhodes, Greece",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio1_Gold",
+            "title": "Play Radio1 - Golden 80s"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://95.217.48.53:8000/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/8a/d7/8ad7d2791d90919d6d72b464abaa6745.jpg"
+    }, {
+        "title": "Radio Arhaggelos 94.1 FM",
+        "no_play": false,
+        "frequency": "FM 94.1",
+        "link_deatils": "/radios/Arhaggelos_FM",
+        "link_player": "/radios/play/Arhaggelos_FM",
+        "image": "https://static-media.streema.com/media/cache/c1/23/c12362cdf6884c75a81c9bf24928ab50.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Rhodes",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Information", "Music", "Top 40"],
+        "location": {
+            "city": "Rhodes",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Radio Arhaggelos 94.1 FM is a broadcast radio station from Rhodes, Greece providing Top 40 Greek music, news and information.",
+            "rest": "Radio Arhaggelos 94.1 FM is a broadcast radio station from Rhodes, Greece providing Top 40 Greek music, news and information."
+        },
+        "radio_contacts": {
+            "short": "Radio Arhaggelos 94.1 FM is a broadcast radio station from Rhodes, Greece providing Top 40 Greek music, news and information.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radio941.gr/",
+            "facebook": "http://www.facebook.com/pages/%CE%A1%CE%91%CE%94%CE%99%CE%9F-%CE%91%CE%A1%CE%A7%CE%91%CE%93%CE%93%CE%95%CE%9B%CE%9F%CE%A3/299343469756",
+            "twitter": "http://twitter.com/radioarhagelos",
+            "phone": "+30 2244 022859",
+            "address": "Lady of Ro 9 - Archangelos",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Arhaggelos_FM",
+            "title": "Play Radio Arhaggelos 94.1 FM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://s5.onweb.gr:8846/;",
+        "radio_image": "https://static-media.streema.com/media/cache/c1/e0/c1e0fc43eb8b7961d23e327cd1ff9a09.jpg"
+    }, {
+        "title": "Radio1",
+        "no_play": false,
+        "frequency": "FM 88.0",
+        "link_deatils": "/radios/Radio_1_Rodos",
+        "link_player": "/radios/play/Radio_1_Rodos",
+        "image": "https://static-media.streema.com/media/cache/99/fa/99fab6416a795b2a2f343fd601df96ae.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Rhodes",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance", "Electronica", "Pop", "Top 40"],
+        "location": {
+            "city": "Rhodes",
+            "country": "Greece"
+        },
+        "profile_slogan": "H Νούμερο 1 Επιλογή Σου!",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Radio 1 88.0 is a broadcast Radio station from Rhodes, South Aegean, Greece, providing Electronic and Dance, Top 40/Pop Music.",
+            "rest": "Radio 1 88.0 is a broadcast Radio station from Rhodes, South Aegean, Greece, providing Electronic and Dance, Top 40/Pop Music."
+        },
+        "radio_contacts": {
+            "short": "Radio 1 88.0 is a broadcast Radio station from Rhodes, South Aegean, Greece, providing Electronic and Dance, Top 40/Pop Music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radio1.gr/",
+            "facebook": "http://www.facebook.com/radio1fm88",
+            "twitter": "http://twitter.com/Radio1Rodos",
+            "phone": "+30 2241 069888",
+            "address": "108 Geo. Seferi St., 85100 Rhodes, Greece",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_1_Rodos",
+            "title": "Play Radio1"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://95.217.48.53:8000/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/32/1d/321d9be86e9eba54e158198b788f4725.jpg"
+    }, {
+        "title": "University Radio",
+        "no_play": true,
+        "frequency": "FM 107.2",
+        "link_deatils": "/radios/University_Radio",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/a8/2e/a82e405b4a191d7933377eb7b1cdca5a.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Rhodes",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [],
+        "location": {
+            "city": "Rhodes",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.rhodes.aegean.gr",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Super Star",
+        "no_play": true,
+        "frequency": "FM 89.1",
+        "link_deatils": "/radios/Super_Star",
+        "link_player": "",
+        "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Rhodes",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [],
+        "location": {
+            "city": "Rhodes",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Super Star 89.1 is a broadcast Radio station from Rhodes, Greece, playing Greek local music.",
+            "rest": "Super Star 89.1 is a broadcast Radio station from Rhodes, Greece, playing Greek local music."
+        },
+        "radio_contacts": {
+            "short": "Super Star 89.1 is a broadcast Radio station from Rhodes, Greece, playing Greek local music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "",
+            "facebook": "",
+            "twitter": "",
+            "phone": "2241092810",
+            "address": "Apellou Kremasti, P.C. 85104 Municipality Rodou, Prefecture Dodekanisou",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Antenna FM - FM 12",
+        "no_play": true,
+        "frequency": "FM 94.4",
+        "link_deatils": "/radios/FM_12_Antenna_FM",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/9c/ed/9cedca4de98efd1b212f10004337600b.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Rhodes",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [],
+        "location": {
+            "city": "Rhodes",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Antenna FM - FM 12 is a broadcast radio station from Rhodes, Greece, providing News and Talk.",
+            "rest": "Antenna FM - FM 12 is a broadcast radio station from Rhodes, Greece, providing News and Talk."
+        },
+        "radio_contacts": {
+            "short": "Antenna FM - FM 12 is a broadcast radio station from Rhodes, Greece, providing News and Talk.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.fm12.gr/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio1 - Ballads",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_1_Ballads",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/50/a8/50a8c420bfc77afb80efe0c0c50420fc.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Rhodes",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["AAA", "Ballad", "Hits", "Music"],
+        "location": {
+            "city": "Rhodes",
+            "country": "Greece"
+        },
+        "profile_slogan": "Best Ballads Ever!",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Radio1 - Ballads is a radio channel on the Radio1 internet radio station from Rhodes, Greece providing Love, Erotic and Ballad music hits.",
+            "rest": "Radio1 - Ballads is a radio channel on the Radio1 internet radio station from Rhodes, Greece providing Love, Erotic and Ballad music hits."
+        },
+        "radio_contacts": {
+            "short": "Radio1 - Ballads is a radio channel on the Radio1 internet radio station from Rhodes, Greece providing Love, Erotic and Ballad music hits.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radio1.gr/",
+            "facebook": "http://www.facebook.com/radio1fm88",
+            "twitter": "http://twitter.com/Radio1Rodos",
+            "phone": "+30 2241 069888",
+            "address": "Γεωργίου Σεφέρη 108",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio1 - Classic",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_1_Classic",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/50/a8/50a8c420bfc77afb80efe0c0c50420fc.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Rhodes",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Classics", "Hits", "Oldies"],
+        "location": {
+            "city": "Rhodes",
+            "country": "Greece"
+        },
+        "profile_slogan": "Life's Original Soundtrack",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Radio1 - Classic is a radio channel on the Radio1 internet radio station from Rhodes, Greece providing Classical music and information.",
+            "rest": "Radio1 - Classic is a radio channel on the Radio1 internet radio station from Rhodes, Greece providing Classical music and information."
+        },
+        "radio_contacts": {
+            "short": "Radio1 - Classic is a radio channel on the Radio1 internet radio station from Rhodes, Greece providing Classical music and information.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radio1.gr/",
+            "facebook": "http://www.facebook.com/radio1fm88",
+            "twitter": "http://twitter.com/Radio1Rodos",
+            "phone": "+30 2241 069888",
+            "address": "Γεωργίου Σεφέρη 108",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio1 - Lounge",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_1_Lounge",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/50/a8/50a8c420bfc77afb80efe0c0c50420fc.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Rhodes",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Ambient", "Lounge", "Slow"],
+        "location": {
+            "city": "Rhodes",
+            "country": "Greece"
+        },
+        "profile_slogan": "Life's Original Soundtrack",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Radio1 Lounge is an internet radio channel from Rhodes, Greece, providing Lounge Jazz and Chillout Music as a service of Radio1 Rodos 88.0 FM.",
+            "rest": "Radio1 Lounge is an internet radio channel from Rhodes, Greece, providing Lounge Jazz and Chillout Music as a service of Radio1 Rodos 88.0 FM."
+        },
+        "radio_contacts": {
+            "short": "Radio1 Lounge is an internet radio channel from Rhodes, Greece, providing Lounge Jazz and Chillout Music as a service of Radio1 Rodos 88.0 FM.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radio1.gr/",
+            "facebook": "http://www.facebook.com/radio1fm88",
+            "twitter": "http://twitter.com/Radio1Rodos",
+            "phone": "+30 2241 069888",
+            "address": "108 Geo. Seferi St., 85100 Rhodes, Greece",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio1 - Rhythmic",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_1_Rhythmic",
+        "link_player": "",
+        "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Rhodes",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Hip Hop", "Pop", "RnB", "Soul"],
+        "location": {
+            "city": "Rhodes",
+            "country": "Greece"
+        },
+        "profile_slogan": "No.1 Hit Music Station",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Radio 1 Rhythmic is an Internet Radio station broadcasting from Rhodes, Greece, provides Hip Hop, Soul and R&B music.",
+            "rest": "Radio 1 Rhythmic is an Internet Radio station broadcasting from Rhodes, Greece, provides Hip Hop, Soul and R&B music."
+        },
+        "radio_contacts": {
+            "short": "Radio 1 Rhythmic is an Internet Radio station broadcasting from Rhodes, Greece, provides Hip Hop, Soul and R&B music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radio1.gr/",
+            "facebook": "http://www.facebook.com/www.radio1.gr",
+            "twitter": "",
+            "phone": "(+30) 22410 69888",
+            "address": "108 Geo. Seferi str. 85100",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio1 - Dance",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio1_Dance",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/50/a8/50a8c420bfc77afb80efe0c0c50420fc.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Rhodes",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance", "Electronica", "Music", "Pop"],
+        "location": {
+            "city": "Rhodes",
+            "country": "Greece"
+        },
+        "profile_slogan": "Life's Original Soundtrack",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "Radio1 Dance s a channel on the internet radio station radio1.gr from Rhodes, South Aegean, Greece, providing Dance music.",
+            "rest": "Radio1 Dance s a channel on the internet radio station radio1.gr from Rhodes, South Aegean, Greece, providing Dance music."
+        },
+        "radio_contacts": {
+            "short": "Radio1 Dance s a channel on the internet radio station radio1.gr from Rhodes, South Aegean, Greece, providing Dance music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radio1.gr/",
+            "facebook": "http://www.facebook.com/radio1fm88",
+            "twitter": "http://twitter.com/Radio1Rodos",
+            "phone": "+30 2241 069888",
+            "address": "108 Geo. Seferi St., 85100 Rhodes, Greece",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio1 - Eclectic",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio1_Eclectic",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/50/a8/50a8c420bfc77afb80efe0c0c50420fc.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Rhodes",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Downtempo", "Jazz", "Soul"],
+        "location": {
+            "city": "Rhodes",
+            "country": "Greece"
+        },
+        "profile_slogan": "Life's Original Soundtrack",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "Eclectic is a channel on the internet radio station Radio1 from Rhodes, South Aegean, Greece, providing downtempo, acid-jazz, nu jazz, soul, funk, dub, big beat,",
+            "rest": "bossa nova and drum'n'bass Music."
+        },
+        "radio_contacts": {
+            "short": "Eclectic is a channel on the internet radio station Radio1 from Rhodes, South Aegean, Greece, providing downtempo, acid-jazz, nu jazz, soul, funk, dub, big beat,",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radio1.gr/",
+            "facebook": "http://www.facebook.com/radio1fm88",
+            "twitter": "http://twitter.com/Radio1Rodos",
+            "phone": "+30 2241 069888",
+            "address": "108 Geo. Seferi St., 85100 Rhodes, Greece",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio1 - Greek Top 40",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio1_Greek",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/fe/3e/fe3e31ab2984058375a2ce55babf1d04.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Rhodes",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Folk", "Greek", "Music", "Top 40"],
+        "location": {
+            "city": "Rhodes",
+            "country": "Greece"
+        },
+        "profile_slogan": "Life's Original Soundtrack",
+        "radio_language": "",
+        "radio_info": {
+            "short": "Radio1 Greek is a channel on the internet radio station radio1.gr from Rhodes, South Aegean, Greece, providing Greek Top 40/Pop Music.",
+            "rest": "Radio1 Greek is a channel on the internet radio station radio1.gr from Rhodes, South Aegean, Greece, providing Greek Top 40/Pop Music."
+        },
+        "radio_contacts": {
+            "short": "Radio1 Greek is a channel on the internet radio station radio1.gr from Rhodes, South Aegean, Greece, providing Greek Top 40/Pop Music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radio1.gr/",
+            "facebook": "http://www.facebook.com/radio1fm88",
+            "twitter": "http://twitter.com/Radio1Rodos",
+            "phone": "+30 2241 069888",
+            "address": "108 Geo. Seferi St., 85100 Rhodes, Greece",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio1 - Laika",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio1_LAIKA",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/99/ca/99caf3af33e6e517c3ec2b4c35088bea.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Rhodes",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Folk", "Greek", "Hits", "Pop"],
+        "location": {
+            "city": "Rhodes",
+            "country": "Greece"
+        },
+        "profile_slogan": "Life's Original Soundtrack",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "Radio1 Laika is a channel on the internet radio station radio1.gr from Rhodes, South Aegean, Greece, providing Greek music.",
+            "rest": "Radio1 Laika is a channel on the internet radio station radio1.gr from Rhodes, South Aegean, Greece, providing Greek music."
+        },
+        "radio_contacts": {
+            "short": "Radio1 Laika is a channel on the internet radio station radio1.gr from Rhodes, South Aegean, Greece, providing Greek music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radio1.gr/",
+            "facebook": "http://www.facebook.com/radio1fm88",
+            "twitter": "http://twitter.com/Radio1Rodos",
+            "phone": "+30 2241 069888",
+            "address": "108 Geo. Seferi St., 85100 Rhodes, Greece",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio1 - Jazz",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio1_JAZZ_Rodos.Greece",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/e6/d3/e6d38bf4dc0702f0f6d2e3ee4ddf9859.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Rhodes",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Guitar", "Jazz", "Smooth Jazz"],
+        "location": {
+            "city": "Rhodes",
+            "country": "Greece"
+        },
+        "profile_slogan": "Life's Original Soundtrack",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "Jazz and Smooth Jazz around the world!",
+            "rest": "Jazz and Smooth Jazz around the world!"
+        },
+        "radio_contacts": {
+            "short": "Jazz and Smooth Jazz around the world!",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radio1.gr/",
+            "facebook": "http://www.facebook.com/radio1fm88/",
+            "twitter": "http://twitter.com/radio1rodos",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio1 - Disco",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio1_DISCO_Rodos.Greece",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/02/ad/02adaf9a16589b531d1f4ce096de17c2.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Rhodes",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["70s", "80s", "Disco", "Funk"],
+        "location": {
+            "city": "Rhodes",
+            "country": "Greece"
+        },
+        "profile_slogan": "Life's Original Soundtrack",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "Disco, Funk, Soul from 70s & 80s!",
+            "rest": "Disco, Funk, Soul from 70s & 80s!"
+        },
+        "radio_contacts": {
+            "short": "Disco, Funk, Soul from 70s & 80s!",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radio1.gr/",
+            "facebook": "http://www.facebook.com/radio1fm88/",
+            "twitter": "http://twitter.com/radio1rodos",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio1 - Ellinikos",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio1_ELLINIKOS_Rodos.Greece",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/a9/b7/a9b7f041287067ad32b176d9d0f0efc1.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Rhodes",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Folk", "Greek"],
+        "location": {
+            "city": "Rhodes",
+            "country": "Greece"
+        },
+        "profile_slogan": "Life's Original Soundtrack",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "Greek \"Good\" music",
+            "rest": "Greek \"Good\" music"
+        },
+        "radio_contacts": {
+            "short": "Greek \"Good\" music",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radio1.gr/",
+            "facebook": "http://www.facebook.com/radio1fm88/",
+            "twitter": "http://twitter.com/radio1rodos",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Takman's Radio",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/takmans_radio",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/8b/fb/8bfbc91a513ccf1d1bc6159960ff5622.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Rhodes",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [],
+        "location": {
+            "city": "Rhodes",
+            "country": "Greece"
+        },
+        "profile_slogan": "Your House Is The Club",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "Takman's radio is an internet radio station from Rhodes, Greece providing House, Deep House, Techno and Chill out music. takman's radio supports the deep electronic",
+            "rest": "scene of Rhodes, where many of their DJs come from, and promotes artists/producers and DJs all over the world"
+        },
+        "radio_contacts": {
+            "short": "Takman's radio is an internet radio station from Rhodes, Greece providing House, Deep House, Techno and Chill out music. takman's radio supports the deep electronic",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://takmanradio.com/home/",
+            "facebook": "http://www.facebook.com/pages/Takmans-radio/143077082456947",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio1 - Golden 60s",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio1_Golden_60s",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/5a/ca/5acae0b009bf66f6be4d1743524d4194.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Rhodes",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Classic Rock", "Oldies", "Pop", "RnB"],
+        "location": {
+            "city": "Rhodes",
+            "country": "Greece"
+        },
+        "profile_slogan": "Rhodes No.1 Hit Music Station",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Golden 60s is a channel on internet radio station, Radio1, from Rhodes, South Aegean, Greece, playing Classic Rock, Pop, RnB and Oldies music.",
+            "rest": "Golden 60s is a channel on internet radio station, Radio1, from Rhodes, South Aegean, Greece, playing Classic Rock, Pop, RnB and Oldies music."
+        },
+        "radio_contacts": {
+            "short": "Golden 60s is a channel on internet radio station, Radio1, from Rhodes, South Aegean, Greece, playing Classic Rock, Pop, RnB and Oldies music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radio1.gr/",
+            "facebook": "http://www.facebook.com/radio1fm88",
+            "twitter": "http://twitter.com/Radio1Rodos",
+            "phone": "+30 2241 069888",
+            "address": "Γεωργίου Σεφέρη 108 851 01 Ródos, Greece",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}, {
+    "title": "Syros",
+    "link": "https://streema.com/radios/Syros",
+    "msg_results": "4 Radio Stations from Syros",
+    "page_copy": "Listen to radio stations from Syros, from a wide variety of genres like Community, Entertainment, Information, Pop and Top 40.  Enjoy stations such as Αιγαίο Live, Pathos Radio, Prime Radio, Aιγαίο Live 95.8 and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Αιγαίο Live",
+        "no_play": false,
+        "frequency": "FM 95.8",
+        "link_deatils": "/radios/Aigaio_FM_2",
+        "link_player": "/radios/play/Aigaio_FM_2",
+        "image": "https://static-media.streema.com/media/cache/8b/62/8b628ff00788409cd4898380dc25074d.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Syros",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Community", "Entertainment", "Information"],
+        "location": {
+            "city": "Syros",
+            "country": "Greece"
+        },
+        "profile_slogan": "Η Ωρα τση Κρητης",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Aegean Live 95.8 is a Greek radio station broadcasting from Thebes, Central Greece, providing information, communication and entertainment! Housed in the cultural center of the",
+            "rest": "present municipality of syros syros, in the piazza of ano syros, the municipal radio station aegean live, operating since 1988, through which running every activity of the municipality and the syrian general, and various matters of cultural, social and entertainment."
+        },
+        "radio_contacts": {
+            "short": "Aegean Live 95.8 is a Greek radio station broadcasting from Thebes, Central Greece, providing information, communication and entertainment! Housed in the cultural center of the",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.aigaiolive.gr/",
+            "facebook": "http://www.facebook.com/pages/%CE%97-%CE%A9%CF%81%CE%B1-%CF%84%CF%83%CE%B7-%CE%9A%CF%81%CE%B7%CF%84%CE%B7%CF%82-%CE%A3%CF%84%CE%BF%CE%BD-aigaiolivegr-958/138599926292629",
+            "twitter": "",
+            "phone": "(+30) 22810 87178",
+            "address": "Don Ioanni Stefanou 1 Piatsa - Ano Syros",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Aigaio_FM_2",
+            "title": "Play Αιγαίο Live"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.radiojar.com/nkqh9th47vzuv",
+        "radio_image": "https://static-media.streema.com/media/cache/f2/b0/f2b06068695f14e957e09244e08651cf.jpg"
+    }, {
+        "title": "Pathos Radio",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Pathos_Radio",
+        "link_player": "/radios/play/Pathos_Radio",
+        "image": "https://static-media.streema.com/media/cache/f8/17/f8177ea1a9a1d247c796e2eb44b8122f.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Syros",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Europe", "Greek", "Pop", "Top 40"],
+        "location": {
+            "city": "Syros",
+            "country": "Greece"
+        },
+        "profile_slogan": "Η άλλη όψη της διασκέδασης βρίσκεται μόνο εδώ!!!",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Ύστερα από πολλά χρόνια πείρας στα ελληνικά ιντερνετικά ραδιόφωνα, η Χαρούλα και ο Μάκης, αποφάσισαν να ενώσουν τις δυνάμεις τους και να ακολουθήσουν απο κοινού",
+            "rest": "          και να ακολουθήσουν απο κοινού το όνειρο τους, δημιουργώντας το “Pathos Radio”. Το Pathos Radio δημιουργήθηκε και άνοιξε τις πόρτες του στους ακροατές του την Μ.Δευτέρα 14 Απριλίου του 2020.\nΈνα ολοκαίνουργιο σοβαρό web radio ήρθε για να κάνει την διαφορά, κερδίζοντας την εμπιστοσύνη των ακροατών του, κύριο μέλημα μας  η καλή και ποιοτική μουσική μέσα από έμπειρους ραδιοφωνικούς παραγωγούς καθώς και ο σεβασμός και η εκτίμηση των ακροατών μας . Ελάτε και εσείς στην πιο ξεχωριστή παρέα πληκτρολογώντας https://pathosradio.com  \n... γιατί η άλλη όψη της διασκέδασης κάνει την διαφορά!"
+        },
+        "radio_contacts": {
+            "short": "Ύστερα από πολλά χρόνια πείρας στα ελληνικά ιντερνετικά ραδιόφωνα, η Χαρούλα και ο Μάκης, αποφάσισαν να ενώσουν τις δυνάμεις τους και να ακολουθήσουν απο κοινού",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://pathosradio.com/",
+            "facebook": "http://www.facebook.com/pathosradio",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Pathos_Radio",
+            "title": "Play Pathos Radio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://i9.streams.ovh:19013/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/15/56/1556058c2261cf7d1317dd506a075812.jpg"
+    }, {
+        "title": "Prime Radio",
+        "no_play": false,
+        "frequency": "FM 100.3",
+        "link_deatils": "/radios/Prime_Radio1",
+        "link_player": "/radios/play/Prime_Radio1",
+        "image": "https://static-media.streema.com/media/cache/0d/fb/0dfb404d5b613ca9fb076e33ee93cdf6.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Syros",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance", "Electronica", "Pop", "Top 40"],
+        "location": {
+            "city": "Syros",
+            "country": "Greece"
+        },
+        "profile_slogan": "New Sound | Fresh Songs | The Hits We Loved.",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Prime Radio FM 100.3 is a broadcast Radio station from Syros, South Aegean, Greece, providing Top 40/Pop, Adult Contemporary, Electronic and Dance Music.",
+            "rest": "Prime Radio FM 100.3 is a broadcast Radio station from Syros, South Aegean, Greece, providing Top 40/Pop, Adult Contemporary, Electronic and Dance Music."
+        },
+        "radio_contacts": {
+            "short": "Prime Radio FM 100.3 is a broadcast Radio station from Syros, South Aegean, Greece, providing Top 40/Pop, Adult Contemporary, Electronic and Dance Music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.primeradio.gr/",
+            "facebook": "http://www.facebook.com/primeradioGR/",
+            "twitter": "http://twitter.com/primeradio1003",
+            "phone": "+30 22810 87 158",
+            "address": "11 Antiparou 84100 Hermoúpolis, Kikladhes, Greece",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Prime_Radio1",
+            "title": "Play Prime Radio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://176.31.120.92:6738/;;",
+        "radio_image": "https://static-media.streema.com/media/cache/02/2d/022d6dba6dddbffa8a102c6a361137bc.jpg"
+    }, {
+        "title": "Aιγαίο Live 95.8",
+        "no_play": true,
+        "frequency": "FM 95.8",
+        "link_deatils": "/radios/Aigaio_FM",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/31/74/31748de371ddcb8434cf07b722fb9bb1.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "South Aegean",
+            "link": "/country/Greece/state/South_Aegean"
+        }, {
+            "title": "Syros",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Information", "Music", "News"],
+        "location": {
+            "city": "Syros",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Aιγαίο Live 95.8 is a broadcast radio station from Syros, Greece providing Greek music, news and information.",
+            "rest": "Aιγαίο Live 95.8 is a broadcast radio station from Syros, Greece providing Greek music, news and information."
+        },
+        "radio_contacts": {
+            "short": "Aιγαίο Live 95.8 is a broadcast radio station from Syros, Greece providing Greek music, news and information.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.aigaiolive.gr/",
+            "facebook": "http://www.facebook.com/AigaioLive958",
+            "twitter": "",
+            "phone": "(+30) 22 810 87 178",
+            "address": "Δον Ιωάννη Στεφάνου 1",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}]

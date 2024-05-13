@@ -1,0 +1,435 @@
+[{
+    "title": "Murcia",
+    "link": "https://streema.com/radios/Murcia_2",
+    "msg_results": "8 Radio Stations from Murcia",
+    "page_copy": "Listen to radio stations from Murcia, from a wide variety of genres like News, Pop, Rock, Sports and Talk.  Enjoy stations such as Metrópolis FM, Cadena SER - Radio Murcia, EsRadio Murcia, MDT Radio, More FM 70's and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Metrópolis FM",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Metropolis_FM_3",
+        "link_player": "/radios/play/Metropolis_FM_3",
+        "image": "https://static-media.streema.com/media/cache/b4/9d/b49d9e518cee98baa1d65350aa62c7e5.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Murcia",
+            "link": "/radios/country/Spain/state/Murcia"
+        }, {
+            "title": "Murcia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Culture", "Information", "Pop", "Rock"],
+        "location": {
+            "city": "Murcia",
+            "country": "Spain"
+        },
+        "profile_slogan": "La radio que mejor te sienta en la Región de Murcia.",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Actualidad, entrevistas, música, programas especializados de gastronomía, cultura, empresas, ocio... Metrópolis FM, la radio que mejor te sienta en la Región de Murcia.",
+            "rest": "Actualidad, entrevistas, música, programas especializados de gastronomía, cultura, empresas, ocio... Metrópolis FM, la radio que mejor te sienta en la Región de Murcia."
+        },
+        "radio_contacts": {
+            "short": "Actualidad, entrevistas, música, programas especializados de gastronomía, cultura, empresas, ocio... Metrópolis FM, la radio que mejor te sienta en la Región de Murcia.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://metropolisfm.es/",
+            "facebook": "",
+            "twitter": "http://twitter.com/metropolisfm_",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Metropolis_FM_3",
+            "title": "Play Metrópolis FM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://metropolis.radioca.st:8215/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/f9/23/f923cc7fa9ecfb209a258897ab9dfd35.jpg"
+    }, {
+        "title": "Cadena SER - Radio Murcia",
+        "no_play": false,
+        "frequency": "FM 100.3",
+        "link_deatils": "/radios/Radio_Murcia_Cadena_SER_100.3",
+        "link_player": "/radios/play/Radio_Murcia_Cadena_SER_100.3",
+        "image": "https://static-media.streema.com/media/cache/92/f3/92f359f2f96f0f80c5f0f5fe3c7ca3dc.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Murcia",
+            "link": "/radios/country/Spain/state/Murcia"
+        }, {
+            "title": "Murcia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["News", "Sports", "Talk"],
+        "location": {
+            "city": "Murcia",
+            "country": "Spain"
+        },
+        "profile_slogan": "Escucha con nosotros la vida",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Radio Murcia is a broadcast radio station in Murcia, Spain, providing News, Talk and Sports shows.",
+            "rest": "Radio Murcia is a broadcast radio station in Murcia, Spain, providing News, Talk and Sports shows."
+        },
+        "radio_contacts": {
+            "short": "Radio Murcia is a broadcast radio station in Murcia, Spain, providing News, Talk and Sports shows.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://cadenaser.com/emisora/radio_murcia",
+            "facebook": "http://www.facebook.com/RadioMurciaSER",
+            "twitter": "http://twitter.com/SER_Murcia",
+            "phone": "+34 968 220 005",
+            "address": "Radio Murcia, 4, 30001 Murcia, Spain",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Murcia_Cadena_SER_100.3",
+            "title": "Play Cadena SER - Radio Murcia"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_MURCIA.flv",
+        "radio_image": "https://static-media.streema.com/media/cache/3d/e5/3de5b3439a03d888d3d1065e287e86c0.jpg"
+    }, {
+        "title": "EsRadio Murcia",
+        "no_play": false,
+        "frequency": "FM 90.7",
+        "link_deatils": "/radios/EsRadio_Murcia",
+        "link_player": "/radios/play/EsRadio_Murcia",
+        "image": "https://static-media.streema.com/media/cache/b0/df/b0df30b635db2d4d60bf790ff0a773c4.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Murcia",
+            "link": "/radios/country/Spain/state/Murcia"
+        }, {
+            "title": "Murcia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Pop", "Spanish", "Talk", "Top 40", "Variety"],
+        "location": {
+            "city": "Murcia",
+            "country": "Spain"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "EsRadio Murcia 90.7 is a broadcast radio station from Murcia, Spain providing variety music.",
+            "rest": "EsRadio Murcia 90.7 is a broadcast radio station from Murcia, Spain providing variety music."
+        },
+        "radio_contacts": {
+            "short": "EsRadio Murcia 90.7 is a broadcast radio station from Murcia, Spain providing variety music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://esradiomurcia.es/",
+            "facebook": "",
+            "twitter": "http://twitter.com/murciaesradio",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/EsRadio_Murcia",
+            "title": "Play EsRadio Murcia"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://5.135.183.124:8340/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/55/22/5522f1c27943584ea25f2af8a5f98f82.jpg"
+    }, {
+        "title": "MDT Radio",
+        "no_play": false,
+        "frequency": "FM 97.1",
+        "link_deatils": "/radios/OM_radio_971",
+        "link_player": "/radios/play/OM_radio_971",
+        "image": "https://static-media.streema.com/media/cache/68/bf/68bfd3245a68356069d89740db506122.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Murcia",
+            "link": "/radios/country/Spain/state/Murcia"
+        }, {
+            "title": "Murcia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Electronica", "Hits", "Pop", "Rock"],
+        "location": {
+            "city": "Murcia",
+            "country": "Spain"
+        },
+        "profile_slogan": "LA EMISORA DEL REMEMBER",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "MDT Radio inicio sus emisiones en Septiembre del año 1988 con el objetivo de ser la radio de referencia en la región. En muy poco",
+            "rest": "tiempo llego a posicionarse como una de las emisoras preferidas, por público de todas las edades.\n\nLa situación estratégica de su centro emisor, la hacen ser una de las emisoras con mejor cobertura, a través de su frecuencia 97.1 FM para toda la región de Murcia.\n\nActualmente su audiencia está estimada en unos 36.000 oyentes, con una media de edad de 25 a 48 años.\n\nSu programación es muy fresca y dinámica. En ella podemos encontrar a los más experimentados locutores, realizando un trabajo de excepción. Programas especializados, magazines, deportes, musicales, etc….\n\nEn las mañanas de OM radio, intentan abordar todas las músicas, por ello en su reloj musical prácticamente encontraras de todo. La mejor selección de latino, comercial, pop, pop internacional, remember 80´s,  90´s, house, electrónica… Ya por la tarde, la línea musical está enfocada a los sonidos de club que más se bailan en todo el mundo.\n\nAdemás también están en contacto continuo con sus oyentes. A través de WhatsApp, Facebook, Twitter o Instagram, haciendo así una radio, mucho más cercana."
+        },
+        "radio_contacts": {
+            "short": "MDT Radio inicio sus emisiones en Septiembre del año 1988 con el objetivo de ser la radio de referencia en la región. En muy poco",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.mdtradio.com/",
+            "facebook": "http://www.facebook.com/mdtradio",
+            "twitter": "http://twitter.com/mdtradio?lang=en",
+            "phone": "902 88 90 82",
+            "address": "Apto. Correos 5044",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/OM_radio_971",
+            "title": "Play MDT Radio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streams1.mdtradio.com:8020/MdtMurciaEstudio",
+        "radio_image": "https://static-media.streema.com/media/cache/2e/66/2e668939896a5aed440c34e34995b9c9.jpg"
+    }, {
+        "title": "More FM 70's",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/More_FM_70s",
+        "link_player": "/radios/play/More_FM_70s",
+        "image": "https://static-media.streema.com/media/cache/84/31/84312dccb9d68bead8833e30c66fa178.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Murcia",
+            "link": "/radios/country/Spain/state/Murcia"
+        }, {
+            "title": "Murcia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["70s", "Spanish"],
+        "location": {
+            "city": "Murcia",
+            "country": "Spain"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.morefm.es",
+            "facebook": "http://www.facebook.com/MoreMusicRadioSpain/",
+            "twitter": "http://twitter.com/more_es",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/More_FM_70s",
+            "title": "Play More FM 70's"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream-mmr70s.creativedork.com",
+        "radio_image": "https://static-media.streema.com/media/cache/92/80/92800f427c9530a1e5846b10d73a14cb.jpg"
+    }, {
+        "title": "Onda Cero Murcia",
+        "no_play": false,
+        "frequency": "FM 92.9 / 97.7",
+        "link_deatils": "/radios/Onda_Cero_Noroeste",
+        "link_player": "/radios/play/Onda_Cero_Noroeste",
+        "image": "https://static-media.streema.com/media/cache/01/dc/01dc8e0abdf92701a491d689d559ea34.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Murcia",
+            "link": "/radios/country/Spain/state/Murcia"
+        }, {
+            "title": "Murcia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["News", "Politics", "Sports", "Talk"],
+        "location": {
+            "city": "Murcia",
+            "country": "Spain"
+        },
+        "profile_slogan": "Construimos Futuro Contigo",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Onda Cero Murcia is a broadcast radio station from Murcia, Spain, providing News, Talk, Politics and Sports.",
+            "rest": "Onda Cero Murcia is a broadcast radio station from Murcia, Spain, providing News, Talk, Politics and Sports."
+        },
+        "radio_contacts": {
+            "short": "Onda Cero Murcia is a broadcast radio station from Murcia, Spain, providing News, Talk, Politics and Sports.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.ondacero.es/emisoras/murcia/murcia/",
+            "facebook": "http://www.facebook.com/ondaceromurcia/",
+            "twitter": "http://twitter.com/ocrmurcia",
+            "phone": "+34 968 22 18 64 / +34 968 22 07 02",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Onda_Cero_Noroeste",
+            "title": "Play Onda Cero Murcia"
+        },
+        "radio_shows": [""],
+        "radio_source": "https://livefastly-webs.ondacero.es/murcia-pull/audio/master.m3u8",
+        "radio_image": "https://static-media.streema.com/media/cache/a6/89/a689a32c9ac4f0d66c8bc306e956870f.jpg"
+    }, {
+        "title": "FM Urban",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/FM_Urban",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/3f/89/3f89e507038b7d9b7bf7ceaeb1b76be5.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Murcia",
+            "link": "/radios/country/Spain/state/Murcia"
+        }, {
+            "title": "Murcia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance Hits"],
+        "location": {
+            "city": "Murcia",
+            "country": "Spain"
+        },
+        "profile_slogan": "Se Diferente, Se Urbano",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Radio Dance Urbana. Te acompañamos con la mejor música de los años 80, 90 y 00s. Treinta años de éxitos presentados con los mejores radio",
+            "rest": "shows hechos por gente como tu para gente como tu. SE DIFERENTE, SE URBANO."
+        },
+        "radio_contacts": {
+            "short": "Radio Dance Urbana. Te acompañamos con la mejor música de los años 80, 90 y 00s. Treinta años de éxitos presentados con los mejores radio",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://fmurban.es.tl/",
+            "facebook": "http://www.facebook.com/fmurban/",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "80s Mix Europa Radio",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/80s_Mix_Europa_Radio",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/6e/ee/6eee18fb45269d33b8961683934e6961.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Murcia",
+            "link": "/radios/country/Spain/state/Murcia"
+        }, {
+            "title": "Murcia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["80s", "90s", "Pop", "Rock"],
+        "location": {
+            "city": "Murcia",
+            "country": "Spain"
+        },
+        "profile_slogan": "Los mejores exitos de todos los tiempos",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Radio de los 80. 24 horas de los mejores éxitos de todos los tiempo. Aunque principalmente de los 80, también nos adentramos en los 70",
+            "rest": "y 90. Una selección musical exquisita, que no deja indiferente a nadie. Nuestro éxito durante más de tres años nos avala."
+        },
+        "radio_contacts": {
+            "short": "Radio de los 80. 24 horas de los mejores éxitos de todos los tiempo. Aunque principalmente de los 80, también nos adentramos en los 70",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.mixeuroparadio.com/",
+            "facebook": "http://www.facebook.com/r.mixonline",
+            "twitter": "http://twitter.com/80sMixEuropa",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}]

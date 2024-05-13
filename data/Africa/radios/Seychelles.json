@@ -1,0 +1,964 @@
+[
+    {
+        "title": "Victoria",
+        "link": "https://streema.com/radios/Victoria_7",
+        "msg_results": "16 Radio Stations from Victoria",
+        "page_copy": "Listen to radio stations from Victoria, from a wide variety of genres like Classic Rock, Hard Rock, Metal, Progressive and Rock.  Enjoy stations such as SBC - Paradise FM, SBC - Radyo Sesel, Radiosesel, Pure FM, ISKC Radio Group - ISKC Only Live and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+        "radios": [
+            {
+                "title": "SBC - Paradise FM",
+                "no_play": false,
+                "frequency": "FM 92.6",
+                "link_deatils": "/radios/Paradise_FM_2",
+                "link_player": "/radios/play/Paradise_FM_2",
+                "image": "https://static-media.streema.com/media/cache/68/06/6806631864054e9c4e06e15ebb512a89.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Seychelles",
+                        "link": "/radios/country/Seychelles"
+                    },
+                    {
+                        "title": "Victoria",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "120 Listens",
+                    "stars": 0
+                },
+                "genres": [
+                    "Entertainment",
+                    "Music",
+                    "Sports",
+                    "Talk"
+                ],
+                "location": {
+                    "city": "Victoria",
+                    "country": "Seychelles"
+                },
+                "profile_slogan": "SBC",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "Paradise FM 92.6 is a broadcast Radio station from Victoria, British Columbia, Canada, providing predominantly music service which also offers sports, advertisements and talk shows.",
+                    "rest": "Paradise FM 92.6 is a broadcast Radio station from Victoria, British Columbia, Canada, providing predominantly music service which also offers sports, advertisements and talk shows."
+                },
+                "radio_contacts": {
+                    "short": "Paradise FM 92.6 is a broadcast Radio station from Victoria, British Columbia, Canada, providing predominantly music service which also offers sports, advertisements and talk shows.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.sbc.sc/",
+                    "facebook": "http://www.facebook.com/www.sbc.sc",
+                    "twitter": "",
+                    "phone": "+  (248) 4289 722",
+                    "address": "P.O.BOX 321 Victoria Mahe, Seychelles",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Paradise_FM_2",
+                    "title": "Play SBC - Paradise FM"
+                },
+                "radio_shows": [""],
+                "radio_source": "https://streaming.fabrik.fm/paradise-fm/echocast/audio/index.m3u8",
+                "radio_image": "https://static-media.streema.com/media/cache/29/9a/299a1107b70e234201e7a6fea57ba77f.jpg"
+            },
+            {
+                "title": "SBC - Radyo Sesel",
+                "no_play": false,
+                "frequency": "AM 1368",
+                "link_deatils": "/radios/SBC_Radyo_Sesel",
+                "link_player": "/radios/play/SBC_Radyo_Sesel",
+                "image": "https://static-media.streema.com/media/cache/88/db/88dbd405028dc4c5090553bc130d2c72.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Seychelles",
+                        "link": "/radios/country/Seychelles"
+                    },
+                    {
+                        "title": "Victoria",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "60 Listens",
+                    "stars": 0
+                },
+                "genres": [
+                    "News"
+                ],
+                "location": {
+                    "city": "Victoria",
+                    "country": "Seychelles"
+                },
+                "profile_slogan": "",
+                "radio_language": "French",
+                "radio_info": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contacts": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.sbc.sc/",
+                    "facebook": "http://www.facebook.com/sbctv.sc/",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/SBC_Radyo_Sesel",
+                    "title": "Play SBC - Radyo Sesel"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://streaming.fabrik.fm/radyo-sesel/echocast/audio/index.m3u8",
+                "radio_image": "https://static-media.streema.com/media/cache/75/55/75555fb99c0dccfa6fd2ca4b03910285.jpg"
+            },
+            {
+                "title": "Radiosesel",
+                "no_play": false,
+                "frequency": "Web",
+                "link_deatils": "/radios/radiosesel.com",
+                "link_player": "/radios/play/radiosesel.com",
+                "image": "https://static-media.streema.com/media/cache/d5/85/d58515ca2e55c00794bb7fe889caafca.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Seychelles",
+                        "link": "/radios/country/Seychelles"
+                    },
+                    {
+                        "title": "Victoria",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "30 Listens",
+                    "stars": 5
+                },
+                "genres": [
+                    "Community",
+                    "Folk"
+                ],
+                "location": {
+                    "city": "Victoria",
+                    "country": "Seychelles"
+                },
+                "profile_slogan": "100% LANMIZIK KREOL SORTI SESEL",
+                "radio_language": "Creole",
+                "radio_info": {
+                    "short": "Radiosesel is an online community radio station. Their aim is to bring the sounds of paradise to the global online Seychellois community. Their playlist is",
+                    "rest": "100% Kreol. The only exception to this rule are songs that have been recorded in other languages by Seychellois artists. Their music criteria is simple, they don't play songs that contain profanity, abuse, derogatory or political propaganda"
+                },
+                "radio_contacts": {
+                    "short": "Radiosesel is an online community radio station. Their aim is to bring the sounds of paradise to the global online Seychellois community. Their playlist is",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.radiosesel.com/",
+                    "facebook": "http://www.facebook.com/radiosesel/",
+                    "twitter": "http://twitter.com/Radiosesel",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/radiosesel.com",
+                    "title": "Play Radiosesel"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://176.31.123.49:8000/stream",
+                "radio_image": "https://static-media.streema.com/media/cache/29/ff/29ff09405cd5d8340d09260cb8b59e07.jpg"
+            },
+            {
+                "title": "Pure FM",
+                "no_play": false,
+                "frequency": "FM 90.7",
+                "link_deatils": "/radios/Pure_FM_2",
+                "link_player": "/radios/play/Pure_FM_2",
+                "image": "https://static-media.streema.com/media/cache/7c/ab/7cab1f01fb6218110542c0d30fe0d6dc.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Seychelles",
+                        "link": "/radios/country/Seychelles"
+                    },
+                    {
+                        "title": "Victoria",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "30 Listens",
+                    "stars": 0
+                },
+                "genres": [
+                    "Adult Contemporary",
+                    "Hits",
+                    "Pop"
+                ],
+                "location": {
+                    "city": "Victoria",
+                    "country": "Seychelles"
+                },
+                "profile_slogan": "Love . Life . Music",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "Pure FM is a broadcast radio station from Victoria, Seychelles, playing Adult Contemporary, Pop, and Music Hits.",
+                    "rest": "Pure FM is a broadcast radio station from Victoria, Seychelles, playing Adult Contemporary, Pop, and Music Hits."
+                },
+                "radio_contacts": {
+                    "short": "Pure FM is a broadcast radio station from Victoria, Seychelles, playing Adult Contemporary, Pop, and Music Hits.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.purefm.sc/",
+                    "facebook": "",
+                    "twitter": "",
+                    "phone": "(+248) 4288 500",
+                    "address": "Suite #2, Global Village, Mont Fleuri P.O. Box 1475",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Pure_FM_2",
+                    "title": "Play Pure FM"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://162.144.86.239:8010/purefmlive.mp3/;",
+                "radio_image": "https://static-media.streema.com/media/cache/02/af/02af8529e1beab2018ecdca3a2e39b29.jpg"
+            },
+            {
+                "title": "ISKC Radio Group - ISKC Only Live",
+                "no_play": false,
+                "frequency": "Web",
+                "link_deatils": "/radios/ISKC_Only_Live",
+                "link_player": "/radios/play/ISKC_Only_Live",
+                "image": "https://static-media.streema.com/media/cache/82/fa/82fa5516c905785c8ce7579bca32ba60.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Seychelles",
+                        "link": "/radios/country/Seychelles"
+                    },
+                    {
+                        "title": "Victoria",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Classic Rock",
+                    "Live Shows",
+                    "Progressive",
+                    "Rock"
+                ],
+                "location": {
+                    "city": "Victoria",
+                    "country": "Seychelles"
+                },
+                "profile_slogan": "",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contacts": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://iskc.rocks/",
+                    "facebook": "http://www.facebook.com/ISKCWebradio",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/ISKC_Only_Live",
+                    "title": "Play ISKC Radio Group - ISKC Only Live"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://82.94.204.105:8012/OnlyLive/;",
+                "radio_image": "https://static-media.streema.com/media/cache/0a/4b/0a4be03bcbe4a9cae11521713d5e05d2.jpg"
+            },
+            {
+                "title": "Studio 26 Radio",
+                "no_play": false,
+                "frequency": "Web",
+                "link_deatils": "/radios/Studio_26_Radio",
+                "link_player": "/radios/play/Studio_26_Radio",
+                "image": "https://static-media.streema.com/media/cache/70/8a/708a8334f3c09266179560f9bbbf4ad7.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Seychelles",
+                        "link": "/radios/country/Seychelles"
+                    },
+                    {
+                        "title": "Victoria",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "90s",
+                    "Dance",
+                    "EDM",
+                    "Top 40"
+                ],
+                "location": {
+                    "city": "Victoria",
+                    "country": "Seychelles"
+                },
+                "profile_slogan": "Studio 26 Radio Livestream! 24/7 90's, Top 40 & Dance Music",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "24/7 90's, Top 40 & Dance Music without annoying commercials & news broadcasts.",
+                    "rest": "24/7 90's, Top 40 & Dance Music without annoying commercials & news broadcasts."
+                },
+                "radio_contacts": {
+                    "short": "24/7 90's, Top 40 & Dance Music without annoying commercials & news broadcasts.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.studio26radio.nl/",
+                    "facebook": "",
+                    "twitter": "http://twitter.com/studio26radio",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Studio_26_Radio",
+                    "title": "Play Studio 26 Radio"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://94.23.148.11:8050/;",
+                "radio_image": "https://static-media.streema.com/media/cache/50/40/5040c84b9aee1a105b68b2da95ebb1d9.jpg"
+            },
+            {
+                "title": "ISKC Radio Group - ISKC Old Men's Rock",
+                "no_play": false,
+                "frequency": "Web",
+                "link_deatils": "/radios/ISKC_Radio_Group_ISKC_Old_Mens_Rock",
+                "link_player": "/radios/play/ISKC_Radio_Group_ISKC_Old_Mens_Rock",
+                "image": "https://static-media.streema.com/media/cache/a3/a6/a3a648045b65513787b9bb7075183505.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Seychelles",
+                        "link": "/radios/country/Seychelles"
+                    },
+                    {
+                        "title": "Victoria",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Classic Rock",
+                    "Rock"
+                ],
+                "location": {
+                    "city": "Victoria",
+                    "country": "Seychelles"
+                },
+                "profile_slogan": "",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contacts": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://iskc.rocks/",
+                    "facebook": "http://www.facebook.com/ISKCWebradio/",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/ISKC_Radio_Group_ISKC_Old_Mens_Rock",
+                    "title": "Play ISKC Radio Group - ISKC Old Men's Rock"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://82.94.204.105:8012/OldMenRock/;",
+                "radio_image": "https://static-media.streema.com/media/cache/e7/eb/e7eb374a775e358ef4c32c430f83c44d.jpg"
+            },
+            {
+                "title": "ISKC Radio Group - ISKC RadioActive",
+                "no_play": false,
+                "frequency": "Web",
+                "link_deatils": "/radios/ISKC_Radio_Group_ISKC_RadioActive",
+                "link_player": "/radios/play/ISKC_Radio_Group_ISKC_RadioActive",
+                "image": "https://static-media.streema.com/media/cache/1e/1c/1e1c728adeec51cd4e5197b8860a7d97.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Seychelles",
+                        "link": "/radios/country/Seychelles"
+                    },
+                    {
+                        "title": "Victoria",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Metal",
+                    "Rock"
+                ],
+                "location": {
+                    "city": "Victoria",
+                    "country": "Seychelles"
+                },
+                "profile_slogan": "",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contacts": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://iskc.rocks/",
+                    "facebook": "http://www.facebook.com/ISKCWebradio/",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/ISKC_Radio_Group_ISKC_RadioActive",
+                    "title": "Play ISKC Radio Group - ISKC RadioActive"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://82.94.204.105:8012/RadioActive/;",
+                "radio_image": "https://static-media.streema.com/media/cache/74/81/7481b873b3cb6d37d0606e26ba755105.jpg"
+            },
+            {
+                "title": "ISKC Radio Group - ISKC Blues Cafe",
+                "no_play": false,
+                "frequency": "Web",
+                "link_deatils": "/radios/ISKC_Webradio",
+                "link_player": "/radios/play/ISKC_Webradio",
+                "image": "https://static-media.streema.com/media/cache/3a/d2/3ad29e7d0739122759767927a47b7362.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Seychelles",
+                        "link": "/radios/country/Seychelles"
+                    },
+                    {
+                        "title": "Victoria",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Blues",
+                    "Rock",
+                    "Traditional"
+                ],
+                "location": {
+                    "city": "Victoria",
+                    "country": "Seychelles"
+                },
+                "profile_slogan": "Only the Best Classic Rock",
+                "radio_language": "Dutch",
+                "radio_info": {
+                    "short": "ISKC Webradio is an internet radio station from Puttershoek, The Netherlands providing Classic Rock, Oldies and Progressive music.",
+                    "rest": "ISKC Webradio is an internet radio station from Puttershoek, The Netherlands providing Classic Rock, Oldies and Progressive music."
+                },
+                "radio_contacts": {
+                    "short": "ISKC Webradio is an internet radio station from Puttershoek, The Netherlands providing Classic Rock, Oldies and Progressive music.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://iskc.rocks/",
+                    "facebook": "http://www.facebook.com/ISKCWebradio",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/ISKC_Webradio",
+                    "title": "Play ISKC Radio Group - ISKC Blues Cafe"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://82.94.204.105:8012/BluesCafe/;",
+                "radio_image": "https://static-media.streema.com/media/cache/bc/9f/bc9f88d15fb482f54cadcd4cb161b63c.jpg"
+            },
+            {
+                "title": "ISKC Radio Group - ISKC Hardrock Channel",
+                "no_play": false,
+                "frequency": "Web",
+                "link_deatils": "/radios/ISKC_Webradio_2",
+                "link_player": "/radios/play/ISKC_Webradio_2",
+                "image": "https://static-media.streema.com/media/cache/f7/47/f7472f1474d29df881dfe761e7768328.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Seychelles",
+                        "link": "/radios/country/Seychelles"
+                    },
+                    {
+                        "title": "Victoria",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Hard Rock",
+                    "Hardcore"
+                ],
+                "location": {
+                    "city": "Victoria",
+                    "country": "Seychelles"
+                },
+                "profile_slogan": "",
+                "radio_language": "",
+                "radio_info": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contacts": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://iskc.rocks/",
+                    "facebook": "http://www.facebook.com/ISKCWebradio/",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/ISKC_Webradio_2",
+                    "title": "Play ISKC Radio Group - ISKC Hardrock Channel"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://mediaserv68.live-streams.nl:8012/HardRockChannel/;",
+                "radio_image": "https://static-media.streema.com/media/cache/0a/ad/0aadbe21d554d5df5f4a1b31abc09a6e.jpg"
+            },
+            {
+                "title": "ISKC Radio Group - ISKC Rock Radio",
+                "no_play": false,
+                "frequency": "Web",
+                "link_deatils": "/radios/ISKC_Rock_Radio",
+                "link_player": "/radios/play/ISKC_Rock_Radio",
+                "image": "https://static-media.streema.com/media/cache/3b/8d/3b8d6ebd9a0284e08916bf8f741ec3a3.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Seychelles",
+                        "link": "/radios/country/Seychelles"
+                    },
+                    {
+                        "title": "Victoria",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Classic Rock",
+                    "Progressive",
+                    "Rock"
+                ],
+                "location": {
+                    "city": "Victoria",
+                    "country": "Seychelles"
+                },
+                "profile_slogan": "",
+                "radio_language": "Dutch",
+                "radio_info": {
+                    "short": "ISKC Rock Radio is an online radio station from Zwijndrecht, Netherlands, providing non-stop Rock music 24 hours a day. Best Rock Music radio station bringing",
+                    "rest": " you variety of rock music, including Progressive Rock, Symphonic Rock and better Classic Rock music."
+                },
+                "radio_contacts": {
+                    "short": "ISKC Rock Radio is an online radio station from Zwijndrecht, Netherlands, providing non-stop Rock music 24 hours a day. Best Rock Music radio station bringing",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://iskc.rocks/",
+                    "facebook": "http://www.facebook.com/ISKCWebradio",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/ISKC_Rock_Radio",
+                    "title": "Play ISKC Radio Group - ISKC Rock Radio"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://82.94.204.105:8012/RockRadio/;",
+                "radio_image": "https://static-media.streema.com/media/cache/30/38/30382919c272bc0efdcccfdf5e514c28.jpg"
+            },
+            {
+                "title": "Asterisk Radio",
+                "no_play": false,
+                "frequency": "Web",
+                "link_deatils": "/radios/Asterisk_Radio",
+                "link_player": "/radios/play/Asterisk_Radio",
+                "image": "https://static-media.streema.com/media/cache/4b/d8/4bd8b5fb6566f7bd8e8a16828ddedd3a.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Seychelles",
+                        "link": "/radios/country/Seychelles"
+                    },
+                    {
+                        "title": "Victoria",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Alternative",
+                    "Classic Rock",
+                    "Hard Rock",
+                    "Rock"
+                ],
+                "location": {
+                    "city": "Victoria",
+                    "country": "Seychelles"
+                },
+                "profile_slogan": "The Feat sound from beautiful Seychelles",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "Asterisk Radio is a perfect mix of Classic Rock, Modern Rock, and Album Oriented Rock. Most songs you'll hear are loss-less encoded for a true",
+                    "rest": "high-fidelity listening experience.\n"
+                },
+                "radio_contacts": {
+                    "short": "Asterisk Radio is a perfect mix of Classic Rock, Modern Rock, and Album Oriented Rock. Most songs you'll hear are loss-less encoded for a true",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://asteriskradio.org/",
+                    "facebook": "",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Asterisk_Radio",
+                    "title": "Play Asterisk Radio"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://192.99.35.215:5195/stream/;",
+                "radio_image": "https://static-media.streema.com/media/cache/ad/4c/ad4cce538e4541afb9850961c13f9ca8.jpg"
+            },
+            {
+                "title": "ISKC Radio Group - ISKC Extreme Metal",
+                "no_play": false,
+                "frequency": "Web",
+                "link_deatils": "/radios/ISKC_Webradio_3",
+                "link_player": "/radios/play/ISKC_Webradio_3",
+                "image": "https://static-media.streema.com/media/cache/9d/14/9d143311cc7d044a9c34e31fade5f812.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Seychelles",
+                        "link": "/radios/country/Seychelles"
+                    },
+                    {
+                        "title": "Victoria",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Metal",
+                    "Rock"
+                ],
+                "location": {
+                    "city": "Victoria",
+                    "country": "Seychelles"
+                },
+                "profile_slogan": "",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contacts": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://iskc.rocks/",
+                    "facebook": "http://www.facebook.com/ISKCWebradio/",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/ISKC_Webradio_3",
+                    "title": "Play ISKC Radio Group - ISKC Extreme Metal"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://82.94.204.105:8012/ExtremeMetal/;",
+                "radio_image": "https://static-media.streema.com/media/cache/3a/13/3a131ac4fe6600b4acec51e469fd82be.jpg"
+            },
+            {
+                "title": "ISKC Radio Group - ISKC Rock Radio XXL",
+                "no_play": false,
+                "frequency": "Web",
+                "link_deatils": "/radios/ISKC_Radio_Group_ISKC_Rock_Radio_XXL",
+                "link_player": "/radios/play/ISKC_Radio_Group_ISKC_Rock_Radio_XXL",
+                "image": "https://static-media.streema.com/media/cache/69/93/6993936ad33c2b16d01f39cb167b15d7.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Seychelles",
+                        "link": "/radios/country/Seychelles"
+                    },
+                    {
+                        "title": "Victoria",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Progressive",
+                    "Rock"
+                ],
+                "location": {
+                    "city": "Victoria",
+                    "country": "Seychelles"
+                },
+                "profile_slogan": "Only Long Progressive Rock songs",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "On ISKC Rock Radio XXL there are only Progressive Rock songs longer then 9 minutes.",
+                    "rest": "On ISKC Rock Radio XXL there are only Progressive Rock songs longer then 9 minutes."
+                },
+                "radio_contacts": {
+                    "short": "On ISKC Rock Radio XXL there are only Progressive Rock songs longer then 9 minutes.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://iskc.rocks/",
+                    "facebook": "http://www.facebook.com/ISKCWebradio/",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/ISKC_Radio_Group_ISKC_Rock_Radio_XXL",
+                    "title": "Play ISKC Radio Group - ISKC Rock Radio XXL"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://82.94.204.105:8012/XXL/;",
+                "radio_image": "https://static-media.streema.com/media/cache/5a/62/5a621ca9ff2be9542216ec3fd4e709ec.jpg"
+            },
+            {
+                "title": "United Rock Nations",
+                "no_play": true,
+                "frequency": "Web",
+                "link_deatils": "/radios/United_Rock_Nations",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/fa/0c/fa0cc93202e78aa5699d71cb5745e070.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Seychelles",
+                        "link": "/radios/country/Seychelles"
+                    },
+                    {
+                        "title": "Victoria",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Classic Rock",
+                    "Hard Rock",
+                    "Metal"
+                ],
+                "location": {
+                    "city": "Victoria",
+                    "country": "Seychelles"
+                },
+                "profile_slogan": "The best Metal and Hard-Rock radio",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "New releases, interviews of the week, albums of the week, live shows ! It all happens on United Rock Nations Radio !",
+                    "rest": "New releases, interviews of the week, albums of the week, live shows ! It all happens on United Rock Nations Radio !"
+                },
+                "radio_contacts": {
+                    "short": "New releases, interviews of the week, albums of the week, live shows ! It all happens on United Rock Nations Radio !",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.unitedrocknations.com/",
+                    "facebook": "http://www.facebook.com/unitedrocknations",
+                    "twitter": "http://twitter.com/u_rocknations",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            },
+            {
+                "title": "Hail Hail Radio",
+                "no_play": true,
+                "frequency": "Web",
+                "link_deatils": "/radios/Hail_Hail_Radio",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/50/31/50319f32d07038155c129a83b7f064ef.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Seychelles",
+                        "link": "/radios/country/Seychelles"
+                    },
+                    {
+                        "title": "Victoria",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Celtic"
+                ],
+                "location": {
+                    "city": "Victoria",
+                    "country": "Seychelles"
+                },
+                "profile_slogan": "",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "Hail Hail Radio is an Internet Radio station broadcasting from Victoria, Seychelles, provides the best of Celtic Music",
+                    "rest": "Hail Hail Radio is an Internet Radio station broadcasting from Victoria, Seychelles, provides the best of Celtic Music"
+                },
+                "radio_contacts": {
+                    "short": "Hail Hail Radio is an Internet Radio station broadcasting from Victoria, Seychelles, provides the best of Celtic Music",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.hailhailradio.com/",
+                    "facebook": "",
+                    "twitter": "http://twitter.com/CelticFCRadio",
+                    "phone": "",
+                    "address": "PO Box 1388, Victoria, Mahé",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            }
+        ]
+    }
+]

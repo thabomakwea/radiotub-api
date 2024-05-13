@@ -1,0 +1,243 @@
+[
+    {
+        "title": "Hong Kong",
+        "link": "https://streema.com/radios/Hong_Kong",
+        "msg_results": "3 Radio Stations from Hong Kong",
+        "page_copy": "Hong Kong Radio Stations on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.  Get in touch via the Contact Us below if you're interested in these apps. Also, find the top new songs, playlists, and music on our website!",
+        "radios": [
+            {
+                "title": "Metro Plus AM 1044",
+                "no_play": false,
+                "frequency": "AM 1044",
+                "link_deatils": "/radios/Metro_Plus_Live",
+                "link_player": "/radios/play/Metro_Plus_Live",
+                "image": "https://static-media.streema.com/media/cache/bf/09/bf095474c1c30d172811def51d8397ec.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "Hong Kong",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "30 Listens",
+                    "stars": 0
+                },
+                "genres": [],
+                "location": {
+                    "city": "Kowloon",
+                    "country": "Hong Kong"
+                },
+                "profile_slogan": "Hong Kong's No.1 Hit Music Station",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "Metro Plus AM 1044 is a broadcast radio station on the Metro Broadcast network from Kowloon, Hong Kong providing World hits music and information. ------",
+                    "rest": "\nShows: Newsweek on Air, Coming Home with Metro Plus, Gintong Ani, Gintong Aral, Good Mood 1044, Good Morning Pearl River Delta, Hour of Love, Magandang Show, Michael Beat, Morning Hitz, Party Hard Club, PTS Dyaryo, PTS Greetings, PTS Sabayan, PTS Tunog Pinoy, Quiet Storm Music Mix, Satu Jam Bersama ICA, Sunshine Charlie, Touch of Glory, Where Did the Week Go?"
+                },
+                "radio_contacts": {
+                    "short": "Metro Plus AM 1044 is a broadcast radio station on the Metro Broadcast network from Kowloon, Hong Kong providing World hits music and information. ------",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.metroradio.com.hk/1044/",
+                    "facebook": "http://www.facebook.com/metroradio.com.hk",
+                    "twitter": "http://twitter.com/Metro_Radio",
+                    "phone": "(852) 3698-8000",
+                    "address": "香港九龍紅磡黃埔花園第六期地庫二層 Kowloon, Hong Kong",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Metro_Plus_Live",
+                    "title": "Play Metro Plus AM 1044"
+                },
+                "radio_shows": [
+                    "Newsweek on Air"
+                ],
+                "radio_source": "https://metroradio-lh.akamaihd.net/i/1044_h@349800/master.m3u8",
+                "radio_image": "https://static-media.streema.com/media/cache/60/d3/60d3fcaeb11237bf782f58662992a372.jpg"
+            },
+            {
+                "title": "葉曦揚 Sunny Ip",
+                "no_play": false,
+                "frequency": "Web",
+                "link_deatils": "/radios/Ye_Xiyang_Sunny_Ip",
+                "link_player": "/radios/play/Ye_Xiyang_Sunny_Ip",
+                "image": "https://static-media.streema.com/media/cache/fe/ef/feef347dc1401b7c57fb628d54316341.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "Hong Kong",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "30 Listens",
+                    "stars": 0
+                },
+                "genres": [
+                    "80s",
+                    "90s",
+                    "Adult Contemporary",
+                    "Mando"
+                ],
+                "location": {
+                    "city": "Hong Kong",
+                    "country": "Hong Kong"
+                },
+                "profile_slogan": "用音樂為你傳情",
+                "radio_language": "Chinese",
+                "radio_info": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contacts": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://sunnyip.hk/",
+                    "facebook": "http://www.facebook.com/sunnyipip",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Ye_Xiyang_Sunny_Ip",
+                    "title": "Play 葉曦揚 Sunny Ip"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://procyon.shoutca.st:8492/stream/;",
+                "radio_image": "https://static-media.streema.com/media/cache/f0/4a/f04acef7e112c02cef0d69d985381502.jpg"
+            },
+            {
+                "title": "商業電台 - AM864",
+                "no_play": false,
+                "frequency": "AM 864",
+                "link_deatils": "/radios/CRHK_AM864",
+                "link_player": "https://www.881903.com/live/864",
+                "image": "https://static-media.streema.com/media/cache/98/0d/980dd1414707ac9ba020751574b44288.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "Hong Kong",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Jazz",
+                    "News",
+                    "Pop",
+                    "RnB"
+                ],
+                "location": {
+                    "city": "Hong Kong",
+                    "country": "Hong Kong"
+                },
+                "profile_slogan": "",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contacts": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://www.881903.com/",
+                    "facebook": "",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "https://www.881903.com/live/864",
+                    "title": "Play 商業電台 - AM864"
+                },
+                "radio_shows": [""],
+                "radio_source": "https://www.881903.com/live/864"
+            }
+        ]
+    },
+    {
+        "title": "Kowloon",
+        "link": "https://streema.com/radios/Kowloon",
+        "msg_results": "1 Radio Stations from Kowloon",
+        "page_copy": "Listen to radio stations from Kowloon, from a wide variety of genres like .  Enjoy stations such as Metro Plus AM 1044 and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+        "radios": [
+            {
+                "title": "Metro Plus AM 1044",
+                "no_play": false,
+                "frequency": "AM 1044",
+                "link_deatils": "/radios/Metro_Plus_Live",
+                "link_player": "/radios/play/Metro_Plus_Live",
+                "image": "https://static-media.streema.com/media/cache/bf/09/bf095474c1c30d172811def51d8397ec.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "Hong Kong",
+                        "link": "/radios/country/Hong_Kong"
+                    },
+                    {
+                        "title": "Kowloon",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "30 Listens",
+                    "stars": 0
+                },
+                "genres": [],
+                "location": {
+                    "city": "Kowloon",
+                    "country": "Hong Kong"
+                },
+                "profile_slogan": "Hong Kong's No.1 Hit Music Station",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "Metro Plus AM 1044 is a broadcast radio station on the Metro Broadcast network from Kowloon, Hong Kong providing World hits music and information. ------",
+                    "rest": "\nShows: Newsweek on Air, Coming Home with Metro Plus, Gintong Ani, Gintong Aral, Good Mood 1044, Good Morning Pearl River Delta, Hour of Love, Magandang Show, Michael Beat, Morning Hitz, Party Hard Club, PTS Dyaryo, PTS Greetings, PTS Sabayan, PTS Tunog Pinoy, Quiet Storm Music Mix, Satu Jam Bersama ICA, Sunshine Charlie, Touch of Glory, Where Did the Week Go?"
+                },
+                "radio_contacts": {
+                    "short": "Metro Plus AM 1044 is a broadcast radio station on the Metro Broadcast network from Kowloon, Hong Kong providing World hits music and information. ------",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.metroradio.com.hk/1044/",
+                    "facebook": "http://www.facebook.com/metroradio.com.hk",
+                    "twitter": "http://twitter.com/Metro_Radio",
+                    "phone": "(852) 3698-8000",
+                    "address": "香港九龍紅磡黃埔花園第六期地庫二層 Kowloon, Hong Kong",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Metro_Plus_Live",
+                    "title": "Play Metro Plus AM 1044"
+                },
+                "radio_shows": [
+                    "Newsweek on Air"
+                ],
+                "radio_source": "https://metroradio-lh.akamaihd.net/i/1044_h@349800/master.m3u8",
+                "radio_image": "https://static-media.streema.com/media/cache/60/d3/60d3fcaeb11237bf782f58662992a372.jpg"
+            }
+        ]
+    }
+]

@@ -1,0 +1,538 @@
+[
+    {
+        "title": "Maseru",
+        "link": "https://streema.com/radios/Maseru",
+        "msg_results": "9 Radio Stations from Maseru",
+        "page_copy": "Listen to radio stations from Maseru, from a wide variety of genres like Christian, Community, Entertainment, News and Talk.  Enjoy stations such as Harvest FM, MoAfrika FM Radio, PC FM, Ts'enolo FM, Radio Maria Lesotho and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+        "radios": [
+            {
+                "title": "Harvest FM",
+                "no_play": false,
+                "frequency": "FM 98.9",
+                "link_deatils": "/radios/Harvest_FM",
+                "link_player": "/radios/play/Harvest_FM",
+                "image": "https://static-media.streema.com/media/cache/b4/85/b48540d08dfb8e82a4e63d7aa5fd9077.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Lesotho",
+                        "link": "/radios/country/Lesotho"
+                    },
+                    {
+                        "title": "Maseru",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "780 Listens",
+                    "stars": 5
+                },
+                "genres": [
+                    "Christian"
+                ],
+                "location": {
+                    "city": "Maseru",
+                    "country": "Lesotho"
+                },
+                "profile_slogan": "",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "Harvest fm is non-profit making trust which exist for the sole purpose of faithfully proclaiming the good news of Jesus Christ to the entire community",
+                    "rest": "of Lesotho in holistic and meaningful manner; using high quality audio technology to present entertainment; informative, instructive, peace promoting, multi cultural and multilingual programs."
+                },
+                "radio_contacts": {
+                    "short": "Harvest fm is non-profit making trust which exist for the sole purpose of faithfully proclaiming the good news of Jesus Christ to the entire community",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://harvestfm.co.ls/",
+                    "facebook": "",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Harvest_FM",
+                    "title": "Play Harvest FM"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://stream.zenolive.com/v0myu53ae3quv",
+                "radio_image": "https://static-media.streema.com/media/cache/7f/ee/7feeb0398c7ff3138344cf56a2e59180.jpg"
+            },
+            {
+                "title": "MoAfrika FM Radio",
+                "no_play": false,
+                "frequency": "FM 97.0",
+                "link_deatils": "/radios/MoAfrika_FM",
+                "link_player": "/radios/play/MoAfrika_FM",
+                "image": "https://static-media.streema.com/media/cache/23/a9/23a9cf2feecfe54b1e1fe078bb267850.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Lesotho",
+                        "link": "/radios/country/Lesotho"
+                    },
+                    {
+                        "title": "Maseru",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "600 Listens",
+                    "stars": 5
+                },
+                "genres": [
+                    "Community",
+                    "Folk",
+                    "News",
+                    "Talk"
+                ],
+                "location": {
+                    "city": "Maseru",
+                    "country": "Lesotho"
+                },
+                "profile_slogan": "Listen Without Limits",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "MoAfrika FM - 97.0 FM is a broadcast based radio station from Maseru, Lesotho.",
+                    "rest": "MoAfrika FM - 97.0 FM is a broadcast based radio station from Maseru, Lesotho."
+                },
+                "radio_contacts": {
+                    "short": "MoAfrika FM - 97.0 FM is a broadcast based radio station from Maseru, Lesotho.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.moafrikafm.co.ls/",
+                    "facebook": "http://www.facebook.com/MoafrikaFmRadioDailyNews",
+                    "twitter": "",
+                    "phone": "+266 2764 0000",
+                    "address": "Carlton Center, Kingsway street, Maseru 100, Lesotho",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/MoAfrika_FM",
+                    "title": "Play MoAfrika FM Radio"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://ca3.rcast.net:8040/;",
+                "radio_image": "https://static-media.streema.com/media/cache/90/0c/900cb3a9169fea92aca0dd7fd5640685.jpg"
+            },
+            {
+                "title": "PC FM",
+                "no_play": false,
+                "frequency": "FM 95.6",
+                "link_deatils": "/radios/PC_FM",
+                "link_player": "/radios/play/PC_FM",
+                "image": "https://static-media.streema.com/media/cache/5f/da/5fda935c9a5a6d2be8f18a3426c04389.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Lesotho",
+                        "link": "/radios/country/Lesotho"
+                    },
+                    {
+                        "title": "Maseru",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "270 Listens",
+                    "stars": 0
+                },
+                "genres": [
+                    "Education",
+                    "Entertainment",
+                    "Information",
+                    "Talk"
+                ],
+                "location": {
+                    "city": "Maseru",
+                    "country": "Lesotho"
+                },
+                "profile_slogan": "Mixing Business With Pleasure",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "People's Choice Radio Networks, broadcasting as People's Choice Radio, but commonly known as P.C. FM, was established in June 1996. It started broadcasting in December",
+                    "rest": "1998 and broadcasts for 24 hours a day. PC FM shall endeavor to inform, educate and entertain the nation in the two official languages of Lesotho for the benefit of the nation."
+                },
+                "radio_contacts": {
+                    "short": "People's Choice Radio Networks, broadcasting as People's Choice Radio, but commonly known as P.C. FM, was established in June 1996. It started broadcasting in December",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.pcfm.co.ls/",
+                    "facebook": "http://www.facebook.com/OfficialPCFM/",
+                    "twitter": "http://twitter.com/pcfmls",
+                    "phone": "(+266) 22 322-122",
+                    "address": "P.O. Box 8800, Maseru, Lesotho",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/PC_FM",
+                    "title": "Play PC FM"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://102.130.114.208:8000/pcfm",
+                "radio_image": "https://static-media.streema.com/media/cache/77/c9/77c96433c03fc9671e6f12e60de9d87c.jpg"
+            },
+            {
+                "title": "Ts'enolo FM",
+                "no_play": false,
+                "frequency": "FM 104.6 / 94.0",
+                "link_deatils": "/radios/Tsenolo_FM",
+                "link_player": "/radios/play/Tsenolo_FM",
+                "image": "https://static-media.streema.com/media/cache/28/27/2827e536ac330b586dd1ba10a3871fdb.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Lesotho",
+                        "link": "/radios/country/Lesotho"
+                    },
+                    {
+                        "title": "Maseru",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "240 Listens",
+                    "stars": 0
+                },
+                "genres": [
+                    "African",
+                    "Current Affairs",
+                    "Entertainment",
+                    "Talk"
+                ],
+                "location": {
+                    "city": "Maseru",
+                    "country": "Lesotho"
+                },
+                "profile_slogan": "LESELI LA TSOELOPELE",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contacts": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.tsenolofm.co.ls/",
+                    "facebook": "http://www.facebook.com/tsenolofm/",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Tsenolo_FM",
+                    "title": "Play Ts'enolo FM"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://102.130.114.208:8000/tsenolofm",
+                "radio_image": "https://static-media.streema.com/media/cache/eb/89/eb8997ae1cd7a8344dfa972ac6ebc902.jpg"
+            },
+            {
+                "title": "Radio Maria Lesotho",
+                "no_play": false,
+                "frequency": "FM 103.3",
+                "link_deatils": "/radios/Lesotho_Catholic_Radio_FM_103.3",
+                "link_player": "/radios/play/Lesotho_Catholic_Radio_FM_103.3",
+                "image": "https://static-media.streema.com/media/cache/93/33/93335a6e46c217e13d8bb57c02f61473.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Lesotho",
+                        "link": "/radios/country/Lesotho"
+                    },
+                    {
+                        "title": "Maseru",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "210 Listens",
+                    "stars": 0
+                },
+                "genres": [
+                    "Christian",
+                    "Gospel",
+                    "Religious",
+                    "Talk"
+                ],
+                "location": {
+                    "city": "Maseru",
+                    "country": "Lesotho"
+                },
+                "profile_slogan": "",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "Lesotho Catholic Radio FM - 103.3 FM is a broadcast based radio station from Maseru, Lesotho.",
+                    "rest": "Lesotho Catholic Radio FM - 103.3 FM is a broadcast based radio station from Maseru, Lesotho."
+                },
+                "radio_contacts": {
+                    "short": "Lesotho Catholic Radio FM - 103.3 FM is a broadcast based radio station from Maseru, Lesotho.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://www.radiomaria.co.ls",
+                    "facebook": "http://www.facebook.com/radiomarialesotho/",
+                    "twitter": "",
+                    "phone": "+266-223 232 47",
+                    "address": "P.O. Box 2393 Maseru 100",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Lesotho_Catholic_Radio_FM_103.3",
+                    "title": "Play Radio Maria Lesotho"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://dreamsiteradiocp5.com:8038/stream.mp3/;",
+                "radio_image": "https://static-media.streema.com/media/cache/8b/62/8b629b4d258f393c3bae6f6ec52ef125.jpg"
+            },
+            {
+                "title": "Khotso FM 106.1",
+                "no_play": true,
+                "frequency": "FM 106.1",
+                "link_deatils": "/radios/Khotso_FM_106.1",
+                "link_player": "",
+                "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Lesotho",
+                        "link": "/radios/country/Lesotho"
+                    },
+                    {
+                        "title": "Maseru",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [""],
+                "location": {
+                    "city": "Maseru",
+                    "country": "Lesotho"
+                },
+                "profile_slogan": "",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "Khotso FM 106.1 is a broadcast radio station from Maseru, Lesotho providing music and program in English.",
+                    "rest": "Khotso FM 106.1 is a broadcast radio station from Maseru, Lesotho providing music and program in English."
+                },
+                "radio_contacts": {
+                    "short": "Khotso FM 106.1 is a broadcast radio station from Maseru, Lesotho providing music and program in English.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "",
+                    "facebook": "",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            },
+            {
+                "title": "Joy Radio 106.9",
+                "no_play": true,
+                "frequency": "FM 106.9",
+                "link_deatils": "/radios/Joy_Radio_106.9",
+                "link_player": "",
+                "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Lesotho",
+                        "link": "/radios/country/Lesotho"
+                    },
+                    {
+                        "title": "Maseru",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [""],
+                "location": {
+                    "city": "Maseru",
+                    "country": "Lesotho"
+                },
+                "profile_slogan": "",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "Joy Radio 106.9 is a broadcast radio station from Maseru, Lesotho providing music and program in English.",
+                    "rest": "Joy Radio 106.9 is a broadcast radio station from Maseru, Lesotho providing music and program in English."
+                },
+                "radio_contacts": {
+                    "short": "Joy Radio 106.9 is a broadcast radio station from Maseru, Lesotho providing music and program in English.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "",
+                    "facebook": "",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            },
+            {
+                "title": "Radio Lesotho",
+                "no_play": true,
+                "frequency": "FM 93.3",
+                "link_deatils": "/radios/Radio_Lesotho",
+                "link_player": "",
+                "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Lesotho",
+                        "link": "/radios/country/Lesotho"
+                    },
+                    {
+                        "title": "Maseru",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [""],
+                "location": {
+                    "city": "Maseru",
+                    "country": "Lesotho"
+                },
+                "profile_slogan": "",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "------ Shows: Radio Lesotho News",
+                    "rest": "s"
+                },
+                "radio_contacts": {
+                    "short": "------ Shows: Radio Lesotho News",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.radioles.co.ls/",
+                    "facebook": "",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [
+                    "Radio Lesotho News"
+                ],
+                "radio_source": "",
+                "radio_image": ""  
+            },
+            {
+                "title": "Maseru 100 - 100.1 FM",
+                "no_play": true,
+                "frequency": "FM 100.1",
+                "link_deatils": "/radios/Maseru_100_100.1_FM",
+                "link_player": "",
+                "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Lesotho",
+                        "link": "/radios/country/Lesotho"
+                    },
+                    {
+                        "title": "Maseru",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [""],
+                "location": {
+                    "city": "Maseru",
+                    "country": "Lesotho"
+                },
+                "profile_slogan": "",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "Maseru 100 100.1 is a broadcast based radio station from Maseru, Lesotho.",
+                    "rest": "Maseru 100 100.1 is a broadcast based radio station from Maseru, Lesotho."
+                },
+                "radio_contacts": {
+                    "short": "Maseru 100 100.1 is a broadcast based radio station from Maseru, Lesotho.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "",
+                    "facebook": "",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            }
+        ]
+    }
+]

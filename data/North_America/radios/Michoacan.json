@@ -1,0 +1,4214 @@
+[{
+    "title": "Apatzingan",
+    "link": "https://streema.com/radios/Apatzingan_MC",
+    "msg_results": "6 Radio Stations from Apatzingan",
+    "page_copy": "Listen to radio stations from Apatzingan MC, from a wide variety of genres like Adult Contemporary, Grupera, Mexican, Pop and RnB.  Enjoy stations such as La Ranchera - XEML, La Pura Ley 92.1 FM - XHAZN, La Ranchera - XHEML, Candela Apatzingán - XEAPM, Los 40 Apatzingán - XHCJ and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "La Ranchera - XEML",
+        "no_play": false,
+        "frequency": "AM 770",
+        "link_deatils": "/radios/La_Ranchera_XEML",
+        "link_player": "/radios/play/La_Ranchera_XEML",
+        "image": "https://static-media.streema.com/media/cache/07/a6/07a6f7875182cedced5be20cfb356f93.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Apatzingan",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "90 Listens",
+            "stars": 2
+        },
+        "genres": ["Grupera", "Hits", "Mexican", "Spanish"],
+        "location": {
+            "city": "Apatzingan, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "La que se escucha donde quiera",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "La Ranchera - XEML is a broadcast radio station in Apatzingan, Michoacan, Mexico providing Mexican Ranchera, Banda and Grupera music.",
+            "rest": "La Ranchera - XEML is a broadcast radio station in Apatzingan, Michoacan, Mexico providing Mexican Ranchera, Banda and Grupera music."
+        },
+        "radio_contacts": {
+            "short": "La Ranchera - XEML is a broadcast radio station in Apatzingan, Michoacan, Mexico providing Mexican Ranchera, Banda and Grupera music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.rasa-apatzingan.com/",
+            "facebook": "http://www.facebook.com/Laranchera98.3FM/",
+            "twitter": "",
+            "phone": "+52 453 534 2091",
+            "address": "Av. Constitución de 1814 10 altos-2 Colonia Centro. Apatzingán De La Constitución, Michoacan De Ocampo, Mexico",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/La_Ranchera_XEML",
+            "title": "Play La Ranchera - XEML"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://167.114.116.223:6784/;",
+        "radio_image": "https://static-media.streema.com/media/cache/dc/48/dc48dbe17dd6c55ff7a15150f9a8ebea.jpg"
+    }, {
+        "title": "La Pura Ley 92.1 FM - XHAZN",
+        "no_play": false,
+        "frequency": "FM 92.1",
+        "link_deatils": "/radios/La_Pura_ley_XHAZN",
+        "link_player": "/radios/play/La_Pura_ley_XHAZN",
+        "image": "https://static-media.streema.com/media/cache/0d/17/0d17b032efc52ed2f941b95adf7fd911.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Apatzingan",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Ballad", "Grupera", "Ranchera"],
+        "location": {
+            "city": "Apatzingan, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "La Pura Ley 92.1 FM - XHAZN is a broadcast radio station from Apatzingan, Michoacan, Mexico providing Grupera, Banda, Ballad, Pop and Ranchera music and",
+            "rest": "information."
+        },
+        "radio_contacts": {
+            "short": "La Pura Ley 92.1 FM - XHAZN is a broadcast radio station from Apatzingan, Michoacan, Mexico providing Grupera, Banda, Ballad, Pop and Ranchera music and",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiomejor.com/",
+            "facebook": "http://www.facebook.com/LaPuraLey921FM",
+            "twitter": "http://twitter.com/LaPuraLey921",
+            "phone": "+53 453 537 4846",
+            "address": "Av. Morelos Oriente No. 480, Apatzingan, Michoacan, Mexico",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/La_Pura_ley_XHAZN",
+            "title": "Play La Pura Ley 92.1 FM - XHAZN"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streamingv2.shoutcast.com/la-pura-ley-921-fm-desde-apatzingan",
+        "radio_image": "https://static-media.streema.com/media/cache/12/58/1258e6b63b5a11d7ef459da8a604080a.jpg"
+    }, {
+        "title": "La Ranchera - XHEML",
+        "no_play": false,
+        "frequency": "FM 98.3",
+        "link_deatils": "/radios/La_Ranchera_XHEML",
+        "link_player": "/radios/play/La_Ranchera_XHEML",
+        "image": "https://static-media.streema.com/media/cache/47/1e/471eb1bb9fca954ab12f89be2fe6486a.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Apatzingan",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Mexican", "Pop", "RnB"],
+        "location": {
+            "city": "Apatzingan, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "La que se escucha donde quiera",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "La Ranchera - XHEML es una emisora de radio FM de Apatzingan, Michoacan, Mexico, transmitiendo Adult Contemporary, Pop, RnB.",
+            "rest": "La Ranchera - XHEML es una emisora de radio FM de Apatzingan, Michoacan, Mexico, transmitiendo Adult Contemporary, Pop, RnB."
+        },
+        "radio_contacts": {
+            "short": "La Ranchera - XHEML es una emisora de radio FM de Apatzingan, Michoacan, Mexico, transmitiendo Adult Contemporary, Pop, RnB.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.rasa-apatzingan.com/LA_RANCHERA.html",
+            "facebook": "http://www.facebook.com/Laranchera98.3FM/",
+            "twitter": "",
+            "phone": "+52 453 534 2091",
+            "address": "Av. Constitución de 1814 10 altos-2 Colonia Centro. Apatzingán De La Constitución, Michoacan De Ocampo, Mexico",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/La_Ranchera_XHEML",
+            "title": "Play La Ranchera - XHEML"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://167.114.116.223:6784/;",
+        "radio_image": "https://static-media.streema.com/media/cache/66/6a/666a714dc2cfc01b7381f3d172806e33.jpg"
+    }, {
+        "title": "Candela Apatzingán - XEAPM",
+        "no_play": false,
+        "frequency": "AM 1340",
+        "link_deatils": "/radios/XEAPM",
+        "link_player": "/radios/play/XEAPM",
+        "image": "https://static-media.streema.com/media/cache/bc/a4/bca476731784526f3901ca5d8694c0ff.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Apatzingan",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Grupera", "Mexican"],
+        "location": {
+            "city": "Apatzingan, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Candela Apatzingán is a set of broadcast radio station in Apatzingan, Michoacan, Mexico, providing Mexican Grupera music on 1340 AM XEAPM and 95.1 FM XHAPM.",
+            "rest": "Candela Apatzingán is a set of broadcast radio station in Apatzingan, Michoacan, Mexico, providing Mexican Grupera music on 1340 AM XEAPM and 95.1 FM XHAPM."
+        },
+        "radio_contacts": {
+            "short": "Candela Apatzingán is a set of broadcast radio station in Apatzingan, Michoacan, Mexico, providing Mexican Grupera music on 1340 AM XEAPM and 95.1 FM XHAPM.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.rasa-apatzingan.com/",
+            "facebook": "http://www.facebook.com/apatzingancandela/?fref=ts",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XEAPM",
+            "title": "Play Candela Apatzingán - XEAPM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://167.114.116.223:9634/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/f8/20/f8209eb7a99383f42cf631738b7b4516.jpg"
+    }, {
+        "title": "Los 40 Apatzingán - XHCJ",
+        "no_play": false,
+        "frequency": "FM 94.3",
+        "link_deatils": "/radios/XECJ_2",
+        "link_player": "/radios/play/XECJ_2",
+        "image": "https://static-media.streema.com/media/cache/bd/d2/bdd26cd3cef3d40eef3cd33c792b6ff4.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Apatzingan",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "\n        \n          \n          \n          \n          \n        ",
+            "stars": 5
+        },
+        "genres": ["Adult Contemporary", "Pop", "RnB", "Rock", "Top 40"],
+        "location": {
+            "city": "Apatzingan, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "La Que Manda - XHCJ is a broadcast radio station in Apatzingan, Michoacan, Mexico, providing Mexican Regional Pop and Ranchera music.",
+            "rest": "La Que Manda - XHCJ is a broadcast radio station in Apatzingan, Michoacan, Mexico, providing Mexican Regional Pop and Ranchera music."
+        },
+        "radio_contacts": {
+            "short": "La Que Manda - XHCJ is a broadcast radio station in Apatzingan, Michoacan, Mexico, providing Mexican Regional Pop and Ranchera music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.rasa-apatzingan.com/",
+            "facebook": "http://www.facebook.com/los40apatzingan/",
+            "twitter": "",
+            "phone": "+52 453 534 0028",
+            "address": "Av. Constitución de 1814, Norte, Número 10-2 60600 Apatzingan, Michoacán de Ocampo, Mexico",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XECJ_2",
+            "title": "Play Los 40 Apatzingán - XHCJ"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://167.114.116.223:9937/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/d0/fb/d0fbe2bcb8c58478c02d9c7a13fad95b.jpg"
+    }, {
+        "title": "Los 40 Apatzingán - XECJ-AM",
+        "no_play": false,
+        "frequency": "AM 970",
+        "link_deatils": "/radios/XECJ",
+        "link_player": "/radios/play/XECJ",
+        "image": "https://static-media.streema.com/media/cache/5e/41/5e41472b9b92df29af5d460c6c12cc69.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Apatzingan",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Mexican", "Music", "Spanish", "Talk"],
+        "location": {
+            "city": "Apatzingan, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Los 40 Principales Apatzingan - XECJ is a broadcast radio station from Apatzingan, Michoacan, Mexico, providing mexican music and programs.",
+            "rest": "Los 40 Principales Apatzingan - XECJ is a broadcast radio station from Apatzingan, Michoacan, Mexico, providing mexican music and programs."
+        },
+        "radio_contacts": {
+            "short": "Los 40 Principales Apatzingan - XECJ is a broadcast radio station from Apatzingan, Michoacan, Mexico, providing mexican music and programs.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.rasa-apatzingan.com/",
+            "facebook": "http://www.facebook.com/XECJLOS40",
+            "twitter": "",
+            "phone": "01 (453) 534 0028",
+            "address": "Av. Constitución de 1814 Nte. Nº 10 Altos-2, Col. Centro Apatzingán, Michoacán, México 60600",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XECJ",
+            "title": "Play Los 40 Apatzingán - XECJ-AM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://167.114.116.223:9937/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/ac/70/ac704e6380997aa5024ac09e6ae2efa0.jpg"
+    }]
+}, {
+    "title": "Ciudad Hidalgo",
+    "link": "https://streema.com/radios/Ciudad_Hidalgo_MC",
+    "msg_results": "4 Radio Stations from Ciudad Hidalgo",
+    "page_copy": "Listen to radio stations from Ciudad Hidalgo MC, from a wide variety of genres like Balada, Grupera, Mexican, Ranchera and Variety.  Enjoy stations such as Radio Sol - XESOL, Sistema Michoacano de Radio y Televisión - XHHID-FM, Radio Sol - XHESOL, Radio La Picante and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Radio Sol - XESOL",
+        "no_play": false,
+        "frequency": "AM 1190",
+        "link_deatils": "/radios/Radio_Sol_La_Pura_Ley_XESOL",
+        "link_player": "/radios/play/Radio_Sol_La_Pura_Ley_XESOL",
+        "image": "https://static-media.streema.com/media/cache/2c/b4/2cb4943d671a3df55139b11fab7e8c1c.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Ciudad Hidalgo",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 5
+        },
+        "genres": ["Balada", "Grupera", "Mexican", "Ranchera"],
+        "location": {
+            "city": "Ciudad Hidalgo, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "La Pura Ley Es Un Tiro!",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Radio Sol AM 1190 - XESOL is a broadcast radio station from Ciudad Hidalgo, Michoacan, Mexico, providing Mexican Grupera, Ranchera, Ballada, and Pop music.",
+            "rest": "Radio Sol AM 1190 - XESOL is a broadcast radio station from Ciudad Hidalgo, Michoacan, Mexico, providing Mexican Grupera, Ranchera, Ballada, and Pop music."
+        },
+        "radio_contacts": {
+            "short": "Radio Sol AM 1190 - XESOL is a broadcast radio station from Ciudad Hidalgo, Michoacan, Mexico, providing Mexican Grupera, Ranchera, Ballada, and Pop music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://radiomejor.mx/category/ciudad-hidalgo/",
+            "facebook": "http://www.facebook.com/RadioSol1039",
+            "twitter": "http://twitter.com/RadioSol1039/",
+            "phone": "+52 786 154 5553",
+            "address": "Libramiento Nte. Km. 5.5 Cd. Hidalgo Michoacán 61100 Ciudad Hidalgo, Michoacán de Ocampo, Mexico",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Sol_La_Pura_Ley_XESOL",
+            "title": "Play Radio Sol - XESOL"
+        },
+        "radio_shows": [""],
+        "radio_source": "https://streamingv2.shoutcast.com/radio-sol-1039-fm-desde-ciudad-hidalgo",
+        "radio_image": "https://static-media.streema.com/media/cache/f0/95/f0950bb29c9db2b09c710be7f423565f.jpg"
+    }, {
+        "title": "Sistema Michoacano de Radio y Televisión - XHHID-FM",
+        "no_play": false,
+        "frequency": "FM 99.7",
+        "link_deatils": "/radios/XHHID",
+        "link_player": "/radios/play/XHHID",
+        "image": "https://static-media.streema.com/media/cache/c6/77/c67727d963aff34e8b28188e29d04d5b.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Ciudad Hidalgo",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Information", "Mexican", "News"],
+        "location": {
+            "city": "Ciudad Hidalgo, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "XHHID FM 97.5 is a Mexican radio station broadcasting from Ciudad Hidalgo, Michoacan, Station Airs Mexican, Variety, News programs.",
+            "rest": "XHHID FM 97.5 is a Mexican radio station broadcasting from Ciudad Hidalgo, Michoacan, Station Airs Mexican, Variety, News programs."
+        },
+        "radio_contacts": {
+            "short": "XHHID FM 97.5 is a Mexican radio station broadcasting from Ciudad Hidalgo, Michoacan, Station Airs Mexican, Variety, News programs.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://sistemamichoacano.tv/",
+            "facebook": "http://www.facebook.com/SMichoacano/",
+            "twitter": "http://twitter.com/SMichoacano",
+            "phone": "(443) 113-69-00",
+            "address": "沖縄県浦添市前田一丁目54番1号",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XHHID",
+            "title": "Play Sistema Michoacano de Radio y Televisión - XHHID-FM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://60ed5b6d0df78.streamlock.net:1935/smrtvfm/smrtvfm/playlist.m3u8",
+        "radio_image": "https://static-media.streema.com/media/cache/2c/61/2c61469eb1704e50a4bdb9e126166ae5.jpg"
+    }, {
+        "title": "Radio Sol - XHESOL",
+        "no_play": false,
+        "frequency": "FM 103.9",
+        "link_deatils": "/radios/Radio_Sol_XHESOL",
+        "link_player": "/radios/play/Radio_Sol_XHESOL",
+        "image": "https://static-media.streema.com/media/cache/b5/a1/b5a1c25c435dc76e618070f33a196c9c.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Ciudad Hidalgo",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Balada", "Grupera", "Mexican", "Ranchera"],
+        "location": {
+            "city": "Ciudad Hidalgo, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "La Pura Ley Es Un Tiro!",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Radio Sol - XHESOL es una emisora de radio FM de Ciudad Hidalgo, Michoacan, Mexico, transmitiendo Balada, Grupera, Mexican.",
+            "rest": "Radio Sol - XHESOL es una emisora de radio FM de Ciudad Hidalgo, Michoacan, Mexico, transmitiendo Balada, Grupera, Mexican."
+        },
+        "radio_contacts": {
+            "short": "Radio Sol - XHESOL es una emisora de radio FM de Ciudad Hidalgo, Michoacan, Mexico, transmitiendo Balada, Grupera, Mexican.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://radiomejor.mx/category/ciudad-hidalgo/",
+            "facebook": "http://www.facebook.com/RadioSol1039",
+            "twitter": "http://twitter.com/RadioSol1039/",
+            "phone": "+52 786 154 5553",
+            "address": "Libramiento Nte. Km. 5.5 Cd. Hidalgo Michoacán 61100 Ciudad Hidalgo, Michoacán de Ocampo, Mexico",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Sol_XHESOL",
+            "title": "Play Radio Sol - XHESOL"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streamingv2.shoutcast.com:8000/radio-sol-1039-fm-desde-ciudad-hidalgo",
+        "radio_image": "https://static-media.streema.com/media/cache/8f/15/8f151c46ae9ca35840ddd06e61fb585c.jpg"
+    }, {
+        "title": "Radio La Picante",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_La_Picante",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/1d/29/1d29015d9debb3952b4647288a3ed242.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Ciudad Hidalgo",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Mexican", "Music", "Spanish", "Variety"],
+        "location": {
+            "city": "Ciudad Hidalgo, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Radio La Picante is an internet radio station from Ciudad Hidalgo, Michoacan, Mexico providing Mexican variety music.",
+            "rest": "Radio La Picante is an internet radio station from Ciudad Hidalgo, Michoacan, Mexico providing Mexican variety music."
+        },
+        "radio_contacts": {
+            "short": "Radio La Picante is an internet radio station from Ciudad Hidalgo, Michoacan, Mexico providing Mexican variety music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiolapicante.com/",
+            "facebook": "http://www.facebook.com/pages/Radio-La-Picante/257496684368340",
+            "twitter": "http://twitter.com/Radiolapicante1",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}, {
+    "title": "Lázaro Cárdenas",
+    "link": "https://streema.com/radios/Lazaro_Cardenas_MC",
+    "msg_results": "6 Radio Stations from Lázaro Cárdenas",
+    "page_copy": "Listen to radio stations from Lázaro Cárdenas MC, from a wide variety of genres like Dance, Grupera, Mexican, News and Talk.  Enjoy stations such as Radio Centro 98.7 - XHEOJ, La Poderosa 95.7 - XHLCM, La Poderosa 95.7 - XELCM, Sistema Michoacano de Radio y Televisión - XHDEN-FM, IMER - Radio Azul - XHLAC and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Radio Centro 98.7 - XHEOJ",
+        "no_play": false,
+        "frequency": "FM 98.7",
+        "link_deatils": "/radios/XEOJ_Radio_Horizonte",
+        "link_player": "/radios/play/XEOJ_Radio_Horizonte",
+        "image": "https://static-media.streema.com/media/cache/f5/8f/f58fcc561d79848817cb2d1669372406.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Lázaro Cárdenas",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "60 Listens",
+            "stars": 0
+        },
+        "genres": [""],
+        "location": {
+            "city": "Lázaro Cárdenas, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "XEOJ - Radio Horizonte is a broadcast radio station from Lázaro Cárdenas, Michoacan, Mexico providing Mexican, Spanish Talk, News, Rock en Español, Rock, Tropical music",
+            "rest": "and program."
+        },
+        "radio_contacts": {
+            "short": "XEOJ - Radio Horizonte is a broadcast radio station from Lázaro Cárdenas, Michoacan, Mexico providing Mexican, Spanish Talk, News, Rock en Español, Rock, Tropical music",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://en.wikipedia.org/wiki/XHEOJ-FM",
+            "facebook": "",
+            "twitter": "http://twitter.com/radiocentro987",
+            "phone": "(753) 532-0356",
+            "address": "Av. Rio Balsas No. 7, 1er. Sector de Fideicomiso",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XEOJ_Radio_Horizonte",
+            "title": "Play Radio Centro 98.7 - XHEOJ"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://panel.turadiodigital.com:9824/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/04/87/0487b9fcc08550e88b0b86fcd447177a.jpg"
+    }, {
+        "title": "La Poderosa 95.7 - XHLCM",
+        "no_play": false,
+        "frequency": "FM 95.7",
+        "link_deatils": "/radios/Ke_Buena_XHLCM",
+        "link_player": "/radios/play/Ke_Buena_XHLCM",
+        "image": "https://static-media.streema.com/media/cache/3a/b5/3ab5cbc62da2572c7bd4a1cd9c71a14b.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Lázaro Cárdenas",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "60 Listens",
+            "stars": 0
+        },
+        "genres": ["Cumbia", "Dance", "Grupera", "Latin", "Mexican", "Salsa", "Tropical"],
+        "location": {
+            "city": "Lázaro Cárdenas, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "¡La Que Te Gusta!",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "La Poderosa 95.7 - XHLCM es una emisora de radio FM de Lázaro Cárdenas, Michoacan, Mexico, transmitiendo Balada, Grupera, Ranchera.",
+            "rest": "La Poderosa 95.7 - XHLCM es una emisora de radio FM de Lázaro Cárdenas, Michoacan, Mexico, transmitiendo Balada, Grupera, Ranchera."
+        },
+        "radio_contacts": {
+            "short": "La Poderosa 95.7 - XHLCM es una emisora de radio FM de Lázaro Cárdenas, Michoacan, Mexico, transmitiendo Balada, Grupera, Ranchera.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://lapoderosalaquetegusta.com/",
+            "facebook": "http://www.facebook.com/lapoderosa.lzc/",
+            "twitter": "http://twitter.com/LaPoderosaLG",
+            "phone": "33 3230 8457",
+            "address": "Pablo Neruda No. 4225 Int. 15 Col. Villas Universidad 45110 Zapopan",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Ke_Buena_XHLCM",
+            "title": "Play La Poderosa 95.7 - XHLCM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://server3.sit-mexico.com:8276/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/94/ca/94ca74b9df7fa8db2919ba5e0aba34da.jpg"
+    }, {
+        "title": "La Poderosa 95.7 - XELCM",
+        "no_play": false,
+        "frequency": "AM 920",
+        "link_deatils": "/radios/XELCM",
+        "link_player": "/radios/play/XELCM",
+        "image": "https://static-media.streema.com/media/cache/7e/51/7e51aa991559ace970863af46befe566.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Lázaro Cárdenas",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Cumbia", "Dance", "Grupera", "Latin", "Mexican", "Salsa", "Tropical"],
+        "location": {
+            "city": "Lázaro Cárdenas, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "¡La Que Te Gusta!",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "La Poderosa 95.7 - XELCM is a broadcast radio station from Lázaro Cárdenas, MC, Mexico providing Mexican Grupera, Tejano, Balada and Ranchera music.",
+            "rest": "La Poderosa 95.7 - XELCM is a broadcast radio station from Lázaro Cárdenas, MC, Mexico providing Mexican Grupera, Tejano, Balada and Ranchera music."
+        },
+        "radio_contacts": {
+            "short": "La Poderosa 95.7 - XELCM is a broadcast radio station from Lázaro Cárdenas, MC, Mexico providing Mexican Grupera, Tejano, Balada and Ranchera music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://lapoderosalaquetegusta.com/",
+            "facebook": "http://www.facebook.com/lapoderosa.lzc/",
+            "twitter": "http://twitter.com/LaPoderosaLG",
+            "phone": "+52 753 537 1144",
+            "address": "Km. 6 Carretera Lázaro Cárdenas Lamira Col. 5 de Mayo., 60950, Lázaro Cárdenas, Michoacan, Mexico",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XELCM",
+            "title": "Play La Poderosa 95.7 - XELCM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://server3.sit-mexico.com:8276/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/59/34/5934afa8d4eee73dc656db3a272bcec3.jpg"
+    }, {
+        "title": "Sistema Michoacano de Radio y Televisión - XHDEN-FM",
+        "no_play": false,
+        "frequency": "FM 94.7",
+        "link_deatils": "/radios/XHDEN",
+        "link_player": "/radios/play/XHDEN",
+        "image": "https://static-media.streema.com/media/cache/46/b2/46b23e8d7d9938e7de6b1ae4dd1a199e.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Lázaro Cárdenas",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Mexican", "News", "Spanish", "Talk"],
+        "location": {
+            "city": "Lázaro Cárdenas, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Sistema Michoacano de Radio y Televisión - XHDEN-FM is a Mexican radio station broadcasting from Lázaro Cárdenas, Michoacan, Station Airs Mexican, Variety, News music.",
+            "rest": "Sistema Michoacano de Radio y Televisión - XHDEN-FM is a Mexican radio station broadcasting from Lázaro Cárdenas, Michoacan, Station Airs Mexican, Variety, News music."
+        },
+        "radio_contacts": {
+            "short": "Sistema Michoacano de Radio y Televisión - XHDEN-FM is a Mexican radio station broadcasting from Lázaro Cárdenas, Michoacan, Station Airs Mexican, Variety, News music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://sistemamichoacano.tv/",
+            "facebook": "http://www.facebook.com/SMichoacano/",
+            "twitter": "http://twitter.com/SMichoacano",
+            "phone": "(01) 4431136900",
+            "address": "José Rosas Moreno #200 Colonia Vista Bella CP 58090, Morelia, México",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XHDEN",
+            "title": "Play Sistema Michoacano de Radio y Televisión - XHDEN-FM"
+        },
+        "radio_shows": [""],
+        "radio_source": "https://60ed5b6d0df78.streamlock.net:1936/smrtvfm/smrtvfm/playlist.m3u8",
+        "radio_image": "https://static-media.streema.com/media/cache/c6/b8/c6b8f5fe6dbeb777824312b2837bf63a.jpg"
+    }, {
+        "title": "IMER - Radio Azul - XHLAC",
+        "no_play": false,
+        "frequency": "FM 99.7",
+        "link_deatils": "/radios/Radio_Azul_XELAC",
+        "link_player": "/radios/play/Radio_Azul_XELAC",
+        "image": "https://static-media.streema.com/media/cache/0e/11/0e11fa11309af6d076cc29bd4a495eea.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Lázaro Cárdenas",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Music", "News", "Talk"],
+        "location": {
+            "city": "Lázaro Cárdenas, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "Voces de la radio pública",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "IMER - Radio Azul - XHLAC is a broadcast radio station on the IMER radio network from Lázaro Cárdenas, MC, Mexico providing Public News and",
+            "rest": "Talks and Mexican Grupera, Tejano, Balada and Ranchera  music."
+        },
+        "radio_contacts": {
+            "short": "IMER - Radio Azul - XHLAC is a broadcast radio station on the IMER radio network from Lázaro Cárdenas, MC, Mexico providing Public News and",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.imer.mx/radioazul/",
+            "facebook": "http://www.facebook.com/RadioAzulIMER",
+            "twitter": "http://twitter.com/imerhoy/",
+            "phone": "+52 01 753 532 3720",
+            "address": "Av. José Maria Morelos No. 14 Segundo Sector del Fidelac C.P. 060950, Lázaro Cárdenas, Michoacán, Mexico",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Azul_XELAC",
+            "title": "Play IMER - Radio Azul - XHLAC"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://s2.mexside.net:8010/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/95/d2/95d2a69d82322a381e71bb87fc3d6939.jpg"
+    }, {
+        "title": "La Pura Ley 93.9 FM - XHLZ",
+        "no_play": false,
+        "frequency": "FM 93.9",
+        "link_deatils": "/radios/La_Pura_Ley_XHLZ",
+        "link_player": "/radios/play/La_Pura_Ley_XHLZ",
+        "image": "https://static-media.streema.com/media/cache/97/09/9709023b4efb36a7d8d35aa1cd879993.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Lázaro Cárdenas",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Ballad", "Children's Family", "News", "Ranchera"],
+        "location": {
+            "city": "Lázaro Cárdenas, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "¡Estamos haciendo la mejor radio!",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "La Pura Ley 93.9 FM - XHLZ is a broadcast radio station from Lázaro Cárdenas, MC, Mexico providing pop music, ballads and rancheras, news, children's",
+            "rest": "programs, youth and adult sports."
+        },
+        "radio_contacts": {
+            "short": "La Pura Ley 93.9 FM - XHLZ is a broadcast radio station from Lázaro Cárdenas, MC, Mexico providing pop music, ballads and rancheras, news, children's",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://radiomejor.mx/",
+            "facebook": "http://www.facebook.com/lapuraley93.9",
+            "twitter": "http://twitter.com/lapuraley939",
+            "phone": "+52 753 532 2457",
+            "address": "Marina nacional 60950 Lázaro Cárdenas, Michoacán de Ocampo, Mexico",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/La_Pura_Ley_XHLZ",
+            "title": "Play La Pura Ley 93.9 FM - XHLZ"
+        },
+        "radio_shows": [""]
+    }]
+}, {
+    "title": "Morelia",
+    "link": "https://streema.com/radios/Morelia_MC",
+    "msg_results": "30 Radio Stations from Morelia",
+    "page_copy": "Listen to radio stations from Morelia MC, from a wide variety of genres like Grupera, Mexican, Pop, Spanish and Top 40.  Enjoy stations such as Radio Ranchito - XHRPA, Candela Morelia, Napolitano Radio, Máxima 100.9 - XEI, Grupera 93.1 - XELIA and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Radio Ranchito - XHRPA",
+        "no_play": false,
+        "frequency": "FM 102.5",
+        "link_deatils": "/radios/XHRPA",
+        "link_player": "/radios/play/XHRPA",
+        "image": "https://static-media.streema.com/media/cache/98/d5/98d52d3e75af547a3d5ca2e530a29c67.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Morelia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "90 Listens",
+            "stars": 0
+        },
+        "genres": ["Balada", "Grupera", "Mexican", "Ranchera"],
+        "location": {
+            "city": "Morelia, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radioranchito.com.mx/",
+            "facebook": "http://www.facebook.com/RadioRanchitoFM",
+            "twitter": "http://twitter.com/Radio_Ranchito/",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XHRPA",
+            "title": "Play Radio Ranchito - XHRPA"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://192.187.118.58:8012/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/8c/ec/8cec9fb21ab421a1acda660937143545.jpg"
+    }, {
+        "title": "Candela Morelia",
+        "no_play": false,
+        "frequency": "FM 90.1",
+        "link_deatils": "/radios/CANDELA_92.3_FM_MORELIA_MICHOACAN",
+        "link_player": "/radios/play/CANDELA_92.3_FM_MORELIA_MICHOACAN",
+        "image": "https://static-media.streema.com/media/cache/6a/6c/6a6c8fbab8feafb1a8746a1eea15135c.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Morelia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Latin", "Mexican", "Pop", "Spanish"],
+        "location": {
+            "city": "Morelia, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "¡Puuuura lumbre!!!!",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Candela Morelia es una emisora de radio FM de Morelia, Michoacan, Mexico, transmitiendo 00s, Hits, Top 40.",
+            "rest": "Candela Morelia es una emisora de radio FM de Morelia, Michoacan, Mexico, transmitiendo 00s, Hits, Top 40."
+        },
+        "radio_contacts": {
+            "short": "Candela Morelia es una emisora de radio FM de Morelia, Michoacan, Mexico, transmitiendo 00s, Hits, Top 40.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.rasacandela.com/",
+            "facebook": "http://www.facebook.com/Candela901/",
+            "twitter": "",
+            "phone": "(443) 3-15-79-07",
+            "address": "Agua #78 Col. Prados Del Campestre Morelia, Mexico",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/CANDELA_92.3_FM_MORELIA_MICHOACAN",
+            "title": "Play Candela Morelia"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://s2.mexside.net:9088/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/f1/6f/f16f8410d74e1a24ab5c2065c9d166d5.jpg"
+    }, {
+        "title": "Napolitano Radio",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Napolitano_Radio",
+        "link_player": "/radios/play/Napolitano_Radio",
+        "image": "https://static-media.streema.com/media/cache/ee/36/ee36fd6c05439b6669641ee985f453f6.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Morelia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Alternative", "Entertainment", "Latin", "Music"],
+        "location": {
+            "city": "Morelia, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "¡Radio sin fronteras!",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "“Que lo inaudito se vuelva extraordinario” Abrimos las puertas a aquel que no se le admite y es rechazado por sus ideas y/o creencias fuera",
+            "rest": "de lo normal, que lo que sea que tenga en mente se convierta en algo habitual (una droga) para el público, tan así que en algún momento lo considerarán algo extraordinario."
+        },
+        "radio_contacts": {
+            "short": "“Que lo inaudito se vuelva extraordinario” Abrimos las puertas a aquel que no se le admite y es rechazado por sus ideas y/o creencias fuera",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.napolitanoradio.com/",
+            "facebook": "http://www.facebook.com/napolitanoradio/",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Napolitano_Radio",
+            "title": "Play Napolitano Radio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://www.radiohosting.online:9902/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/c0/ba/c0ba3013ea3fd28c344fe994a9ac9de2.jpg"
+    }, {
+        "title": "Máxima 100.9 - XEI",
+        "no_play": false,
+        "frequency": "AM 1400",
+        "link_deatils": "/radios/XEI_Maxima",
+        "link_player": "/radios/play/XEI_Maxima",
+        "image": "https://static-media.streema.com/media/cache/a3/5a/a35a0d5cb228b90b524d408f53d742ad.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Morelia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Pop", "RnB"],
+        "location": {
+            "city": "Morelia, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "DONDE VIVE LA MÚSICA",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Máxima 100.9 - XEI is a broadcast radio station on the Maxima group of radio stations from Morelia, MC, Mexico providing Mexican Pop Latino music.",
+            "rest": "Máxima 100.9 - XEI is a broadcast radio station on the Maxima group of radio stations from Morelia, MC, Mexico providing Mexican Pop Latino music."
+        },
+        "radio_contacts": {
+            "short": "Máxima 100.9 - XEI is a broadcast radio station on the Maxima group of radio stations from Morelia, MC, Mexico providing Mexican Pop Latino music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.maxima.com.mx/",
+            "facebook": "http://www.facebook.com/pages/M%C3%A1xima-Morelia-1009-fm/171951882874802?fref=ts",
+            "twitter": "http://twitter.com/MaximaMorelia",
+            "phone": "+52 443 312 0803",
+            "address": "20 de Noviembre #358 Centro Histórico C.P. 58000 Morelia, MC, Mexico",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XEI_Maxima",
+            "title": "Play Máxima 100.9 - XEI"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://www.omegaingenieria.com:8034/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/5a/6c/5a6cfee1462c88892c25bd2d3269c4c9.jpg"
+    }, {
+        "title": "Grupera 93.1 - XELIA",
+        "no_play": false,
+        "frequency": "AM 1140",
+        "link_deatils": "/radios/Grupera_XELIA",
+        "link_player": "/radios/play/Grupera_XELIA",
+        "image": "https://static-media.streema.com/media/cache/66/a5/66a5f0de1f740158bc0be58d3972cd97.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Morelia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Grupera", "Mexican"],
+        "location": {
+            "city": "Morelia, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "Más Música",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Grupera 93.1 FM - XELIA is a broadcast radio station in Morelia, Michoacan, Mexico, providing Mexican Grupera music.",
+            "rest": "Grupera 93.1 FM - XELIA is a broadcast radio station in Morelia, Michoacan, Mexico, providing Mexican Grupera music."
+        },
+        "radio_contacts": {
+            "short": "Grupera 93.1 FM - XELIA is a broadcast radio station in Morelia, Michoacan, Mexico, providing Mexican Grupera music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.lagrupera931.com/",
+            "facebook": "http://www.facebook.com/lagrupera931",
+            "twitter": "http://twitter.com/LaGrupera931",
+            "phone": "+52 443 312 0978",
+            "address": "20 de Noviembre 358, Centro Histórico, 58000 Morelia, MICH, Mexico",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Grupera_XELIA",
+            "title": "Play Grupera 93.1 - XELIA"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://www.omegaingenieria.com:8022/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/dc/29/dc29191ba8b9d1ee4ea52bc3c00431c6.jpg"
+    }, {
+        "title": "Match - XHMO",
+        "no_play": false,
+        "frequency": "FM 93.9",
+        "link_deatils": "/radios/Digital_93.9_XHMO",
+        "link_player": "/radios/play/Digital_93.9_XHMO",
+        "image": "https://static-media.streema.com/media/cache/07/6e/076e61ed5b5715651782076732a0b25e.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Morelia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Latin", "Pop", "Top 40"],
+        "location": {
+            "city": "Morelia, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "Éxitos, más música. Conéctate",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Match - XHMO is a broadcast radio station from Morelia, Michoacan, Mexico providing Top 40/Pop and Pop Latino music.",
+            "rest": "Match - XHMO is a broadcast radio station from Morelia, Michoacan, Mexico providing Top 40/Pop and Pop Latino music."
+        },
+        "radio_contacts": {
+            "short": "Match - XHMO is a broadcast radio station from Morelia, Michoacan, Mexico providing Top 40/Pop and Pop Latino music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://matchmx.fm/",
+            "facebook": "http://www.facebook.com/MatchMxFM/",
+            "twitter": "http://twitter.com/MatchMxFM",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Digital_93.9_XHMO",
+            "title": "Play Match - XHMO"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://playerservices.streamtheworld.com/api/livestream-redirect/XHMOFM.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/90/cf/90cfa11c141b435af8ccd3418bf83402.jpg"
+    }, {
+        "title": "Radio Nicolaita - XESV",
+        "no_play": false,
+        "frequency": "FM 104.3",
+        "link_deatils": "/radios/XWSV_Radio_Nicolaita",
+        "link_player": "/radios/play/XWSV_Radio_Nicolaita",
+        "image": "https://static-media.streema.com/media/cache/b9/43/b9438817e5ab3ed599b11128c1f7aad7.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Morelia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Culture", "Jazz", "Politics", "World"],
+        "location": {
+            "city": "Morelia, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "XWSV - Radio Nicolaita is a broadcast radio station from Morelia, Michoacan, Mexico providing Culture and World Music.",
+            "rest": "XWSV - Radio Nicolaita is a broadcast radio station from Morelia, Michoacan, Mexico providing Culture and World Music."
+        },
+        "radio_contacts": {
+            "short": "XWSV - Radio Nicolaita is a broadcast radio station from Morelia, Michoacan, Mexico providing Culture and World Music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://radionicolaita.umich.mx/",
+            "facebook": "http://www.facebook.com/pages/Radio-Nicolaita-1370-AM-1043-FM/258478667515175",
+            "twitter": "",
+            "phone": "(443) 322 3500",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XWSV_Radio_Nicolaita",
+            "title": "Play Radio Nicolaita - XESV"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://148.216.0.21:8000/rnic",
+        "radio_image": "https://static-media.streema.com/media/cache/3c/83/3c836a9f3b71ad8bf47ca92cdf9cbca0.jpg"
+    }, {
+        "title": "Radio Ranchito - XERPA",
+        "no_play": false,
+        "frequency": "AM 1240",
+        "link_deatils": "/radios/Radio_Ranchito_AM_XERPA",
+        "link_player": "/radios/play/Radio_Ranchito_AM_XERPA",
+        "image": "https://static-media.streema.com/media/cache/03/bc/03bc340219060bf0ce0982ad673d298c.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Morelia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 5
+        },
+        "genres": ["Balada", "Grupera", "Mexican", "Ranchera"],
+        "location": {
+            "city": "Morelia, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Radio Ranchito is a set of broadcast radio stations in Morelia, Michoacan, Mexico, providing Ranchera, Mariachi and Grupero music on XERPA 1240 AM and XHRPA",
+            "rest": "102.5 FM."
+        },
+        "radio_contacts": {
+            "short": "Radio Ranchito is a set of broadcast radio stations in Morelia, Michoacan, Mexico, providing Ranchera, Mariachi and Grupero music on XERPA 1240 AM and XHRPA",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radioranchito.com.mx/",
+            "facebook": "http://www.facebook.com/RadioRanchitoFM",
+            "twitter": "http://twitter.com/Radio_Ranchito/",
+            "phone": "(443) 312-1249",
+            "address": "Madero No. Poniente 644, Centro, Morelia, Mich. 58000 Mexico",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Ranchito_AM_XERPA",
+            "title": "Play Radio Ranchito - XERPA"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streamingcwsradio30.com:8012/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/01/3d/013d33cba4861a5f17573c0d866e5929.jpg"
+    }, {
+        "title": "Uve Radio 98.1 - XHELI",
+        "no_play": false,
+        "frequency": "FM 98.1",
+        "link_deatils": "/radios/UVAQ_Radio",
+        "link_player": "/radios/play/UVAQ_Radio",
+        "image": "https://static-media.streema.com/media/cache/c0/4b/c04be247dc09424b99891945f4c0d423.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Morelia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["College", "Education", "Spanish", "Talk"],
+        "location": {
+            "city": "Morelia, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "El sonido de tus Ideas",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Uve Radio 98.1 - XHELI is a broadcast radio station from Morelia, Michoacan, Mexico, providing Spanish, College and Education programming.",
+            "rest": "Uve Radio 98.1 - XHELI is a broadcast radio station from Morelia, Michoacan, Mexico, providing Spanish, College and Education programming."
+        },
+        "radio_contacts": {
+            "short": "Uve Radio 98.1 - XHELI is a broadcast radio station from Morelia, Michoacan, Mexico, providing Spanish, College and Education programming.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.uveradio.com/",
+            "facebook": "http://www.facebook.com/uveradio98.1",
+            "twitter": "http://twitter.com/uve_radio",
+            "phone": "+1 443 323 6056",
+            "address": "Avenida Juan Pablo II No. 555 Col. Sta. María de Guido; Morelia, Michoacán, México",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/UVAQ_Radio",
+            "title": "Play Uve Radio 98.1 - XHELI"
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio Fórmula - Primera Cadena - XHATM",
+        "no_play": false,
+        "frequency": "FM 105.1",
+        "link_deatils": "/radios/XHATM",
+        "link_player": "/radios/play/XHATM",
+        "image": "https://static-media.streema.com/media/cache/48/49/4849a6f415a234017f61a5ec507dffb5.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Morelia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Health", "Lifestyle", "Sports", "Talk"],
+        "location": {
+            "city": "Morelia, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "Tu encuentro con las grandes personalidades!",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Radio Fórmula - Primera Cadena - XHATM is a broadcast radio station on the Groupo Formula radio network from Morelia, MC, Mexico providing News, Talk,",
+            "rest": "Information and Live shows."
+        },
+        "radio_contacts": {
+            "short": "Radio Fórmula - Primera Cadena - XHATM is a broadcast radio station on the Groupo Formula radio network from Morelia, MC, Mexico providing News, Talk,",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://formulamorelia.blogspot.in/",
+            "facebook": "http://www.facebook.com/pages/Radioformula/119863604717292",
+            "twitter": "http://twitter.com/Radio_Formula",
+            "phone": "+52 55 5279 5672",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XHATM",
+            "title": "Play Radio Fórmula - Primera Cadena - XHATM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://s4.mexside.net:9984/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/44/aa/44aa7a650c6c8a13e609618ca98e240d.jpg"
+    }, {
+        "title": "La Zeta - XHCR",
+        "no_play": false,
+        "frequency": "FM 96.3",
+        "link_deatils": "/radios/XHCR",
+        "link_player": "/radios/play/XHCR",
+        "image": "https://static-media.streema.com/media/cache/34/0f/340f5c220d828992889f7c683afd014e.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Morelia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Balada", "Grupera", "Mexican", "Pop", "Ranchera"],
+        "location": {
+            "city": "Morelia, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://lazetanoticias.com/",
+            "facebook": "http://www.facebook.com/LaZMoreliaOficial/",
+            "twitter": "http://twitter.com/lazmorelia",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XHCR",
+            "title": "Play La Zeta - XHCR"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://srmx.ddns.net:8100/;",
+        "radio_image": "https://static-media.streema.com/media/cache/f7/14/f714bc2d34642d707fd50162d4865a64.jpg"
+    }, {
+        "title": "Lokura FM - XHORE",
+        "no_play": false,
+        "frequency": "FM 97.3",
+        "link_deatils": "/radios/Capital_FM_Morelia_XHORE",
+        "link_player": "/radios/play/Capital_FM_Morelia_XHORE",
+        "image": "https://static-media.streema.com/media/cache/25/54/2554bd91798d3007a7fa87571f8cfe26.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Morelia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult", "Hits"],
+        "location": {
+            "city": "Morelia, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.lokurafm.com/morelia/",
+            "facebook": "http://www.facebook.com/LokuraFM.MX",
+            "twitter": "http://twitter.com/LokuraFM_MX",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Capital_FM_Morelia_XHORE",
+            "title": "Play Lokura FM - XHORE"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://playerservices.streamtheworld.com/api/livestream-redirect/XHORE.flv",
+        "radio_image": "https://static-media.streema.com/media/cache/e3/63/e3634e5c3ce692da62f6bfd2289a7df8.jpg"
+    }, {
+        "title": "Los 40 Morelia - XHLY",
+        "no_play": false,
+        "frequency": "FM 92.3",
+        "link_deatils": "/radios/XELY",
+        "link_player": "/radios/play/XELY",
+        "image": "https://static-media.streema.com/media/cache/8a/39/8a39aa84fd8d7807c9e50d0c4c0959eb.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Morelia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Pop", "RnB", "Rock", "Top 40"],
+        "location": {
+            "city": "Morelia, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.facebook.com/los40morelia/",
+            "facebook": "http://www.facebook.com/los40morelia/",
+            "twitter": "http://twitter.com/40morelia",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""],
+        "radio_source": "",
+        "radio_image": "https://static-media.streema.com/media/cache/da/1c/da1c4f776a51ca1a1f3d1669d9908f44.jpg"
+    }, {
+        "title": "101.7 Mix XHEMM",
+        "no_play": false,
+        "frequency": "FM 101.7",
+        "link_deatils": "/radios/XEMM",
+        "link_player": "/radios/play/XEMM",
+        "image": "https://static-media.streema.com/media/cache/b5/3c/b53c7391d029558beca1310df5bd2ed6.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Morelia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Mexican", "Spanish"],
+        "location": {
+            "city": "Morelia, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "80s, 90s y más",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://mixfm.mx/",
+            "facebook": "http://www.facebook.com/MIXFM.MX",
+            "twitter": "http://twitter.com/mixmxoficial",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XEMM",
+            "title": "Play 101.7 Mix XHEMM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://25043.live.streamtheworld.com:80/XHEMM_SC",
+        "radio_image": "https://static-media.streema.com/media/cache/92/54/92541c59eafccad3bf212fa539b949e6.jpg"
+    }, {
+        "title": "ClikRadio",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/ClikRadio",
+        "link_player": "/radios/play/ClikRadio",
+        "image": "https://static-media.streema.com/media/cache/3a/83/3a837ea744efc890256f48e62c8bc23d.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Morelia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["90s", "Mexican", "Pop", "Ranchera"],
+        "location": {
+            "city": "Morelia, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "La música en tu idioma",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://wp-m.com/",
+            "facebook": "http://www.facebook.com/paginaswebdemexico/",
+            "twitter": "http://twitter.com/paginaswebdemx",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/ClikRadio",
+            "title": "Play ClikRadio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streaming.servicioswebmx.com:8002/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/02/ad/02ad28f1a87a7a5bee4f69cf271c8b95.jpg"
+    }, {
+        "title": "Exa FM - XHKW",
+        "no_play": false,
+        "frequency": "FM 89.3",
+        "link_deatils": "/radios/XHKW",
+        "link_player": "http://www.exafm.com/#!/morelia/home",
+        "image": "https://static-media.streema.com/media/cache/40/f5/40f54b825f9d84f2c5b6a9aefad4fbfa.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Morelia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "English", "Latin", "Pop", "RnB", "Rock", "Spanish", "Top 40"],
+        "location": {
+            "city": "Morelia, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "Ponte Mucho Más Música!",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Exa FM - XHKW is a broadcast radio station in Morelia, Michoacan, providing Top 40 Adult Contemporary Pop and Rock music.",
+            "rest": "Exa FM - XHKW is a broadcast radio station in Morelia, Michoacan, providing Top 40 Adult Contemporary Pop and Rock music."
+        },
+        "radio_contacts": {
+            "short": "Exa FM - XHKW is a broadcast radio station in Morelia, Michoacan, providing Top 40 Adult Contemporary Pop and Rock music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://exafm.com/#!/morelia/home",
+            "facebook": "http://www.facebook.com/examoreliaoficial",
+            "twitter": "http://twitter.com/EXA_MORELIA",
+            "phone": "+52 443 333 3314",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "http://www.exafm.com/#!/morelia/home",
+            "title": "Play Exa FM - XHKW"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://www.exafm.com/#!/morelia/home"
+    }, {
+        "title": "Máxima 100.9 - XHI",
+        "no_play": false,
+        "frequency": "FM 100.9",
+        "link_deatils": "/radios/Maxima_100.9_XHI",
+        "link_player": "/radios/play/Maxima_100.9_XHI",
+        "image": "https://static-media.streema.com/media/cache/5b/fa/5bfa48202c450e38ec537198535cae25.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Morelia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "\n        \n          \n          \n          \n          \n        ",
+            "stars": 5
+        },
+        "genres": [""],
+        "location": {
+            "city": "Morelia, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "Donde vive la música!",
+        "radio_language": "",
+        "radio_info": {
+            "short": "Máxima 100.9 - XHI es una emisora de radio FM de Morelia, Michoacan, Mexico, transmitiendo Health, Lifestyle, Sports.",
+            "rest": "Máxima 100.9 - XHI es una emisora de radio FM de Morelia, Michoacan, Mexico, transmitiendo Health, Lifestyle, Sports."
+        },
+        "radio_contacts": {
+            "short": "Máxima 100.9 - XHI es una emisora de radio FM de Morelia, Michoacan, Mexico, transmitiendo Health, Lifestyle, Sports.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.maxima.com.mx/",
+            "facebook": "http://www.facebook.com/pages/M%C3%A1xima-Morelia-1009-fm/171951882874802",
+            "twitter": "http://twitter.com/MaximaMorelia",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Maxima_100.9_XHI",
+            "title": "Play Máxima 100.9 - XHI"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://www.omegaingenieria.com:8034/;",
+        "radio_image": "https://static-media.streema.com/media/cache/97/c5/97c57b7377f50b5edd0799f207b941d3.jpg"
+    }, {
+        "title": "Radio Fórmula - Primera Cadena - XEATM",
+        "no_play": false,
+        "frequency": "AM 990",
+        "link_deatils": "/radios/990_AM_Radio_Formula_XEATM",
+        "link_player": "/radios/play/990_AM_Radio_Formula_XEATM",
+        "image": "https://static-media.streema.com/media/cache/06/23/0623e3225fbaafc6f9c87d12941a8679.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Morelia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Health", "Lifestyle", "Sports", "Talk"],
+        "location": {
+            "city": "Morelia, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "Tu encuentro con las grandes personalidades!",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Radio Fórmula - Primera Cadena - XEATM is a broadcast radio station on the Groupo Formula radio network from Morelia, MC, Mexico providing News, Spanish",
+            "rest": "Talk, Live show and Information."
+        },
+        "radio_contacts": {
+            "short": "Radio Fórmula - Primera Cadena - XEATM is a broadcast radio station on the Groupo Formula radio network from Morelia, MC, Mexico providing News, Spanish",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://formulamorelia.blogspot.in/",
+            "facebook": "http://www.facebook.com/pages/Radioformula/119863604717292",
+            "twitter": "http://twitter.com/Radio_Formula",
+            "phone": "+52 443 315 1810",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/990_AM_Radio_Formula_XEATM",
+            "title": "Play Radio Fórmula - Primera Cadena - XEATM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://s4.mexside.net:9984/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/5b/e2/5be2baa0e8c0bf111b988f88eef3b87d.jpg"
+    }, {
+        "title": "Grupera 93.1 - XHLIA",
+        "no_play": false,
+        "frequency": "FM 93.1",
+        "link_deatils": "/radios/Grupera_93.1_XHLIA_2",
+        "link_player": "/radios/play/Grupera_93.1_XHLIA_2",
+        "image": "https://static-media.streema.com/media/cache/35/94/3594500bc3f4b46693c79f6586d851fb.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Morelia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Grupera", "Mexican"],
+        "location": {
+            "city": "Morelia, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "Más Música",
+        "radio_language": "",
+        "radio_info": {
+            "short": "Grupera 93.1 - XHLIA es una emisora de radio FM de Morelia, Michoacan, Mexico, transmitiendo Health, Lifestyle, Sports.",
+            "rest": "Grupera 93.1 - XHLIA es una emisora de radio FM de Morelia, Michoacan, Mexico, transmitiendo Health, Lifestyle, Sports."
+        },
+        "radio_contacts": {
+            "short": "Grupera 93.1 - XHLIA es una emisora de radio FM de Morelia, Michoacan, Mexico, transmitiendo Health, Lifestyle, Sports.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.lagrupera931.com/",
+            "facebook": "http://www.facebook.com/lagrupera931",
+            "twitter": "http://twitter.com/LaGrupera931",
+            "phone": "+52 443 312 0978",
+            "address": "20 de Noviembre 358, Centro Histórico, 58000 Morelia, MICH, Mexico",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Grupera_93.1_XHLIA_2",
+            "title": "Play Grupera 93.1 - XHLIA"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://www.tuasesorweb.com:8000/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/b4/73/b4731391b69e91f52ded8fa480506e3d.jpg"
+    }, {
+        "title": "Radio Luz de la Esperanza",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Luz_de_la_Esperanza",
+        "link_player": "/radios/play/Radio_Luz_de_la_Esperanza",
+        "image": "https://static-media.streema.com/media/cache/51/41/5141978c878c57448435ba668b61d4e1.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Morelia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Christian", "Religious", "Spanish", "Talk"],
+        "location": {
+            "city": "Morelia, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "Llevando la palabra de Dios hasta su hogar",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Ser un medio de formación y edificación cristiana. En desarrollo de esta misión, la emisora busca difundir un mensaje que ministra al alma y al",
+            "rest": "espíritu. Ofrecer una programación dirigida a un pueblo que necesita ser transformado por el poder de Dios."
+        },
+        "radio_contacts": {
+            "short": "Ser un medio de formación y edificación cristiana. En desarrollo de esta misión, la emisora busca difundir un mensaje que ministra al alma y al",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://radioluzdeesperanza7.com/",
+            "facebook": "http://www.facebook.com/iglesiaNuevaVidaC/",
+            "twitter": "",
+            "phone": "443 448 87 32",
+            "address": "Nicolás Bravo 888 col. Juárez (a 2 calles de tortileria Tere)",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Luz_de_la_Esperanza",
+            "title": "Play Radio Luz de la Esperanza"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://radio.pjcks.com:8054/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/07/cc/07ccabedef8fdac787ac03164fe618d3.jpg"
+    }, {
+        "title": "Los 40 Principales - XELQ",
+        "no_play": false,
+        "frequency": "AM 570",
+        "link_deatils": "/radios/Los_40_Principales_XELQ",
+        "link_player": "/radios/play/Los_40_Principales_XELQ",
+        "image": "https://static-media.streema.com/media/cache/d9/2e/d92e2d9d79030199f604967f6e9fc6d9.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Morelia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Pop", "RnB", "Rock", "Top 40"],
+        "location": {
+            "city": "Morelia, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Retro 90.1 FM is broadcasting over the air in Morelia, Michoacan, Mexico, providing News, Mexican Oldies and Classic Rock music on XHLQ 90.1 FM and",
+            "rest": "XELQ 570 AM"
+        },
+        "radio_contacts": {
+            "short": "Retro 90.1 FM is broadcasting over the air in Morelia, Michoacan, Mexico, providing News, Mexican Oldies and Classic Rock music on XHLQ 90.1 FM and",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://los40.com.mx/",
+            "facebook": "http://www.facebook.com/40principalesmorelia",
+            "twitter": "http://twitter.com/Retro901",
+            "phone": "443-315-1810",
+            "address": "Agua # 78, col. Prados del campestre, Morelia, Michoacan, Mexico",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Los_40_Principales_XELQ",
+            "title": "Play Los 40 Principales - XELQ"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICO.flv",
+        "radio_image": "https://static-media.streema.com/media/cache/8f/39/8f3986d04b85db8a0492d467085948ed.jpg"
+    }, {
+        "title": "Radio Pixel",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Pixel_Morelia",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/2a/2a/2a2ac8611b0c5d363922a28090f3f85a.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Morelia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Alternative", "Mexican", "Rock", "World"],
+        "location": {
+            "city": "Morelia, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "La nueva imagen de la radio en Morelia",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Radio Pixel Morelia is an Internet Radio station broadcasting from Mexico, providing World Music, Alternative Rock, Mexican music.",
+            "rest": "Radio Pixel Morelia is an Internet Radio station broadcasting from Mexico, providing World Music, Alternative Rock, Mexican music."
+        },
+        "radio_contacts": {
+            "short": "Radio Pixel Morelia is an Internet Radio station broadcasting from Mexico, providing World Music, Alternative Rock, Mexican music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiopixel.com.mx/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "RadioActiva 97.7",
+        "no_play": true,
+        "frequency": "FM 97.7",
+        "link_deatils": "/radios/RadioActiva_97.7",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/a8/04/a804501f373c3eddede58afde6b883e7.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Morelia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [""],
+        "location": {
+            "city": "Morelia, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "Escúchanos las 24 horas con la mejor calidad digital!!",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "RadioActiva 97.7 is a broadcast based radio station from Mexico that plays Spanish Hits, Top 40, Pop genre of music.",
+            "rest": "RadioActiva 97.7 is a broadcast based radio station from Mexico that plays Spanish Hits, Top 40, Pop genre of music."
+        },
+        "radio_contacts": {
+            "short": "RadioActiva 97.7 is a broadcast based radio station from Mexico that plays Spanish Hits, Top 40, Pop genre of music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.facebook.com/pages/Radioactiva-977-On-Line/163361767059451",
+            "facebook": "http://www.facebook.com/pages/Radioactiva-977-On-Line/163361767059451",
+            "twitter": "http://twitter.com/RadioActiva977",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "La Radio del Sistema 1550 - XEREL-AM",
+        "no_play": true,
+        "frequency": "AM 1550",
+        "link_deatils": "/radios/XEREL",
+        "link_player": "",
+        "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Morelia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [""],
+        "location": {
+            "city": "Morelia, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "Siente tu señal",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Radio Michoacán AM 1550 - XEREL is a repeater broadcast radio station from Morelia, MC, Mexico providing Mexican News and variety music.",
+            "rest": "Radio Michoacán AM 1550 - XEREL is a repeater broadcast radio station from Morelia, MC, Mexico providing Mexican News and variety music."
+        },
+        "radio_contacts": {
+            "short": "Radio Michoacán AM 1550 - XEREL is a repeater broadcast radio station from Morelia, MC, Mexico providing Mexican News and variety music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://smrtv.michoacan.gob.mx/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio UTM",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_UTM",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/c8/72/c8725a77422b2b5f0215fd0d90bdc8d6.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Morelia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Love Songs", "Pop", "Top 40"],
+        "location": {
+            "city": "Morelia, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "Tu Univeso Tecnológico Musical",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Radio UTM is an online radio station from Mexico, providing Top 40-Pop and Love music.",
+            "rest": "Radio UTM is an online radio station from Mexico, providing Top 40-Pop and Love music."
+        },
+        "radio_contacts": {
+            "short": "Radio UTM is an online radio station from Mexico, providing Top 40-Pop and Love music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radioutm.com/",
+            "facebook": "",
+            "twitter": "http://twitter.com/radioutm",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "La Zeta - XECR",
+        "no_play": true,
+        "frequency": "AM 1340",
+        "link_deatils": "/radios/XECR",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/ed/df/eddf2cbebd34ab181560899894ac54ad.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Morelia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Balada", "Grupera", "Mexican", "Ranchera"],
+        "location": {
+            "city": "Morelia, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "Salvajemente Grupera",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "La Zeta - XECR is a Mexican radio station broadcasting from Morelia, Michoacan, Station Airs Grupera, Mexican, Banda music.",
+            "rest": "La Zeta - XECR is a Mexican radio station broadcasting from Morelia, Michoacan, Station Airs Grupera, Mexican, Banda music."
+        },
+        "radio_contacts": {
+            "short": "La Zeta - XECR is a Mexican radio station broadcasting from Morelia, Michoacan, Station Airs Grupera, Mexican, Banda music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.facebook.com/LaZMoreliaOficial/",
+            "facebook": "http://www.facebook.com/LaZMoreliaOficial/",
+            "twitter": "http://twitter.com/lazmorelia",
+            "phone": "(443) 312-3325",
+            "address": "Calle Aquiles Serdan 548, Col. Centro, Morelia, Mich. 58000",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "XHREL",
+        "no_play": true,
+        "frequency": "FM 106.9",
+        "link_deatils": "/radios/XHREL",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/e4/2e/e42ec3db537b7e4945ed01cae61604dd.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Morelia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [""],
+        "location": {
+            "city": "Morelia, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Gobierno del Estado de Michoacán",
+            "rest": "Gobierno del Estado de Michoacán"
+        },
+        "radio_contacts": {
+            "short": "Gobierno del Estado de Michoacán",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.smrtv.michoacan.gob.mx/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio Tormenta - XERMO",
+        "no_play": true,
+        "frequency": "AM 1600",
+        "link_deatils": "/radios/Radio_Tormenta",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/88/af/88af4548b7021e1db1cbd80f289f9b5c.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Morelia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Entertainment", "Information", "Music", "News"],
+        "location": {
+            "city": "Morelia, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "CON EL PODER DE LO ALTO",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Radio Tormenta is a broadcast radio station from Morelia, Michoacán, Mexico providing Spanish News, Information on Health, Sports, ..., Entertainment and Variety music.",
+            "rest": "Radio Tormenta is a broadcast radio station from Morelia, Michoacán, Mexico providing Spanish News, Information on Health, Sports, ..., Entertainment and Variety music."
+        },
+        "radio_contacts": {
+            "short": "Radio Tormenta is a broadcast radio station from Morelia, Michoacán, Mexico providing Spanish News, Information on Health, Sports, ..., Entertainment and Variety music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiotormentamorelia.mx/",
+            "facebook": "http://www.facebook.com/radiotormentamorelia",
+            "twitter": "http://twitter.com/RADIOTORMENTAMO",
+            "phone": "(443) 2 92 06 87      (443)2 32 65 88",
+            "address": "\"Francisco J. Mujica # 15 Col. Etnias de México Morelia, Mich",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Top 91.5 FM - XHMRL",
+        "no_play": true,
+        "frequency": "FM 91.5",
+        "link_deatils": "/radios/XHMRL",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/ae/18/ae18249f2a82dbe2873a20ad85860fa2.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Morelia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Pop", "RnB", "Rock", "Spanish", "Top 40"],
+        "location": {
+            "city": "Morelia, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Top FM 91.5 - XHMRL is a broadcast radio station in Morelia, Mexico, providing Top 40 Adult Contemporary Pop and Rock music.",
+            "rest": "Top FM 91.5 - XHMRL is a broadcast radio station in Morelia, Mexico, providing Top 40 Adult Contemporary Pop and Rock music."
+        },
+        "radio_contacts": {
+            "short": "Top FM 91.5 - XHMRL is a broadcast radio station in Morelia, Mexico, providing Top 40 Adult Contemporary Pop and Rock music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiorama.mx/",
+            "facebook": "",
+            "twitter": "http://twitter.com/Top915FM",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "RM Radio Cristiana",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/RM_Radio_Cristiana",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/ec/fd/ecfd6c054362e907389f8104b6dee28d.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Morelia",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Christian", "Gospel", "Religious", "Talk"],
+        "location": {
+            "city": "Morelia, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "PROGRAMACION CRISTIANA MUSICAL",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "RM Radio Cristiana is an Internet Radio station broadcasting from Mexico, Provides Evangelical, Christian, Religious and Gospel programs.",
+            "rest": "RM Radio Cristiana is an Internet Radio station broadcasting from Mexico, Provides Evangelical, Christian, Religious and Gospel programs."
+        },
+        "radio_contacts": {
+            "short": "RM Radio Cristiana is an Internet Radio station broadcasting from Mexico, Provides Evangelical, Christian, Religious and Gospel programs.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://rmradiocristiana.com/",
+            "facebook": "http://www.facebook.com/rmrcristiana",
+            "twitter": "http://twitter.com/RadioMorelia",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}, {
+    "title": "Uruapan",
+    "link": "https://streema.com/radios/Uruapan_MC",
+    "msg_results": "13 Radio Stations from Uruapan",
+    "page_copy": "Listen to radio stations from Uruapan MC, from a wide variety of genres like Balada, Grupera, Latin, Mexican and Pop.  Enjoy stations such as La Mexicana 102.1 FM - XEURM, Los 40 Michoacan - XENI, La Poderosa 89.7 - XEIP, Candela Uruapan - XEFN, La Poderosa 89.7 - XHIP and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "La Mexicana 102.1 FM - XEURM",
+        "no_play": false,
+        "frequency": "FM 102.1",
+        "link_deatils": "/radios/XEURM",
+        "link_player": "/radios/play/XEURM",
+        "image": "https://static-media.streema.com/media/cache/97/47/9747c629a1ea691890b60dc05de04414.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Uruapan",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Balada", "Grupera", "Mexican", "Ranchera"],
+        "location": {
+            "city": "Uruapan, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "La Mexicana - XEURM es una emisora de radio FM de Uruapan, Michoacan, Mexico, transmitiendo Balada, Grupera, Mexican.",
+            "rest": "La Mexicana - XEURM es una emisora de radio FM de Uruapan, Michoacan, Mexico, transmitiendo Balada, Grupera, Mexican."
+        },
+        "radio_contacts": {
+            "short": "La Mexicana - XEURM es una emisora de radio FM de Uruapan, Michoacan, Mexico, transmitiendo Balada, Grupera, Mexican.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://radioramamichoacan.com/lamexicana",
+            "facebook": "http://www.facebook.com/lamexicana937/",
+            "twitter": "",
+            "phone": "(452) 52 717 70 y 52 7 10 50",
+            "address": "Macarena No. 32 Col. Inguambo. C.P. 60130 Uruapan, Michoacán, México",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XEURM",
+            "title": "Play La Mexicana 102.1 FM - XEURM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://5.79.86.14:8199/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/b5/5f/b55f040abd14704e6ca5136f1b365760.jpg"
+    }, {
+        "title": "Los 40 Michoacan - XENI",
+        "no_play": false,
+        "frequency": "AM 1320",
+        "link_deatils": "/radios/XENI_Estereo_Vida",
+        "link_player": "/radios/play/XENI_Estereo_Vida",
+        "image": "https://static-media.streema.com/media/cache/6a/4a/6a4a41d2d5a53bf350cb1491e4e9b0e5.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Uruapan",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Pop", "RnB", "Rock", "Top 40"],
+        "location": {
+            "city": "Uruapan, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Los 40 Michoacan - XENI es una emisora de radio AM de Uruapan, Michoacan, Mexico, transmitiendo Adult Contemporary, Pop, RnB.",
+            "rest": "Los 40 Michoacan - XENI es una emisora de radio AM de Uruapan, Michoacan, Mexico, transmitiendo Adult Contemporary, Pop, RnB."
+        },
+        "radio_contacts": {
+            "short": "Los 40 Michoacan - XENI es una emisora de radio AM de Uruapan, Michoacan, Mexico, transmitiendo Adult Contemporary, Pop, RnB.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radioramamichoacan.com/los40/index.html",
+            "facebook": "http://www.facebook.com/los40michoacan/",
+            "twitter": "http://twitter.com/Los40michoacan",
+            "phone": "+52 452 52 717 70",
+            "address": "Macarena No. 32 Col. Inguambo. C.P. 60130 Uruapan, Michoacán México",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XENI_Estereo_Vida",
+            "title": "Play Los 40 Michoacan - XENI"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://5.79.86.14:8202/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/94/c5/94c5d7f59db49bb455fdd36f42b6c3d1.jpg"
+    }, {
+        "title": "La Poderosa 89.7 - XEIP",
+        "no_play": false,
+        "frequency": "AM 750",
+        "link_deatils": "/radios/XEIP",
+        "link_player": "/radios/play/XEIP",
+        "image": "https://static-media.streema.com/media/cache/42/87/42878c5dd6eec23290373a6afbf052f6.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Uruapan",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Cumbia", "Dance", "Grupera", "Latin", "Mexican", "Salsa", "Tropical"],
+        "location": {
+            "city": "Uruapan, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "¡La Que Te Gusta!",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "La Poderosa - XEIP is a broadcast radio station on the Radiorama group of radio stations from Uruapan, MC, Mexico providing Mexican Grupera, Tejano, Balada",
+            "rest": "and Ranchera music."
+        },
+        "radio_contacts": {
+            "short": "La Poderosa - XEIP is a broadcast radio station on the Radiorama group of radio stations from Uruapan, MC, Mexico providing Mexican Grupera, Tejano, Balada",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://lapoderosalaquetegusta.com/",
+            "facebook": "http://www.facebook.com/lapoderosauruapan",
+            "twitter": "http://twitter.com/LaPoderosaLG",
+            "phone": "+52 452 52 717 70",
+            "address": "Macarena No. 32 Col. Inguambo. C.P. 60130 Uruapan, Michoacán México",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XEIP",
+            "title": "Play La Poderosa 89.7 - XEIP"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://server3.sit-mexico.com:8150/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/8b/78/8b788c0914596718537fcb1c5044cfab.jpg"
+    }, {
+        "title": "Candela Uruapan - XEFN",
+        "no_play": false,
+        "frequency": "AM 1130",
+        "link_deatils": "/radios/XEFN_Radio_Moderna",
+        "link_player": "/radios/play/XEFN_Radio_Moderna",
+        "image": "https://static-media.streema.com/media/cache/7d/fb/7dfb0bc5e055bd8df0c671994b6fdc6b.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Uruapan",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Grupera", "Latin", "Mexican", "Pop", "Top 40"],
+        "location": {
+            "city": "Uruapan, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "La Noticia",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "XEFN - Radio Moderna AM 1130 is a Mexican radio station broadcasting from Uruapan, Michoacan, Station Airs Mexican, Grupera, Latino, Top 40/Pop music.",
+            "rest": "XEFN - Radio Moderna AM 1130 is a Mexican radio station broadcasting from Uruapan, Michoacan, Station Airs Mexican, Grupera, Latino, Top 40/Pop music."
+        },
+        "radio_contacts": {
+            "short": "XEFN - Radio Moderna AM 1130 is a Mexican radio station broadcasting from Uruapan, Michoacan, Station Airs Mexican, Grupera, Latino, Top 40/Pop music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.candelauruapan.com/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "(452) 524-0540",
+            "address": "Juan Ayala 10 Int. 102, Col. Centro, Uruapan, Mich. 60000",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XEFN_Radio_Moderna",
+            "title": "Play Candela Uruapan - XEFN"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://167.114.116.223:3334/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/17/5e/175ee16db7f869bae940d005a169e6bf.jpg"
+    }, {
+        "title": "La Poderosa 89.7 - XHIP",
+        "no_play": false,
+        "frequency": "FM 89.7",
+        "link_deatils": "/radios/XHIP",
+        "link_player": "/radios/play/XHIP",
+        "image": "https://static-media.streema.com/media/cache/83/d0/83d09bf962bcac4035249aa2fd2098d8.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Uruapan",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 5
+        },
+        "genres": ["Cumbia", "Dance", "Grupera", "Latin", "Mexican", "Salsa", "Tropical"],
+        "location": {
+            "city": "Uruapan, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "¡La Que Te Gusta!",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "La Poderosa 89.7 - XHIP is a broadcast radio station on the Grupo Radiorama network of radio stations from Uruapan, MC, Mexico providing Mexican Grupera,",
+            "rest": "Tejano, Balada and Ranchera music."
+        },
+        "radio_contacts": {
+            "short": "La Poderosa 89.7 - XHIP is a broadcast radio station on the Grupo Radiorama network of radio stations from Uruapan, MC, Mexico providing Mexican Grupera,",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://lapoderosalaquetegusta.com/",
+            "facebook": "http://www.facebook.com/lapoderosauruapan",
+            "twitter": "http://twitter.com/LaPoderosaLG",
+            "phone": "+52 452 52 717 70",
+            "address": "Macarena No. 32 Col. Inguambo. C.P. 60130 Uruapan, Michoacán México",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XHIP",
+            "title": "Play La Poderosa 89.7 - XHIP"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://server3.sit-mexico.com:8150/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/dd/1e/dd1edd030fa5296bd899b226e4d88057.jpg"
+    }, {
+        "title": "Radio Michoacán - XHRUA",
+        "no_play": false,
+        "frequency": "FM 99.7",
+        "link_deatils": "/radios/XHRUA_Radio_Michoacan",
+        "link_player": "/radios/play/XHRUA_Radio_Michoacan",
+        "image": "https://static-media.streema.com/media/cache/ac/0a/ac0a59838e7ee62d5d81815f8166eb20.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Uruapan",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Culture", "Mexican", "News", "Public", "Spanish", "Talk"],
+        "location": {
+            "city": "Uruapan, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.sistemamichoacano.tv/",
+            "facebook": "http://www.facebook.com/SMichoacano/",
+            "twitter": "http://twitter.com/smichoacano",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XHRUA_Radio_Michoacan",
+            "title": "Play Radio Michoacán - XHRUA"
+        },
+        "radio_shows": [""],
+        "radio_source": "https://60ed5b6d0df78.streamlock.net:1936/smrtvfm/smrtvfm/playlist.m3u8",
+        "radio_image": "https://static-media.streema.com/media/cache/63/0e/630ea0617706355732420716fc4c6a08.jpg"
+    }, {
+        "title": "CANDELA FM URUAPAN",
+        "no_play": false,
+        "frequency": "FM 91.1",
+        "link_deatils": "/radios/Radio_Moderna_XEFN",
+        "link_player": "/radios/play/Radio_Moderna_XEFN",
+        "image": "https://static-media.streema.com/media/cache/c7/fd/c7fd1dc88040257e6cb02144d67dba92.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Uruapan",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 5
+        },
+        "genres": ["Grupera", "Latin", "Mexican", "News", "Pop", "Top 40"],
+        "location": {
+            "city": "Uruapan, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Radio Moderna - XEFN FM 91.1 is a broadcast radio station from Uruapan, Michoacan, Mexico, providing a wide range of content and musical styles, news,",
+            "rest": "music programs, intercativos, top advertisers and more."
+        },
+        "radio_contacts": {
+            "short": "Radio Moderna - XEFN FM 91.1 is a broadcast radio station from Uruapan, Michoacan, Mexico, providing a wide range of content and musical styles, news,",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://modernaradio.com/principal.html",
+            "facebook": "http://www.facebook.com/pages/Radio-Moderna/216956075054713",
+            "twitter": "",
+            "phone": "(452) 52 40 540 and 52 47 108",
+            "address": "102 Int Juan Ayala 10  : Centro CP 60000",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Moderna_XEFN",
+            "title": "Play CANDELA FM URUAPAN"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://184.107.179.162:3334/;",
+        "radio_image": "https://static-media.streema.com/media/cache/b1/f3/b1f362435b3f66e942105a23d5eed0d0.jpg"
+    }, {
+        "title": "La Zeta Uruapan - XHUF",
+        "no_play": false,
+        "frequency": "FM 100.5",
+        "link_deatils": "/radios/XHUF",
+        "link_player": "/radios/play/XHUF",
+        "image": "https://static-media.streema.com/media/cache/ab/77/ab779a0220676e9ca81f0e12718e766e.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Uruapan",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Balada", "Grupera", "Mexican", "Ranchera"],
+        "location": {
+            "city": "Uruapan, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.facebook.com/LaZetaUruapanOficial/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""],
+        "radio_source": "",
+        "radio_image": "https://static-media.streema.com/media/cache/fe/57/fe574fa5d811ce034adfebe336fe5729.jpg"
+    }, {
+        "title": "La Mexicana - XHURM",
+        "no_play": false,
+        "frequency": "FM 102.1",
+        "link_deatils": "/radios/XHURM",
+        "link_player": "/radios/play/XHURM",
+        "image": "https://static-media.streema.com/media/cache/ed/2f/ed2fc5421743b234e2a4a9d7cb04214d.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Uruapan",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Balada", "Grupera", "Mexican", "Ranchera"],
+        "location": {
+            "city": "Uruapan, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "La Mexicana - XHURM es una emisora de radio FM de Uruapan, Michoacan, Mexico, transmitiendo Balada, Grupera, Mexican.",
+            "rest": "La Mexicana - XHURM es una emisora de radio FM de Uruapan, Michoacan, Mexico, transmitiendo Balada, Grupera, Mexican."
+        },
+        "radio_contacts": {
+            "short": "La Mexicana - XHURM es una emisora de radio FM de Uruapan, Michoacan, Mexico, transmitiendo Balada, Grupera, Mexican.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://radioramamichoacan.com/lamexicana/index.html",
+            "facebook": "http://www.facebook.com/lamexicana937/",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XHURM",
+            "title": "Play La Mexicana - XHURM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://5.79.86.14:8199/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/ad/a9/ada9a7530613f5f20d3b5b57f2a875ab.jpg"
+    }, {
+        "title": "La Zeta Uruapan - XEUF",
+        "no_play": false,
+        "frequency": "AM 610",
+        "link_deatils": "/radios/XEUF",
+        "link_player": "/radios/play/XEUF",
+        "image": "https://static-media.streema.com/media/cache/92/e5/92e55baa86b1f0b8b19e623db149a274.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Uruapan",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Balada", "Grupera", "Mexican", "Ranchera"],
+        "location": {
+            "city": "Uruapan, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.facebook.com/LaZetaUruapanOficial/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""],
+        "radio_source": "",
+        "radio_image": "https://static-media.streema.com/media/cache/98/97/98973b69a5bb804b79dea97ec4e7f59b.jpg"
+    }, {
+        "title": "Canal Juvenil 1160 - XEIW",
+        "no_play": true,
+        "frequency": "AM 1160",
+        "link_deatils": "/radios/XEIW",
+        "link_player": "",
+        "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Uruapan",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [""],
+        "location": {
+            "city": "Uruapan, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "XEIW - Canal Juvenil 1160 AM is a Mexican radio station broadcasting from Uruapan, Michoacan, Station Airs Young Adult music.",
+            "rest": "XEIW - Canal Juvenil 1160 AM is a Mexican radio station broadcasting from Uruapan, Michoacan, Station Airs Young Adult music."
+        },
+        "radio_contacts": {
+            "short": "XEIW - Canal Juvenil 1160 AM is a Mexican radio station broadcasting from Uruapan, Michoacan, Station Airs Young Adult music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "Calle Mazatlan 30, Col. Morelos, Uruapan, Mich. 60050",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Mix Hits Radio",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Mix_Hits_Radio",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/34/54/34540185ec0e2c768a1fe6f48fb59651.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Uruapan",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Electronica", "Hits", "Latin", "Pop"],
+        "location": {
+            "city": "Uruapan, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "Es parte de Ti",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Hits Mix Radio was created in July 2010 with the aim to entertain surfers who do not have access to music at work, in the",
+            "rest": "place where they are or just for fun. A concept aimed at all types of public. Broadcasting continuous music daily, Mix Hits Radio has been placed in the taste of the people, by live chat and interaccipon with their speakers through the various programs that are within your daily schedule. Mix Hits Radio is part of You."
+        },
+        "radio_contacts": {
+            "short": "Hits Mix Radio was created in July 2010 with the aim to entertain surfers who do not have access to music at work, in the",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://mixhitsradio.weebly.com/",
+            "facebook": "http://www.facebook.com/mhrmx",
+            "twitter": "http://twitter.com/mixhitsradiomx",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Los 40 Michoacan - XHENI",
+        "no_play": true,
+        "frequency": "FM 93.7",
+        "link_deatils": "/radios/Estereo_Vida_XHENI",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/bd/73/bd7398c7db638e0fbbfd3737f95af8e1.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Uruapan",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Pop", "RnB", "Rock", "Top 40"],
+        "location": {
+            "city": "Uruapan, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Los 40 Michoacan - XHENI es una emisora de radio FM de Uruapan, Michoacan, Mexico, transmitiendo Adult Contemporary, Pop, RnB.",
+            "rest": "Los 40 Michoacan - XHENI es una emisora de radio FM de Uruapan, Michoacan, Mexico, transmitiendo Adult Contemporary, Pop, RnB."
+        },
+        "radio_contacts": {
+            "short": "Los 40 Michoacan - XHENI es una emisora de radio FM de Uruapan, Michoacan, Mexico, transmitiendo Adult Contemporary, Pop, RnB.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radioramamichoacan.com/los40/index.html",
+            "facebook": "http://www.facebook.com/los40michoacan/",
+            "twitter": "http://twitter.com/Los40michoacan",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}, {
+    "title": "Zacapu",
+    "link": "https://streema.com/radios/Zacapu_MC",
+    "msg_results": "5 Radio Stations from Zacapu",
+    "page_copy": "Listen to radio stations from Zacapu MC, from a wide variety of genres like Folk, Grupera, Hits, Latin and Mexican.  Enjoy stations such as Candela Zacapu 97.7, La Z - XHZI-FM, XEZU, XHCAP - Radio Michoacán, Maxistar 98.5 FM - XEZI and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Candela Zacapu 97.7",
+        "no_play": false,
+        "frequency": "FM 97.7",
+        "link_deatils": "/radios/Candela_Zacapu_97.7",
+        "link_player": "/radios/play/Candela_Zacapu_97.7",
+        "image": "https://static-media.streema.com/media/cache/fb/a4/fba4b2273248570e08bf0dd7ab682618.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Zacapu",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Hits", "Latin", "Mexican", "Pop"],
+        "location": {
+            "city": "Zacapu, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Candela Zacapu 977 is a spanish language radio station dedicated to playing traditional Banda music.",
+            "rest": "Candela Zacapu 977 is a spanish language radio station dedicated to playing traditional Banda music."
+        },
+        "radio_contacts": {
+            "short": "Candela Zacapu 977 is a spanish language radio station dedicated to playing traditional Banda music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://candela977.blogspot.mx/",
+            "facebook": "http://www.facebook.com/Candela901/?fref=ts",
+            "twitter": "",
+            "phone": "(436) 3-63-00-50",
+            "address": "Agua #78 Col. Prados Del Campestre 58297 Morelia, Michoacán de Ocampo, Mexico",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Candela_Zacapu_97.7",
+            "title": "Play Candela Zacapu 97.7"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://s4.mexside.net:2094/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/a4/d2/a4d29b8292b91e2804f27f1cb45a2ab9.jpg"
+    }, {
+        "title": "La Z - XHZI-FM",
+        "no_play": true,
+        "frequency": "FM 98.5",
+        "link_deatils": "/radios/XHZI",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/01/38/013899730db43b71de15ee80dc44ea4e.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Zacapu",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Folk", "Grupera", "Mexican", "Spanish"],
+        "location": {
+            "city": "Zacapu, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "La Número 1 de la Ciudad de Zacapu",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "La Z - XHZI-FM es una emisora de radio FM de Zacapu, Michoacan, Mexico, transmitiendo Grupera, Mexican.",
+            "rest": "La Z - XHZI-FM es una emisora de radio FM de Zacapu, Michoacan, Mexico, transmitiendo Grupera, Mexican."
+        },
+        "radio_contacts": {
+            "short": "La Z - XHZI-FM es una emisora de radio FM de Zacapu, Michoacan, Mexico, transmitiendo Grupera, Mexican.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.xezimaxistar.com/",
+            "facebook": "http://www.facebook.com/lazetazacapu/",
+            "twitter": "",
+            "phone": "3630639",
+            "address": "Av. morelos #529-3 58600 Zacapú, Michoacán de Ocampo, Mexico",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "XEZU",
+        "no_play": true,
+        "frequency": "AM 930",
+        "link_deatils": "/radios/XEZU",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/db/cb/dbcb81970f343d31d561f674d7bfdb2e.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Zacapu",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [""],
+        "location": {
+            "city": "Zacapu, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "XEZU - La Explosiva 930 AM is a Mexican radio station broadcasting from Zacapu, Michoacan, Station Airs Spanish and Mexican regional programs.",
+            "rest": "XEZU - La Explosiva 930 AM is a Mexican radio station broadcasting from Zacapu, Michoacan, Station Airs Spanish and Mexican regional programs."
+        },
+        "radio_contacts": {
+            "short": "XEZU - La Explosiva 930 AM is a Mexican radio station broadcasting from Zacapu, Michoacan, Station Airs Spanish and Mexican regional programs.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.candelazacapu.com/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "(436) 3-63-50-54",
+            "address": "Mártires de Uruapan # 501 Col. Infonavit San Miguel Zacapu,Michoacán. México.",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "XHCAP - Radio Michoacán",
+        "no_play": true,
+        "frequency": "FM 96.9",
+        "link_deatils": "/radios/XHCAP_Radio_Michoacan",
+        "link_player": "",
+        "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Zacapu",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [""],
+        "location": {
+            "city": "Zacapu, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "XHCAP - Radio Michoacán FM 96.9 is a Mexican radio station broadcasting from Zacapu, Michoacan, Station Airs Mexican, Variety, News and Information programs.",
+            "rest": "XHCAP - Radio Michoacán FM 96.9 is a Mexican radio station broadcasting from Zacapu, Michoacan, Station Airs Mexican, Variety, News and Information programs."
+        },
+        "radio_contacts": {
+            "short": "XHCAP - Radio Michoacán FM 96.9 is a Mexican radio station broadcasting from Zacapu, Michoacan, Station Airs Mexican, Variety, News and Information programs.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.smrtv.michoacan.gob.mx/index.php/radio-de-michoacan-en-linea",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Maxistar 98.5 FM - XEZI",
+        "no_play": true,
+        "frequency": "AM 850",
+        "link_deatils": "/radios/XEZI_Maxistar",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/f9/47/f94778c01a512308d468493232059632.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Zacapu",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Grupera", "Mexican"],
+        "location": {
+            "city": "Zacapu, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "El sonido de las estrellas",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "XEZI - Maxistar 850 is a Mexican radio station broadcasting from Zacapu, Michoacan, Station Airs Spanish and Mexican regional programs.",
+            "rest": "XEZI - Maxistar 850 is a Mexican radio station broadcasting from Zacapu, Michoacan, Station Airs Spanish and Mexican regional programs."
+        },
+        "radio_contacts": {
+            "short": "XEZI - Maxistar 850 is a Mexican radio station broadcasting from Zacapu, Michoacan, Station Airs Spanish and Mexican regional programs.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.xezimaxistar.com/",
+            "facebook": "http://www.facebook.com/xezi.maxistar",
+            "twitter": "http://twitter.com/XEZIMAXISTAR",
+            "phone": "",
+            "address": "AV. MORELOS NO. 529 PLAZA RUIZ 58600 Zacapú, Mexico",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}, {
+    "title": "Zamora",
+    "link": "https://streema.com/radios/Zamora_MC",
+    "msg_results": "9 Radio Stations from Zamora",
+    "page_copy": "Listen to radio stations from Zamora MC, from a wide variety of genres like Christian, Grupera, Mexican, Ranchera and Religious.  Enjoy stations such as La Catedral de la Música - XHQL, La Zamorana - XHEZM, Los 40 Zamora - XHZN, Siempre Romántica, Candela Zamora - XHGT and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "La Catedral de la Música - XHQL",
+        "no_play": false,
+        "frequency": "FM 91.7",
+        "link_deatils": "/radios/Catedral_de_la_Musica_1260_XEQL",
+        "link_player": "/radios/play/Catedral_de_la_Musica_1260_XEQL",
+        "image": "https://static-media.streema.com/media/cache/af/00/af00523356c51bc08e6d796753636395.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Zamora",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "90 Listens",
+            "stars": 5
+        },
+        "genres": ["Grupera", "Mexican", "Ranchera"],
+        "location": {
+            "city": "Zamora, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Catedral de la Música - XHQL is a broadcast radio station in Zamora, Michoacan, Mexico, providing Mexican Grupera music.",
+            "rest": "Catedral de la Música - XHQL is a broadcast radio station in Zamora, Michoacan, Mexico, providing Mexican Grupera music."
+        },
+        "radio_contacts": {
+            "short": "Catedral de la Música - XHQL is a broadcast radio station in Zamora, Michoacan, Mexico, providing Mexican Grupera music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiozamora.com.mx/xhql.html",
+            "facebook": "http://www.facebook.com/Catedraldelamusica/",
+            "twitter": "",
+            "phone": "+52 351 515 5750",
+            "address": "Av. 5 de Mayo No. 501 sur, Col. Jardines de Catedral , Zamora, Michoacán, Mexico",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Catedral_de_la_Musica_1260_XEQL",
+            "title": "Play La Catedral de la Música - XHQL"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.zeno.fm/1parq976sk8uv",
+        "radio_image": "https://static-media.streema.com/media/cache/1e/ae/1eae1ab3849e20942dc38970f5c1403d.jpg"
+    }, {
+        "title": "La Zamorana - XHEZM",
+        "no_play": false,
+        "frequency": "FM 103.9",
+        "link_deatils": "/radios/La_Zamorana_650_XEZM",
+        "link_player": "/radios/play/La_Zamorana_650_XEZM",
+        "image": "https://static-media.streema.com/media/cache/ed/fc/edfcc623b03c458aacff0a775dad0e1b.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Zamora",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "90 Listens",
+            "stars": 0
+        },
+        "genres": ["Balada", "Grupera", "Mexican", "Ranchera"],
+        "location": {
+            "city": "Zamora, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "La Zamorana - XHEZM is a broadcast radio station from Zamora, Michoacan, Mexico providing Top 40/Pop music.",
+            "rest": "La Zamorana - XHEZM is a broadcast radio station from Zamora, Michoacan, Mexico providing Top 40/Pop music."
+        },
+        "radio_contacts": {
+            "short": "La Zamorana - XHEZM is a broadcast radio station from Zamora, Michoacan, Mexico providing Top 40/Pop music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiozamora.com.mx/xhezm.html",
+            "facebook": "",
+            "twitter": "http://twitter.com/ZMLaZamorana",
+            "phone": "01 (351) 515 55 55",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/La_Zamorana_650_XEZM",
+            "title": "Play La Zamorana - XHEZM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.zeno.fm/pscbnbk7sk8uv",
+        "radio_image": "https://static-media.streema.com/media/cache/36/b8/36b85436c7af91faeb6abb5d450c0fa7.jpg"
+    }, {
+        "title": "Los 40 Zamora - XHZN",
+        "no_play": false,
+        "frequency": "FM 88.1",
+        "link_deatils": "/radios/XHZN",
+        "link_player": "/radios/play/XHZN",
+        "image": "https://static-media.streema.com/media/cache/b2/4f/b24fee0a50a51c89785f8ec255de4ba1.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Zamora",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Latin", "Pop", "Top 40"],
+        "location": {
+            "city": "Zamora, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "¡Con Toda la Actitud!",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Los 40 Zamora - XHZN is a broadcast Radio station from Zamora, Michoacan, Mexico, providing Top 40/Pop, Latino, Reggaeton Music.",
+            "rest": "Los 40 Zamora - XHZN is a broadcast Radio station from Zamora, Michoacan, Mexico, providing Top 40/Pop, Latino, Reggaeton Music."
+        },
+        "radio_contacts": {
+            "short": "Los 40 Zamora - XHZN is a broadcast Radio station from Zamora, Michoacan, Mexico, providing Top 40/Pop, Latino, Reggaeton Music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiozamora.com.mx/xhzn.html",
+            "facebook": "http://www.facebook.com/Los40zamora/",
+            "twitter": "",
+            "phone": "+52 (351) 515-5950",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XHZN",
+            "title": "Play Los 40 Zamora - XHZN"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.zeno.fm/hhpts6wn8k8uv",
+        "radio_image": "https://static-media.streema.com/media/cache/98/74/98748c544020cbbf79e3b2be04e79eee.jpg"
+    }, {
+        "title": "Siempre Romántica",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Siempre_Romantica",
+        "link_player": "/radios/play/Siempre_Romantica",
+        "image": "https://static-media.streema.com/media/cache/39/bd/39bd9fe03aec316c5dc195fb5a187a00.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Zamora",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Classic Hits", "Classic Rock", "Oldies", "Pop", "RnB"],
+        "location": {
+            "city": "Zamora, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "Siempre tuya. Te vamos a enamorar con nuestra música",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Siempre Romántica es una emisora vía online que transmite 100 % música en ingles. Seleccionando los mejores éxitos desde la década de los 60s. del",
+            "rest": "siglo pasado hasta los más recientes, conformando una programación que puede ser escuchada por el público de todas las edades, nos enfocamos en el pop, rock, baladas y algo de electrónica y reggaetón. Estamos ubicados en la ciudad de Zamora de Hidalgo, Michoacán, México. Esperamos poder ser una de tus estaciones favoritas. Bienvenidos!"
+        },
+        "radio_contacts": {
+            "short": "Siempre Romántica es una emisora vía online que transmite 100 % música en ingles. Seleccionando los mejores éxitos desde la década de los 60s. del",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://siempreromanticara.wixsite.com/siempreromantica",
+            "facebook": "http://www.facebook.com/profile.php?id=100034299802903",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Siempre_Romantica",
+            "title": "Play Siempre Romántica"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.zeno.fm/66s4fe62zuquv",
+        "radio_image": "https://static-media.streema.com/media/cache/7e/ee/7eeeb816cddb2e47e340048516b661ca.jpg"
+    }, {
+        "title": "Candela Zamora - XHGT",
+        "no_play": false,
+        "frequency": "FM 94.1",
+        "link_deatils": "/radios/XEGT",
+        "link_player": "/radios/play/XEGT",
+        "image": "https://static-media.streema.com/media/cache/db/d1/dbd1bd89784d66ce04df084e0895b663.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Zamora",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Grupera", "Latin", "Ranchera", "Spanish"],
+        "location": {
+            "city": "Zamora, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiozamora.com.mx/xhgt.html",
+            "facebook": "http://www.facebook.com/Candela94.1fm/",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XEGT",
+            "title": "Play Candela Zamora - XHGT"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.zeno.fm/9t73skxn8k8uv",
+        "radio_image": "https://static-media.streema.com/media/cache/76/96/7696e089a1046047b44fe4df4a00e04f.jpg"
+    }, {
+        "title": "Tavandu Radio",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Tavandu_Radio",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/92/e0/92e020d03e876576127272c7c9d89a48.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Zamora",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Entertainment", "Oldies", "Talk", "Variety"],
+        "location": {
+            "city": "Zamora, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "Tavandu es un portal regional, television y Radio",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Tavandu Radio is an Internet Radio station broadcasting from Zamora, Mexico, providing Oldies music, Music artists from the region of Zamora, talk and variety of",
+            "rest": "other programs."
+        },
+        "radio_contacts": {
+            "short": "Tavandu Radio is an Internet Radio station broadcasting from Zamora, Mexico, providing Oldies music, Music artists from the region of Zamora, talk and variety of",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.tavandu.com/",
+            "facebook": "http://www.facebook.com/pages/Tavanducom/282661268411366",
+            "twitter": "http://twitter.com/tavandu",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio Michoacán 103.1 - XHZMA",
+        "no_play": true,
+        "frequency": "FM 103.1",
+        "link_deatils": "/radios/Radio_Michoacan_103.1_XHZMA",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/44/da/44dac216531a25de304b46ef45ba39af.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Zamora",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [""],
+        "location": {
+            "city": "Zamora, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Radio Michoacán 103.1 - XHZMA is a broadcast radio station from Zamora, Michoacan, Mexico, providing Mexican, Variety, News.",
+            "rest": "Radio Michoacán 103.1 - XHZMA is a broadcast radio station from Zamora, Michoacan, Mexico, providing Mexican, Variety, News."
+        },
+        "radio_contacts": {
+            "short": "Radio Michoacán 103.1 - XHZMA is a broadcast radio station from Zamora, Michoacan, Mexico, providing Mexican, Variety, News.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://smrtv.michoacan.gob.mx/index.php/directorio",
+            "facebook": "",
+            "twitter": "",
+            "phone": "(443) 113-69-00",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Mensaje de Vida",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Mensaje_de_Vida",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/7a/c7/7ac772658343eb7c1a2361252b3fa951.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Zamora",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Christian", "Gospel", "Religious", "Spiritual"],
+        "location": {
+            "city": "Zamora, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "Una radio diferente, que quiere agradar a Dios y exaltar su nombre",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Mensaje de Vida is an Internet Radio station broadcasting from Zamora, Mexico, Providing Evangelical, Christian, Religious and Gospel programs.",
+            "rest": "Mensaje de Vida is an Internet Radio station broadcasting from Zamora, Mexico, Providing Evangelical, Christian, Religious and Gospel programs."
+        },
+        "radio_contacts": {
+            "short": "Mensaje de Vida is an Internet Radio station broadcasting from Zamora, Mexico, Providing Evangelical, Christian, Religious and Gospel programs.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://mensajedevida.mx/",
+            "facebook": "http://www.facebook.com/mensajedevida.mx",
+            "twitter": "",
+            "phone": "",
+            "address": "Po Box 59600 MX",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Urbancity mexico",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Urbancity_mexico",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/c3/74/c37478636e0c10cc05326029ca1c448c.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Zamora",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Christian", "Gospel", "Religious"],
+        "location": {
+            "city": "Zamora, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Urbancity mexico is an Internet Radio station broadcasting from Zamora, Michoacan, Mexico, Providing Evangelical, Christian, Religious and Gospel programs.",
+            "rest": "Urbancity mexico is an Internet Radio station broadcasting from Zamora, Michoacan, Mexico, Providing Evangelical, Christian, Religious and Gospel programs."
+        },
+        "radio_contacts": {
+            "short": "Urbancity mexico is an Internet Radio station broadcasting from Zamora, Michoacan, Mexico, Providing Evangelical, Christian, Religious and Gospel programs.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://urban-city.org/",
+            "facebook": "http://www.facebook.com/pages/Urban-City/308630489226720",
+            "twitter": "http://twitter.com/urbancit",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}, {
+    "title": "Zitacuaro",
+    "link": "https://streema.com/radios/Zitacuaro_MC",
+    "msg_results": "5 Radio Stations from Zitacuaro",
+    "page_copy": "Listen to radio stations from Zitacuaro MC, from a wide variety of genres like Grupera, Latin, Mexican, Pop and Spanish.  Enjoy stations such as Cuadrante Digital - XETA, Radio Bilingue - XHZIT, La Grande de Michoacán - XELX, Cuadrante Digital - XHETA, La Grande de Michoacán - XHLX and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Cuadrante Digital - XETA",
+        "no_play": false,
+        "frequency": "AM 600",
+        "link_deatils": "/radios/XETA",
+        "link_player": "/radios/play/XETA",
+        "image": "https://static-media.streema.com/media/cache/02/23/0223f7a9edc1300ddbdcc58acb145091.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Zitacuaro",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Grupera", "Mexican", "Pop", "Top 40"],
+        "location": {
+            "city": "Zitacuaro, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "La Magia en tu Radio",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Cuadrante Digital - XETA is a broadcast radio station from Heroica Zitacuaro, MC, Mexico providing the best of Mexican Pop, Electronic and Dance music.",
+            "rest": "Cuadrante Digital - XETA is a broadcast radio station from Heroica Zitacuaro, MC, Mexico providing the best of Mexican Pop, Electronic and Dance music."
+        },
+        "radio_contacts": {
+            "short": "Cuadrante Digital - XETA is a broadcast radio station from Heroica Zitacuaro, MC, Mexico providing the best of Mexican Pop, Electronic and Dance music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.facebook.com/radiozitacuaro/",
+            "facebook": "http://www.facebook.com/XHETA-Cuadrante-Digital-171867999873804/",
+            "twitter": "http://twitter.com/LavozMaravatio?s=20",
+            "phone": "+52 715 153 7992",
+            "address": "Revolución Sur 66 61506 Heroica Zitácuaro, Michoacán de Ocampo, Mexico",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XETA",
+            "title": "Play Cuadrante Digital - XETA"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://144.217.79.64:8028/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/6d/40/6d406e3c658e40b0e7d7ecf92ce94f91.jpg"
+    }, {
+        "title": "Radio Bilingue - XHZIT",
+        "no_play": false,
+        "frequency": "FM 106.3",
+        "link_deatils": "/radios/XHZIT",
+        "link_player": "/radios/play/XHZIT",
+        "image": "https://static-media.streema.com/media/cache/1f/1c/1f1c59ad485aebf0c7f2aa3d204da126.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Zitacuaro",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [""],
+        "location": {
+            "city": "Zitacuaro, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "XHZIT - Radio Michoacán 106.3 FM is a Mexican radio station broadcasting from Zitacuaro, Michoacan, Station Airs Mexican, Variety, News programs.",
+            "rest": "XHZIT - Radio Michoacán 106.3 FM is a Mexican radio station broadcasting from Zitacuaro, Michoacan, Station Airs Mexican, Variety, News programs."
+        },
+        "radio_contacts": {
+            "short": "XHZIT - Radio Michoacán 106.3 FM is a Mexican radio station broadcasting from Zitacuaro, Michoacan, Station Airs Mexican, Variety, News programs.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://radiobilingue.org/",
+            "facebook": "http://www.facebook.com/radiobilingue",
+            "twitter": "http://twitter.com/radiobilingue",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XHZIT",
+            "title": "Play Radio Bilingue - XHZIT"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://50.245.174.62:7070/broadwave.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/39/c9/39c91265924cbc9d6e6bcc3d37b0d5e9.jpg"
+    }, {
+        "title": "La Grande de Michoacán - XELX",
+        "no_play": false,
+        "frequency": "AM 700",
+        "link_deatils": "/radios/XELX",
+        "link_player": "/radios/play/XELX",
+        "image": "https://static-media.streema.com/media/cache/8b/36/8b3677b24266c8d9cf9ea253d3638396.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Zitacuaro",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [""],
+        "location": {
+            "city": "Zitacuaro, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "La Jefa - XELX es una emisora de radio AM de Zitacuaro, Michoacan, Mexico, transmitiendo Grupera, Mexican.",
+            "rest": "La Jefa - XELX es una emisora de radio AM de Zitacuaro, Michoacan, Mexico, transmitiendo Grupera, Mexican."
+        },
+        "radio_contacts": {
+            "short": "La Jefa - XELX es una emisora de radio AM de Zitacuaro, Michoacan, Mexico, transmitiendo Grupera, Mexican.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiozitacuaro.com/",
+            "facebook": "http://www.facebook.com/La-Grande-de-Michoac%C3%A1n-951FM-y-700AM-La-Voz-del-Oriente-del-Estado-1663293977258713",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/XELX",
+            "title": "Play La Grande de Michoacán - XELX"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://144.217.79.64:8026/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/f3/dc/f3dc20e3d73ba1832cc8474c13e33fd9.jpg"
+    }, {
+        "title": "Cuadrante Digital - XHETA",
+        "no_play": false,
+        "frequency": "FM 107.1",
+        "link_deatils": "/radios/Solo_Hits_XHETA",
+        "link_player": "/radios/play/Solo_Hits_XHETA",
+        "image": "https://static-media.streema.com/media/cache/c5/85/c58598ae1a3de4c5ec64794ee2e53e25.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Zitacuaro",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Grupera", "Latin", "Mexican", "Spanish"],
+        "location": {
+            "city": "Zitacuaro, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "La Magia en tu Radio",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Cuadrante Digital - XHETA es una emisora de radio FM de Zitacuaro, Michoacan, Mexico, transmitiendo Grupera, Mexican.",
+            "rest": "Cuadrante Digital - XHETA es una emisora de radio FM de Zitacuaro, Michoacan, Mexico, transmitiendo Grupera, Mexican."
+        },
+        "radio_contacts": {
+            "short": "Cuadrante Digital - XHETA es una emisora de radio FM de Zitacuaro, Michoacan, Mexico, transmitiendo Grupera, Mexican.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiozitacuaro.com/",
+            "facebook": "http://www.facebook.com/XHETA-Cuadrante-Digital-171867999873804/",
+            "twitter": "",
+            "phone": "+52 715 153 1299",
+            "address": "Av. Revolución Sur 66 Mariano Matamoros 61506 Zitácuaro, Michoacan, Mexico",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Solo_Hits_XHETA",
+            "title": "Play Cuadrante Digital - XHETA"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.zeno.fm/e2tmaxp1sy8uv",
+        "radio_image": "https://static-media.streema.com/media/cache/3f/b7/3fb7b8075ed037b977d611210c167304.jpg"
+    }, {
+        "title": "La Grande de Michoacán - XHLX",
+        "no_play": false,
+        "frequency": "FM 95.1",
+        "link_deatils": "/radios/La_Jefa_XHLX",
+        "link_player": "/radios/play/La_Jefa_XHLX",
+        "image": "https://static-media.streema.com/media/cache/1f/46/1f46735a08602c4beea718aae28e1422.jpg",
+        "breadcrumb": [{
+            "title": "North America",
+            "link": "/radios/region/North_America"
+        }, {
+            "title": "Mexico",
+            "link": "/country/Mexico"
+        }, {
+            "title": "Michoacan",
+            "link": "/country/Mexico/state/Michoacan"
+        }, {
+            "title": "Zitacuaro",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Grupera", "Hits", "Latin", "Pop", "Spanish"],
+        "location": {
+            "city": "Zitacuaro, MC",
+            "country": "Mexico"
+        },
+        "profile_slogan": "La Voz del Oriente del Estado",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "La Jefa - XHLX es una emisora de radio FM de Zitacuaro, Michoacan, Mexico, transmitiendo Grupera, Mexican.",
+            "rest": "La Jefa - XHLX es una emisora de radio FM de Zitacuaro, Michoacan, Mexico, transmitiendo Grupera, Mexican."
+        },
+        "radio_contacts": {
+            "short": "La Jefa - XHLX es una emisora de radio FM de Zitacuaro, Michoacan, Mexico, transmitiendo Grupera, Mexican.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiozitacuaro.com/",
+            "facebook": "http://www.facebook.com/La-Grande-de-Michoacán-951FM-y-700AM-La-Voz-del-Oriente-del-Estado-1663293977258713",
+            "twitter": "http://twitter.com/radiozitacuaro",
+            "phone": "+52 715 153 0025",
+            "address": "Avenida Revolucion sur 66 Col Centro, 61500 Zitácuaro, Michoacán de Ocampo, Mexico",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/La_Jefa_XHLX",
+            "title": "Play La Grande de Michoacán - XHLX"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://144.217.79.64:8026/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/65/ee/65ee30e075cb26268cd5c42d37216201.jpg"
+    }]
+}]

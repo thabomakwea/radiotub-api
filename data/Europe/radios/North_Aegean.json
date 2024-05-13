@@ -1,0 +1,1789 @@
+[{
+    "title": "Chios",
+    "link": "https://streema.com/radios/Chios",
+    "msg_results": "10 Radio Stations from Chios",
+    "page_copy": "Listen to radio stations from Chios, from a wide variety of genres like Electronica, Greek, Hits, Information and News.  Enjoy stations such as Radio Mastixa 107.7, Pirate Radio GR - Mood Vibes, Pirate Radio GR - Electronica Vibes, Χρώμα FM, Pirate Radio GR - Top Vibes and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Radio Mastixa 107.7",
+        "no_play": false,
+        "frequency": "FM 107.7",
+        "link_deatils": "/radios/Radio_Mastixa",
+        "link_player": "/radios/play/Radio_Mastixa",
+        "image": "https://static-media.streema.com/media/cache/94/e0/94e01128490a4d760bfd395a1408edb4.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Chios",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Hits", "Lifestyle", "News"],
+        "location": {
+            "city": "Chios",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Radio Mastixa 107.7 is a broadcast radio station from Chios, Greece providing Greek Hits music, news, lifestyle and information.",
+            "rest": "Radio Mastixa 107.7 is a broadcast radio station from Chios, Greece providing Greek Hits music, news, lifestyle and information."
+        },
+        "radio_contacts": {
+            "short": "Radio Mastixa 107.7 is a broadcast radio station from Chios, Greece providing Greek Hits music, news, lifestyle and information.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiomastixa.gr/",
+            "facebook": "http://www.facebook.com/pages/%CE%A1%CE%AC%CE%B4%CE%B9%CE%BF-%CE%9C%CE%B1%CF%83%CF%84%CE%AF%CF%87%CE%B1-1077/35918429762",
+            "twitter": "",
+            "phone": "22710 77550",
+            "address": "Δαφνώνας",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Mastixa",
+            "title": "Play Radio Mastixa 107.7"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://46.4.98.200:8000/Radiomastixa",
+        "radio_image": "https://static-media.streema.com/media/cache/59/ef/59efebed0bbc9e3cdb0049d1ad09f647.jpg"
+    }, {
+        "title": "Pirate Radio GR - Mood Vibes",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Pirate_Radio_GR_Mood_Vibes",
+        "link_player": "/radios/play/Pirate_Radio_GR_Mood_Vibes",
+        "image": "https://static-media.streema.com/media/cache/e1/ca/e1caf1a515b65068c398378c6580a1bf.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Chios",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Ambient", "Dance", "Easy Listening", "Electronica", "House"],
+        "location": {
+            "city": "Chios",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://piratefm.net/",
+            "facebook": "http://www.facebook.com/PirateRadioGR",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Pirate_Radio_GR_Mood_Vibes",
+            "title": "Play Pirate Radio GR - Mood Vibes"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://live.piratefm.net:8080/mood",
+        "radio_image": "https://static-media.streema.com/media/cache/99/fd/99fd9fb2f2e9f78a3b5d33887073d86c.jpg"
+    }, {
+        "title": "Pirate Radio GR - Electronica Vibes",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Pirate_Radio_GR_Electronica_Vibes",
+        "link_player": "/radios/play/Pirate_Radio_GR_Electronica_Vibes",
+        "image": "https://static-media.streema.com/media/cache/3c/0b/3c0bac1122375de02efe4bc1cbd8fe36.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Chios",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Chillout", "Downtempo", "Easy Listening", "Electronica"],
+        "location": {
+            "city": "Chios",
+            "country": "Greece"
+        },
+        "profile_slogan": "24/7 Spiritual Music",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://piratefm.net/electronica-vibes-pirate-radio-gr/",
+            "facebook": "http://www.facebook.com/PirateRadioGR",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Pirate_Radio_GR_Electronica_Vibes",
+            "title": "Play Pirate Radio GR - Electronica Vibes"
+        },
+        "radio_shows": [""],
+        "radio_source": "https://electronica.piratefm.net/radio/8000/electronica",
+        "radio_image": "https://static-media.streema.com/media/cache/82/be/82bebbf303df4c004faa0e64800c1cd9.jpg"
+    }, {
+        "title": "Χρώμα FM",
+        "no_play": false,
+        "frequency": "FM 91.9",
+        "link_deatils": "/radios/Hroma_FM_3",
+        "link_player": "/radios/play/Hroma_FM_3",
+        "image": "https://static-media.streema.com/media/cache/54/bd/54bd9a52fdf7c338ca86c48b5d9e5bf4.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Chios",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Greek"],
+        "location": {
+            "city": "Chios",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://hroma.gr/",
+            "facebook": "http://www.facebook.com/HromaFm/?tn-str=k*F",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Hroma_FM_3",
+            "title": "Play Χρώμα FM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://netradio.live24.gr/hroma918",
+        "radio_image": "https://static-media.streema.com/media/cache/c5/f0/c5f0ef3392211260c75113522da06f6d.jpg"
+    }, {
+        "title": "Pirate Radio GR - Top Vibes",
+        "no_play": false,
+        "frequency": "FM 96.3",
+        "link_deatils": "/radios/Pirate_Radio_91.0",
+        "link_player": "/radios/play/Pirate_Radio_91.0",
+        "image": "https://static-media.streema.com/media/cache/fc/fc/fcfc209026d23651f51638873050262f.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Chios",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Greek", "Hits", "Pop", "Top 40"],
+        "location": {
+            "city": "Chios",
+            "country": "Greece"
+        },
+        "profile_slogan": "...το αγαπημένο σου ραδιόφωνο",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Pirate Radio GR is a broadcast radio station from Chios, Greece providing Top 40/Pop music.",
+            "rest": "Pirate Radio GR is a broadcast radio station from Chios, Greece providing Top 40/Pop music."
+        },
+        "radio_contacts": {
+            "short": "Pirate Radio GR is a broadcast radio station from Chios, Greece providing Top 40/Pop music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://piratefm.net/",
+            "facebook": "http://www.facebook.com/PirateRadioGR/",
+            "twitter": "",
+            "phone": "2271024747",
+            "address": "Βελαστή 6",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Pirate_Radio_91.0",
+            "title": "Play Pirate Radio GR - Top Vibes"
+        },
+        "radio_shows": [""],
+        "radio_source": "https://live.piratefm.net/top",
+        "radio_image": "https://static-media.streema.com/media/cache/a8/eb/a8eba95ec9f9d386c20500d920b564e2.jpg"
+    }, {
+        "title": "Sfera 98.9",
+        "no_play": false,
+        "frequency": "FM 98.9",
+        "link_deatils": "/radios/Top_FM_2",
+        "link_player": "/radios/play/Top_FM_2",
+        "image": "https://static-media.streema.com/media/cache/16/20/162096f4f6bb2f7fb2fc1c6f2533847e.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Chios",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Music"],
+        "location": {
+            "city": "Chios",
+            "country": "Greece"
+        },
+        "profile_slogan": "Sfera! Και εμείς οι δύο ανεβαίνουμε!",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Sfera 98.9 is a broadcast radio station from Chios, Greece providing Greek and Foreign Art, Culture, Music, Information and Entertainment.",
+            "rest": "Sfera 98.9 is a broadcast radio station from Chios, Greece providing Greek and Foreign Art, Culture, Music, Information and Entertainment."
+        },
+        "radio_contacts": {
+            "short": "Sfera 98.9 is a broadcast radio station from Chios, Greece providing Greek and Foreign Art, Culture, Music, Information and Entertainment.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.sfera989.com/",
+            "facebook": "http://www.facebook.com/sfera989.gr",
+            "twitter": "",
+            "phone": "+30-22710-44133",
+            "address": "Καλλιγέρης Εμμανουήλ Σεκιάρη Σάββα 21",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Top_FM_2",
+            "title": "Play Sfera 98.9"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream-mp3aac.live24.gr/sfera989",
+        "radio_image": "https://static-media.streema.com/media/cache/f4/ba/f4ba8b78b3daba84799a583165b722ae.jpg"
+    }, {
+        "title": "Alithia Radio",
+        "no_play": false,
+        "frequency": "FM 95.7",
+        "link_deatils": "/radios/Alithia_Radio",
+        "link_player": "/radios/play/Alithia_Radio",
+        "image": "https://static-media.streema.com/media/cache/97/67/976745d8ec5a1390b1e03cbaa1ec64fb.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Chios",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "\n        \n          \n          \n          \n          \n        ",
+            "stars": 5
+        },
+        "genres": ["Information", "Sports"],
+        "location": {
+            "city": "Chios",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Alithia Radio broadcast for the first time on 13 March 1988 It is the first private radio station that operated in, northern Aegean. It prefecture",
+            "rest": "range and 24-hour program. It is basically a local news channel without missing the program and broadcasts music, entertainment and sporting events."
+        },
+        "radio_contacts": {
+            "short": "Alithia Radio broadcast for the first time on 13 March 1988 It is the first private radio station that operated in, northern Aegean. It prefecture",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radioalithia.gr/",
+            "facebook": "http://www.facebook.com/AlithiaMedia",
+            "twitter": "http://twitter.com/alithiachios",
+            "phone": "+30 2271025678",
+            "address": "PO Box 178, 82100 Chios",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Alithia_Radio",
+            "title": "Play Alithia Radio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://s3.radio.co/s3bd09b473/listen",
+        "radio_image": "https://static-media.streema.com/media/cache/51/8f/518fc68226ff9f92fe2a85d1768fcd3a.jpg"
+    }, {
+        "title": "Ant1 Aigaiou",
+        "no_play": false,
+        "frequency": "FM 105",
+        "link_deatils": "/radios/Ant1_Aigaiou",
+        "link_player": "/radios/play/Ant1_Aigaiou",
+        "image": "https://static-media.streema.com/media/cache/04/0c/040c91e6ef6ba8f8731cb6f68ec2c88b.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Chios",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Information", "News"],
+        "location": {
+            "city": "Chios",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Ant1 Aigaiou FM 105.0 is a broadcast radio station from Chios, North Aegean, Greece, providing news and information.",
+            "rest": "Ant1 Aigaiou FM 105.0 is a broadcast radio station from Chios, North Aegean, Greece, providing news and information."
+        },
+        "radio_contacts": {
+            "short": "Ant1 Aigaiou FM 105.0 is a broadcast radio station from Chios, North Aegean, Greece, providing news and information.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.ant1aigaiou.gr/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "22710-41224",
+            "address": "80 Aegean Avenue, Chios 821 00",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Ant1_Aigaiou",
+            "title": "Play Ant1 Aigaiou"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://eco.onestreaming.com:8440/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/23/a5/23a59315a8e22add54ac4de75c008913.jpg"
+    }, {
+        "title": "Pirate FM",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Pirate_FM_2",
+        "link_player": "",
+        "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Chios",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Hits", "Pop"],
+        "location": {
+            "city": "Chios",
+            "country": "Greece"
+        },
+        "profile_slogan": "το αγαπημένο σου ραδιόφωνο",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Pirate FM 91.0 is a broadcast Radio station from Chios, North Aegean, Greece, providing Greek, Top 40 and Pop Music.",
+            "rest": "Pirate FM 91.0 is a broadcast Radio station from Chios, North Aegean, Greece, providing Greek, Top 40 and Pop Music."
+        },
+        "radio_contacts": {
+            "short": "Pirate FM 91.0 is a broadcast Radio station from Chios, North Aegean, Greece, providing Greek, Top 40 and Pop Music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.piratefm.gr",
+            "facebook": "http://www.facebook.com/pages/Pirate-Radio-910-wwwpiratefmnet/50445776019",
+            "twitter": "",
+            "phone": "+(30) 2271024747",
+            "address": "Βελαστή 6 Τ.Κ.: 82100",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Xiaki Foni",
+        "no_play": true,
+        "frequency": "FM 90.0",
+        "link_deatils": "/radios/Xiaki_Foni",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/99/c6/99c6c761ec37f801307ec7756573e40f.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Chios",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Culture", "News", "Religious", "Sports"],
+        "location": {
+            "city": "Chios",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Xiaki Foni is a broadcast radio station from Chios, Greece providing news, talks, sports, religion, culture, music and information.",
+            "rest": "Xiaki Foni is a broadcast radio station from Chios, Greece providing news, talks, sports, religion, culture, music and information."
+        },
+        "radio_contacts": {
+            "short": "Xiaki Foni is a broadcast radio station from Chios, Greece providing news, talks, sports, religion, culture, music and information.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.xiakifoni.gr/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "22710-41900",
+            "address": "Φώτη Αγγουλέ 47 Φρούριο",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}, {
+    "title": "Mytilene",
+    "link": "https://streema.com/radios/Mytilene",
+    "msg_results": "5 Radio Stations from Mytilene",
+    "page_copy": "Listen to radio stations from Mytilene, from a wide variety of genres like Dance, News, Pop, Public and Talk.  Enjoy stations such as ERT Aigaiou, ERT Voreio Aigaio, Ραδιο Ξενύχτης, Mitilini Love Radio 88.2, Happy Radio Mitilini and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "ERT Aigaiou",
+        "no_play": false,
+        "frequency": "FM 104.4",
+        "link_deatils": "/radios/ERA_Aegean",
+        "link_player": "/radios/play/ERA_Aegean",
+        "image": "https://static-media.streema.com/media/cache/d5/4e/d54e86279080a2f5b6a5979d421a2c86.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Mytilene",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["News", "Public"],
+        "location": {
+            "city": "Mytilene",
+            "country": "Greece"
+        },
+        "profile_slogan": "Ελληνική Ραδιοφωνία Αιγαίου",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "The RCL Aegean, the youngest Regional Radio Station of RCL. The radio for reasons connected with the nature and competitive form, today is now or",
+            "rest": "may be found in the dominant basis to offer enhanced quality. Mainly indeed public radio. And this is the bet, the challenge of the near future that they in the Aegean RCL will try to win."
+        },
+        "radio_contacts": {
+            "short": "The RCL Aegean, the youngest Regional Radio Station of RCL. The radio for reasons connected with the nature and competitive form, today is now or",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://voreioaigaio.ert.gr/",
+            "facebook": "http://www.facebook.com/eraegean",
+            "twitter": "",
+            "phone": "+30 2251 770000",
+            "address": "Vostani E. 69 81100 Mytilene, Lesvos, Greece",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/ERA_Aegean",
+            "title": "Play ERT Aigaiou"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://radiostreaming.ert.gr/ert-aigaiou",
+        "radio_image": "https://static-media.streema.com/media/cache/de/f1/def11ee43098fb4fe5b905efe7bb3216.jpg"
+    }, {
+        "title": "ERT Voreio Aigaio",
+        "no_play": false,
+        "frequency": "FM 103.0",
+        "link_deatils": "/radios/ERT_Open_ERA_Aegean",
+        "link_player": "/radios/play/ERT_Open_ERA_Aegean",
+        "image": "https://static-media.streema.com/media/cache/61/32/613254509670baacb3afba653408e5f5.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Mytilene",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Community", "Entertainment", "News", "Talk"],
+        "location": {
+            "city": "Mytilene",
+            "country": "Greece"
+        },
+        "profile_slogan": "Ελεύθερη φωνή για την κοινωνία",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "ERA Aegean (ΕΡΑ Αιγαίου) is a broadcast radio station in Mytilene, Greece, providing Community News, Talk and Entertainment on a variety of frequencies throughout the",
+            "rest": "Aegean Islands as part of ERT Open (Ανοιχτη ΕΡΤ), an Athens, Greece based organization dedicated to the tradition of citizen-based public broadcasting as an alternative to government controlled public media."
+        },
+        "radio_contacts": {
+            "short": "ERA Aegean (ΕΡΑ Αιγαίου) is a broadcast radio station in Mytilene, Greece, providing Community News, Talk and Entertainment on a variety of frequencies throughout the",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://voreioaigaio.ert.gr/",
+            "facebook": "http://www.facebook.com/eraegean",
+            "twitter": "http://twitter.com/ErtSocial",
+            "phone": "+30 2251 770000",
+            "address": "Vostani E. 69, 81100 Mytilene, Lesvos, Greece",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/ERT_Open_ERA_Aegean",
+            "title": "Play ERT Voreio Aigaio"
+        },
+        "radio_shows": [""],
+        "radio_source": "https://radiostreaming.ert.gr/ert-aigaiou",
+        "radio_image": "https://static-media.streema.com/media/cache/27/9f/279f85c0109e7965fab9601fffd4080e.jpg"
+    }, {
+        "title": "Ραδιο Ξενύχτης",
+        "no_play": false,
+        "frequency": "FM 94.9",
+        "link_deatils": "/radios/Radio_Ksenyxtis",
+        "link_player": "/radios/play/Radio_Ksenyxtis",
+        "image": "https://static-media.streema.com/media/cache/d2/92/d292187afc29f98722a84515d3fa1e71.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Mytilene",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["70s", "80s", "Pop"],
+        "location": {
+            "city": "Mytilene",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "ΤΟ ΚΑΛΥΤΕΡΟ ΛΑΙΚΟ ΡΑΔΙΟΦΩΝΟ ΤΗΣ ΛΕΣΒΟΥ ΕΔΩ ΑΚΟΥΤΕ ΜΟΝΟ ΛΑΙΚΑ ΤΡΑΓΟΥΔΙΑ",
+            "rest": "ΤΟ ΚΑΛΥΤΕΡΟ ΛΑΙΚΟ ΡΑΔΙΟΦΩΝΟ ΤΗΣ ΛΕΣΒΟΥ ΕΔΩ ΑΚΟΥΤΕ ΜΟΝΟ ΛΑΙΚΑ ΤΡΑΓΟΥΔΙΑ"
+        },
+        "radio_contacts": {
+            "short": "ΤΟ ΚΑΛΥΤΕΡΟ ΛΑΙΚΟ ΡΑΔΙΟΦΩΝΟ ΤΗΣ ΛΕΣΒΟΥ ΕΔΩ ΑΚΟΥΤΕ ΜΟΝΟ ΛΑΙΚΑ ΤΡΑΓΟΥΔΙΑ",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.ksenyxtis.gr/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Ksenyxtis",
+            "title": "Play Ραδιο Ξενύχτης"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://sp3.streams.ovh:8018/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/d0/a6/d0a64dcbab086efc60c42083970df21c.jpg"
+    }, {
+        "title": "Mitilini Love Radio 88.2",
+        "no_play": true,
+        "frequency": "FM 88.2",
+        "link_deatils": "/radios/Love_Radio_Mytiline_88.2",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/87/8d/878da8d85f69e3de2940ed68ddd16c9a.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Mytilene",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [],
+        "location": {
+            "city": "Mytilene",
+            "country": "Greece"
+        },
+        "profile_slogan": "Φυσικά ο...ΠΟΙΟ Ερωτικός Ραδιοφωνικός Σταθμός της Μυτιλήνης...",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Mitilini Love Radio 88.2 is a broadcast radio station from Mytilene, Greece providing Erotic, Love and Ballad music.",
+            "rest": "Mitilini Love Radio 88.2 is a broadcast radio station from Mytilene, Greece providing Erotic, Love and Ballad music."
+        },
+        "radio_contacts": {
+            "short": "Mitilini Love Radio 88.2 is a broadcast radio station from Mytilene, Greece providing Erotic, Love and Ballad music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.facebook.com/groups/130404675149/",
+            "facebook": "http://www.facebook.com/groups/130404675149/",
+            "twitter": "http://twitter.com/Love975/",
+            "phone": "(+30) 22510 37381",
+            "address": "Αναπαύσεως 10",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Happy Radio Mitilini",
+        "no_play": true,
+        "frequency": "FM 103.8",
+        "link_deatils": "/radios/Happy_Radio_1022",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/f8/23/f82305d64dba86b02980d30efca7ab98.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Mytilene",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance", "Greek", "Pop"],
+        "location": {
+            "city": "Mytilene",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://happy-radio.gr/",
+            "facebook": "http://www.facebook.com/HappyRadioMitilini/",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}, {
+    "title": "Mytilini",
+    "link": "https://streema.com/radios/Mytilini",
+    "msg_results": "10 Radio Stations from Mytilini",
+    "page_copy": "Listen to radio stations from Mytilini, from a wide variety of genres like Folk, Greek, Hits, Pop and Top 40.  Enjoy stations such as Ραδιόφωνο 108, SLAM 101.5, Arion Radio - Arion Laikos, Best 981 - 98.1 FM, Slam 101.5 and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Ραδιόφωνο 108",
+        "no_play": false,
+        "frequency": "FM 108.1",
+        "link_deatils": "/radios/Radiofono",
+        "link_player": "/radios/play/Radiofono",
+        "image": "https://static-media.streema.com/media/cache/03/85/0385b78c4ed1503faf196c84c4df23b8.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Mytilini",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Folk", "Greek", "Hits", "Pop"],
+        "location": {
+            "city": "Mytilini",
+            "country": "Greece"
+        },
+        "profile_slogan": "Alternative & Sophisticated web radio station.",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Radio 108 Mytilene is an Internet Radio station broadcasting from Mytilini, North Aegean, Greece, providing Alternative, Eclectic and Greek Music.",
+            "rest": "Radio 108 Mytilene is an Internet Radio station broadcasting from Mytilini, North Aegean, Greece, providing Alternative, Eclectic and Greek Music."
+        },
+        "radio_contacts": {
+            "short": "Radio 108 Mytilene is an Internet Radio station broadcasting from Mytilini, North Aegean, Greece, providing Alternative, Eclectic and Greek Music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://radiofono108.blogspot.in/",
+            "facebook": "http://www.facebook.com/groups/33743751159/",
+            "twitter": "",
+            "phone": "",
+            "address": "G-5,Constitutional Avenue Islamabad, Pakistan",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radiofono",
+            "title": "Play Ραδιόφωνο 108"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://s5.onweb.gr:8498/;",
+        "radio_image": "https://static-media.streema.com/media/cache/44/65/44654bdc541aa0baf03a0ecf35214faf.jpg"
+    }, {
+        "title": "SLAM 101.5",
+        "no_play": false,
+        "frequency": "FM 101.5",
+        "link_deatils": "/radios/The_Pop_FM_98.6",
+        "link_player": "/radios/play/The_Pop_FM_98.6",
+        "image": "https://static-media.streema.com/media/cache/6a/9f/6a9fb3c6768cc789f3588f1df259b9e4.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Mytilini",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult", "Dance", "Hits", "Top 40"],
+        "location": {
+            "city": "Mytilini",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://slam.gr/",
+            "facebook": "http://www.facebook.com/slam1015/",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/The_Pop_FM_98.6",
+            "title": "Play SLAM 101.5"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://eco.onestreaming.com:8550/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/4b/f2/4bf2e76b2ea69cfe988274c02031f19c.jpg"
+    }, {
+        "title": "Arion Radio - Arion Laikos",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Arion_Radio_2_Laiko",
+        "link_player": "/radios/play/Arion_Radio_2_Laiko",
+        "image": "https://static-media.streema.com/media/cache/5f/85/5f85ac2c0e805f945ce0b2b32215590b.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Mytilini",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Hits", "Pop", "Rock", "Top 40"],
+        "location": {
+            "city": "Mytilini",
+            "country": "Greece"
+        },
+        "profile_slogan": "The No.1 Greek Music Radio",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Arion Radio - Arion Laikos is a radio channel on the Arion Radio internet radio station from Mytilini, Greece providing Greek Hits and Top 40",
+            "rest": "music, information and entertainment."
+        },
+        "radio_contacts": {
+            "short": "Arion Radio - Arion Laikos is a radio channel on the Arion Radio internet radio station from Mytilini, Greece providing Greek Hits and Top 40",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.arionradio.com/",
+            "facebook": "http://www.facebook.com/arionradio",
+            "twitter": "",
+            "phone": "801 200 8 200",
+            "address": "21 Eleftheriou Venizelou St, Agora Center",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Arion_Radio_2_Laiko",
+            "title": "Play Arion Radio - Arion Laikos"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://ice.onestreaming.com/arionlaikos",
+        "radio_image": "https://static-media.streema.com/media/cache/1a/f1/1af191aecd3c269958a6927a034d7566.jpg"
+    }, {
+        "title": "Best 981 - 98.1 FM",
+        "no_play": false,
+        "frequency": "FM 98.1",
+        "link_deatils": "/radios/Best_FM_3",
+        "link_player": "/radios/play/Best_FM_3",
+        "image": "https://static-media.streema.com/media/cache/9a/0f/9a0ffb1942a1a4c94498c1ae77844a0a.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Mytilini",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Hits", "Pop"],
+        "location": {
+            "city": "Mytilini",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Best 981 is a broadcast Radio station from Mytilini, North Aegean, Greece, providing Non Stop Top 40/Pop, Greek Music.",
+            "rest": "Best 981 is a broadcast Radio station from Mytilini, North Aegean, Greece, providing Non Stop Top 40/Pop, Greek Music."
+        },
+        "radio_contacts": {
+            "short": "Best 981 is a broadcast Radio station from Mytilini, North Aegean, Greece, providing Non Stop Top 40/Pop, Greek Music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://24radio.gr/code/station.php?station_id=105",
+            "facebook": "http://www.facebook.com/best981",
+            "twitter": "",
+            "phone": "+30 2251044595",
+            "address": "Theokritou 57 Mytilini, P.C. 81100 Municipality Lesvou, Prefecture Lesvou, Greece",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Best_FM_3",
+            "title": "Play Best 981 - 98.1 FM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://eco.onestreaming.com:8628/;",
+        "radio_image": "https://static-media.streema.com/media/cache/85/46/85467f5fc0e8bf8aebfc4aab01a1a08b.jpg"
+    }, {
+        "title": "Slam 101.5",
+        "no_play": false,
+        "frequency": "FM 101.5",
+        "link_deatils": "/radios/Kiss_FM_7",
+        "link_player": "/radios/play/Kiss_FM_7",
+        "image": "https://static-media.streema.com/media/cache/d7/be/d7be1d5b833a8331861296210245a2f3.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Mytilini",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Pop", "Top 40"],
+        "location": {
+            "city": "Mytilini",
+            "country": "Greece"
+        },
+        "profile_slogan": "Να σου ανεβάσει το κέφι!",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Slam 101.5 (formerly POP FM 101.3) is the ultimate foreign music radio Mytilene! With hits from all charts, the POP FM keeps you company all",
+            "rest": "day at 98.6!"
+        },
+        "radio_contacts": {
+            "short": "Slam 101.5 (formerly POP FM 101.3) is the ultimate foreign music radio Mytilene! With hits from all charts, the POP FM keeps you company all",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://slam.gr/",
+            "facebook": "http://www.facebook.com/slam1015/",
+            "twitter": "",
+            "phone": "+30 2251 037811",
+            "address": "Ελ. Βενιζέλου 21 81100 Mitilíni",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Kiss_FM_7",
+            "title": "Play Slam 101.5"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://eco.onestreaming.com:8550/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/ab/0e/ab0e570955c8a0cd22df054e6b835dc2.jpg"
+    }, {
+        "title": "Lampsi FM Radio Mytline",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Lampsi_FM_Radio_Mytline",
+        "link_player": "/radios/play/Lampsi_FM_Radio_Mytline",
+        "image": "https://static-media.streema.com/media/cache/ff/bc/ffbc95cc7963ffef0da10923820d7ae8.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Mytilini",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Folk", "Greek"],
+        "location": {
+            "city": "Mytilini",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Lampsi FM Radio Mytline is a web based internet radio station from Mytilini that plays Variety and Greek local programs.",
+            "rest": "Lampsi FM Radio Mytline is a web based internet radio station from Mytilini that plays Variety and Greek local programs."
+        },
+        "radio_contacts": {
+            "short": "Lampsi FM Radio Mytline is a web based internet radio station from Mytilini that plays Variety and Greek local programs.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://lampsi-radio.blogspot.com/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Lampsi_FM_Radio_Mytline",
+            "title": "Play Lampsi FM Radio Mytline"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://i6.streams.ovh:16078/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/36/d7/36d7cda68fc2e4e3c5b88074f8e6a074.jpg"
+    }, {
+        "title": "Mytilene Radio Deejay",
+        "no_play": true,
+        "frequency": "FM 95.7",
+        "link_deatils": "/radios/Mytilene_Radio_Deejay",
+        "link_player": "",
+        "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Mytilini",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [],
+        "location": {
+            "city": "Mytilini",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Mytilene Radio Deejay FM 95.7 is a broadcast radio station from Mytilini, Greece, providing Dance and Rhythmic Music.",
+            "rest": "Mytilene Radio Deejay FM 95.7 is a broadcast radio station from Mytilini, Greece, providing Dance and Rhythmic Music."
+        },
+        "radio_contacts": {
+            "short": "Mytilene Radio Deejay FM 95.7 is a broadcast radio station from Mytilini, Greece, providing Dance and Rhythmic Music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.mrdj.gr/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "30 2251041253",
+            "address": "Elias Venezis 1, Mitilini",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Kiss Danceradio",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Kiss_Danceradio_2",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/62/ba/62ba682aff4d3510b4d88973c9ca7083.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Mytilini",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Techno"],
+        "location": {
+            "city": "Mytilini",
+            "country": "Greece"
+        },
+        "profile_slogan": "All The Hits 24/7",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Kiss Dance Records is a pure distillate of Kiss Danceradio. They decided to create this exclusively Electronic Μusic Label after the extremely successful start of",
+            "rest": "our internet broadcast radio. Their purpose is to discover new talented lovers of electronic music and of course to collaborate with a lot of Big names of the electronic scene."
+        },
+        "radio_contacts": {
+            "short": "Kiss Dance Records is a pure distillate of Kiss Danceradio. They decided to create this exclusively Electronic Μusic Label after the extremely successful start of",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://kissdanceradio.blogspot.in/",
+            "facebook": "http://www.facebook.com/KissDanceradio",
+            "twitter": "http://twitter.com/kissdanceradio",
+            "phone": "2251046327",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Ekklesia tis Ellados",
+        "no_play": true,
+        "frequency": "FM 105.5",
+        "link_deatils": "/radios/Ekklesia_tis_Ellados",
+        "link_player": "",
+        "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Mytilini",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [],
+        "location": {
+            "city": "Mytilini",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Ekklesia tis Ellados is a broadcast radio station from Mytilini, North Aegean, Greece providing Religious, Christian, Greek Music and program.",
+            "rest": "Ekklesia tis Ellados is a broadcast radio station from Mytilini, North Aegean, Greece providing Religious, Christian, Greek Music and program."
+        },
+        "radio_contacts": {
+            "short": "Ekklesia tis Ellados is a broadcast radio station from Mytilini, North Aegean, Greece providing Religious, Christian, Greek Music and program.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "Via Ludovico Ariosto",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Rondo Radio",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Rondo_radio",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/d2/72/d272a8760dc053c468da2191da74d301.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Mytilini",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Deep House", "House", "Soul", "Underground"],
+        "location": {
+            "city": "Mytilini",
+            "country": "Greece"
+        },
+        "profile_slogan": "Deep & Soulful house 24/7 From the heart of the mediterranean",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "Welcome to Rondo Deep & soulful house radio. From the heart of the mediterranean we bring you the best in deep, funky & soulful house",
+            "rest": " music 24/7. \nRondo radio in association with Aiko & Global musiCollective. \nFind Aiko & Global MusiCollective on Mixcloud with over 25000 followers"
+        },
+        "radio_contacts": {
+            "short": "Welcome to Rondo Deep & soulful house radio. From the heart of the mediterranean we bring you the best in deep, funky & soulful house",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.rondoradio.net/",
+            "facebook": "http://www.facebook.com/pages/Rondo-Radio/641642709271170",
+            "twitter": "http://twitter.com/AikoGmc?lang=nl",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}, {
+    "title": "Samos",
+    "link": "https://streema.com/radios/Samos",
+    "msg_results": "8 Radio Stations from Samos",
+    "page_copy": "Listen to radio stations from Samos, from a wide variety of genres like Folk, Greek, News, Pop and Top 40.  Enjoy stations such as 2000 FM Radio Samos, Radio Cafe 102.4, Αρμονία 103.2, Ιωνία Radio Plus 89,4, Ράδιο Ικαρία 87.6 and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "2000 FM Radio Samos",
+        "no_play": false,
+        "frequency": "FM 99.8",
+        "link_deatils": "/radios/2000_FM_Radio_Samos",
+        "link_player": "/radios/play/2000_FM_Radio_Samos",
+        "image": "https://static-media.streema.com/media/cache/00/75/007515f95e8885638d010f05eba1a697.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Samos",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Greek", "News"],
+        "location": {
+            "city": "Samos",
+            "country": "Greece"
+        },
+        "profile_slogan": "News and music from Samos island",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://2000fmsamos.blogspot.com/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "2273080880",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/2000_FM_Radio_Samos",
+            "title": "Play 2000 FM Radio Samos"
+        },
+        "radio_shows": [""],
+        "radio_source": "https://i8.streams.ovh/ic/2000fm/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/fd/36/fd3694d05b36066d7eea81b7a63d266b.jpg"
+    }, {
+        "title": "Radio Cafe 102.4",
+        "no_play": false,
+        "frequency": "FM 102.4",
+        "link_deatils": "/radios/Radio_Cafe_102.4",
+        "link_player": "/radios/play/Radio_Cafe_102.4",
+        "image": "https://static-media.streema.com/media/cache/ef/f9/eff98f4b26987473330a52f9b6afff00.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Samos",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Community", "Greek", "News", "Pop", "Talk", "World"],
+        "location": {
+            "city": "Samos",
+            "country": "Greece"
+        },
+        "profile_slogan": "News and music from Samos island",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://samostoday.gr/",
+            "facebook": "http://www.facebook.com/groups/RadioCafe102.4/",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Cafe_102.4",
+            "title": "Play Radio Cafe 102.4"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://s6.onweb.gr:8046/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/e9/b4/e9b440ceb88430c90881da49ed44d26f.jpg"
+    }, {
+        "title": "Αρμονία 103.2",
+        "no_play": false,
+        "frequency": "FM 103.2",
+        "link_deatils": "/radios/Armonia_103.2",
+        "link_player": "/radios/play/Armonia_103.2",
+        "image": "https://static-media.streema.com/media/cache/7c/0d/7c0defc5e375a001014f6ef14691214f.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Samos",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Greek", "News"],
+        "location": {
+            "city": "Samos",
+            "country": "Greece"
+        },
+        "profile_slogan": "News and music from Samos Island",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.armoniaradio.gr/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Armonia_103.2",
+            "title": "Play Αρμονία 103.2"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://s3.onweb.gr:8500/;",
+        "radio_image": "https://static-media.streema.com/media/cache/1f/56/1f56d80170697931b41085c0fb607181.jpg"
+    }, {
+        "title": "Ιωνία Radio Plus 89,4",
+        "no_play": false,
+        "frequency": "FM 89.4",
+        "link_deatils": "/radios/Ionia_Radio_Plus",
+        "link_player": "/radios/play/Ionia_Radio_Plus",
+        "image": "https://static-media.streema.com/media/cache/4c/7c/4c7c59545fa23b4347bea001ad2959f2.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Samos",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Folk", "Greek", "News"],
+        "location": {
+            "city": "Samos",
+            "country": "Greece"
+        },
+        "profile_slogan": "",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "News and folk music from Samos Island",
+            "rest": "News and folk music from Samos Island"
+        },
+        "radio_contacts": {
+            "short": "News and folk music from Samos Island",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.facebook.com/Ιωνία-Radio-Plus-894-103267871710905/",
+            "facebook": "http://www.facebook.com/Ιωνία-Radio-Plus-894-103267871710905/",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Ionia_Radio_Plus",
+            "title": "Play Ιωνία Radio Plus 89,4"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://89.163.217.252:9314/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/04/8a/048a310c42e49f9a10c23335534f3329.jpg"
+    }, {
+        "title": "Ράδιο Ικαρία 87.6",
+        "no_play": false,
+        "frequency": "FM 87.6",
+        "link_deatils": "/radios/Radio_Ikaria_87.6",
+        "link_player": "/radios/play/Radio_Ikaria_87.6",
+        "image": "https://static-media.streema.com/media/cache/c4/d2/c4d2c86ef7f5a7d660eb18a1a5232fbb.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Samos",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Folk", "Greek", "News"],
+        "location": {
+            "city": "Samos",
+            "country": "Greece"
+        },
+        "profile_slogan": "News and music from Ikaria Island",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radio-ikaria.gr/",
+            "facebook": "http://www.facebook.com/RadioIkaria876",
+            "twitter": "http://twitter.com/RadioIkaria876",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Ikaria_87.6",
+            "title": "Play Ράδιο Ικαρία 87.6"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.radio-ikaria.gr:8000/;;",
+        "radio_image": "https://static-media.streema.com/media/cache/32/4a/324ad5903f746ef2c2c1330cb29ceba1.jpg"
+    }, {
+        "title": "Anemos FM",
+        "no_play": false,
+        "frequency": "FM 95.6",
+        "link_deatils": "/radios/Anemos_FM",
+        "link_player": "/radios/play/Anemos_FM",
+        "image": "https://static-media.streema.com/media/cache/93/03/930314381a4e1c50e8a7f9680c6da03e.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Samos",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "\n        \n          \n          \n          \n          \n        ",
+            "stars": 5
+        },
+        "genres": ["Greek", "Hits", "Pop", "Top 40"],
+        "location": {
+            "city": "Samos",
+            "country": "Greece"
+        },
+        "profile_slogan": "Ο καλύτερος ραδιοφωνικός σταθμός της Σάμου και όχι μόνο... Άνεμος 95,6!",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Anemos FM 95.6 is a broadcast radio station from Samos, Greece, providing Top 40/Pop and Greek music.",
+            "rest": "Anemos FM 95.6 is a broadcast radio station from Samos, Greece, providing Top 40/Pop and Greek music."
+        },
+        "radio_contacts": {
+            "short": "Anemos FM 95.6 is a broadcast radio station from Samos, Greece, providing Top 40/Pop and Greek music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.anemos956.gr/",
+            "facebook": "http://www.facebook.com/anemos956/",
+            "twitter": "",
+            "phone": "2273080956",
+            "address": "Μύκαλης 42Α, 83200 Σάμος",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Anemos_FM",
+            "title": "Play Anemos FM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://eco.onestreaming.com:8570/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/95/68/9568ec73b52a69f973915f874267ba96.jpg"
+    }, {
+        "title": "Ράδιο Σάμος 102 FM",
+        "no_play": false,
+        "frequency": "FM 102.0",
+        "link_deatils": "/radios/Samos_FM",
+        "link_player": "/radios/play/Samos_FM",
+        "image": "https://static-media.streema.com/media/cache/ad/6a/ad6ad67e527a737751b0c902ee24628f.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Samos",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Greek", "Music", "News"],
+        "location": {
+            "city": "Samos",
+            "country": "Greece"
+        },
+        "profile_slogan": "Ειδήσεις & πολύ Μουσική",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://radiosamos.gr/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Samos_FM",
+            "title": "Play Ράδιο Σάμος 102 FM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://everest.streams.ovh:1850/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/30/d8/30d8dd5c4e9cac31c7ba59035d005a89.jpg"
+    }, {
+        "title": "Χώρος 94.2",
+        "no_play": true,
+        "frequency": "FM 94.2",
+        "link_deatils": "/radios/Radio_Xoros",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/32/0c/320c8960e25e827b3868daa9e3fac639.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Greece",
+            "link": "/country/Greece"
+        }, {
+            "title": "North Aegean",
+            "link": "/country/Greece/state/North_Aegean"
+        }, {
+            "title": "Samos",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Pop", "Student Radio"],
+        "location": {
+            "city": "Samos",
+            "country": "Greece"
+        },
+        "profile_slogan": "Το ραδιόφωνο των φοιτητών",
+        "radio_language": "Greek",
+        "radio_info": {
+            "short": "Radio Xoros 94.2 Born in the mid-90s by some students of Mathematics who wanted, with passion and love for the art of radio to create",
+            "rest": "a radio station by students for students. Since then, almost 20 years later, it still works facilities thanks to the tenacity and perseverance of the officers. Through this small building in the shadow of the former Commercial School, found, at least once, all students spending ever Karlobasi. Today, the area is maintained and operated with the help and support of the entire student community of Samos."
+        },
+        "radio_contacts": {
+            "short": "Radio Xoros 94.2 Born in the mid-90s by some students of Mathematics who wanted, with passion and love for the art of radio to create",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://xoros.samos.aegean.gr/",
+            "facebook": "http://www.facebook.com/Xoros94.2",
+            "twitter": "http://twitter.com/xoros942",
+            "phone": "+30 22730-82090",
+            "address": "Εμπορική Σχολή, 83200 Néon Karlóvasi, Samos, Greece",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}]

@@ -1,0 +1,435 @@
+[{
+    "title": "Lublin",
+    "link": "https://streema.com/radios/Lublin",
+    "msg_results": "8 Radio Stations from Lublin",
+    "page_copy": "Listen to radio stations from Lublin, from a wide variety of genres like Adult Contemporary, Polish, Pop, Rock and Top 40.  Enjoy stations such as Radio eR 87.9, PR R Lublin, Radio PLUS, Radio Centrum, Radio Freee and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Radio eR 87.9",
+        "no_play": true,
+        "frequency": "FM 87.9",
+        "link_deatils": "/radios/Radio_eR_87.9",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/56/0f/560f1fff3edcb65904f380e007119827.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Lublin",
+            "link": "/radios/country/Poland/state/Lublin"
+        }, {
+            "title": "Lublin",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "1 Listens",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Hits", "Pop", "Top 40"],
+        "location": {
+            "city": "Lublin",
+            "country": "Poland"
+        },
+        "profile_slogan": "Rozgłośnia Archidiecezji Lubelskiej",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Radio eR 87.9 is a broadcast Radio station from Lublin, Poland, providing Top 40/Pop, Adult Contemporary music.",
+            "rest": "Radio eR 87.9 is a broadcast Radio station from Lublin, Poland, providing Top 40/Pop, Adult Contemporary music."
+        },
+        "radio_contacts": {
+            "short": "Radio eR 87.9 is a broadcast Radio station from Lublin, Poland, providing Top 40/Pop, Adult Contemporary music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://radioer.pl/",
+            "facebook": "http://www.facebook.com/RadioeRLublin",
+            "twitter": "http://twitter.com/RadioErLublin",
+            "phone": "(81) 527 55 11",
+            "address": "ul. Jana Pawla II 11 20-535",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "PR R Lublin",
+        "no_play": false,
+        "frequency": "FM 102.2",
+        "link_deatils": "/radios/PR_R_Lublin",
+        "link_player": "/radios/play/PR_R_Lublin",
+        "image": "https://static-media.streema.com/media/cache/fa/d5/fad54eda87b5b29a93aace38c5f2eb6d.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Lublin",
+            "link": "/radios/country/Poland/state/Lublin"
+        }, {
+            "title": "Lublin",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Pop", "Rock", "Top 40"],
+        "location": {
+            "city": "Lublin",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radio.lublin.pl/",
+            "facebook": "http://www.facebook.com/RadioLublin/",
+            "twitter": "http://twitter.com/radiolublin",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/PR_R_Lublin",
+            "title": "Play PR R Lublin"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streaming.radio.lublin.pl:8000/128k",
+        "radio_image": "https://static-media.streema.com/media/cache/7b/29/7b29a0f8af0591d11b3244e557877eca.jpg"
+    }, {
+        "title": "Radio PLUS",
+        "no_play": false,
+        "frequency": "FM 87.9",
+        "link_deatils": "/radios/Radio_eR",
+        "link_player": "/radios/play/Radio_eR",
+        "image": "https://static-media.streema.com/media/cache/91/0b/910b58b34365f9ac8a20f37224bea20b.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Lublin",
+            "link": "/radios/country/Poland/state/Lublin"
+        }, {
+            "title": "Lublin",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Pop", "Rock", "Top 40"],
+        "location": {
+            "city": "Lublin",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radioplus.pl/",
+            "facebook": "http://www.facebook.com/PlusRadio/",
+            "twitter": "http://twitter.com/radio__plus?lang=en",
+            "phone": "",
+            "address": "ul. Krakowskie Przedmieście 55 20-076 Lublin",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_eR",
+            "title": "Play Radio PLUS"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://ext03.ic.smcdn.pl/4130-1.aac",
+        "radio_image": "https://static-media.streema.com/media/cache/11/1b/111bd5a0e3394cbd8e9123cb8aecf521.jpg"
+    }, {
+        "title": "Radio Centrum",
+        "no_play": false,
+        "frequency": "FM 98.2",
+        "link_deatils": "/radios/Radio_Centrum",
+        "link_player": "/radios/play/Radio_Centrum",
+        "image": "https://static-media.streema.com/media/cache/2d/6f/2d6fc2bd60295ebf523e7e89808eec0d.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Lublin",
+            "link": "/radios/country/Poland/state/Lublin"
+        }, {
+            "title": "Lublin",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Polish", "Rock"],
+        "location": {
+            "city": "Lublin",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Wiecej roke",
+            "rest": "Wiecej roke"
+        },
+        "radio_contacts": {
+            "short": "Wiecej roke",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.centrum.fm/",
+            "facebook": "http://www.facebook.com/centrumfm/",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Centrum",
+            "title": "Play Radio Centrum"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://5.201.13.191/live",
+        "radio_image": "https://static-media.streema.com/media/cache/94/43/9443c0b1443b251f56ac73afd2401cad.jpg"
+    }, {
+        "title": "Radio Freee",
+        "no_play": false,
+        "frequency": "FM 89.9",
+        "link_deatils": "/radios/Radio_Freee_89.9_FM",
+        "link_player": "/radios/play/Radio_Freee_89.9_FM",
+        "image": "https://static-media.streema.com/media/cache/b2/8f/b28fc298c9dd86c4f7e49f4cc5ea7b65.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Lublin",
+            "link": "/radios/country/Poland/state/Lublin"
+        }, {
+            "title": "Lublin",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance", "Electronica", "Pop", "Top 40"],
+        "location": {
+            "city": "Lublin",
+            "country": "Poland"
+        },
+        "profile_slogan": "dopalać muse ... here's an idea!",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Radio Freee - 89.9 FM is a broadcast based radio station from Lublin that plays Top 40-Pop, Electronic-Dance genre of music.",
+            "rest": "Radio Freee - 89.9 FM is a broadcast based radio station from Lublin that plays Top 40-Pop, Electronic-Dance genre of music."
+        },
+        "radio_contacts": {
+            "short": "Radio Freee - 89.9 FM is a broadcast based radio station from Lublin that plays Top 40-Pop, Electronic-Dance genre of music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiofreee.pl/",
+            "facebook": "http://www.facebook.com/RadioFreee",
+            "twitter": "",
+            "phone": "0-81-53-64-200",
+            "address": "Radio Freee, ul. Obrońców Pokoju 2, 20-030 Lublin",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Freee_89.9_FM",
+            "title": "Play Radio Freee"
+        },
+        "radio_shows": [""],
+        "radio_source": "https://streaming.radio.lublin.pl:8843/radiofreee",
+        "radio_image": "https://static-media.streema.com/media/cache/52/8c/528c06decfe1b95f3c135f1290e14f0b.jpg"
+    }, {
+        "title": "Idź Pod Prąd FM",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Idz_Pod_Prad",
+        "link_player": "/radios/play/Idz_Pod_Prad",
+        "image": "https://static-media.streema.com/media/cache/ee/1f/ee1fa8e862935b369f95ea20a6d9b5e7.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Lublin",
+            "link": "/radios/country/Poland/state/Lublin"
+        }, {
+            "title": "Lublin",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Polish", "Pop"],
+        "location": {
+            "city": "Lublin",
+            "country": "Poland"
+        },
+        "profile_slogan": "Na inne kierunki szkoda czasu",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://idzpodprad.fm/",
+            "facebook": "http://www.facebook.com/idzpodprad/",
+            "twitter": "http://twitter.com/idzpodpradpl",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Idz_Pod_Prad",
+            "title": "Play Idź Pod Prąd FM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://idzpodprad.out.airtime.pro:8000/idzpodprad_a",
+        "radio_image": "https://static-media.streema.com/media/cache/d6/43/d643bb414bf2f7e6eda602e606abb42c.jpg"
+    }, {
+        "title": "Radio Eska Lublin",
+        "no_play": false,
+        "frequency": "FM 103.6",
+        "link_deatils": "/radios/Radio_Eska_Lublin",
+        "link_player": "/radios/play/Radio_Eska_Lublin",
+        "image": "https://static-media.streema.com/media/cache/c1/fe/c1fec6a162e1ffbbbcad56d3a80e82f3.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Lublin",
+            "link": "/radios/country/Poland/state/Lublin"
+        }, {
+            "title": "Lublin",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Pop", "Rock", "Top 40"],
+        "location": {
+            "city": "Lublin",
+            "country": "Poland"
+        },
+        "profile_slogan": "Muzyka w Twoim klimacie tam, gdzie jesteś",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Radio Eska Lublin is a broadcast radio station from Lubin, Poland providing Euro Hits and Top 40/Pop music.",
+            "rest": "Radio Eska Lublin is a broadcast radio station from Lubin, Poland providing Euro Hits and Top 40/Pop music."
+        },
+        "radio_contacts": {
+            "short": "Radio Eska Lublin is a broadcast radio station from Lubin, Poland providing Euro Hits and Top 40/Pop music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.eska.pl/lublin/",
+            "facebook": "http://www.facebook.com/radioeska",
+            "twitter": "http://twitter.com/eska_pl",
+            "phone": "+48 22 516 47 00",
+            "address": "ul. Jubilerska 10, 04-190 Warsaw, Poland",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Eska_Lublin",
+            "title": "Play Radio Eska Lublin"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://pldm.ml/radio?url=http://www.eskago.pl/radio/eska-lublin",
+        "radio_image": "https://static-media.streema.com/media/cache/e6/b1/e6b19b66f69129965b1a4887d7f968fd.jpg"
+    }, {
+        "title": "orthodox.fm",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/orthodox_FM",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/e7/c7/e7c71e99361119bb43194903ae17b31a.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/radios/country/Poland"
+        }, {
+            "title": "Lublin",
+            "link": "/radios/country/Poland/state/Lublin"
+        }, {
+            "title": "Lublin",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Christian", "Gospel", "Religious", "Spiritual"],
+        "location": {
+            "city": "Lublin",
+            "country": "Poland"
+        },
+        "profile_slogan": "Portal Medialny Prawosławnej Diecezji Lubelsko-Chełmskiej",
+        "radio_language": "Polish / Ukrainian",
+        "radio_info": {
+            "short": "orthodox.fm is an internet radio station from Lublin, Poland, providing Christian, Gospel and Religious programming.",
+            "rest": "orthodox.fm is an internet radio station from Lublin, Poland, providing Christian, Gospel and Religious programming."
+        },
+        "radio_contacts": {
+            "short": "orthodox.fm is an internet radio station from Lublin, Poland, providing Christian, Gospel and Religious programming.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://orthodox.fm/",
+            "facebook": "http://www.facebook.com/Orthodox.fm",
+            "twitter": "http://twitter.com/orthodoxfm",
+            "phone": "redakcja@orthodox.fm",
+            "address": "ul. Ruska 15 20-126 Lublin, Poland",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}]

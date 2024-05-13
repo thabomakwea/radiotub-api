@@ -1,0 +1,2809 @@
+[{
+    "title": "Halle",
+    "link": "https://streema.com/radios/Halle",
+    "msg_results": "30 Radio Stations from Halle",
+    "page_copy": "Listen to radio stations from Halle, from a wide variety of genres like Adult Contemporary, Dance, Hits, Pop and Rock.  Enjoy stations such as Halse Radio Victoria, MDR Sputnik - Firstplay, radio.null6, Radio Brocken - Lovesongs, Radio Brocken - Kinderzeit and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Halse Radio Victoria",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Halse_Radio_Victoria",
+        "link_player": "/radios/play/Halse_Radio_Victoria",
+        "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Halle",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Hits"],
+        "location": {
+            "city": "Halle",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "De Halse Radio Victoria : regionaal nieuws uit Zuid-West Brabant",
+            "rest": "De Halse Radio Victoria : regionaal nieuws uit Zuid-West Brabant"
+        },
+        "radio_contacts": {
+            "short": "De Halse Radio Victoria : regionaal nieuws uit Zuid-West Brabant",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiovictoria.be/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Halse_Radio_Victoria",
+            "title": "Play Halse Radio Victoria"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://shoutcast.radiovictoria.be:8000/",
+        "radio_image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.150.1311873be3ab.png"
+    }, {
+        "title": "MDR Sputnik - Firstplay",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/MDR_Sputnik_Firstplay",
+        "link_player": "/radios/play/MDR_Sputnik_Firstplay",
+        "image": "https://static-media.streema.com/media/cache/e0/d1/e0d1f6c601568a8a48c341615925b84c.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Halle",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Pop", "RnB", "Rock"],
+        "location": {
+            "city": "Halle",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.sputnik.de/home/sputnik-home100.html",
+            "facebook": "http://www.facebook.com/mdrsputnik",
+            "twitter": "http://twitter.com/mdrsputnik",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/MDR_Sputnik_Firstplay",
+            "title": "Play MDR Sputnik - Firstplay"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://mdr-284331-3.cast.mdr.de/mdr/284331/3/mp3/high/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/76/9f/769fd068a26d8715c7b51c9e9c7a6c10.jpg"
+    }, {
+        "title": "radio.null6",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/radio.null6",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/3f/94/3f94539725d6a1b1e032606cfbcdf5a7.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Halle",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["60s", "70s", "80s", "Adult Contemporary"],
+        "location": {
+            "city": "Halle",
+            "country": "Germany"
+        },
+        "profile_slogan": "Tophits Topoldies",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "radio.null6 ist ein informatives und unterhaltsames Programm aus Rock, Pop, Oldies und deutschen Hits. radio.null6, das Radio für den Süden von Sachsen-Anhalt.",
+            "rest": "radio.null6 ist ein informatives und unterhaltsames Programm aus Rock, Pop, Oldies und deutschen Hits. radio.null6, das Radio für den Süden von Sachsen-Anhalt."
+        },
+        "radio_contacts": {
+            "short": "radio.null6 ist ein informatives und unterhaltsames Programm aus Rock, Pop, Oldies und deutschen Hits. radio.null6, das Radio für den Süden von Sachsen-Anhalt.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radio.null6.net",
+            "facebook": "http://www.facebook.com/Radionull6-321009048336043",
+            "twitter": "http://twitter.com/radionull6",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio Brocken - Lovesongs",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Brocken_Lovesongs",
+        "link_player": "/radios/play/Radio_Brocken_Lovesongs",
+        "image": "https://static-media.streema.com/media/cache/09/d6/09d6ef3d1b3d90868d0ed7ccd2265c03.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Halle",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Love Songs", "Pop", "Rock", "Soul"],
+        "location": {
+            "city": "Halle",
+            "country": "Germany"
+        },
+        "profile_slogan": "Die schönsten Lovesongs aller Zeiten!",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Jetzt wird’s romantisch! Für alle verliebten Menschen und die schönsten Stunden zu zweit gibt’s jetzt genau das Richtige: Die Radio Brocken Lovesongs.",
+            "rest": "Jetzt wird’s romantisch! Für alle verliebten Menschen und die schönsten Stunden zu zweit gibt’s jetzt genau das Richtige: Die Radio Brocken Lovesongs."
+        },
+        "radio_contacts": {
+            "short": "Jetzt wird’s romantisch! Für alle verliebten Menschen und die schönsten Stunden zu zweit gibt’s jetzt genau das Richtige: Die Radio Brocken Lovesongs.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiobrocken.de/",
+            "facebook": "http://www.facebook.com/RadioBrocken",
+            "twitter": "http://twitter.com/RadioBrocken",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Brocken_Lovesongs",
+            "title": "Play Radio Brocken - Lovesongs"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.radiobrocken.de/love/mp3-256/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/2a/da/2adad3e41c5a11954ec93559bacdd571.jpg"
+    }, {
+        "title": "Radio Brocken - Kinderzeit",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Brocken_Kinderzeit",
+        "link_player": "/radios/play/Radio_Brocken_Kinderzeit",
+        "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Halle",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["00s", "German", "Kids", "Talk"],
+        "location": {
+            "city": "Halle",
+            "country": "Germany"
+        },
+        "profile_slogan": "Das Radio Brocken Kinderradio mit den Hits für die Kids!",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Das Radio Brocken Kinderradio mit den Hits für die Kids! Hier machen die Kleinen ganz große Ohren: Denn nur hier gibts die schönsten und bekanntesten",
+            "rest": "Kinderlieder, kuriose Kinderfragen und die fesselndsten Hörspiele. "
+        },
+        "radio_contacts": {
+            "short": "Das Radio Brocken Kinderradio mit den Hits für die Kids! Hier machen die Kleinen ganz große Ohren: Denn nur hier gibts die schönsten und bekanntesten",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiobrocken.de/",
+            "facebook": "http://www.facebook.com/RadioBrocken",
+            "twitter": "http://twitter.com/RadioBrocken",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Brocken_Kinderzeit",
+            "title": "Play Radio Brocken - Kinderzeit"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.radiobrocken.de/kinderzeit/mp3-256/streema/",
+        "radio_image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.150.1311873be3ab.png"
+    }, {
+        "title": "MDR Klassik",
+        "no_play": false,
+        "frequency": "FM 91.4",
+        "link_deatils": "/radios/MDR_Klassik",
+        "link_player": "/radios/play/MDR_Klassik",
+        "image": "https://static-media.streema.com/media/cache/43/eb/43ebec2bda56c333486f3540aa78afba.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Halle",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Classical", "Classics", "News", "Opera"],
+        "location": {
+            "city": "Halle",
+            "country": "Germany"
+        },
+        "profile_slogan": "Radio Classique Allemande",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "MDR Klassik 91.4 is a broadcast Radio station from Halle, Sachsen-Anhalt, Germany, providing Classical, Classics and Opera Music.",
+            "rest": "MDR Klassik 91.4 is a broadcast Radio station from Halle, Sachsen-Anhalt, Germany, providing Classical, Classics and Opera Music."
+        },
+        "radio_contacts": {
+            "short": "MDR Klassik 91.4 is a broadcast Radio station from Halle, Sachsen-Anhalt, Germany, providing Classical, Classics and Opera Music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.mdr.de/mdr-klassik/",
+            "facebook": "http://www.facebook.com/MDRKlassik",
+            "twitter": "http://twitter.com/MDRKLASSIK",
+            "phone": "0345 / 300 5196",
+            "address": "Gerberstraße 2 06108 Halle",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/MDR_Klassik",
+            "title": "Play MDR Klassik"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://mdr-284350-0.cast.mdr.de/mdr/284350/0/mp3/high/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/cd/69/cd6967d8f53a1921ccc083fd2cbedc3a.jpg"
+    }, {
+        "title": "MDR Aktuell",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/MDR_Aktuell",
+        "link_player": "/radios/play/MDR_Aktuell",
+        "image": "https://static-media.streema.com/media/cache/6e/6d/6e6d099c1e9ae5f2bba258ccc5dd87a0.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Halle",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["News"],
+        "location": {
+            "city": "Halle",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "MDR Aktuell ist ein Web radiosender aus Halle, Sachsen-Anhalt, Germany, und bietet News.",
+            "rest": "MDR Aktuell ist ein Web radiosender aus Halle, Sachsen-Anhalt, Germany, und bietet News."
+        },
+        "radio_contacts": {
+            "short": "MDR Aktuell ist ein Web radiosender aus Halle, Sachsen-Anhalt, Germany, und bietet News.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.mdr.de/nachrichten/index.html",
+            "facebook": "http://www.facebook.com/MDRAKTUELL/",
+            "twitter": "http://twitter.com/MDRaktuell",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/MDR_Aktuell",
+            "title": "Play MDR Aktuell"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://mdr-284340-0.cast.mdr.de/mdr/284340/0/aac/high/stream.aac",
+        "radio_image": "https://static-media.streema.com/media/cache/be/b4/beb49914805353a2d609dc3079580c53.jpg"
+    }, {
+        "title": "MDR Jump Radio",
+        "no_play": false,
+        "frequency": "FM 87.7",
+        "link_deatils": "/radios/Jump_Radio",
+        "link_player": "/radios/play/Jump_Radio",
+        "image": "https://static-media.streema.com/media/cache/a0/2d/a02d763d9f40e4b76980a432f6e1b094.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Halle",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance", "Hits"],
+        "location": {
+            "city": "Halle",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "JUMP - der neue Sound. Aufstehen mit der besten Musik am Morgen! Aufstehen mit Miriam und Rockenberg, immer von 5 bis 10! JUMP ist der",
+            "rest": "führende Musiksender in Sachsen, Sachsen-Anhalt und Thüringen. Über eine Million Menschen hören täglich das populäre Programm des Mitteldeutschen Rundfunks."
+        },
+        "radio_contacts": {
+            "short": "JUMP - der neue Sound. Aufstehen mit der besten Musik am Morgen! Aufstehen mit Miriam und Rockenberg, immer von 5 bis 10! JUMP ist der",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.jumpradio.de/",
+            "facebook": "http://www.facebook.com/mdrjump",
+            "twitter": "http://twitter.com/mdrjump",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Jump_Radio",
+            "title": "Play MDR Jump Radio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://mdr-284320-0.cast.mdr.de/mdr/284320/0/mp3/high/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/f1/78/f17889b46e8419db781e52f950ab6ad8.jpg"
+    }, {
+        "title": "MDR JUMP",
+        "no_play": false,
+        "frequency": "DAB 9A",
+        "link_deatils": "/radios/MDR_JUMP",
+        "link_player": "/radios/play/MDR_JUMP",
+        "image": "https://static-media.streema.com/media/cache/f9/a7/f9a72ab5e93505f7d7115553c5c65b43.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Halle",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Electronica", "Pop", "Rock", "Top 40"],
+        "location": {
+            "city": "Halle",
+            "country": "Germany"
+        },
+        "profile_slogan": "In The Mix Channel",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "MDR JUMP In The Mix Channel is an Internet Radio station broadcasting from Halle, Germany, provides Rock, Top 40/Pop, Electronic and Dance Music.",
+            "rest": "MDR JUMP In The Mix Channel is an Internet Radio station broadcasting from Halle, Germany, provides Rock, Top 40/Pop, Electronic and Dance Music."
+        },
+        "radio_contacts": {
+            "short": "MDR JUMP In The Mix Channel is an Internet Radio station broadcasting from Halle, Germany, provides Rock, Top 40/Pop, Electronic and Dance Music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.jumpradio.de/index.html",
+            "facebook": "",
+            "twitter": "http://twitter.com/mdrjump",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/MDR_JUMP",
+            "title": "Play MDR JUMP"
+        },
+        "radio_shows": [""],
+        "radio_source": "https://mdr-284320-0.sslcast.mdr.de/mdr/284320/0/mp3/high/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/1b/67/1b67436eb4a1195433f2d97a0749af12.jpg"
+    }, {
+        "title": "Radio Corax",
+        "no_play": false,
+        "frequency": "FM 95.9",
+        "link_deatils": "/radios/Radio_Corax",
+        "link_player": "/radios/play/Radio_Corax",
+        "image": "https://static-media.streema.com/media/cache/1c/5e/1c5ebfd959df3d54372b7f45e1f3ba50.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Halle",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Community"],
+        "location": {
+            "city": "Halle",
+            "country": "Germany"
+        },
+        "profile_slogan": "Freies Radio im Raum Halle auf UKW 95.9",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Radio CORAX",
+            "rest": "Radio CORAX"
+        },
+        "radio_contacts": {
+            "short": "Radio CORAX",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://cms.radiocorax.de/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Corax",
+            "title": "Play Radio Corax"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streaming.fueralle.org:8000/corax.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/4d/05/4d054184bfc3a63a20dbbe6d5db70a19.jpg"
+    }, {
+        "title": "Radio Brocken - Weihnachtsradio",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Brocken_Weihnachtsradio",
+        "link_player": "/radios/play/Radio_Brocken_Weihnachtsradio",
+        "image": "https://static-media.streema.com/media/cache/b2/2f/b22f971c83c23cfe7de0c8b4353f0125.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Halle",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Christmas", "Holidays", "Pop", "Rock"],
+        "location": {
+            "city": "Halle",
+            "country": "Germany"
+        },
+        "profile_slogan": "The best christmas songs from all over the world!",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Radio Brocken Weihnachtsradio ist ein Web radiosender aus Halle, Sachsen-Anhalt, Germany, und bietet Adult Contemporary, Christmas, Pop.",
+            "rest": "Radio Brocken Weihnachtsradio ist ein Web radiosender aus Halle, Sachsen-Anhalt, Germany, und bietet Adult Contemporary, Christmas, Pop."
+        },
+        "radio_contacts": {
+            "short": "Radio Brocken Weihnachtsradio ist ein Web radiosender aus Halle, Sachsen-Anhalt, Germany, und bietet Adult Contemporary, Christmas, Pop.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radio-brocken.de/",
+            "facebook": "http://www.facebook.com/RadioBrocken",
+            "twitter": "http://twitter.com/radiobrocken",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Brocken_Weihnachtsradio",
+            "title": "Play Radio Brocken - Weihnachtsradio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.radiobrocken.de/weihnachtsradio/mp3-256/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/e6/48/e6488830a09c2ef59148dca061592155.jpg"
+    }, {
+        "title": "Radio Brocken - 90er",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Brocken_90er",
+        "link_player": "/radios/play/Radio_Brocken_90er",
+        "image": "https://static-media.streema.com/media/cache/22/6e/226e837ce5edcc3928619993116bed78.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Halle",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["90s", "Classic Rock", "Pop", "Rock"],
+        "location": {
+            "city": "Halle",
+            "country": "Germany"
+        },
+        "profile_slogan": "Alle Lieblingshits aus den 90ern!",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Von Ace of Base bis Whigfield, von Backstreet Boys bis Roxette: Hier gibts alle Hits der 90er Nonstop - beim Radio Brocken 90er Stream. Loveparade,",
+            "rest": " Gameboy, Baywatch und jede Menge Boygroups - ein verrücktes Jahrzehnt mit jeder Menge abgefahrener Musik. "
+        },
+        "radio_contacts": {
+            "short": "Von Ace of Base bis Whigfield, von Backstreet Boys bis Roxette: Hier gibts alle Hits der 90er Nonstop - beim Radio Brocken 90er Stream. Loveparade,",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiobrocken.de/",
+            "facebook": "http://www.facebook.com/RadioBrocken",
+            "twitter": "http://twitter.com/RadioBrocken",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Brocken_90er",
+            "title": "Play Radio Brocken - 90er"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.radiobrocken.de/90er/mp3-256/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/1e/e9/1ee95a6aa1997a8762a565ce8ef8863a.jpg"
+    }, {
+        "title": "MDR Sputnik - Club",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/MDR_Sputnik_Club",
+        "link_player": "/radios/play/MDR_Sputnik_Club",
+        "image": "https://static-media.streema.com/media/cache/40/6f/406f1a2ab42e5f84a053da3fa194d6ce.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Halle",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance", "EDM", "Electro", "Pop"],
+        "location": {
+            "city": "Halle",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.sputnik.de/home/sputnik-home100.html",
+            "facebook": "http://www.facebook.com/mdrsputnik",
+            "twitter": "http://twitter.com/mdrsputnik",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/MDR_Sputnik_Club",
+            "title": "Play MDR Sputnik - Club"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://mdr-284331-2.cast.mdr.de/mdr/284331/2/mp3/high/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/fd/c4/fdc4ff8a6899b742402590a5f02e2eb3.jpg"
+    }, {
+        "title": "MDR Sputnik - Rock",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/MDR_Sputnik_Rock",
+        "link_player": "/radios/play/MDR_Sputnik_Rock",
+        "image": "https://static-media.streema.com/media/cache/a6/76/a6769b86c9eb1e860e899fa0e1f23a7b.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Halle",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Rock"],
+        "location": {
+            "city": "Halle",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.sputnik.de/home/sputnik-home100.html",
+            "facebook": "http://www.facebook.com/mdrsputnik",
+            "twitter": "http://twitter.com/mdrsputnik",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/MDR_Sputnik_Rock",
+            "title": "Play MDR Sputnik - Rock"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://mdr-284331-1.cast.mdr.de/mdr/284331/1/mp3/high/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/5a/e3/5ae3bf46b24f94b3a2c332588421a5e2.jpg"
+    }, {
+        "title": "MDR Sputnik - Black",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/MDR_Sputnik_Black",
+        "link_player": "/radios/play/MDR_Sputnik_Black",
+        "image": "https://static-media.streema.com/media/cache/fb/2f/fb2f0e7fc312430fe0420776094989cd.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Halle",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Hip Hop", "RnB", "Urban"],
+        "location": {
+            "city": "Halle",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.sputnik.de/home/sputnik-home100.html",
+            "facebook": "http://www.facebook.com/mdrsputnik",
+            "twitter": "http://twitter.com/mdrsputnik",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/MDR_Sputnik_Black",
+            "title": "Play MDR Sputnik - Black"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://mdr-284331-0.cast.mdr.de/mdr/284331/0/mp3/high/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/e3/ca/e3ca2c691b317253531562353899bf08.jpg"
+    }, {
+        "title": "MDR Sputnik - Popkult",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/MDR_Sputnik_Popkult",
+        "link_player": "/radios/play/MDR_Sputnik_Popkult",
+        "image": "https://static-media.streema.com/media/cache/a1/ac/a1ac651385c7c4f3c3a6e48d832da00f.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Halle",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Pop"],
+        "location": {
+            "city": "Halle",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.sputnik.de/home/sputnik-home100.html",
+            "facebook": "http://www.facebook.com/mdrsputnik",
+            "twitter": "http://twitter.com/mdrsputnik",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/MDR_Sputnik_Popkult",
+            "title": "Play MDR Sputnik - Popkult"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://mdr-284331-4.cast.mdr.de/mdr/284331/4/mp3/high/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/91/b6/91b66225a744ba7c3c273d3623a5dc59.jpg"
+    }, {
+        "title": "89.0 RTL - Deutsch House",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/89.0_RTL_Deutsch_House",
+        "link_player": "/radios/play/89.0_RTL_Deutsch_House",
+        "image": "https://static-media.streema.com/media/cache/c2/1f/c21f3bb831892e5512fec06806241fa7.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Halle",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Deep House", "German", "House", "Top 40"],
+        "location": {
+            "city": "Halle",
+            "country": "Germany"
+        },
+        "profile_slogan": "Die besten Deutsch-House Hits!",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Gestört aber GeiL, Stereoact, Lizot, Mark Tarmonea - die Liste der deutschsprachige Beatkünstler ist lang. In unserem Deutsch House Channel kriegst du die besten Hits",
+            "rest": "aus dem Bereich Deutsch-House. Reinhören, tanzen und mitsingen!   "
+        },
+        "radio_contacts": {
+            "short": "Gestört aber GeiL, Stereoact, Lizot, Mark Tarmonea - die Liste der deutschsprachige Beatkünstler ist lang. In unserem Deutsch House Channel kriegst du die besten Hits",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.89.0rtl.de/",
+            "facebook": "http://www.facebook.com/890RTL",
+            "twitter": "http://twitter.com/890rtl",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/89.0_RTL_Deutsch_House",
+            "title": "Play 89.0 RTL - Deutsch House"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.89.0rtl.de/deutschhouse/mp3-256/radioplayerHP/",
+        "radio_image": "https://static-media.streema.com/media/cache/c6/d2/c6d23ae803c984fab5c17f2685ad8145.jpg"
+    }, {
+        "title": "MDR Sputnik - Roboton",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/MDR_Sputnik_Roboton",
+        "link_player": "/radios/play/MDR_Sputnik_Roboton",
+        "image": "https://static-media.streema.com/media/cache/67/13/671349a2c245300e2a8693c8d52e30f9.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Halle",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["EDM"],
+        "location": {
+            "city": "Halle",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.sputnik.de/home/sputnik-home100.html",
+            "facebook": "http://www.facebook.com/mdrsputnik",
+            "twitter": "http://twitter.com/mdrsputnik",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/MDR_Sputnik_Roboton",
+            "title": "Play MDR Sputnik - Roboton"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://mdr-284331-5.cast.mdr.de/mdr/284331/5/mp3/high/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/01/67/01677c774b9a2d0cd4c97a18a15a229c.jpg"
+    }, {
+        "title": "MDR Sputnik - Soundcheck",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/MDR_Sputnik_Soundcheck",
+        "link_player": "/radios/play/MDR_Sputnik_Soundcheck",
+        "image": "https://static-media.streema.com/media/cache/a5/aa/a5aa4dca7e9cfa344511f82c8c899696.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Halle",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Indie", "Pop", "RnB", "Rock"],
+        "location": {
+            "city": "Halle",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.sputnik.de/home/sputnik-home100.html",
+            "facebook": "http://www.facebook.com/mdrsputnik",
+            "twitter": "http://twitter.com/mdrsputnik",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/MDR_Sputnik_Soundcheck",
+            "title": "Play MDR Sputnik - Soundcheck"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://mdr-284331-6.cast.mdr.de/mdr/284331/6/mp3/high/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/d9/f9/d9f9507ce14a50f7cd5229c663c5a28b.jpg"
+    }, {
+        "title": "Radio Brocken - 80er",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Brocken_Kulthits",
+        "link_player": "/radios/play/Radio_Brocken_Kulthits",
+        "image": "https://static-media.streema.com/media/cache/df/2d/df2d870c9a3cf069dfea3d3bed6a64d3.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Halle",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "\n        \n          \n          \n          \n          \n        ",
+            "stars": 5
+        },
+        "genres": ["80s", "Pop", "Soft"],
+        "location": {
+            "city": "Halle",
+            "country": "Germany"
+        },
+        "profile_slogan": "100 Prozent 80er, 100 Prozent Lieblingshits!",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Mauerfall, Zauberwürfel, Knight Rider, Schulterpolster und so viel gute Musik. Die 80er gibts jetzt bei Radio Brocken sogar rund um die Uhr. 100 Prozent 80er",
+            "rest": "Musik - von Aha bis ZZ Top, von Madonna bis Bon Jovi. Und das Nonstop, 24 Stunden am Tag!   "
+        },
+        "radio_contacts": {
+            "short": "Mauerfall, Zauberwürfel, Knight Rider, Schulterpolster und so viel gute Musik. Die 80er gibts jetzt bei Radio Brocken sogar rund um die Uhr. 100 Prozent 80er",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiobrocken.de/",
+            "facebook": "http://www.facebook.com/RadioBrocken",
+            "twitter": "http://twitter.com/radiobrocken",
+            "phone": "0345/5258-0",
+            "address": "Große Ulrichstraße 60 D, 06108 Halle (Saale)",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Brocken_Kulthits",
+            "title": "Play Radio Brocken - 80er"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.radiobrocken.de/80er/mp3-256/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/6c/11/6c117568d7313b51e27ca862b25be279.jpg"
+    }, {
+        "title": "Radio Brocken",
+        "no_play": false,
+        "frequency": "FM 93.5",
+        "link_deatils": "/radios/Radio_Brocken",
+        "link_player": "/radios/play/Radio_Brocken",
+        "image": "https://static-media.streema.com/media/cache/13/fa/13faff09bd6db3aaad86acad26eb4410.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Halle",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["80s", "90s", "Adult Contemporary", "Hits", "Pop", "Variety"],
+        "location": {
+            "city": "Halle",
+            "country": "Germany"
+        },
+        "profile_slogan": "Kulthits und das Beste von heute!",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Radio Brocken ging am 1. Juli 1992 als erstes Privatradio in Sachsen-Anhalt auf Sendung. Mit seinem hörernahen Unterhaltungs- und Serviceprogramm aus Sachsen-Anhalt für Sachsen-Anhalt ist",
+            "rest": "der Sender ein unverzichtbarer Begleiter für die ganze Familie. Die Moderatoren punkten mit Witz und Charme, aber auch mit zielgerichteter Berichterstattung in Sachen Politik, Wirtschaft und Sport. Zusätzlich gibt es rund um die Uhr alle wichtigen Informationen der Region und die aktuellsten Meldungen aus der Radio Brocken-Verkehrszentrale sowie vom Radio Brocken-Wetter-Radar. Mittlerweile schaltet jeder dritte Sachsen-Anhalter täglich sein Lieblingsprogramm Radio Brocken ein und der Sender ist aus dem Alltag der Hörer nicht mehr wegzudenken!\n\nRadio Brocken is a radio station that serves Saxonia-Anhalt in Germany since 1992 with an infotainment program for the whole family. \nThe current slogan is “Legendary hits and the best of today” and the station is playing a wide range of music with popular songs from the 60s up to today's best hits - simply more music - more variety.\nThe Radio Brocken Morningshow is on every morning from 5am to 10am and hosted by Holger Tapper. The show features news, traffic reports, weather updates, comedy bits, regional stories, various contests and the most music.\n"
+        },
+        "radio_contacts": {
+            "short": "Radio Brocken ging am 1. Juli 1992 als erstes Privatradio in Sachsen-Anhalt auf Sendung. Mit seinem hörernahen Unterhaltungs- und Serviceprogramm aus Sachsen-Anhalt für Sachsen-Anhalt ist",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiobrocken.de/",
+            "facebook": "http://www.facebook.com/RadioBrocken",
+            "twitter": "http://twitter.com/radiobrocken",
+            "phone": "0345 / 20 44 300",
+            "address": "Große Ulrichstraße 60 D, 06108 Halle (Saale)",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Brocken",
+            "title": "Play Radio Brocken"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.radiobrocken.de/live/mp3-256/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/36/2f/362f1f8a76a0639bd63c8c90dc55dc2e.jpg"
+    }, {
+        "title": "Radio Brocken - Best of...",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Brocken_Best_of...",
+        "link_player": "/radios/play/Radio_Brocken_Best_of...",
+        "image": "https://static-media.streema.com/media/cache/2e/19/2e193a5093dfeedc874322c5fae59961.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Halle",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Hits", "Pop", "Rock", "Top 40"],
+        "location": {
+            "city": "Halle",
+            "country": "Germany"
+        },
+        "profile_slogan": "Die aktuellsten Musiktrends und die besten Songs aus der Musikgeschichte!",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Was ist musikalisch gerade up to date? Wohin geht der Trend, welche aktuellen Ereignisse beeinflusst auch die Musikauswahl der Hörer - all das gibt’s bei",
+            "rest": "Radio Brocken Best of.. zu erfahren.  "
+        },
+        "radio_contacts": {
+            "short": "Was ist musikalisch gerade up to date? Wohin geht der Trend, welche aktuellen Ereignisse beeinflusst auch die Musikauswahl der Hörer - all das gibt’s bei",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiobrocken.de/",
+            "facebook": "http://www.facebook.com/RadioBrocken",
+            "twitter": "http://twitter.com/radiobrocken/",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Brocken_Best_of...",
+            "title": "Play Radio Brocken - Best of..."
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.radiobrocken.de/bestof/mp3-256/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/e4/f2/e4f27f4470ca391fa5a67b7263658e6c.jpg"
+    }, {
+        "title": "89.0 RTL - In The Mix",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/89.0_RTL_In_The_Mix",
+        "link_player": "/radios/play/89.0_RTL_In_The_Mix",
+        "image": "https://static-media.streema.com/media/cache/1c/f2/1cf21013ce7a7e447c9ee45148c59c07.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Halle",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance", "Electro", "Hits", "Top 40"],
+        "location": {
+            "city": "Halle",
+            "country": "Germany"
+        },
+        "profile_slogan": "The best Hits from today in a Live DJ Mix Set!",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "The best Hits from today in a Live DJ Mix Set! Top-40, Electro, Dance, House, Dubstep, Deep House, Hits, Charts and many more in a",
+            "rest": "special DJ-Mix-Version around the clock!"
+        },
+        "radio_contacts": {
+            "short": "The best Hits from today in a Live DJ Mix Set! Top-40, Electro, Dance, House, Dubstep, Deep House, Hits, Charts and many more in a",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.89.0rtl.de/webradio/890-rtl-mix",
+            "facebook": "http://www.facebook.com/890RTL",
+            "twitter": "http://twitter.com/890rtl",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/89.0_RTL_In_The_Mix",
+            "title": "Play 89.0 RTL - In The Mix"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.89.0rtl.de/mix/mp3-256/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/21/4e/214e8a712620174864f15cc83216d067.jpg"
+    }, {
+        "title": "89.0 RTL - Livestream",
+        "no_play": false,
+        "frequency": "FM 89.0",
+        "link_deatils": "/radios/89.0_RTL",
+        "link_player": "/radios/play/89.0_RTL",
+        "image": "https://static-media.streema.com/media/cache/3e/b3/3eb3a14d48ea841f45dde0add66b35a2.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Halle",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "\n        \n          \n          \n          \n          \n        ",
+            "stars": 5
+        },
+        "genres": ["Electro", "Hits", "Pop", "Rock", "Top 40"],
+        "location": {
+            "city": "Halle",
+            "country": "Germany"
+        },
+        "profile_slogan": "Die besten Hits von heute!",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "89.0 RTL Livestream is a broadcast radio station in Halle, Sachsen-Anhalt, Germany, providing Hits, Top40 and Rock music.",
+            "rest": "89.0 RTL Livestream is a broadcast radio station in Halle, Sachsen-Anhalt, Germany, providing Hits, Top40 and Rock music."
+        },
+        "radio_contacts": {
+            "short": "89.0 RTL Livestream is a broadcast radio station in Halle, Sachsen-Anhalt, Germany, providing Hits, Top40 and Rock music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.89.0rtl.de/",
+            "facebook": "http://www.facebook.com/890RTL",
+            "twitter": "http://twitter.com/890rtl",
+            "phone": "+49 345 5258-0",
+            "address": "Große Ulrichstraße 60 D 06108 Halle",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/89.0_RTL",
+            "title": "Play 89.0 RTL - Livestream"
+        },
+        "radio_shows": [""],
+        "radio_source": "https://stream.89.0rtl.de/live/mp3-256/streema/",
+        "radio_image": "https://static-media.streema.com/media/cache/5b/5c/5b5c5bc71e26fa7bf21f035a0020b7d6.jpg"
+    }, {
+        "title": "MDR KULTUR",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/MDR_FIGARO_Classic_in_Concert",
+        "link_player": "/radios/play/MDR_FIGARO_Classic_in_Concert",
+        "image": "https://static-media.streema.com/media/cache/ad/96/ad96ab16ebc85436b2603317a6a54f19.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Halle",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Classical"],
+        "location": {
+            "city": "Halle",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "",
+        "radio_info": {
+            "short": "MDR KULTUR - Klassik im Konzert (MDR FIGARO Classic in Concert) ist ein Web radiosender aus Germany, und bietet Classical.",
+            "rest": "MDR KULTUR - Klassik im Konzert (MDR FIGARO Classic in Concert) ist ein Web radiosender aus Germany, und bietet Classical."
+        },
+        "radio_contacts": {
+            "short": "MDR KULTUR - Klassik im Konzert (MDR FIGARO Classic in Concert) ist ein Web radiosender aus Germany, und bietet Classical.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.mdr.de/mdr-figaro/webchannels/6525480.html",
+            "facebook": "http://www.facebook.com/mdrkultur/",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/MDR_FIGARO_Classic_in_Concert",
+            "title": "Play MDR KULTUR "
+        },
+        "radio_shows": [""],
+        "radio_source": "https://mdr-284310-0.sslcast.mdr.de/mdr/284310/0/aac/high/stream.aac",
+        "radio_image": "https://static-media.streema.com/media/cache/3a/d1/3ad140e6da53349d6650e352a35abf7e.jpg"
+    }, {
+        "title": "89.0 RTL - Urban Music",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/89.0_RTL_Urban_Music",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/df/f9/dff9d278d270d82ce4b3d493079ec112.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Halle",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Funk", "Hip Hop", "Soul", "Urban"],
+        "location": {
+            "city": "Halle",
+            "country": "Germany"
+        },
+        "profile_slogan": "Die besten Black, HipHop, Rap und R&B Hits von heute!",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "89.0 RTL Urban Music gibt dir die besten Hits aus R&B, Black, Rap und auch HipHop auf die Ohren. Hier findest du deine angesagten Urban-Stars",
+            "rest": "wie ASAP Rocky, Big Sean, Earl Sweatshirt, Frank Ocean, Khalid, Post Malone und viele mehr. "
+        },
+        "radio_contacts": {
+            "short": "89.0 RTL Urban Music gibt dir die besten Hits aus R&B, Black, Rap und auch HipHop auf die Ohren. Hier findest du deine angesagten Urban-Stars",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.89.0rtl.de/",
+            "facebook": "http://www.facebook.com/890RTL",
+            "twitter": "http://twitter.com/890rtl",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "City Of Halle Cam",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/City_Of_Halle_Cam",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/24/14/2414d5370f302019918a61c53a0937b1.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Halle",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["News"],
+        "location": {
+            "city": "Halle",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Halles erste Webcam",
+            "rest": "Halles erste Webcam"
+        },
+        "radio_contacts": {
+            "short": "Halles erste Webcam",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.video.halle-aktuell.de/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Terror DJ Team Radio",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Terror_DJ_Team_Radio",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/64/a3/64a3efd41643419c37dd6c08fb89f122.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Halle",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance", "Electronica", "House", "Minimal"],
+        "location": {
+            "city": "Halle",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Terror DJ Team Radio is an internet radio station from Halle, Germany providing House, Electro, Minimal, Dance and Chart Remixes.",
+            "rest": "Terror DJ Team Radio is an internet radio station from Halle, Germany providing House, Electro, Minimal, Dance and Chart Remixes."
+        },
+        "radio_contacts": {
+            "short": "Terror DJ Team Radio is an internet radio station from Halle, Germany providing House, Electro, Minimal, Dance and Chart Remixes.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.terrordjteam-radio.de/news.php",
+            "facebook": "http://www.facebook.com/pages/Terror-DJ-Team/125242540895942",
+            "twitter": "http://twitter.com/TerrorDJTeam",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Blue Palace Radio",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Blue_Palace_Radio",
+        "link_player": "",
+        "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Halle",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance", "Electronica", "Hits", "Pop"],
+        "location": {
+            "city": "Halle",
+            "country": "Germany"
+        },
+        "profile_slogan": "We Have Your Sound",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Blue Palace Radio is an Internet Radio station broadcasting from Halle, Germany, provides Electronica, Dance and Pop Music.",
+            "rest": "Blue Palace Radio is an Internet Radio station broadcasting from Halle, Germany, provides Electronica, Dance and Pop Music."
+        },
+        "radio_contacts": {
+            "short": "Blue Palace Radio is an Internet Radio station broadcasting from Halle, Germany, provides Electronica, Dance and Pop Music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.blue-palace-radio.de/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "+49(0)171-1711085",
+            "address": "Ronny Ostertag Amtlich geschützt D-32257 Bünde",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Terror DJ Team - TDT Black/House",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Terror_DJ_Team_TDT_BlackHouse",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/64/a3/64a3efd41643419c37dd6c08fb89f122.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Halle",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["House"],
+        "location": {
+            "city": "Halle",
+            "country": "Germany"
+        },
+        "profile_slogan": "WE GENERATE YOUR HEARTBEAT",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Terror DJ Team - TDT Black/House is a radio channel on the internet radio station - Terror DJ Team from Halle, Sachsen-Anhalt, Germany, providing Black",
+            "rest": "and House music."
+        },
+        "radio_contacts": {
+            "short": "Terror DJ Team - TDT Black/House is a radio channel on the internet radio station - Terror DJ Team from Halle, Sachsen-Anhalt, Germany, providing Black",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.terrordjteam-radio.de/",
+            "facebook": "",
+            "twitter": "http://twitter.com/TerrorDJTeam",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}, {
+    "title": "Magdeburg",
+    "link": "https://streema.com/radios/Magdeburg",
+    "msg_results": "22 Radio Stations from Magdeburg",
+    "page_copy": "Listen to radio stations from Magdeburg, from a wide variety of genres like Dance Hits, Pop, RnB, Rock and Schlager.  Enjoy stations such as radio SAW, MDR Sachsen-Anhalt, radio SAW - 2000er, radio SAW - 80er, radio SAW - 90er and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "radio SAW",
+        "no_play": false,
+        "frequency": "FM 100.1",
+        "link_deatils": "/radios/Radio_Saw",
+        "link_player": "/radios/play/Radio_Saw",
+        "image": "https://static-media.streema.com/media/cache/04/4f/044f68cbf59c805c695235f33be82724.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Magdeburg",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Pop", "RnB", "Rock", "Schlager", "Top 40"],
+        "location": {
+            "city": "Magdeburg",
+            "country": "Germany"
+        },
+        "profile_slogan": "Superhits fuers SAW-Land",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Radio Saw 100.1 is a broadcast Radio station from Magdeburg, Germany, providing Hot AC, Top 40/Pop, Euro Hits Music.",
+            "rest": "Radio Saw 100.1 is a broadcast Radio station from Magdeburg, Germany, providing Hot AC, Top 40/Pop, Euro Hits Music."
+        },
+        "radio_contacts": {
+            "short": "Radio Saw 100.1 is a broadcast Radio station from Magdeburg, Germany, providing Hot AC, Top 40/Pop, Euro Hits Music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiosaw.de/",
+            "facebook": "http://www.facebook.com/radioSAW",
+            "twitter": "http://twitter.com/radioSAW",
+            "phone": "0391 630 0",
+            "address": "Hansapark 1 39116 Magdeburg, Germany",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Saw",
+            "title": "Play radio SAW"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.radiosaw.de/saw/mp3-128/simple-radio-app/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/a1/e4/a1e41e6fc3f09261f42f7afeaffed832.jpg"
+    }, {
+        "title": "MDR Sachsen-Anhalt",
+        "no_play": false,
+        "frequency": "FM 94.9",
+        "link_deatils": "/radios/MDR_1_Radio_Sachsen_Anhalt_MDR1_Radio_Sachsen_An",
+        "link_player": "/radios/play/MDR_1_Radio_Sachsen_Anhalt_MDR1_Radio_Sachsen_An",
+        "image": "https://static-media.streema.com/media/cache/7c/db/7cdb091a3bc05e999d6dca45b536b796.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Magdeburg",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Community", "News"],
+        "location": {
+            "city": "Magdeburg",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Der Heimatsender für Sachsen-Anhalt",
+            "rest": "Der Heimatsender für Sachsen-Anhalt"
+        },
+        "radio_contacts": {
+            "short": "Der Heimatsender für Sachsen-Anhalt",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.mdr.de/mdr1-radio-sachsen-anhalt",
+            "facebook": "",
+            "twitter": "http://twitter.com/MDR_SAN",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/MDR_1_Radio_Sachsen_Anhalt_MDR1_Radio_Sachsen_An",
+            "title": "Play MDR Sachsen-Anhalt"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://mdr-284290-0.cast.mdr.de/mdr/284290/0/mp3/high/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/e9/67/e96775856ce2aa3c4e40816418f2aa75.jpg"
+    }, {
+        "title": "radio SAW - 2000er",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/radio_SAW_2000er",
+        "link_player": "/radios/play/radio_SAW_2000er",
+        "image": "https://static-media.streema.com/media/cache/bc/9f/bc9f4e628b2479e2146827625958b474.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Magdeburg",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["00s", "Pop", "RnB", "Rock"],
+        "location": {
+            "city": "Magdeburg",
+            "country": "Germany"
+        },
+        "profile_slogan": "Superhits fürs SAW-Land",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiosaw.de/",
+            "facebook": "http://www.facebook.com/radioSAW",
+            "twitter": "http://twitter.com/radioSAW",
+            "phone": "+49 800 1630630",
+            "address": "Hansapark 1 Magdeburg, Germany",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/radio_SAW_2000er",
+            "title": "Play radio SAW - 2000er"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.saw-musikwelt.de/saw-2000er/mp3-128/simple-radio-app/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/09/74/0974f56224e7b48eaf5182c606f2e4d9.jpg"
+    }, {
+        "title": "radio SAW - 80er",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/radio_SAW_80er",
+        "link_player": "/radios/play/radio_SAW_80er",
+        "image": "https://static-media.streema.com/media/cache/10/ce/10ce1d415c06d75840cc65993ad71306.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Magdeburg",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["80s", "Pop", "RnB", "Rock"],
+        "location": {
+            "city": "Magdeburg",
+            "country": "Germany"
+        },
+        "profile_slogan": "Superhits fürs SAW-Land",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiosaw.de/",
+            "facebook": "http://www.facebook.com/radioSAW",
+            "twitter": "http://twitter.com/radioSAW",
+            "phone": "+49 800 1630630",
+            "address": "Hansapark 1 Magdeburg, Germany",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/radio_SAW_80er",
+            "title": "Play radio SAW - 80er"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.saw-musikwelt.de/saw-80er/mp3-128/simple-radio-app/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/e2/6d/e26d31a77aab1ab7dd457a002ab6ecf1.jpg"
+    }, {
+        "title": "radio SAW - 90er",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/radio_SAW_90er",
+        "link_player": "/radios/play/radio_SAW_90er",
+        "image": "https://static-media.streema.com/media/cache/b3/e2/b3e259c654ea84e14b8dfd2f0135d333.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Magdeburg",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["90s", "Pop", "RnB", "Rock"],
+        "location": {
+            "city": "Magdeburg",
+            "country": "Germany"
+        },
+        "profile_slogan": "Superhits fürs SAW-Land",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiosaw.de/",
+            "facebook": "http://www.facebook.com/radioSAW",
+            "twitter": "http://twitter.com/radioSAW",
+            "phone": "+49 800 1630630",
+            "address": "Hansapark 1 Magdeburg, Germany",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/radio_SAW_90er",
+            "title": "Play radio SAW - 90er"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.saw-musikwelt.de/saw-90er/mp3-128/simple-radio-app/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/e5/48/e5486989c6a9e17c8d76191ed752e824.jpg"
+    }, {
+        "title": "radio SAW - A1 Deutsch Hits",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/radio_SAW_Deutsch",
+        "link_player": "/radios/play/radio_SAW_Deutsch",
+        "image": "https://static-media.streema.com/media/cache/8b/3b/8b3b5b95e109dae47372d90c448c9ec3.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Magdeburg",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Folk", "Pop", "Rock", "Schlager"],
+        "location": {
+            "city": "Magdeburg",
+            "country": "Germany"
+        },
+        "profile_slogan": "Superhits fürs SAW-Land",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiosaw.de/",
+            "facebook": "http://www.facebook.com/radioSAW",
+            "twitter": "http://twitter.com/radioSAW",
+            "phone": "+49 800 1630630",
+            "address": "Hansapark 1 Magdeburg, Germany",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/radio_SAW_Deutsch",
+            "title": "Play radio SAW - A1 Deutsch Hits"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.saw-musikwelt.de/saw-deutsch/mp3-128/simple-radio-app/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/a5/ea/a5ea73d9617f6759d40ea60886f75155.jpg"
+    }, {
+        "title": "radio SAW - Fitness",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/radio_SAW_Fitness",
+        "link_player": "/radios/play/radio_SAW_Fitness",
+        "image": "https://static-media.streema.com/media/cache/38/f2/38f2b4e75f2afe97e99c7fe460c1efb5.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Magdeburg",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance Hits", "Electro", "Pop", "Techno"],
+        "location": {
+            "city": "Magdeburg",
+            "country": "Germany"
+        },
+        "profile_slogan": "Superhits fürs SAW-Land",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiosaw.de/",
+            "facebook": "http://www.facebook.com/radioSAW",
+            "twitter": "http://twitter.com/radioSAW",
+            "phone": "+49 800 1630630",
+            "address": "Hansapark 1 Magdeburg, Germany",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/radio_SAW_Fitness",
+            "title": "Play radio SAW - Fitness"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.saw-musikwelt.de/saw-fitness/mp3-128/simple-radio-app/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/d5/93/d593696838f95cb1f4331d8fb9758d4c.jpg"
+    }, {
+        "title": "radio SAW - Good Life",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/radio_SAW_Good_Life",
+        "link_player": "/radios/play/radio_SAW_Good_Life",
+        "image": "https://static-media.streema.com/media/cache/ba/de/bade6dbc8920f6a0f809401a87a5999a.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Magdeburg",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Acoustic", "Easy Listening", "Folk", "Soft"],
+        "location": {
+            "city": "Magdeburg",
+            "country": "Germany"
+        },
+        "profile_slogan": "Superhits fürs SAW-Land",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiosaw.de/",
+            "facebook": "http://www.facebook.com/radioSAW",
+            "twitter": "http://twitter.com/radioSAW",
+            "phone": "+49 800 1630630",
+            "address": "Hansapark 1 Magdeburg, Germany",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/radio_SAW_Good_Life",
+            "title": "Play radio SAW - Good Life"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.saw-musikwelt.de/saw-goodlife/mp3-128/simple-radio-app/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/ec/ac/ecaca5a2005c691cd6fb70479c38ee29.jpg"
+    }, {
+        "title": "radio SAW - Hits für Kids",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/radio_SAW_Hits_fur_Kids",
+        "link_player": "/radios/play/radio_SAW_Hits_fur_Kids",
+        "image": "https://static-media.streema.com/media/cache/28/34/2834f4cc6ce282b3cc88795e19143d2d.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Magdeburg",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Children's Family", "Kids"],
+        "location": {
+            "city": "Magdeburg",
+            "country": "Germany"
+        },
+        "profile_slogan": "Superhits fürs SAW-Land",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiosaw.de/",
+            "facebook": "http://www.facebook.com/radioSAW",
+            "twitter": "http://twitter.com/radioSAW",
+            "phone": "+49 800 1630630",
+            "address": "Hansapark 1 Magdeburg, Germany",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/radio_SAW_Hits_fur_Kids",
+            "title": "Play radio SAW - Hits für Kids"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.saw-musikwelt.de/saw-kids/mp3-128/simple-radio-app/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/e2/2a/e22a30405eabd7dc412935d020635bda.jpg"
+    }, {
+        "title": "radio SAW - Modern Rock",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/radio_SAW_Modern_Rock",
+        "link_player": "/radios/play/radio_SAW_Modern_Rock",
+        "image": "https://static-media.streema.com/media/cache/ff/78/ff78a2b5143552c522254757e53c5b81.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Magdeburg",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Hard Rock", "Metal", "Rock"],
+        "location": {
+            "city": "Magdeburg",
+            "country": "Germany"
+        },
+        "profile_slogan": "Superhits fürs SAW-Land",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiosaw.de/",
+            "facebook": "http://www.facebook.com/radioSAW",
+            "twitter": "http://twitter.com/radioSAW",
+            "phone": "+49 800 1630630",
+            "address": "Hansapark 1 Magdeburg, Germany",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/radio_SAW_Modern_Rock",
+            "title": "Play radio SAW - Modern Rock"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.saw-musikwelt.de/saw-mrock/mp3-128/simple-radio-app/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/a2/b9/a2b9d7fe01df9b2765e9ab3a33b5de06.jpg"
+    }, {
+        "title": "radio SAW - Neuheiten",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/radio_SAW_Neuheiten",
+        "link_player": "/radios/play/radio_SAW_Neuheiten",
+        "image": "https://static-media.streema.com/media/cache/6a/87/6a872da21d1ac3910acb1a44b68bea7a.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Magdeburg",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Pop", "RnB", "Rock", "Top 40"],
+        "location": {
+            "city": "Magdeburg",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.saw-musikwelt.de/saw-neuheiten/mp3-128/simple-radio-app/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/3a/c9/3ac91163a63a0965d48c84177f389e40.jpg"
+    }, {
+        "title": "radio SAW - Party",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/radio_SAW_Party",
+        "link_player": "/radios/play/radio_SAW_Party",
+        "image": "https://static-media.streema.com/media/cache/02/fa/02fa8b5a05f5c6539b28b1055f9c47b2.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Magdeburg",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance Hits", "Disco", "Electronica", "Pop"],
+        "location": {
+            "city": "Magdeburg",
+            "country": "Germany"
+        },
+        "profile_slogan": "Superhits fürs SAW-Land",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiosaw.de/",
+            "facebook": "http://www.facebook.com/radioSAW",
+            "twitter": "http://twitter.com/radioSAW",
+            "phone": "+49 800 1630630",
+            "address": "Hansapark 1 Magdeburg, Germany",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/radio_SAW_Party",
+            "title": "Play radio SAW - Party"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.saw-musikwelt.de/saw-party/mp3-128/simple-radio-app/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/dd/51/dd51940a798ea0e2cacb88b3f84b4d22.jpg"
+    }, {
+        "title": "radio SAW - Partyschlager",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/radio_SAW_Partyschlager",
+        "link_player": "/radios/play/radio_SAW_Partyschlager",
+        "image": "https://static-media.streema.com/media/cache/f9/56/f956f719bda2a0535c5eed2ff1a221e3.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Magdeburg",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance Hits", "Schlager"],
+        "location": {
+            "city": "Magdeburg",
+            "country": "Germany"
+        },
+        "profile_slogan": "Superhits fürs SAW-Land",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiosaw.de/",
+            "facebook": "http://www.facebook.com/radioSAW",
+            "twitter": "http://twitter.com/radioSAW",
+            "phone": "+49 800 1630630",
+            "address": "Hansapark 1 Magdeburg, Germany",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/radio_SAW_Partyschlager",
+            "title": "Play radio SAW - Partyschlager"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.saw-musikwelt.de/saw-partyschlager/mp3-128/simple-radio-app/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/37/4c/374c0ddd503c5c7cc68f168ff09b4cfc.jpg"
+    }, {
+        "title": "radio SAW - Urban Music",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/radio_SAW_Urban_Music",
+        "link_player": "/radios/play/radio_SAW_Urban_Music",
+        "image": "https://static-media.streema.com/media/cache/26/5b/265bb0e361061c57d73744442334294d.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Magdeburg",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Hip Hop", "Rap", "RnB", "Urban"],
+        "location": {
+            "city": "Magdeburg",
+            "country": "Germany"
+        },
+        "profile_slogan": "Superhits fürs SAW-Land",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiosaw.de/",
+            "facebook": "http://www.facebook.com/radioSAW",
+            "twitter": "http://twitter.com/radioSAW",
+            "phone": "+49 800 1630630",
+            "address": "Hansapark 1 Magdeburg, Germany",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/radio_SAW_Urban_Music",
+            "title": "Play radio SAW - Urban Music"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.saw-musikwelt.de/saw-urban/mp3-128/simple-radio-app/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/02/9c/029cd3d4eceadd11459b8adcb2eada1e.jpg"
+    }, {
+        "title": "radio SAW - 2010er",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/radio_SAW_2010er",
+        "link_player": "/radios/play/radio_SAW_2010er",
+        "image": "https://static-media.streema.com/media/cache/7e/32/7e3205df339eff4a9e8573ea7a613bd6.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Magdeburg",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Hits", "Pop", "RnB", "Rock"],
+        "location": {
+            "city": "Magdeburg",
+            "country": "Germany"
+        },
+        "profile_slogan": "Die größten Songs der 2010er",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiosaw.de/",
+            "facebook": "http://www.facebook.com/radioSAW",
+            "twitter": "http://twitter.com/radioSAW",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/radio_SAW_2010er",
+            "title": "Play radio SAW - 2010er"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.saw-musikwelt.de/saw-2010er/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/f8/b3/f8b3ae4a7883a6d580e4bd1c0fec72fa.jpg"
+    }, {
+        "title": "radio SAW - Synthie Pop",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/radio_SAW_Synthie_Pop",
+        "link_player": "/radios/play/radio_SAW_Synthie_Pop",
+        "image": "https://static-media.streema.com/media/cache/25/e1/25e179e7e7e069c492ffe02cf8593079.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Magdeburg",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance", "Electronica", "Pop", "Synthpop"],
+        "location": {
+            "city": "Magdeburg",
+            "country": "Germany"
+        },
+        "profile_slogan": "Depeche Mode & Friends!",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiosaw.de/",
+            "facebook": "http://www.facebook.com/radioSAW",
+            "twitter": "http://twitter.com/radioSAW",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/radio_SAW_Synthie_Pop",
+            "title": "Play radio SAW - Synthie Pop"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.saw-musikwelt.de/saw-synthie-pop/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/d7/94/d7949bf437f3bbb7b8fe5792028bc90e.jpg"
+    }, {
+        "title": "radio SAW - Kino",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/radio_SAW_Kino",
+        "link_player": "/radios/play/radio_SAW_Kino",
+        "image": "https://static-media.streema.com/media/cache/c7/5b/c75b169aaa7e4049b6909df755c4f356.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Magdeburg",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Classical", "Instrumental", "Movies", "Pop", "Rock", "Soundtracks"],
+        "location": {
+            "city": "Magdeburg",
+            "country": "Germany"
+        },
+        "profile_slogan": "Die besten Soundtracks und Superhits aus Hollywood & Co.",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiosaw.de/",
+            "facebook": "http://www.facebook.com/radioSAW",
+            "twitter": "http://twitter.com/radioSAW",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/radio_SAW_Kino",
+            "title": "Play radio SAW - Kino"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.saw-musikwelt.de/saw-kino/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/c3/0a/c30af2452d779cdf02a40d937f7aa37d.jpg"
+    }, {
+        "title": "radio SAW - Weihnachten",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/radio_SAW_Weihnachten",
+        "link_player": "/radios/play/radio_SAW_Weihnachten",
+        "image": "https://static-media.streema.com/media/cache/26/75/2675ee94a6a736ee7e7d8e71bc6aff24.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Magdeburg",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Christmas", "Holidays", "Pop", "Rock"],
+        "location": {
+            "city": "Magdeburg",
+            "country": "Germany"
+        },
+        "profile_slogan": "Vorfreude pur mit allen Hits und Klassikern aus Rock und Pop",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiosaw.de/",
+            "facebook": "http://www.facebook.com/radioSAW",
+            "twitter": "http://twitter.com/radioSAW",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/radio_SAW_Weihnachten",
+            "title": "Play radio SAW - Weihnachten"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.saw-musikwelt.de/saw-weihnachten/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/71/1b/711b524314c893a67faddae218fda3d7.jpg"
+    }, {
+        "title": "radio SAW - 70er",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/radio_SAW_70er",
+        "link_player": "/radios/play/radio_SAW_70er",
+        "image": "https://static-media.streema.com/media/cache/42/d8/42d8af2fe8559f0580d2c10a16de4c32.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Magdeburg",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Classic Hits", "Classic Rock", "Pop", "RnB"],
+        "location": {
+            "city": "Magdeburg",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "radio SAW - 70er ist ein Web radiosender aus Magdeburg, Sachsen-Anhalt, Germany, und bietet 80s, 90s, Oldies.",
+            "rest": "radio SAW - 70er ist ein Web radiosender aus Magdeburg, Sachsen-Anhalt, Germany, und bietet 80s, 90s, Oldies."
+        },
+        "radio_contacts": {
+            "short": "radio SAW - 70er ist ein Web radiosender aus Magdeburg, Sachsen-Anhalt, Germany, und bietet 80s, 90s, Oldies.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiosaw.de/",
+            "facebook": "http://www.facebook.com/radioSAW",
+            "twitter": "http://twitter.com/radioSAW",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/radio_SAW_70er",
+            "title": "Play radio SAW - 70er"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.saw-musikwelt.de/saw-70er/mp3-128/simple-radio-app/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/2b/fa/2bfae4d67e1bdf2607aa0c346a1fc5e9.jpg"
+    }, {
+        "title": "radio SAW - Rock",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/radio_SAW_Rock",
+        "link_player": "/radios/play/radio_SAW_Rock",
+        "image": "https://static-media.streema.com/media/cache/87/f1/87f15f1271f8ac898c2110e29f0fe97f.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Magdeburg",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Classic Rock", "Rock"],
+        "location": {
+            "city": "Magdeburg",
+            "country": "Germany"
+        },
+        "profile_slogan": "",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "radio SAW-Rock ist ein Web radiosender aus Magdeburg, Sachsen-Anhalt, Germany, und bietet Classic Rock, Rock.",
+            "rest": "radio SAW-Rock ist ein Web radiosender aus Magdeburg, Sachsen-Anhalt, Germany, und bietet Classic Rock, Rock."
+        },
+        "radio_contacts": {
+            "short": "radio SAW-Rock ist ein Web radiosender aus Magdeburg, Sachsen-Anhalt, Germany, und bietet Classic Rock, Rock.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiosaw.de/",
+            "facebook": "http://www.facebook.com/radioSAW",
+            "twitter": "http://twitter.com/radioSAW",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/radio_SAW_Rock",
+            "title": "Play radio SAW - Rock"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.saw-musikwelt.de/saw-rock/mp3-128/simple-radio-app/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/7b/18/7b1894f672e3a15d00a8ae6c3d20e13d.jpg"
+    }, {
+        "title": "ROCKLAND",
+        "no_play": false,
+        "frequency": "FM 98.7",
+        "link_deatils": "/radios/Rockland_Radio",
+        "link_player": "/radios/play/Rockland_Radio",
+        "image": "https://static-media.streema.com/media/cache/0c/b7/0cb784efa5967fb15ca5bba3cc5aee7e.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Magdeburg",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Rock"],
+        "location": {
+            "city": "Magdeburg",
+            "country": "Germany"
+        },
+        "profile_slogan": "Mach an und laut!",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "Rockland 98.7 is a broadcast Radio station from Magdeburg, Sachsen, Germany, providing Music, News, Weather, Traffic and Sports programs.",
+            "rest": "Rockland 98.7 is a broadcast Radio station from Magdeburg, Sachsen, Germany, providing Music, News, Weather, Traffic and Sports programs."
+        },
+        "radio_contacts": {
+            "short": "Rockland 98.7 is a broadcast Radio station from Magdeburg, Sachsen, Germany, providing Music, News, Weather, Traffic and Sports programs.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.rockland.fm/",
+            "facebook": "http://www.facebook.com/rocklaender",
+            "twitter": "http://twitter.com/rockland",
+            "phone": "08001 640640",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Rockland_Radio",
+            "title": "Play ROCKLAND"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.rockland-digital.de/rockland/mp3-128/simple-radio-app/stream.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/9c/00/9c00e1880ed94199052b69052e9ce908.jpg"
+    }, {
+        "title": "MDR Schlagerwelt",
+        "no_play": false,
+        "frequency": "DAB 6B",
+        "link_deatils": "/radios/MDR_Schlagerwelt",
+        "link_player": "/radios/play/MDR_Schlagerwelt",
+        "image": "https://static-media.streema.com/media/cache/c6/21/c621bcd73d782532bd2d117d09c5e0a9.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Germany",
+            "link": "/country/Germany"
+        }, {
+            "title": "Saxony-Anhalt",
+            "link": "/country/Germany/state/Sachsen_Anhalt"
+        }, {
+            "title": "Magdeburg",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Schlager"],
+        "location": {
+            "city": "Magdeburg",
+            "country": "Germany"
+        },
+        "profile_slogan": "Meine Musik. Meine Stars. Mein Radio.",
+        "radio_language": "German",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.mdr.de/meine-schlagerwelt/index.html",
+            "facebook": "http://www.facebook.com/MeineSchlagerwelt/",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/MDR_Schlagerwelt",
+            "title": "Play MDR Schlagerwelt"
+        },
+        "radio_shows": [""],
+        "radio_source": "https://mdr-990801-0.sslcast.mdr.de/mdr/990801/0/aac/high/stream.aac",
+        "radio_image": "https://static-media.streema.com/media/cache/b6/4a/b64a950be9f575bcfe7d894f94986bbc.jpg"
+    }]
+}]

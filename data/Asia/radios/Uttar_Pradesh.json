@@ -1,0 +1,141 @@
+[
+    {
+        "title": "Noida",
+        "link": "https://streema.com/radios/Noida",
+        "msg_results": "2 Radio Stations from Noida",
+        "page_copy": "Listen to radio stations from Noida UP, from a wide variety of genres like Dance, Electronica, India, Information and Talk.  Enjoy stations such as Radio Noida, The Movement Radio and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+        "radios": [
+            {
+                "title": "Radio Noida",
+                "no_play": false,
+                "frequency": "FM 107.4",
+                "link_deatils": "/radios/Radio_Noida_107.4_FM",
+                "link_player": "/radios/play/Radio_Noida_107.4_FM",
+                "image": "https://static-media.streema.com/media/cache/29/74/29742a458830a8ecc0bd8f80f79161d2.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "India",
+                        "link": "/radios/country/India"
+                    },
+                    {
+                        "title": "Uttar Pradesh",
+                        "link": "/radios/country/India/state/Uttar_Pradesh"
+                    },
+                    {
+                        "title": "Noida",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Community",
+                    "Education",
+                    "Health",
+                    "India",
+                    "Information",
+                    "Talk"
+                ],
+                "location": {
+                    "city": "Noida, UP",
+                    "country": "India"
+                },
+                "profile_slogan": "",
+                "radio_language": "Hindi",
+                "radio_info": {
+                    "short": "Radio Noida 107.4 FM is a broadcast rado station from Noida, Uttar Pradesh, India, providing focus on issues relating to education, health, environment, and agriculture",
+                    "rest": "and relevance to the community."
+                },
+                "radio_contacts": {
+                    "short": "Radio Noida 107.4 FM is a broadcast rado station from Noida, Uttar Pradesh, India, providing focus on issues relating to education, health, environment, and agriculture",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://radionoida.fm/",
+                    "facebook": "http://www.facebook.com/RADIO-NOIDA-1074-Mhz-Aapki-Aawaaz-758536787508008",
+                    "twitter": "http://twitter.com/radionoida",
+                    "phone": "+91-120-2515254",
+                    "address": "FC-14/15, Film City, Sector-16A, Noida, Uttar Pradesh, India",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Radio_Noida_107.4_FM",
+                    "title": "Play Radio Noida"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://stream.zeno.fm/n1b55arwqg0uv",
+                "radio_image": "https://static-media.streema.com/media/cache/44/c4/44c4f64eea9ec6d52e75277f9707e031.jpg"
+            },
+            {
+                "title": "The Movement Radio",
+                "no_play": true,
+                "frequency": "Web",
+                "link_deatils": "/radios/The_Movement",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/50/ab/50abcc741a7232ac97e5e5cb2db1d1ef.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Asia",
+                        "link": "/radios/region/Asia"
+                    },
+                    {
+                        "title": "India",
+                        "link": "/radios/country/India"
+                    },
+                    {
+                        "title": "Uttar Pradesh",
+                        "link": "/radios/country/India/state/Uttar_Pradesh"
+                    },
+                    {
+                        "title": "Noida",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Dance",
+                    "Electronica",
+                    "India"
+                ],
+                "location": {
+                    "city": "Noida, UP",
+                    "country": "India"
+                },
+                "profile_slogan": "",
+                "radio_language": "Tamil",
+                "radio_info": {
+                    "short": "The Movement is an internet radio station from India, providing Electronic, Dance music.",
+                    "rest": "The Movement is an internet radio station from India, providing Electronic, Dance music."
+                },
+                "radio_contacts": {
+                    "short": "The Movement is an internet radio station from India, providing Electronic, Dance music.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.themovement.in/",
+                    "facebook": "",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,383 @@
+[{
+    "title": "Rzeszów",
+    "link": "https://streema.com/radios/Rzeszow",
+    "msg_results": "7 Radio Stations from Rzeszów",
+    "page_copy": "Listen to radio stations from Rzeszów, from a wide variety of genres like Adult Contemporary, Polish, Rock, Sports and Top 40.  Enjoy stations such as Radio Eska Rzeszow, Polish Radio Rzeszów, Radio Via, Polskie Radio Rzeszów, Radio Zlote Przeboje and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Radio Eska Rzeszow",
+        "no_play": false,
+        "frequency": "FM 99.4",
+        "link_deatils": "/radios/Radio_Eska_Rzeszow",
+        "link_player": "/radios/play/Radio_Eska_Rzeszow",
+        "image": "https://static-media.streema.com/media/cache/d5/34/d534bd322c50b35716529b70d18111f3.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/country/Poland"
+        }, {
+            "title": "Subcarpathian",
+            "link": "/country/Poland/state/Subcarpathian"
+        }, {
+            "title": "Rzeszów",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Pop", "Rock", "Top 40"],
+        "location": {
+            "city": "Rzeszów",
+            "country": "Poland"
+        },
+        "profile_slogan": "Muzyka w Twoim klimacie tam, gdzie jesteś",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Radio Eska Rzeszow Rzeszow FM 99.4 is a broadcast radio station from Rzeszow, Poland, providing Top 40 Adult Contemporary Pop and Rock music.",
+            "rest": "Radio Eska Rzeszow Rzeszow FM 99.4 is a broadcast radio station from Rzeszow, Poland, providing Top 40 Adult Contemporary Pop and Rock music."
+        },
+        "radio_contacts": {
+            "short": "Radio Eska Rzeszow Rzeszow FM 99.4 is a broadcast radio station from Rzeszow, Poland, providing Top 40 Adult Contemporary Pop and Rock music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.eska.pl/?stationId=33",
+            "facebook": "http://www.facebook.com/radioeska",
+            "twitter": "http://twitter.com/eska_pl",
+            "phone": "+48 22 516 47 00",
+            "address": "ul. Jubilerska 10, 04-190 Warsaw, Poland",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Eska_Rzeszow",
+            "title": "Play Radio Eska Rzeszow"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://pldm.ml/radio?url=http://www.eskago.pl/radio/eska-rzeszow",
+        "radio_image": "https://static-media.streema.com/media/cache/b7/c1/b7c1c2e70198d06d94d8d2b2bf57347f.jpg"
+    }, {
+        "title": "Polish Radio Rzeszów",
+        "no_play": false,
+        "frequency": "DAB",
+        "link_deatils": "/radios/Polskie_Radio_Rzeszow_SA_Live",
+        "link_player": "/radios/play/Polskie_Radio_Rzeszow_SA_Live",
+        "image": "https://static-media.streema.com/media/cache/20/6d/206d87264617dc7b0c72446948aa99d1.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/country/Poland"
+        }, {
+            "title": "Subcarpathian",
+            "link": "/country/Poland/state/Subcarpathian"
+        }, {
+            "title": "Rzeszów",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Live Shows", "News", "Rock", "Sports"],
+        "location": {
+            "city": "Rzeszów",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Polskie Radio Rzeszow SA - Live is an internet radio station from Rzeszów, Poland providing News, Sports, Live shows and Rock music.",
+            "rest": "Polskie Radio Rzeszow SA - Live is an internet radio station from Rzeszów, Poland providing News, Sports, Live shows and Rock music."
+        },
+        "radio_contacts": {
+            "short": "Polskie Radio Rzeszow SA - Live is an internet radio station from Rzeszów, Poland providing News, Sports, Live shows and Rock music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radio.rzeszow.pl/",
+            "facebook": "http://www.facebook.com/pages/Polskie-Radio-Rzesz%C3%B3w/222320527836232",
+            "twitter": "",
+            "phone": "+48 17 852 15 01",
+            "address": "ul.Zamkowa 3",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Polskie_Radio_Rzeszow_SA_Live",
+            "title": "Play Polish Radio Rzeszów"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streaming.g-news.pl:8040/rzeszow",
+        "radio_image": "https://static-media.streema.com/media/cache/8b/24/8b2494326526252532c3723c03f76c62.jpg"
+    }, {
+        "title": "Radio Via",
+        "no_play": false,
+        "frequency": "FM 94.1",
+        "link_deatils": "/radios/Radio_Via",
+        "link_player": "/radios/play/Radio_Via",
+        "image": "https://static-media.streema.com/media/cache/d4/26/d426af049b5ab94a3615e6b0725ef458.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/country/Poland"
+        }, {
+            "title": "Subcarpathian",
+            "link": "/country/Poland/state/Subcarpathian"
+        }, {
+            "title": "Rzeszów",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Christian", "Gospel", "Pop", "Religious"],
+        "location": {
+            "city": "Rzeszów",
+            "country": "Poland"
+        },
+        "profile_slogan": "Katolicka Rozgłośnia Radiowa",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Radio Via gave his first two-hour broadcast on the frequency 103.8 Mhz previously operated by Radio Maria on Dec. 8, 1994 year. In our program,",
+            "rest": "everyone can find something for themselves. Program in accordance with the assumptions of concessions is a religio-social. Good music takes about 40% of airtime. On Radio Via play just good music. Dominate the last two decades hits and songs that are currently gaining top of the charts."
+        },
+        "radio_contacts": {
+            "short": "Radio Via gave his first two-hour broadcast on the frequency 103.8 Mhz previously operated by Radio Maria on Dec. 8, 1994 year. In our program,",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiovia.com.pl/",
+            "facebook": "http://www.facebook.com/Radio.VIA.Rzeszow",
+            "twitter": "",
+            "phone": "+48 17 850 05 00",
+            "address": "Ulica Zamkowa 4 35-032 Rzeszów, Poland",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Via",
+            "title": "Play Radio Via"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://62.133.128.18:8100/;;",
+        "radio_image": "https://static-media.streema.com/media/cache/03/c3/03c368866865b9284a825e2cef3b0719.jpg"
+    }, {
+        "title": "Polskie Radio Rzeszów",
+        "no_play": false,
+        "frequency": "FM 90.5",
+        "link_deatils": "/radios/Polskie_Radio_Rzeszow",
+        "link_player": "/radios/play/Polskie_Radio_Rzeszow",
+        "image": "https://static-media.streema.com/media/cache/f1/c6/f1c69a3559740fc9213ce850fe84c385.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/country/Poland"
+        }, {
+            "title": "Subcarpathian",
+            "link": "/country/Poland/state/Subcarpathian"
+        }, {
+            "title": "Rzeszów",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Music", "News", "Polish", "Sports"],
+        "location": {
+            "city": "Rzeszów",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Polskie Radio Rzeszów - Malawa 106.7 is a broadcast radio station on the Polskie Radio Rzeszów network from Malawa, Poland providing Polish news, information, sports",
+            "rest": "and music."
+        },
+        "radio_contacts": {
+            "short": "Polskie Radio Rzeszów - Malawa 106.7 is a broadcast radio station on the Polskie Radio Rzeszów network from Malawa, Poland providing Polish news, information, sports",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radio.rzeszow.pl/",
+            "facebook": "http://www.facebook.com/pages/Polskie-Radio-Rzesz%C3%B3w/222320527836232",
+            "twitter": "",
+            "phone": "+48 17 852 15 01",
+            "address": "Zamkowa 3",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Polskie_Radio_Rzeszow",
+            "title": "Play Polskie Radio Rzeszów"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streaming.g-news.pl:8040/rzeszow",
+        "radio_image": "https://static-media.streema.com/media/cache/4c/db/4cdba2253b99e963937e138bb1e3a664.jpg"
+    }, {
+        "title": "Radio Zlote Przeboje",
+        "no_play": false,
+        "frequency": "FM 95.7",
+        "link_deatils": "/radios/Radio_Zlote_Przeboje",
+        "link_player": "/radios/play/Radio_Zlote_Przeboje",
+        "image": "https://static-media.streema.com/media/cache/da/44/da446ddc377b524442a73fa555df2c1b.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/country/Poland"
+        }, {
+            "title": "Subcarpathian",
+            "link": "/country/Poland/state/Subcarpathian"
+        }, {
+            "title": "Rzeszów",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Polish"],
+        "location": {
+            "city": "Rzeszów",
+            "country": "Poland"
+        },
+        "profile_slogan": "MUZYKA MOJEGO ŻYCIA - NIE PRZEGAP!",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Radio Zlote Przeboje is a broadcast radio station from Rzeszów, Subcarpathian, Poland providing Polish Adult Contemporary music.",
+            "rest": "Radio Zlote Przeboje is a broadcast radio station from Rzeszów, Subcarpathian, Poland providing Polish Adult Contemporary music."
+        },
+        "radio_contacts": {
+            "short": "Radio Zlote Przeboje is a broadcast radio station from Rzeszów, Subcarpathian, Poland providing Polish Adult Contemporary music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://zloteprzeboje.tuba.pl/zloteprzeboje/0,0.html",
+            "facebook": "http://www.facebook.com/zloteprzeboje",
+            "twitter": "http://twitter.com/zloteprzeboje",
+            "phone": "22 5555 100",
+            "address": "ul, Czerska 8/10 00-732 Warszawa",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Zlote_Przeboje",
+            "title": "Play Radio Zlote Przeboje"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://radiostream.pl/tuba8928-1.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/0c/4c/0c4c1dc4b1f7f18809439eccecff57da.jpg"
+    }, {
+        "title": "Radio Centrum",
+        "no_play": false,
+        "frequency": "FM 89.0",
+        "link_deatils": "/radios/Radio_Centrum_2",
+        "link_player": "/radios/play/Radio_Centrum_2",
+        "image": "https://static-media.streema.com/media/cache/8b/d7/8bd79228002565d524fc18b024b5552f.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/country/Poland"
+        }, {
+            "title": "Subcarpathian",
+            "link": "/country/Poland/state/Subcarpathian"
+        }, {
+            "title": "Rzeszów",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["College", "Culture", "Information", "Rock"],
+        "location": {
+            "city": "Rzeszów",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Radio Centrum FM 89.0 is a broadcast college radio station from Rzeszów, Subcarpathian, Poland, providing Information, News, Culture, and Music.",
+            "rest": "Radio Centrum FM 89.0 is a broadcast college radio station from Rzeszów, Subcarpathian, Poland, providing Information, News, Culture, and Music."
+        },
+        "radio_contacts": {
+            "short": "Radio Centrum FM 89.0 is a broadcast college radio station from Rzeszów, Subcarpathian, Poland, providing Information, News, Culture, and Music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://radiocentrum.pl/",
+            "facebook": "http://www.facebook.com/radiocentrum",
+            "twitter": "http://twitter.com/radiocentrum",
+            "phone": "0-17 85 40 101",
+            "address": "cademic Radio and TV Centre  Street. Academic 6  35-084 Rzeszów",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Centrum_2",
+            "title": "Play Radio Centrum"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://62.93.41.27:8000/;",
+        "radio_image": "https://static-media.streema.com/media/cache/ef/02/ef026afc1af4b78d3ee92b84404106ff.jpg"
+    }, {
+        "title": "Radio Friko",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Friko",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/e5/b8/e5b861b7e064a3d5eebc2a98c851aaef.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/country/Poland"
+        }, {
+            "title": "Subcarpathian",
+            "link": "/country/Poland/state/Subcarpathian"
+        }, {
+            "title": "Rzeszów",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Polish", "Top 40"],
+        "location": {
+            "city": "Rzeszów",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://radio.friko.pl/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}]

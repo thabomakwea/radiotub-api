@@ -1,0 +1,1563 @@
+[{
+    "title": "Helsingborg",
+    "link": "https://streema.com/radios/Helsingborg",
+    "msg_results": "4 Radio Stations from Helsingborg",
+    "page_copy": "Listen to radio stations from Helsingborg, from a wide variety of genres like Dance, Hits, RnB, Rock and Top 40.  Enjoy stations such as Radio KOCKA, Favorit FM, Helsingborgs Närradio, PowerFM.se and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Radio KOCKA",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/KOCKASE",
+        "link_player": "/radios/play/KOCKASE",
+        "image": "https://static-media.streema.com/media/cache/fd/e8/fde84c8dc292a1e1008939b50ead68fa.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Skåne",
+            "link": "/country/Sweden/state/Skane"
+        }, {
+            "title": "Helsingborg",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "2 Listens",
+            "stars": 0
+        },
+        "genres": ["World"],
+        "location": {
+            "city": "Helsingborg",
+            "country": "Sweden"
+        },
+        "profile_slogan": "",
+        "radio_language": "Serbian",
+        "radio_info": {
+            "short": "kocka.se! - radio program, ex yu, narodna, zabavna, muzika",
+            "rest": "kocka.se! - radio program, ex yu, narodna, zabavna, muzika"
+        },
+        "radio_contacts": {
+            "short": "kocka.se! - radio program, ex yu, narodna, zabavna, muzika",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.kocka.se/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""],
+        "radio_source": "",
+        "radio_image": "https://static-media.streema.com/media/cache/9e/12/9e122c20a55ec635a0c2556fef15c16f.jpg"
+    }, {
+        "title": "Favorit FM",
+        "no_play": false,
+        "frequency": "FM 104.7",
+        "link_deatils": "/radios/Favorit",
+        "link_player": "/radios/play/Favorit",
+        "image": "https://static-media.streema.com/media/cache/c8/a6/c8a6558dbabeae62a550f0e3d0b02f42.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Skåne",
+            "link": "/country/Sweden/state/Skane"
+        }, {
+            "title": "Helsingborg",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Hits", "Pop", "RnB", "Rock"],
+        "location": {
+            "city": "Helsingborg",
+            "country": "Sweden"
+        },
+        "profile_slogan": "Musik för vuxna öron",
+        "radio_language": "Swedish",
+        "radio_info": {
+            "short": "Favorit FM 104.7 is a broadcast Radio station from Helsingborg, Sweden, provides Swedish Programs.",
+            "rest": "Favorit FM 104.7 is a broadcast Radio station from Helsingborg, Sweden, provides Swedish Programs."
+        },
+        "radio_contacts": {
+            "short": "Favorit FM 104.7 is a broadcast Radio station from Helsingborg, Sweden, provides Swedish Programs.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://guldkanalen.se/",
+            "facebook": "http://www.facebook.com/1026guldkanalen",
+            "twitter": "",
+            "phone": "+46 46 25 27 52",
+            "address": "Bragevägen 4, 245 32 Staffanstorp, Sweden",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Favorit",
+            "title": "Play Favorit FM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.dbmedia.se/gkhbg96",
+        "radio_image": "https://static-media.streema.com/media/cache/f9/e7/f9e73da0265b3dae7279293751e91876.jpg"
+    }, {
+        "title": "Helsingborgs Närradio",
+        "no_play": true,
+        "frequency": "FM 99.2",
+        "link_deatils": "/radios/Helsingborgs_Narradio",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/82/3b/823bc393d262ba0b4a372fa2b4152ce2.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Skåne",
+            "link": "/country/Sweden/state/Skane"
+        }, {
+            "title": "Helsingborg",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Community", "Culture", "Folk", "Talk"],
+        "location": {
+            "city": "Helsingborg",
+            "country": "Sweden"
+        },
+        "profile_slogan": "",
+        "radio_language": "Swedish",
+        "radio_info": {
+            "short": "Helsingborgs Närradio 99.2 is a broadcast radio station from Helsingborg, Sweden providing community news, information, music and program.",
+            "rest": "Helsingborgs Närradio 99.2 is a broadcast radio station from Helsingborg, Sweden providing community news, information, music and program."
+        },
+        "radio_contacts": {
+            "short": "Helsingborgs Närradio 99.2 is a broadcast radio station from Helsingborg, Sweden providing community news, information, music and program.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.hnfradio.se/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "PowerFM.se",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/PowerFM.se",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/3f/92/3f92e64a108ad5ca463e7b5ff5fb997c.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Skåne",
+            "link": "/country/Sweden/state/Skane"
+        }, {
+            "title": "Helsingborg",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance", "Top 40"],
+        "location": {
+            "city": "Helsingborg",
+            "country": "Sweden"
+        },
+        "profile_slogan": "Bara Hits!",
+        "radio_language": "Swedish",
+        "radio_info": {
+            "short": "PowerFM.se är en Web-radiostation från Helsingborg, Skåne, Sweden, som spelar Dance, Top 40.",
+            "rest": "PowerFM.se är en Web-radiostation från Helsingborg, Skåne, Sweden, som spelar Dance, Top 40."
+        },
+        "radio_contacts": {
+            "short": "PowerFM.se är en Web-radiostation från Helsingborg, Skåne, Sweden, som spelar Dance, Top 40.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://powerfm.se/",
+            "facebook": "http://www.facebook.com/PowerFMsweden",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}, {
+    "title": "Lund",
+    "link": "https://streema.com/radios/Lund",
+    "msg_results": "6 Radio Stations from Lund",
+    "page_copy": "Listen to radio stations from Lund, from a wide variety of genres like Adult Contemporary, Classic Rock, Dance, Oldies and Talk.  Enjoy stations such as Eurohitz Radio, Radio AF, Fun Radio, Assorted Trance Radio - HardTrance Channel, Coola Hits and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Eurohitz Radio",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Eurohitz_Radio",
+        "link_player": "/radios/play/Eurohitz_Radio",
+        "image": "https://static-media.streema.com/media/cache/66/56/6656d27601cde4e203707c9aef190630.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Skåne",
+            "link": "/country/Sweden/state/Skane"
+        }, {
+            "title": "Lund",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Classic Hits", "Classic Rock", "Dance", "Disco", "RnB"],
+        "location": {
+            "city": "Lund",
+            "country": "Sweden"
+        },
+        "profile_slogan": "eurodance 4 ever",
+        "radio_language": "Swedish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.eurohitzradio.se/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Eurohitz_Radio",
+            "title": "Play Eurohitz Radio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://c30.radioboss.fm/stream/444",
+        "radio_image": "https://static-media.streema.com/media/cache/bd/d2/bdd2a722bedfa8da629d813a28a7f72a.jpg"
+    }, {
+        "title": "Radio AF",
+        "no_play": false,
+        "frequency": "FM 99.1",
+        "link_deatils": "/radios/Radio_AF",
+        "link_player": "/radios/play/Radio_AF",
+        "image": "https://static-media.streema.com/media/cache/e6/ad/e6ad0db20f1daf8ba876bab1d1c5b69f.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Skåne",
+            "link": "/country/Sweden/state/Skane"
+        }, {
+            "title": "Lund",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Sports", "Student Radio", "Talk"],
+        "location": {
+            "city": "Lund",
+            "country": "Sweden"
+        },
+        "profile_slogan": "Sveriges största studentradiostation",
+        "radio_language": "Swedish",
+        "radio_info": {
+            "short": "Radio AF in Lund, Sweden and Scandinavia's largest student radio station. Listen when you want via radioaf.se. On November 1, 1982 AF Radio began broadcasting,",
+            "rest": "then under the name Radio LSAF (Faculty Student Academic Society). Radio AF is a committee of the Academic Society and is aimed at Lund University students."
+        },
+        "radio_contacts": {
+            "short": "Radio AF in Lund, Sweden and Scandinavia's largest student radio station. Listen when you want via radioaf.se. On November 1, 1982 AF Radio began broadcasting,",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radioaf.se/",
+            "facebook": "http://www.facebook.com/RadioAF99.1",
+            "twitter": "http://twitter.com/radioaf",
+            "phone": "046-14 60 00",
+            "address": "Sandgatan 2 223 50 Lund",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_AF",
+            "title": "Play Radio AF"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://live.radioaf.se:8000/;stream",
+        "radio_image": "https://static-media.streema.com/media/cache/1d/ad/1dadcac43cbecf16b1436c4049f14a0e.jpg"
+    }, {
+        "title": "Fun Radio",
+        "no_play": false,
+        "frequency": "FM 95.3",
+        "link_deatils": "/radios/Fun_Radio_3",
+        "link_player": "/radios/play/Fun_Radio_3",
+        "image": "https://static-media.streema.com/media/cache/06/da/06da978cb0540b9063449e1adb83ad9a.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Skåne",
+            "link": "/country/Sweden/state/Skane"
+        }, {
+            "title": "Lund",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["90s", "Adult Contemporary", "Oldies", "Trance"],
+        "location": {
+            "city": "Lund",
+            "country": "Sweden"
+        },
+        "profile_slogan": "Glad och pigg musik!",
+        "radio_language": "Swedish",
+        "radio_info": {
+            "short": "Fun Radio FM 95.3 is a broadcast Radio station from Lund, Skåne, Sweden, providing consistent and unique blend of fresh, new songs, mixed with flashbacks",
+            "rest": "from the 00's and 90's. A blend that brightens up at work, in the car and at home and that always offers happy surprises."
+        },
+        "radio_contacts": {
+            "short": "Fun Radio FM 95.3 is a broadcast Radio station from Lund, Skåne, Sweden, providing consistent and unique blend of fresh, new songs, mixed with flashbacks",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.funradio.se/",
+            "facebook": "http://www.facebook.com/funradio953",
+            "twitter": "",
+            "phone": "040-60 75 750",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Fun_Radio_3",
+            "title": "Play Fun Radio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.funradio.se:81/live192",
+        "radio_image": "https://static-media.streema.com/media/cache/25/ba/25baf0cfa1146eeb164bcdc26f906f9b.jpg"
+    }, {
+        "title": "Assorted Trance Radio - HardTrance Channel",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Assorted_Trance_Radio_HardTrance_Channel",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/55/70/55700a79f0c596592ae72539d46f0574.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Skåne",
+            "link": "/country/Sweden/state/Skane"
+        }, {
+            "title": "Lund",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Electronica"],
+        "location": {
+            "city": "Lund",
+            "country": "Sweden"
+        },
+        "profile_slogan": "",
+        "radio_language": "Swedish",
+        "radio_info": {
+            "short": "Assorted Trance Radio - HardTrance Channel är en Web-radiostation från Lund, Skåne, Sweden, som spelar Electronica.",
+            "rest": "Assorted Trance Radio - HardTrance Channel är en Web-radiostation från Lund, Skåne, Sweden, som spelar Electronica."
+        },
+        "radio_contacts": {
+            "short": "Assorted Trance Radio - HardTrance Channel är en Web-radiostation från Lund, Skåne, Sweden, som spelar Electronica.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.assortedtrance.com/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Coola Hits",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Coola_Hits",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/a9/57/a957f580febaa4eb4a5a287ed7f9e60b.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Skåne",
+            "link": "/country/Sweden/state/Skane"
+        }, {
+            "title": "Lund",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Classics", "Hits"],
+        "location": {
+            "city": "Lund",
+            "country": "Sweden"
+        },
+        "profile_slogan": "Classics and only the best from today!",
+        "radio_language": "Swedish",
+        "radio_info": {
+            "short": "Coola Hits is a web based internet radio station from Sweden that plays Adult Contemporary, Classic Hits genre of music.",
+            "rest": "Coola Hits is a web based internet radio station from Sweden that plays Adult Contemporary, Classic Hits genre of music."
+        },
+        "radio_contacts": {
+            "short": "Coola Hits is a web based internet radio station from Sweden that plays Adult Contemporary, Classic Hits genre of music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.coolahits.se/",
+            "facebook": "http://www.facebook.com/pages/Coola-Hits/144959402229936",
+            "twitter": "",
+            "phone": "",
+            "address": "Måsvägen 20 Lund, Sweden 227 33",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Nueva Radio",
+        "no_play": true,
+        "frequency": "FM 99.1",
+        "link_deatils": "/radios/Nueva_Radio",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/cb/53/cb5388102fa6cb11ee3e95a6f79c751d.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Skåne",
+            "link": "/country/Sweden/state/Skane"
+        }, {
+            "title": "Lund",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Spanish"],
+        "location": {
+            "city": "Lund",
+            "country": "Sweden"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "NuevaRadio, solidaridad cibernética con América latina",
+            "rest": "NuevaRadio, solidaridad cibernética con América latina"
+        },
+        "radio_contacts": {
+            "short": "NuevaRadio, solidaridad cibernética con América latina",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.nuevaradio.org/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}, {
+    "title": "Malmö",
+    "link": "https://streema.com/radios/Malmo",
+    "msg_results": "19 Radio Stations from Malmö",
+    "page_copy": "Listen to radio stations from Malmö, from a wide variety of genres like Dance, Oldies, Pop, Swedish and Top 40.  Enjoy stations such as BPM Malmö, Mix Megapol, Madbone365, Malmökanalen FM 90,2, All Radio and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "BPM Malmö",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/BPM_Malmo",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/59/01/590170fd8c517e8830925c7a87eb5f80.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Skåne",
+            "link": "/country/Sweden/state/Skane"
+        }, {
+            "title": "Malmö",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "30 Listens",
+            "stars": 0
+        },
+        "genres": ["Dance", "Garage", "House"],
+        "location": {
+            "city": "Malmö",
+            "country": "Sweden"
+        },
+        "profile_slogan": "House Bass Dance",
+        "radio_language": "Swedish",
+        "radio_info": {
+            "short": "BPM Malmö plays new music, current hits and oldies in the genres house, bass (drum bass, UK Garage and more) and dance.",
+            "rest": "BPM Malmö plays new music, current hits and oldies in the genres house, bass (drum bass, UK Garage and more) and dance."
+        },
+        "radio_contacts": {
+            "short": "BPM Malmö plays new music, current hits and oldies in the genres house, bass (drum bass, UK Garage and more) and dance.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://bpmmalmoe.playtheradio.com",
+            "facebook": "",
+            "twitter": "http://twitter.com/bpmmalmoe",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/BPM_Malmo",
+            "title": "Play BPM Malmö"
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Mix Megapol",
+        "no_play": false,
+        "frequency": "FM 107.4",
+        "link_deatils": "/radios/Mix_Megapol_Malmo_Radio_Mix_Megapol",
+        "link_player": "/radios/play/Mix_Megapol_Malmo_Radio_Mix_Megapol",
+        "image": "https://static-media.streema.com/media/cache/a2/2f/a22fa90070c2bd7e857c3f02d756b032.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Skåne",
+            "link": "/country/Sweden/state/Skane"
+        }, {
+            "title": "Malmö",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Top 40"],
+        "location": {
+            "city": "Malmö",
+            "country": "Sweden"
+        },
+        "profile_slogan": "",
+        "radio_language": "Swedish",
+        "radio_info": {
+            "short": "Mix Megapol - mer musik, bättre blandning",
+            "rest": "Mix Megapol - mer musik, bättre blandning"
+        },
+        "radio_contacts": {
+            "short": "Mix Megapol - mer musik, bättre blandning",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radioplay.se/mixmegapol",
+            "facebook": "http://www.facebook.com/mixmegapol",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Mix_Megapol_Malmo_Radio_Mix_Megapol",
+            "title": "Play Mix Megapol"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://194.16.21.232:8000/mix_ext_gbg_se_aacp",
+        "radio_image": "https://static-media.streema.com/media/cache/ee/04/ee042685d333e6afdd809a1b9a882084.jpg"
+    }, {
+        "title": "Madbone365",
+        "no_play": false,
+        "frequency": "FM 92",
+        "link_deatils": "/radios/Madbone365",
+        "link_player": "/radios/play/Madbone365",
+        "image": "https://static-media.streema.com/media/cache/ea/91/ea9182e47572307633a9818d3a32c555.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Skåne",
+            "link": "/country/Sweden/state/Skane"
+        }, {
+            "title": "Malmö",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["90s", "Dance", "Oldies"],
+        "location": {
+            "city": "Malmö",
+            "country": "Sweden"
+        },
+        "profile_slogan": "",
+        "radio_language": "Swedish",
+        "radio_info": {
+            "short": "Madbone365 is a broadcast radio station from Malmoe, Sweden providing a mix of all the new Clubmusic and old goldies from the dancefloor of the",
+            "rest": "90s and 2000."
+        },
+        "radio_contacts": {
+            "short": "Madbone365 is a broadcast radio station from Malmoe, Sweden providing a mix of all the new Clubmusic and old goldies from the dancefloor of the",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://madbone365.se/",
+            "facebook": "http://www.facebook.com/Madbone365",
+            "twitter": "http://twitter.com/madbone365",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Madbone365",
+            "title": "Play Madbone365"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://madbone.noip.us:80/stream/1/;",
+        "radio_image": "https://static-media.streema.com/media/cache/da/20/da2050db623dbc7430a3195a9fd59e6f.jpg"
+    }, {
+        "title": "Malmökanalen FM 90,2",
+        "no_play": false,
+        "frequency": "FM 90.2",
+        "link_deatils": "/radios/Malmokanalen_902_MHz",
+        "link_player": "/radios/play/Malmokanalen_902_MHz",
+        "image": "https://static-media.streema.com/media/cache/a6/2b/a62beaa30cddefa92d9205f4dbddc569.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Skåne",
+            "link": "/country/Sweden/state/Skane"
+        }, {
+            "title": "Malmö",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [],
+        "location": {
+            "city": "Malmö",
+            "country": "Sweden"
+        },
+        "profile_slogan": "",
+        "radio_language": "",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://malmokanalen.dinstudio.se/2/53/fm-902/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Malmokanalen_902_MHz",
+            "title": "Play Malmökanalen FM 90,2"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://live-bauerse-fm.sharp-stream.com/topp40_mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/d0/f0/d0f0e303bf65304db5d5aa7beb22c993.jpg"
+    }, {
+        "title": "All Radio",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/All_Radio",
+        "link_player": "/radios/play/All_Radio",
+        "image": "https://static-media.streema.com/media/cache/a7/42/a7429985d89c94999426d1c6c18239b9.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Skåne",
+            "link": "/country/Sweden/state/Skane"
+        }, {
+            "title": "Malmö",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance Hits"],
+        "location": {
+            "city": "Malmö",
+            "country": "Sweden"
+        },
+        "profile_slogan": "Hitsen för hela familjen!",
+        "radio_language": "Swedish",
+        "radio_info": {
+            "short": "Vi är webbradion som ger dig hitsen för hela familjen, dygnet runt! Vårt mål är att ta fram och spela artister som ännu inte fått",
+            "rest": "så stort utrymme i media för den stora massan. Vi spelar bara covers så att alla som lyssnar även kan sjunga med i låtarna. Både lugna gamla klassiker blandas med de snabba hitsen från 2000-talet. De får du hos oss på All Radio!"
+        },
+        "radio_contacts": {
+            "short": "Vi är webbradion som ger dig hitsen för hela familjen, dygnet runt! Vårt mål är att ta fram och spela artister som ännu inte fått",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.allradioplay.com/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "0760375295",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/All_Radio",
+            "title": "Play All Radio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://s5.radio.co/s0072b90d9/listen",
+        "radio_image": "https://static-media.streema.com/media/cache/cc/8e/cc8e910c79866206fd8248518ebe19ea.jpg"
+    }, {
+        "title": "VinylGodis",
+        "no_play": false,
+        "frequency": "FM 96.7",
+        "link_deatils": "/radios/Vinyl_Godis_Radio_96.7",
+        "link_player": "/radios/play/Vinyl_Godis_Radio_96.7",
+        "image": "https://static-media.streema.com/media/cache/aa/c9/aac9c69820e1dc658a5905a130235ac1.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Skåne",
+            "link": "/country/Sweden/state/Skane"
+        }, {
+            "title": "Malmö",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Oldies", "Swedish"],
+        "location": {
+            "city": "Malmö",
+            "country": "Sweden"
+        },
+        "profile_slogan": "Vi spelar bara det bästa som gjorts på Vinyl",
+        "radio_language": "Swedish",
+        "radio_info": {
+            "short": "Vinyl Godis Radio 96.7 Is a broadcast based radio station from Bjuv that plays Oldies genre of music.",
+            "rest": "Vinyl Godis Radio 96.7 Is a broadcast based radio station from Bjuv that plays Oldies genre of music."
+        },
+        "radio_contacts": {
+            "short": "Vinyl Godis Radio 96.7 Is a broadcast based radio station from Bjuv that plays Oldies genre of music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.vinylgodis.se/",
+            "facebook": "http://www.facebook.com/vinylgodis.se",
+            "twitter": "http://twitter.com/Vinylgodis",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Vinyl_Godis_Radio_96.7",
+            "title": "Play VinylGodis"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://nvradio.info:8000/;;",
+        "radio_image": "https://static-media.streema.com/media/cache/95/8b/958b1f24af6f95b88871a4a82aac4766.jpg"
+    }, {
+        "title": "Radio Malmökanalen",
+        "no_play": false,
+        "frequency": "FM 89.2",
+        "link_deatils": "/radios/Radio_Malmokanalen",
+        "link_player": "/radios/play/Radio_Malmokanalen",
+        "image": "https://static-media.streema.com/media/cache/c4/ea/c4eaefbd6e4ec8a877b06060db741b1c.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Skåne",
+            "link": "/country/Sweden/state/Skane"
+        }, {
+            "title": "Malmö",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Information", "News", "Talk"],
+        "location": {
+            "city": "Malmö",
+            "country": "Sweden"
+        },
+        "profile_slogan": "Just nu sänder",
+        "radio_language": "Swedish",
+        "radio_info": {
+            "short": "Radio Malmokanalen is Malmö's only truly local radio with news, features and debate things happening in the Malmö region. The programs made ​​in cooperation with",
+            "rest": "associations in Malmö. You get to hear the local news and current events, however, local politics, local union messages and the local music."
+        },
+        "radio_contacts": {
+            "short": "Radio Malmokanalen is Malmö's only truly local radio with news, features and debate things happening in the Malmö region. The programs made ​​in cooperation with",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.malmokanalen.se/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "040 12 44 33",
+            "address": "Box 300 79 200 61 Malmö",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Malmokanalen",
+            "title": "Play Radio Malmökanalen"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.nsp.se:8000/MNR89_AAC_Hi",
+        "radio_image": "https://static-media.streema.com/media/cache/f2/3b/f23b90112abaa478dd535694485bd733.jpg"
+    }, {
+        "title": "Retro FM",
+        "no_play": false,
+        "frequency": "FM 91.8",
+        "link_deatils": "/radios/Retro_FM_918",
+        "link_player": "/radios/play/Retro_FM_918",
+        "image": "https://static-media.streema.com/media/cache/86/99/8699c7f93435206e45f13af083d4e80a.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Skåne",
+            "link": "/country/Sweden/state/Skane"
+        }, {
+            "title": "Malmö",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "\n        \n          \n          \n          \n          \n        ",
+            "stars": 5
+        },
+        "genres": ["Classic Hits", "Classic Rock", "Oldies", "Pop", "RnB"],
+        "location": {
+            "city": "Malmö",
+            "country": "Sweden"
+        },
+        "profile_slogan": "Tidernas Största Hits",
+        "radio_language": "Swedish",
+        "radio_info": {
+            "short": "Retro plays music as 50 - and 60's generation grew up with. The music they created their first memories. The music they listened to when",
+            "rest": "they kissed his first love at school dance. The music that has shaped generations and created revolutions. Retro FM plays music you love. The music lives on forever!"
+        },
+        "radio_contacts": {
+            "short": "Retro plays music as 50 - and 60's generation grew up with. The music they created their first memories. The music they listened to when",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://radioplay.se/retrofm/",
+            "facebook": "http://www.facebook.com/retrofm.skane",
+            "twitter": "",
+            "phone": "+46 77 140 45 50",
+            "address": "Hylliestationstorg 2 Malmö, Sweden",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Retro_FM_918",
+            "title": "Play Retro FM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://live-bauerse-fm.sharp-stream.com/retrofm_aacp",
+        "radio_image": "https://static-media.streema.com/media/cache/84/ab/84ab89ce15a11769c5892280a35d6a29.jpg"
+    }, {
+        "title": "A & J Music Factory On Air",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/A_and_J_Music_Factory_On_Air",
+        "link_player": "/radios/play/A_and_J_Music_Factory_On_Air",
+        "image": "https://static-media.streema.com/media/cache/43/f5/43f574129312b450e33dac280059cfe2.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Skåne",
+            "link": "/country/Sweden/state/Skane"
+        }, {
+            "title": "Malmö",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Club", "Disco", "House", "Pop"],
+        "location": {
+            "city": "Malmö",
+            "country": "Sweden"
+        },
+        "profile_slogan": "We invented HomeClubbing",
+        "radio_language": "Swedish",
+        "radio_info": {
+            "short": "A & J Music Factory on Air was founded 2020 during the Covid-19 lockdown of Clubs, Pubs and all other places were DJ´s normally work.",
+            "rest": "Two DJ´s Thomas Anderberg and Per Jeppson got the idea to create a WEB Radio station, were DJ´s can perform their DJ sets for a net audience."
+        },
+        "radio_contacts": {
+            "short": "A & J Music Factory on Air was founded 2020 during the Covid-19 lockdown of Clubs, Pubs and all other places were DJ´s normally work.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.ajmusicfactoryonair.com/",
+            "facebook": "http://www.facebook.com/AJMUSICFACTORYONAIR/",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/A_and_J_Music_Factory_On_Air",
+            "title": "Play A & J Music Factory On Air"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://s4.radio.co/s32835e59d/listen",
+        "radio_image": "https://static-media.streema.com/media/cache/b2/41/b24168416c5bf9f9f11025e2cb222d02.jpg"
+    }, {
+        "title": "Västra Hamnen Radion",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Vastra_Hamnen_Radion",
+        "link_player": "/radios/play/Vastra_Hamnen_Radion",
+        "image": "https://static-media.streema.com/media/cache/26/ed/26ed28851266da74d2b65513313f2210.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Skåne",
+            "link": "/country/Sweden/state/Skane"
+        }, {
+            "title": "Malmö",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Pop", "RnB", "Rock"],
+        "location": {
+            "city": "Malmö",
+            "country": "Sweden"
+        },
+        "profile_slogan": "Lokal - Personlig - Innehållsrik",
+        "radio_language": "Swedish",
+        "radio_info": {
+            "short": "Online 24/7/365 Vi finns med dig - När du vaknar - Under dina dags aktiviteter - När du går och lägger dig - Ja även",
+            "rest": "om du är vaken under ntten"
+        },
+        "radio_contacts": {
+            "short": "Online 24/7/365 Vi finns med dig - När du vaknar - Under dina dags aktiviteter - När du går och lägger dig - Ja även",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.vastrahamnenradion.se/",
+            "facebook": "http://www.facebook.com/VHRmalmo",
+            "twitter": "http://twitter.com/VHRmalmo",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Vastra_Hamnen_Radion",
+            "title": "Play Västra Hamnen Radion"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://s3.radio.co/s2d61113ff/listen",
+        "radio_image": "https://static-media.streema.com/media/cache/2d/db/2ddb7515c362b8b8e7d348b6174602f2.jpg"
+    }, {
+        "title": "Radio Sawt Beirut International",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Sawt_Beirut_Int",
+        "link_player": "/radios/play/Radio_Sawt_Beirut_Int",
+        "image": "https://static-media.streema.com/media/cache/27/1a/271a5cea3e30d3c5766710914e3d91fd.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Skåne",
+            "link": "/country/Sweden/state/Skane"
+        }, {
+            "title": "Malmö",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Information", "News"],
+        "location": {
+            "city": "Malmö",
+            "country": "Sweden"
+        },
+        "profile_slogan": "Feel Lebanon with Sawt Beirut International",
+        "radio_language": "Multilingual",
+        "radio_info": {
+            "short": "Radio Sawt Beirut Int is an Internet Radio station from Malmo, playing News, Middle Eastern programs.",
+            "rest": "Radio Sawt Beirut Int is an Internet Radio station from Malmo, playing News, Middle Eastern programs."
+        },
+        "radio_contacts": {
+            "short": "Radio Sawt Beirut Int is an Internet Radio station from Malmo, playing News, Middle Eastern programs.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.sawtbeirut.com/",
+            "facebook": "",
+            "twitter": "http://twitter.com/SawtBeirut",
+            "phone": "46462886699",
+            "address": "Beirut, Ashrafeieh,Saydet El Najat church Beirut Lebanon Lebanon 961",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Sawt_Beirut_Int",
+            "title": "Play Radio Sawt Beirut International"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://hydra.shoutca.st:8325/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/fd/2e/fd2eeced8d01fab633744ec5bb2cb523.jpg"
+    }, {
+        "title": "SR P4 Malmöhus",
+        "no_play": false,
+        "frequency": "FM 102.0",
+        "link_deatils": "/radios/SR_P4_Malmo_SR_P4_Malmohus",
+        "link_player": "/radios/play/SR_P4_Malmo_SR_P4_Malmohus",
+        "image": "https://static-media.streema.com/media/cache/7f/be/7fbe6b019890503727ace7ee01d518ba.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Skåne",
+            "link": "/country/Sweden/state/Skane"
+        }, {
+            "title": "Malmö",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Culture", "Variety"],
+        "location": {
+            "city": "Malmö",
+            "country": "Sweden"
+        },
+        "profile_slogan": "",
+        "radio_language": "Swedish",
+        "radio_info": {
+            "short": "SR P4 Malmöhus är en FM-radiostation från Malmö, Skåne, Sweden, som spelar Culture, Variety.",
+            "rest": "SR P4 Malmöhus är en FM-radiostation från Malmö, Skåne, Sweden, som spelar Culture, Variety."
+        },
+        "radio_contacts": {
+            "short": "SR P4 Malmöhus är en FM-radiostation från Malmö, Skåne, Sweden, som spelar Culture, Variety.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://sverigesradio.se/sida/default.aspx?programid=96",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/SR_P4_Malmo_SR_P4_Malmohus",
+            "title": "Play SR P4 Malmöhus"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://http-live.sr.se/p4malmo-mp3-192",
+        "radio_image": "https://static-media.streema.com/media/cache/49/1a/491ac144708cf6c902dd080288cfdf00.jpg"
+    }, {
+        "title": "SR DinGata",
+        "no_play": false,
+        "frequency": "FM 100.6",
+        "link_deatils": "/radios/SR_DinGata",
+        "link_player": "/radios/play/SR_DinGata",
+        "image": "https://static-media.streema.com/media/cache/0e/0a/0e0a7fe77a11c478237ada3e72d1dc3b.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Skåne",
+            "link": "/country/Sweden/state/Skane"
+        }, {
+            "title": "Malmö",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Hip Hop", "RnB", "Urban"],
+        "location": {
+            "city": "Malmö",
+            "country": "Sweden"
+        },
+        "profile_slogan": "",
+        "radio_language": "Swedish",
+        "radio_info": {
+            "short": "Sveriges Radio sänder i fyra rikstäckande och 26 lokala kanaler. Vi erbjuder även Sameradio, Sisuradio samt SR International på 17 språk. Lyssna på ditt favoritprogram",
+            "rest": "i efterhand!"
+        },
+        "radio_contacts": {
+            "short": "Sveriges Radio sänder i fyra rikstäckande och 26 lokala kanaler. Vi erbjuder även Sameradio, Sisuradio samt SR International på 17 språk. Lyssna på ditt favoritprogram",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://sverigesradio.se/sida/default.aspx?programid=2576",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/SR_DinGata",
+            "title": "Play SR DinGata"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://http-live.sr.se/dingata-mp3-64",
+        "radio_image": "https://static-media.streema.com/media/cache/f5/c7/f5c797efb5046693173d81f6a0b25b92.jpg"
+    }, {
+        "title": "102.6 Guld Kanalen",
+        "no_play": false,
+        "frequency": "FM 102.6",
+        "link_deatils": "/radios/Favorit_102.6",
+        "link_player": "/radios/play/Favorit_102.6",
+        "image": "https://static-media.streema.com/media/cache/c8/a6/c8a6558dbabeae62a550f0e3d0b02f42.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Skåne",
+            "link": "/country/Sweden/state/Skane"
+        }, {
+            "title": "Malmö",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["80s", "90s", "Adult Contemporary", "Oldies", "Pop", "Top 40"],
+        "location": {
+            "city": "Malmö",
+            "country": "Sweden"
+        },
+        "profile_slogan": "Musik för vuxna öron",
+        "radio_language": "Swedish",
+        "radio_info": {
+            "short": "Guld Kanalen 102.6 FM is a broadcast radio station from Malmö, Skåne, Sweden, providing Adult Contemporary and Local Music.",
+            "rest": "Guld Kanalen 102.6 FM is a broadcast radio station from Malmö, Skåne, Sweden, providing Adult Contemporary and Local Music."
+        },
+        "radio_contacts": {
+            "short": "Guld Kanalen 102.6 FM is a broadcast radio station from Malmö, Skåne, Sweden, providing Adult Contemporary and Local Music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.guldkanalen.se/",
+            "facebook": "http://www.facebook.com/1026guldkanalen",
+            "twitter": "",
+            "phone": "046-33 55 94",
+            "address": "DB Media AB Bragevägen 4 245 32 Staffanstorp",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Favorit_102.6",
+            "title": "Play 102.6 Guld Kanalen"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream.dbmedia.se/gkMP3",
+        "radio_image": "https://static-media.streema.com/media/cache/f9/e7/f9e73da0265b3dae7279293751e91876.jpg"
+    }, {
+        "title": "Radio 92",
+        "no_play": true,
+        "frequency": "FM 92.0",
+        "link_deatils": "/radios/Radio_92_92.0",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/72/05/72057d569667084e0abe21e0cc8a3158.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Skåne",
+            "link": "/country/Sweden/state/Skane"
+        }, {
+            "title": "Malmö",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance", "Pop", "Swedish", "Top 40"],
+        "location": {
+            "city": "Malmö",
+            "country": "Sweden"
+        },
+        "profile_slogan": "Nästan bara svenska hits från igår och idag",
+        "radio_language": "Swedish",
+        "radio_info": {
+            "short": "Radio 92 92.0 is a broadcast based radio station from Arloev, Sweden that plays Top 40-Pop, Dansband genre of music.",
+            "rest": "Radio 92 92.0 is a broadcast based radio station from Arloev, Sweden that plays Top 40-Pop, Dansband genre of music."
+        },
+        "radio_contacts": {
+            "short": "Radio 92 92.0 is a broadcast based radio station from Arloev, Sweden that plays Top 40-Pop, Dansband genre of music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://radio92.se/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "040-437070",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio Julius",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Julius",
+        "link_player": "",
+        "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Skåne",
+            "link": "/country/Sweden/state/Skane"
+        }, {
+            "title": "Malmö",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Blues", "Pop", "Rock", "Top 40"],
+        "location": {
+            "city": "Malmö",
+            "country": "Sweden"
+        },
+        "profile_slogan": "TheHomeForTheMusic",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "Radio Julius is a station on the broadcast radio network Radionomy from Malmö, Sweden, provides Top 40/Pop, Rock, Blues Music.",
+            "rest": "Radio Julius is a station on the broadcast radio network Radionomy from Malmö, Sweden, provides Top 40/Pop, Rock, Blues Music."
+        },
+        "radio_contacts": {
+            "short": "Radio Julius is a station on the broadcast radio network Radionomy from Malmö, Sweden, provides Top 40/Pop, Rock, Blues Music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://julius95.yolasite.com/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Nigihana Radio",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Nigihana_Radio",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/65/1d/651dc9478ce21b5bf9bfc3e22708611c.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Skåne",
+            "link": "/country/Sweden/state/Skane"
+        }, {
+            "title": "Malmö",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Rock", "Top 40"],
+        "location": {
+            "city": "Malmö",
+            "country": "Sweden"
+        },
+        "profile_slogan": "",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "Community place for everyone who loves japanese, korean and chinese culture. Get latest news of celebrity, entertainment, local news there and more. A place to",
+            "rest": "meet people who share same interest as you."
+        },
+        "radio_contacts": {
+            "short": "Community place for everyone who loves japanese, korean and chinese culture. Get latest news of celebrity, entertainment, local news there and more. A place to",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.nigihana.com/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Disciples Radio",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Disciples_Radio",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/93/7a/937a343281647af08315436b38cb08b0.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Skåne",
+            "link": "/country/Sweden/state/Skane"
+        }, {
+            "title": "Malmö",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Christian", "Religious", "Swedish", "Talk"],
+        "location": {
+            "city": "Malmö",
+            "country": "Sweden"
+        },
+        "profile_slogan": "Malmö south Radio",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "Disciples Radio is an internet radio station from Malmö, Skåne, Sweden, playing diverse Christian and Swedish music.",
+            "rest": "Disciples Radio is an internet radio station from Malmö, Skåne, Sweden, playing diverse Christian and Swedish music."
+        },
+        "radio_contacts": {
+            "short": "Disciples Radio is an internet radio station from Malmö, Skåne, Sweden, playing diverse Christian and Swedish music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://disciplesradio.online/",
+            "facebook": "http://www.facebook.com/Disciples-Tv-Radio-103420624861461",
+            "twitter": "",
+            "phone": "+46 76 955 74 05",
+            "address": "Munkhättegatan 168 215 74 Malmö Sweden",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Old Basterd's Radio 95.0",
+        "no_play": true,
+        "frequency": "FM 95",
+        "link_deatils": "/radios/Old_Basterds_Radio_95.0",
+        "link_player": "",
+        "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Sweden",
+            "link": "/country/Sweden"
+        }, {
+            "title": "Skåne",
+            "link": "/country/Sweden/state/Skane"
+        }, {
+            "title": "Malmö",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Pop", "Top 40"],
+        "location": {
+            "city": "Malmö",
+            "country": "Sweden"
+        },
+        "profile_slogan": "",
+        "radio_language": "Swedish",
+        "radio_info": {
+            "short": "Old Basterd's Radio 95.0 is a broadcast radio station from Malmo, Sweden providing Top 40/Pop music.",
+            "rest": "Old Basterd's Radio 95.0 is a broadcast radio station from Malmo, Sweden providing Top 40/Pop music."
+        },
+        "radio_contacts": {
+            "short": "Old Basterd's Radio 95.0 is a broadcast radio station from Malmo, Sweden providing Top 40/Pop music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.oldbasterdsradio.se/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}]

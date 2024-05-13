@@ -1,0 +1,2109 @@
+[{
+    "title": "Padua",
+    "link": "https://streema.com/radios/Padova",
+    "msg_results": "25 Radio Stations from Padua",
+    "page_copy": "Listen to radio stations from Padua, from a wide variety of genres like Adult Contemporary, Italian, Love Songs, Pop and Romantic.  Enjoy stations such as Love FM - On The Road, Love FM - Boutique, Radio Freedom, Wellness Radio, Radio Bue and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Love FM - On The Road",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Love_FM_Bologna_2",
+        "link_player": "/radios/play/Love_FM_Bologna_2",
+        "image": "https://static-media.streema.com/media/cache/87/16/8716bf59ce249a0229855a727f174d18.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Italian", "Love Songs", "Pop", "Romantic"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "Ogni canzone, un'emozione",
+        "radio_language": "Italy",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.lovefm.it/",
+            "facebook": "http://www.facebook.com/LOVEFMOFFICIAL",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Love_FM_Bologna_2",
+            "title": "Play Love FM - On The Road"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://lovesoft.radioca.st:8925/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/66/35/6635ded332f37d19c27202fafeb80861.jpg"
+    }, {
+        "title": "Love FM - Boutique",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Love_FM_San_Marino",
+        "link_player": "/radios/play/Love_FM_San_Marino",
+        "image": "https://static-media.streema.com/media/cache/b6/e1/b6e1aec2ddc58d59fdde30ce8d24ccc4.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Easy Listening", "Italian", "Love Songs", "Pop", "Romantic"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "La radio che ti ama",
+            "rest": "La radio che ti ama"
+        },
+        "radio_contacts": {
+            "short": "La radio che ti ama",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.lovefm.it/",
+            "facebook": "http://www.facebook.com/LOVEFMOFFICIAL",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Love_FM_San_Marino",
+            "title": "Play Love FM - Boutique"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://loveboutique.radioca.st:9071/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/f6/ce/f6ce49f1a275e178e18ccd71d41fca4b.jpg"
+    }, {
+        "title": "Radio Freedom",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Freedom_2",
+        "link_player": "/radios/play/Radio_Freedom_2",
+        "image": "https://static-media.streema.com/media/cache/96/cd/96cd38894fa9e8cc39bf832ca8442966.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Alternative", "Ambient", "Talk"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "La radio libera",
+        "radio_language": "Italy",
+        "radio_info": {
+            "short": "Radio Freedom è una radio libera aperta a tutti. Trasmette dalla città di Padova.",
+            "rest": "Radio Freedom è una radio libera aperta a tutti. Trasmette dalla città di Padova."
+        },
+        "radio_contacts": {
+            "short": "Radio Freedom è una radio libera aperta a tutti. Trasmette dalla città di Padova.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiofreedom.it/",
+            "facebook": "http://www.facebook.com/Radio-Freedom-la-radio-libera-225829546032315",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Freedom_2",
+            "title": "Play Radio Freedom"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://c18.radioboss.fm:8268/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/57/64/57645009b7145aee23b67e28ed156d9b.jpg"
+    }, {
+        "title": "Wellness Radio",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Wellness_Radio",
+        "link_player": "/radios/play/Wellness_Radio",
+        "image": "https://static-media.streema.com/media/cache/07/b4/07b45f65e1ad2572ba35e403b1ad31cf.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Italian"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "Radio Wellness la radio della salute",
+        "radio_language": "Italy",
+        "radio_info": {
+            "short": "Radio Wellness è un’azienda fondata con l’obiettivo di creare una radio dedicata alla salute, specializzata nell’ideazione e realizzazione di Radio in Store e Radio per",
+            "rest": "Brand."
+        },
+        "radio_contacts": {
+            "short": "Radio Wellness è un’azienda fondata con l’obiettivo di creare una radio dedicata alla salute, specializzata nell’ideazione e realizzazione di Radio in Store e Radio per",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiowellness.it/",
+            "facebook": "http://www.facebook.com/radiowellnessnetwork/",
+            "twitter": "http://twitter.com/RadioWellnessIT",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Wellness_Radio",
+            "title": "Play Wellness Radio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://dj.mediastreaming.it:9032/;",
+        "radio_image": "https://static-media.streema.com/media/cache/34/66/3466d9edefc1ad5178d46a3226b6d938.jpg"
+    }, {
+        "title": "Radio Bue",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Bue",
+        "link_player": "/radios/play/Radio_Bue",
+        "image": "https://static-media.streema.com/media/cache/5f/a7/5fa736df1b06f5c304bc6335d1446ade.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["College"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Radiobue: La webradio degli studenti dell'Università degli studi di Padova - Radio Universitaria del Veneto",
+            "rest": "Radiobue: La webradio degli studenti dell'Università degli studi di Padova - Radio Universitaria del Veneto"
+        },
+        "radio_contacts": {
+            "short": "Radiobue: La webradio degli studenti dell'Università degli studi di Padova - Radio Universitaria del Veneto",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiobue.it/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Bue",
+            "title": "Play Radio Bue"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://147.162.19.241:8000/;",
+        "radio_image": "https://static-media.streema.com/media/cache/e7/26/e7264815fb7766b8888352fd0b6aef29.jpg"
+    }, {
+        "title": "Love FM",
+        "no_play": false,
+        "frequency": "FM 98.0",
+        "link_deatils": "/radios/Love_FM_6",
+        "link_player": "/radios/play/Love_FM_6",
+        "image": "https://static-media.streema.com/media/cache/a6/ec/a6ec4eee5f6b94d3244597c758c9b849.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Easy Listening", "Italian", "Love Songs", "Pop", "Romantic"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "Ogni canzone, un'emozione",
+        "radio_language": "Italy",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.lovefm.it/",
+            "facebook": "http://www.facebook.com/LOVEFMOFFICIAL",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Love_FM_6",
+            "title": "Play Love FM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://rh.fluidstream.eu/lovefm.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/10/6e/106e2a3d8a9f85a57cf5234949d08efb.jpg"
+    }, {
+        "title": "Love FM - Vintage",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Love_FM_Bologna",
+        "link_player": "/radios/play/Love_FM_Bologna",
+        "image": "https://static-media.streema.com/media/cache/0b/04/0b04cc4eac72bc0634269b5333f57628.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Easy Listening", "Italian", "Love Songs", "Pop", "Romantic"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "La radio che ti ama",
+            "rest": "La radio che ti ama"
+        },
+        "radio_contacts": {
+            "short": "La radio che ti ama",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.lovefm.it/",
+            "facebook": "http://www.facebook.com/LOVEFMOFFICIAL",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Love_FM_Bologna",
+            "title": "Play Love FM - Vintage"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://lovevintage.radioca.st:8708/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/50/70/507027132231390d202fa94814735e12.jpg"
+    }, {
+        "title": "Vibra FM",
+        "no_play": false,
+        "frequency": "FM 88.7",
+        "link_deatils": "/radios/Blu_Radio_Veneto",
+        "link_player": "/radios/play/Blu_Radio_Veneto",
+        "image": "https://static-media.streema.com/media/cache/84/da/84dabebe76541d885b651480ee171801.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Dance", "Italian", "Pop"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "BluRadio Veneto è una stazione radio FM di Padova, Veneto, Italy, che trasmette Adult Contemporary, Italian, Top 40.",
+            "rest": "BluRadio Veneto è una stazione radio FM di Padova, Veneto, Italy, che trasmette Adult Contemporary, Italian, Top 40."
+        },
+        "radio_contacts": {
+            "short": "BluRadio Veneto è una stazione radio FM di Padova, Veneto, Italy, che trasmette Adult Contemporary, Italian, Top 40.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.vibrafm.it/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Blu_Radio_Veneto",
+            "title": "Play Vibra FM"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://ice02.fluidstream.net/playstudio.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/37/6c/376ce3bd51c8133ab964c02040f53904.jpg"
+    }, {
+        "title": "Web Radio DNOR",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Web_Radio_DNOR",
+        "link_player": "/radios/play/Web_Radio_DNOR",
+        "image": "https://static-media.streema.com/media/cache/17/5d/175d53735c6410516070ea169cf0a408.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Chillout", "Disco", "House", "RnB"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "Your companion 24x24 ... and it's a whole different music!",
+        "radio_language": "Italy",
+        "radio_info": {
+            "short": "Our mission is to make known and promote new artists and spreading their music around the world.",
+            "rest": "Our mission is to make known and promote new artists and spreading their music around the world."
+        },
+        "radio_contacts": {
+            "short": "Our mission is to make known and promote new artists and spreading their music around the world.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://webradiodnor.altervista.org/",
+            "facebook": "http://www.facebook.com/WebRadioDNOR/",
+            "twitter": "http://twitter.com/WebRadioDNOR",
+            "phone": "+39 334 971 1723",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Web_Radio_DNOR",
+            "title": "Play Web Radio DNOR"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://109.169.15.20:28236/;;",
+        "radio_image": "https://static-media.streema.com/media/cache/7c/15/7c157e7bf71bc6a24cf94ca460fb64a6.jpg"
+    }, {
+        "title": "Radio Padova - Webradio History",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Padova_History",
+        "link_player": "/radios/play/Radio_Padova_History",
+        "image": "https://static-media.streema.com/media/cache/6f/c2/6fc21c705ed614dd079b0c51a44cdd1b.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Classic Hits", "Italian", "Oldies", "Pop"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "La Musica Internazionale che ha Fatto la Storia di Radio Padova",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Radio Padova trasmette ininterrottamente dal 1975. Radio Padova History ti permette di ascoltare senza alcuna interruzione le canzoni internazionali che hanno fatto e continuano a",
+            "rest": "creare il suono della tua radio preferita."
+        },
+        "radio_contacts": {
+            "short": "Radio Padova trasmette ininterrottamente dal 1975. Radio Padova History ti permette di ascoltare senza alcuna interruzione le canzoni internazionali che hanno fatto e continuano a",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiopadova.com/",
+            "facebook": "http://www.facebook.com/radiopadova",
+            "twitter": "http://twitter.com/Radio_Padova",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Padova_History",
+            "title": "Play Radio Padova - Webradio History"
+        },
+        "radio_shows": [""],
+        "radio_source": "https://sphera.fluidstream.eu/rpd_history.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/22/1b/221b4bdda7654249112df0241788ce8a.jpg"
+    }, {
+        "title": "Radio Padova - Webradio History Italia",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Padova_History_Italia",
+        "link_player": "/radios/play/Radio_Padova_History_Italia",
+        "image": "https://static-media.streema.com/media/cache/a1/37/a13738582dad3669fda837ec13a1e8e7.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Italian", "Oldies", "Pop", "Standards"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "La Musica Italiana che ha Fatto la Storia di Radio Padova",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "La musica italiana è sempre stata protagonista dal 1975 nella playlist di Radio Padova, gli artisti più importanti hanno contribuito a legare in maniera forte",
+            "rest": "la tua radio preferita ai momenti più intensi della tua vita."
+        },
+        "radio_contacts": {
+            "short": "La musica italiana è sempre stata protagonista dal 1975 nella playlist di Radio Padova, gli artisti più importanti hanno contribuito a legare in maniera forte",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiopadova.com/",
+            "facebook": "http://www.facebook.com/radiopadova",
+            "twitter": "http://twitter.com/Radio_Padova",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Padova_History_Italia",
+            "title": "Play Radio Padova - Webradio History Italia"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://sphera.fluidstream.eu/rpd_hita.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/10/fb/10fbb91ccf6e8631310ddafbbe267384.jpg"
+    }, {
+        "title": "Radio Padova - Country Webradio",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Padova_Country_Webradio",
+        "link_player": "/radios/play/Radio_Padova_Country_Webradio",
+        "image": "https://static-media.streema.com/media/cache/5f/97/5f97456e0d3753c3c04257d2aa9ea41d.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Americana", "Country"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Radio Padova guarda verso…West con Radio Padova Country la musica più bella da ascoltare e ballare di un genere che anche in Italia ha sempre",
+            "rest": "più appassionati."
+        },
+        "radio_contacts": {
+            "short": "Radio Padova guarda verso…West con Radio Padova Country la musica più bella da ascoltare e ballare di un genere che anche in Italia ha sempre",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiopadova.com/",
+            "facebook": "http://www.facebook.com/radiopadova",
+            "twitter": "http://twitter.com/Radio_Padova",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Padova_Country_Webradio",
+            "title": "Play Radio Padova - Country Webradio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://sphera.fluidstream.eu/rpd_country.mp3?FLID=D",
+        "radio_image": "https://static-media.streema.com/media/cache/9a/c3/9ac35474e807f0c44e6ab70ae2915ba3.jpg"
+    }, {
+        "title": "Radio Padova - Christmas Webradio",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Padova_Christmas_Webradio",
+        "link_player": "/radios/play/Radio_Padova_Christmas_Webradio",
+        "image": "https://static-media.streema.com/media/cache/36/43/3643bea1fa25c4514a55eae050c473de.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Christmas", "Holidays", "Italian"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Viviamo insieme le feste di Natale con le canzoni più belle di questo periodo dell’anno, i classici ma anche le nuove proposte di artisti che",
+            "rest": "gli ascoltatori di Radio Padova conoscono bene perché presenti sempre nella nostra playlist."
+        },
+        "radio_contacts": {
+            "short": "Viviamo insieme le feste di Natale con le canzoni più belle di questo periodo dell’anno, i classici ma anche le nuove proposte di artisti che",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiopadova.com/",
+            "facebook": "http://www.facebook.com/radiopadova",
+            "twitter": "http://twitter.com/Radio_Padova",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Padova_Christmas_Webradio",
+            "title": "Play Radio Padova - Christmas Webradio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://sphera.fluidstream.eu/rpd_christmas.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/ec/9b/ec9b84c07a99f6237b5f85ef7b58799f.jpg"
+    }, {
+        "title": "Radio Padova",
+        "no_play": false,
+        "frequency": "FM 103.9 / 89.4",
+        "link_deatils": "/radios/Radio_Padova",
+        "link_player": "/radios/play/Radio_Padova",
+        "image": "https://static-media.streema.com/media/cache/de/fc/defc0cfe243fe40410d8480a34575847.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Classic Hits", "Pop", "RnB", "Rock", "World"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "Facciamo radio dal 1975",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Radio Padova was founded in 1975 and is one of the broadcasters in the Veneto region and beyond. musical format favors the Italian and international",
+            "rest": "successes of the moment, while still providing the right space to the great classics that have made ​​history. Radio Padova is constantly striving to maintain question national and regional careful and thorough, and pride, updates the No real time 24 hours 24 on the regional road network through partnerships of excellence."
+        },
+        "radio_contacts": {
+            "short": "Radio Padova was founded in 1975 and is one of the broadcasters in the Veneto region and beyond. musical format favors the Italian and international",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiopadova.com/",
+            "facebook": "http://www.facebook.com/radiopadova",
+            "twitter": "http://twitter.com/Radio_Padova",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Padova",
+            "title": "Play Radio Padova"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://sphera.fluidstream.eu/rpd.aac",
+        "radio_image": "https://static-media.streema.com/media/cache/a3/33/a333a8cbb8a85483fa6894bbbe0753ad.jpg"
+    }, {
+        "title": "Radio 80 - Afro",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_80_Afro",
+        "link_player": "/radios/play/Radio_80_Afro",
+        "image": "https://static-media.streema.com/media/cache/cc/d8/ccd86b5a8d190708a8436bbfa0ad6ae2.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["80s"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Chi ama l’indimenticabile sound degli anni ‘70 e ‘80 sa che RADIO 80 è una garanzia assoluta. Poco spazio al parlato dunque e tanto spazio",
+            "rest": "alla musica, con una sola eccezione: le richieste degli ascoltatori che possono intervenire per dedicare le loro canzoni anni ‘70 e ‘80 preferite.\n\n"
+        },
+        "radio_contacts": {
+            "short": "Chi ama l’indimenticabile sound degli anni ‘70 e ‘80 sa che RADIO 80 è una garanzia assoluta. Poco spazio al parlato dunque e tanto spazio",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radio80.it/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_80_Afro",
+            "title": "Play Radio 80 - Afro"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://sphera.fluidstream.eu/r80_afro.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/a0/09/a009d403f78881d9fe382765366d13e2.jpg"
+    }, {
+        "title": "Radio Easy Network",
+        "no_play": false,
+        "frequency": "FM 87.6",
+        "link_deatils": "/radios/Radio_Easy_Network",
+        "link_player": "/radios/play/Radio_Easy_Network",
+        "image": "https://static-media.streema.com/media/cache/e4/08/e408b1d6bbd329b04ba76016fd355e02.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Jazz", "Soul"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "Easy Jazz & Soul",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Radio Easy NetworkJazz & Soul è la web radio perfetta se vuoi esplorare un mondo musicale raffinato e di grande atmosfera",
+            "rest": "Radio Easy NetworkJazz & Soul è la web radio perfetta se vuoi esplorare un mondo musicale raffinato e di grande atmosfera"
+        },
+        "radio_contacts": {
+            "short": "Radio Easy NetworkJazz & Soul è la web radio perfetta se vuoi esplorare un mondo musicale raffinato e di grande atmosfera",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.easynetwork.fm/",
+            "facebook": "http://www.facebook.com/radioeasynetwork/",
+            "twitter": "http://twitter.com/easy_network",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Easy_Network",
+            "title": "Play Radio Easy Network"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://ice10.fluidstream.net:8080/easy.aac",
+        "radio_image": "https://static-media.streema.com/media/cache/87/d3/87d318046809ff58a90f5390b266a5f4.jpg"
+    }, {
+        "title": "Radio Easy Network - Classica",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Easy_Network_Classica",
+        "link_player": "/radios/play/Radio_Easy_Network_Classica",
+        "image": "https://static-media.streema.com/media/cache/d6/7e/d67e457508c1234af59f370a3bc0075d.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Classical"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.easynetwork.fm/",
+            "facebook": "http://www.facebook.com/radioeasynetwork/",
+            "twitter": "http://twitter.com/easy_network",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Easy_Network_Classica",
+            "title": "Play Radio Easy Network - Classica"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://ice20.fluidstream.net:80/easy_classica.mp3/;",
+        "radio_image": "https://static-media.streema.com/media/cache/c0/c8/c0c89ff6d04d346f14a35396977d4cc8.jpg"
+    }, {
+        "title": "Radio Easy Network - Jazz and Soul",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Easy_Network_Jazz_and_Soul",
+        "link_player": "/radios/play/Radio_Easy_Network_Jazz_and_Soul",
+        "image": "https://static-media.streema.com/media/cache/b6/48/b6481de398c7fecd7c1f14b2b9eccf18.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Jazz", "Soul"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.easynetwork.fm/",
+            "facebook": "http://www.facebook.com/radioeasynetwork/",
+            "twitter": "http://twitter.com/easy_network",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Easy_Network_Jazz_and_Soul",
+            "title": "Play Radio Easy Network - Jazz and Soul"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://ice14.fluidstream.net:80/easy_jazz.mp3/;",
+        "radio_image": "https://static-media.streema.com/media/cache/22/9f/229f9a9c428ff136d2e07c5f16886b3a.jpg"
+    }, {
+        "title": "Love FM - Gourmet",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Love_FM_Puglia",
+        "link_player": "/radios/play/Love_FM_Puglia",
+        "image": "https://static-media.streema.com/media/cache/ca/0e/ca0e31b9f62ceb6b4c3ea258f389cd80.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Easy Listening", "Italian", "Love Songs", "Pop", "Romantic"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.lovefm.it/",
+            "facebook": "http://www.facebook.com/LOVEFMOFFICIAL",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Love_FM_Puglia",
+            "title": "Play Love FM - Gourmet"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://lovegourmet.radioca.st:9525/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/08/b8/08b8f90550463df118cfadbca1380cbf.jpg"
+    }, {
+        "title": "Radio 80",
+        "no_play": false,
+        "frequency": "FM 102.7",
+        "link_deatils": "/radios/Radio_80_2",
+        "link_player": "/radios/play/Radio_80_2",
+        "image": "https://static-media.streema.com/media/cache/b0/b6/b0b6018070253306f84deb1203f963ff.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["70s", "80s", "Music"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "Se E' Nuovo non Suona",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Radio 80 is a broadcast radio station from Padova, Italy providing 70's and 80's music.",
+            "rest": "Radio 80 is a broadcast radio station from Padova, Italy providing 70's and 80's music."
+        },
+        "radio_contacts": {
+            "short": "Radio 80 is a broadcast radio station from Padova, Italy providing 70's and 80's music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radio80.it/",
+            "facebook": "http://www.facebook.com/Radio80",
+            "twitter": "",
+            "phone": "800 904 130",
+            "address": "via Salata, 58 35027 Noventa",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_80_2",
+            "title": "Play Radio 80"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://sphera.fluidstream.eu/radio80.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/05/b7/05b700327fb762be1d948b6df0398197.jpg"
+    }, {
+        "title": "Radio Studio 91 Live",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Studio_91_Live",
+        "link_player": "/radios/play/Radio_Studio_91_Live",
+        "image": "https://static-media.streema.com/media/cache/f9/cf/f9cf7b3145a688d964f415f5b0d9a9be.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Italian", "Pop", "Rock", "Soul"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Radio Studio 91 Live is a web radio station based in Padua (Italy). We propose greatest hits from 70's to today, information, talk, live events,",
+            "rest": "new bands promotions.\nRadio Studio 91 Live è una web radio con sede a Padova (Italia). Proponiamo i più grandi successi musicali dagli anni 70 ai giorni nostri, informazione, interviste, eventi live e promozione di band emergenti."
+        },
+        "radio_contacts": {
+            "short": "Radio Studio 91 Live is a web radio station based in Padua (Italy). We propose greatest hits from 70's to today, information, talk, live events,",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiostudio91.live/",
+            "facebook": "http://www.facebook.com/Radio-Studio-91-Live-357087271408112/",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Studio_91_Live",
+            "title": "Play Radio Studio 91 Live"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://comet.shoutca.st:8970/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/6c/75/6c759bbe46b8a0d97aedc4129123b3d3.jpg"
+    }, {
+        "title": "Wolfyradio",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Wolfyradio",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/66/d1/66d1974b225c99e6f2d3f95f30e13f20.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Hits"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "hits & Stars Radio",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "Wolfyradio è una stazione radio en ligne di Padova, Veneto, Italy, che trasmette Hits.",
+            "rest": "Wolfyradio è una stazione radio en ligne di Padova, Veneto, Italy, che trasmette Hits."
+        },
+        "radio_contacts": {
+            "short": "Wolfyradio è una stazione radio en ligne di Padova, Veneto, Italy, che trasmette Hits.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.wolfyradio.com/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "49.632959",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Overdance Radio",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Overdance_Radio",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/94/09/9409262c7be02ac5fd3579c0b57d7c01.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": [],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Overdance Radio is an internet radio station from Padova, Veneto, Italy providing dance, house, techno, tribal and hardcore music.",
+            "rest": "Overdance Radio is an internet radio station from Padova, Veneto, Italy providing dance, house, techno, tribal and hardcore music."
+        },
+        "radio_contacts": {
+            "short": "Overdance Radio is an internet radio station from Padova, Veneto, Italy providing dance, house, techno, tribal and hardcore music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.overdanceradio.it/",
+            "facebook": "http://www.facebook.com/overdanceradio",
+            "twitter": "http://twitter.com/OVERDANCEITALY",
+            "phone": "+39 0492613478, +39 334 88 05 962",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio Iride",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Iride",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/23/38/23388bf6f2c5b6a2a5df047ff910383c.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Italian", "Pop"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radioiride.it/",
+            "facebook": "http://www.facebook.com/radioiride/",
+            "twitter": "",
+            "phone": "+39 338 377 5193",
+            "address": "Piazza Generale Carlo Alberto dalla Chiesa, 19, 35010 Pieve PD, Italy",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio Soul",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Soul",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/2c/44/2c44fbdb321acc905b186e5970dbe5b5.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Christian", "Italian", "Pop"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "La voce dell'anima",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "È la voce portata dalla radio oltre la radio, la voce dell’anima. E l’anima è l’insieme di tante, tutte le anime mosse da un’unica forza:",
+            "rest": "lo Spirito."
+        },
+        "radio_contacts": {
+            "short": "È la voce portata dalla radio oltre la radio, la voce dell’anima. E l’anima è l’insieme di tante, tutte le anime mosse da un’unica forza:",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiosoul.net/",
+            "facebook": "http://www.facebook.com/radiosoul.net",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}, {
+    "title": "Padua",
+    "link": "https://streema.com/radios/Padua",
+    "msg_results": "14 Radio Stations from Padua",
+    "page_copy": "Listen to radio stations from Padua, from a wide variety of genres like Italian, News, Pop, Rock and World.  Enjoy stations such as Radio Genius, Radio Company, Radio Easy Network, Radio Company Easy, Delta Radio and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Radio Genius",
+        "no_play": false,
+        "frequency": "FM 95.3",
+        "link_deatils": "/radios/Radio_Genius",
+        "link_player": "/radios/play/Radio_Genius",
+        "image": "https://static-media.streema.com/media/cache/c1/b5/c1b5eab88388b063d26f42eff91e4be2.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Folk", "Italian", "Pop"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "Stappa La Musica",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Radio Genius ::..Stappa la Musica..:: in FM VENETO, FRIULI VENEZIA GIULIA, TRENTINO ALTO ADIGE, EMILIA ROMAGNA/",
+            "rest": "Radio Genius ::..Stappa la Musica..:: in FM VENETO, FRIULI VENEZIA GIULIA, TRENTINO ALTO ADIGE, EMILIA ROMAGNA/"
+        },
+        "radio_contacts": {
+            "short": "Radio Genius ::..Stappa la Musica..:: in FM VENETO, FRIULI VENEZIA GIULIA, TRENTINO ALTO ADIGE, EMILIA ROMAGNA/",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiogenius.it/",
+            "facebook": "http://www.facebook.com/radiogenius.padova",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Genius",
+            "title": "Play Radio Genius"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://onair11.xdevel.com:8136/;",
+        "radio_image": "https://static-media.streema.com/media/cache/c3/86/c386cfc43e9c4c1f63b94beec02d819f.jpg"
+    }, {
+        "title": "Radio Company",
+        "no_play": false,
+        "frequency": "FM 96.0",
+        "link_deatils": "/radios/Radio_Company",
+        "link_player": "/radios/play/Radio_Company",
+        "image": "https://static-media.streema.com/media/cache/78/d6/78d6c1297c88a8b3953fd6dbaa1bd519.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Classic Hits", "Italian", "Pop", "RnB", "Rock", "World"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Scopri il mondo di Radio Company. Segui, abbonati, riascolta e scarica i programmi. Sfoglia le classifiche, interagisci con i nostri deejay, guarda video e foto",
+            "rest": "degli artisti ospiti nei nostri studi e nel tour Company Contatto."
+        },
+        "radio_contacts": {
+            "short": "Scopri il mondo di Radio Company. Segui, abbonati, riascolta e scarica i programmi. Sfoglia le classifiche, interagisci con i nostri deejay, guarda video e foto",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiocompany.com/",
+            "facebook": "http://www.facebook.com/radiocompany",
+            "twitter": "http://twitter.com/radiocompany",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Company",
+            "title": "Play Radio Company"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://sphera.fluidstream.eu/company.aac",
+        "radio_image": "https://static-media.streema.com/media/cache/92/9d/929df019657f23ac3ed0760fb5e03192.jpg"
+    }, {
+        "title": "Radio Easy Network",
+        "no_play": false,
+        "frequency": "FM 98.7",
+        "link_deatils": "/radios/Easy_Network",
+        "link_player": "/radios/play/Easy_Network",
+        "image": "https://static-media.streema.com/media/cache/3e/08/3e08a15e92a085f1ad6633acf5f6789b.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["70s", "80s", "90s"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Musica leggera 70 80 90",
+            "rest": "Musica leggera 70 80 90"
+        },
+        "radio_contacts": {
+            "short": "Musica leggera 70 80 90",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.easynetwork.fm/",
+            "facebook": "http://www.facebook.com/radioeasynetwork/",
+            "twitter": "http://twitter.com/easy_network",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Easy_Network",
+            "title": "Play Radio Easy Network"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://sphera.fluidstream.eu/easy.aac",
+        "radio_image": "https://static-media.streema.com/media/cache/c7/ee/c7ee67c42670205887846d1f4bb5f5aa.jpg"
+    }, {
+        "title": "Radio Company Easy",
+        "no_play": false,
+        "frequency": "FM 98.7",
+        "link_deatils": "/radios/Radio_Company_Easy_2",
+        "link_player": "/radios/play/Radio_Company_Easy_2",
+        "image": "https://static-media.streema.com/media/cache/6f/bd/6fbda76ea94427cf3a076d8b8654c892.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Hits", "Italian", "News", "Sports"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiocompanyeasy.com/",
+            "facebook": "http://www.facebook.com/radiocompanyeasy/?ref=page_internal",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Company_Easy_2",
+            "title": "Play Radio Company Easy"
+        },
+        "radio_shows": [""],
+        "radio_source": "https://sphera.fluidstream.eu/ceasy.aac",
+        "radio_image": "https://static-media.streema.com/media/cache/33/68/3368ce1b185b7d58c642f82fe09e6bbb.jpg"
+    }, {
+        "title": "Delta Radio",
+        "no_play": false,
+        "frequency": "FM 93.2",
+        "link_deatils": "/radios/Delta_Radio_4",
+        "link_player": "/radios/play/Delta_Radio_4",
+        "image": "https://static-media.streema.com/media/cache/b2/72/b272535b99ce69e7d2e1a05430897caf.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Music", "News", "Sports", "Talk"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Delta Radio is a broadcast radio station from Padua, Italy providing news, sports, talk and music.",
+            "rest": "Delta Radio is a broadcast radio station from Padua, Italy providing news, sports, talk and music."
+        },
+        "radio_contacts": {
+            "short": "Delta Radio is a broadcast radio station from Padua, Italy providing news, sports, talk and music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.deltaradio.it/",
+            "facebook": "http://www.facebook.com/deltaradio.rovigo",
+            "twitter": "http://twitter.com/DeltaRadioTwitt",
+            "phone": "+39 426 81525",
+            "address": "Via Dino Campion 4/18  45018 PORTO TOLLE (RO)",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Delta_Radio_4",
+            "title": "Play Delta Radio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://arus18.planetdance.it:7061/radio_6.aac",
+        "radio_image": "https://static-media.streema.com/media/cache/0b/fd/0bfdc3ab9a928bae66fa6340aaec11e4.jpg"
+    }, {
+        "title": "Radio Café Padova",
+        "no_play": false,
+        "frequency": "FM 94.6",
+        "link_deatils": "/radios/Radio_Cafe",
+        "link_player": "/radios/play/Radio_Cafe",
+        "image": "https://static-media.streema.com/media/cache/4c/df/4cdf0978200c151eba135db0a8a0b783.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Italian"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Laroma della buona musical",
+            "rest": "Laroma della buona musical"
+        },
+        "radio_contacts": {
+            "short": "Laroma della buona musical",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiocafe.it/",
+            "facebook": "http://www.facebook.com/RADI0CAFE",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Cafe",
+            "title": "Play Radio Café Padova"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://79.8.227.117:8000/8/;",
+        "radio_image": "https://static-media.streema.com/media/cache/a6/c9/a6c9fedec6a6cb53292938786a35ec49.jpg"
+    }, {
+        "title": "Radio Company - Rock Webradio",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Company_Rock_Webradio",
+        "link_player": "/radios/play/Radio_Company_Rock_Webradio",
+        "image": "https://static-media.streema.com/media/cache/e3/bc/e3bc355cde8f10f685dc17dfb97289d1.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Rock"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Che mondo sarebbe, senza la musica Rock? E' una domanda legittima, alla quale abbiamo risposto creando “Radio Company Rock”, la web radio che colleziona i",
+            "rest": "più grandi successi rock di tutti i tempi, da tutto il pianeta."
+        },
+        "radio_contacts": {
+            "short": "Che mondo sarebbe, senza la musica Rock? E' una domanda legittima, alla quale abbiamo risposto creando “Radio Company Rock”, la web radio che colleziona i",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiocompany.com/",
+            "facebook": "http://www.facebook.com/radiocompany",
+            "twitter": "http://twitter.com/radiocompany",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Company_Rock_Webradio",
+            "title": "Play Radio Company - Rock Webradio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://ice10.fluidstream.net:8080/companyrock.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/ef/0e/ef0eee4c87605f7d0ffee1c14625671e.jpg"
+    }, {
+        "title": "Radio Company - Fitness Webradio",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Company_Fitness_Webradio",
+        "link_player": "/radios/play/Radio_Company_Fitness_Webradio",
+        "image": "https://static-media.streema.com/media/cache/dc/20/dc20daf147366bf2eef4bc2343ff0fc8.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance Hits", "Pop"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Amanti della salute, del movimento, dello sport, dello stare bene: questa è la Web Radio che fa per voi!!! L'abbiamo creata appositamente per darvi la",
+            "rest": "carica mentre vi allenate!!!"
+        },
+        "radio_contacts": {
+            "short": "Amanti della salute, del movimento, dello sport, dello stare bene: questa è la Web Radio che fa per voi!!! L'abbiamo creata appositamente per darvi la",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiocompany.com/",
+            "facebook": "http://www.facebook.com/radiocompany",
+            "twitter": "http://twitter.com/radiocompany",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Company_Fitness_Webradio",
+            "title": "Play Radio Company - Fitness Webradio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://ice20.fluidstream.net:80/companyfitness.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/25/81/2581b6d9fc804e1af62e3a1cc9a855e3.jpg"
+    }, {
+        "title": "Radio Company - 90 Webradio",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Company_90_Webradio",
+        "link_player": "/radios/play/Radio_Company_90_Webradio",
+        "image": "https://static-media.streema.com/media/cache/fd/32/fd32e827c21d2bb44cf512cd57984413.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["90s", "Classic Hits", "Pop", "RnB", "Rock", "World"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Radio Company 90 è il canale totalmente dedicato alla decade più prolifica e innovativa della storia della musica: nel palinsesto di Company 90 trovano spazio",
+            "rest": "i grandi successi pop e dance del decennio, esattamente come li ascoltavamo e ballavamo al tempo!!!"
+        },
+        "radio_contacts": {
+            "short": "Radio Company 90 è il canale totalmente dedicato alla decade più prolifica e innovativa della storia della musica: nel palinsesto di Company 90 trovano spazio",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiocompany.com/",
+            "facebook": "http://www.facebook.com/radiocompany",
+            "twitter": "http://twitter.com/radiocompany",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Company_90_Webradio",
+            "title": "Play Radio Company - 90 Webradio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://str01.fluidstream.net:80/company90.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/28/6f/286f83d718a029ac5b21950de1ae5661.jpg"
+    }, {
+        "title": "Radio Company - Reggaetown Webradio",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Company_Reggaetown_Webradio",
+        "link_player": "/radios/play/Radio_Company_Reggaetown_Webradio",
+        "image": "https://static-media.streema.com/media/cache/ad/35/ad358cd587dce15b49ed02416c624625.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Reggaeton"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Radio Company Reggaetown: la città del reggaeton, la “emisora on line” dove reggae e dancehall si fondono per regalarvi “24 hours a day” il sound",
+            "rest": "che in pochissimo tempo ha conquistato tutto il mondo!!!"
+        },
+        "radio_contacts": {
+            "short": "Radio Company Reggaetown: la città del reggaeton, la “emisora on line” dove reggae e dancehall si fondono per regalarvi “24 hours a day” il sound",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiocompany.com/",
+            "facebook": "http://www.facebook.com/radiocompany",
+            "twitter": "http://twitter.com/radiocompany",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Company_Reggaetown_Webradio",
+            "title": "Play Radio Company - Reggaetown Webradio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://sphera.fluidstream.eu/companyreggaetown.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/8f/23/8f238dc6e8c6f0fc87c3feabe005dba6.jpg"
+    }, {
+        "title": "Radio Company - Global House Webradio",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Company_Global_House_Webradio",
+        "link_player": "/radios/play/Radio_Company_Global_House_Webradio",
+        "image": "https://static-media.streema.com/media/cache/39/88/39888fed0367a5dea4ea815f8b391fbf.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Deep House", "DJ", "Electronica", "House"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Se il vostro gusto musicale guarda lontano, questa è la web radio che fa per voi: mixata dai nostri DJ, su Radio Company Global House",
+            "rest": "trovate la musica più innovativa e tendenziosa, quella che da molti anni anticipa i tempi e le mode!!!"
+        },
+        "radio_contacts": {
+            "short": "Se il vostro gusto musicale guarda lontano, questa è la web radio che fa per voi: mixata dai nostri DJ, su Radio Company Global House",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiocompany.com/",
+            "facebook": "http://www.facebook.com/radiocompany",
+            "twitter": "http://twitter.com/radiocompany",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Company_Global_House_Webradio",
+            "title": "Play Radio Company - Global House Webradio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://sphera.fluidstream.eu/companyhouse.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/cd/2f/cd2feb5bab646e383ab8dcf8eab6363b.jpg"
+    }, {
+        "title": "Radio Company - ItalyAmo Webradio",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Company_ItalyAmo_Webradio",
+        "link_player": "/radios/play/Radio_Company_ItalyAmo_Webradio",
+        "image": "https://static-media.streema.com/media/cache/4c/fc/4cfcfe2a8f2a039d2e080c7debc0a693.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Italian", "Love Songs", "Pop", "Romantic"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radiocompany.com/",
+            "facebook": "http://www.facebook.com/radiocompany",
+            "twitter": "http://twitter.com/radiocompany",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Company_ItalyAmo_Webradio",
+            "title": "Play Radio Company - ItalyAmo Webradio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://sphera.fluidstream.eu/companyitalia.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/9e/34/9e3449827c1864afec356f63b61f6bc4.jpg"
+    }, {
+        "title": "Radio StereoCitta",
+        "no_play": false,
+        "frequency": "FM 95",
+        "link_deatils": "/radios/StereoCitta_Stereo_Citta_Radio",
+        "link_player": "/radios/play/StereoCitta_Stereo_Citta_Radio",
+        "image": "https://static-media.streema.com/media/cache/48/5f/485fa8512d76e31d8ff4bed55577b171.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Dance", "Electro", "Pop"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "Turn on the music, Turn on the beat",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Stereocittà you listen, you watch it, you live! Enter the site to listen to streaming Stereocittà, see photos of the event, get in touch with",
+            "rest": "them, and listen to the programs that you like! Every hour, Stereocittà broadcasts music more suited to ' giving rise time, during the day, a 'metamorphosis' music. Stereocittà plays the rhythm of your day! Zero words, so much energy!"
+        },
+        "radio_contacts": {
+            "short": "Stereocittà you listen, you watch it, you live! Enter the site to listen to streaming Stereocittà, see photos of the event, get in touch with",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.stereocitta.it/",
+            "facebook": "http://www.facebook.com/radiostereocitta",
+            "twitter": "http://twitter.com/Stereocitta",
+            "phone": "+39 049 796 2224",
+            "address": "Viale della Navgazione Interna, 9 35129 Padua, Italy",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/StereoCitta_Stereo_Citta_Radio",
+            "title": "Play Radio StereoCitta"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://79.8.227.117:8008/1/;",
+        "radio_image": "https://static-media.streema.com/media/cache/8d/47/8d47e7ed3a94fbe3529fb68475511a3c.jpg"
+    }, {
+        "title": "LiteFm",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/LiteFm_Free_Music_radio",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/ca/16/ca1619692789c1393b962b77fc684f80.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Padua",
+            "link": "/country/Italy/state/Padua"
+        }, {
+            "title": "Padua",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Alternative", "Folk", "Italian"],
+        "location": {
+            "city": "Padua",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Litefm La radio italiana dedicata alla musica Copyleft e Creative Common",
+            "rest": "Litefm La radio italiana dedicata alla musica Copyleft e Creative Common"
+        },
+        "radio_contacts": {
+            "short": "Litefm La radio italiana dedicata alla musica Copyleft e Creative Common",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.litefm.it/",
+            "facebook": "http://www.facebook.com/pages/Litefm-Free-Music-Radio/177259829178?fref=ts",
+            "twitter": "http://twitter.com/litefm_radio",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}]

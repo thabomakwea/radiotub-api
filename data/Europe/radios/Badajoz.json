@@ -1,0 +1,221 @@
+[{
+    "title": "Almendralejo",
+    "link": "https://streema.com/radios/Almendralejo",
+    "msg_results": "4 Radio Stations from Almendralejo",
+    "page_copy": "Listen to radio stations from Almendralejo, from a wide variety of genres like Adult Contemporary, Entertainment, News, Spanish and Talk.  Enjoy stations such as Cadena Cope Almendralejo, Radiogolex, Cadena SER - Tierra de Barros, Radio Comarca de Barros (RCB) and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Cadena Cope Almendralejo",
+        "no_play": false,
+        "frequency": "FM 88.6",
+        "link_deatils": "/radios/Cadena_Cope_Almendralejo",
+        "link_player": "/radios/play/Cadena_Cope_Almendralejo",
+        "image": "https://static-media.streema.com/media/cache/4c/18/4c1862ddc24ea9799c7168106cdaa4e2.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Badajoz",
+            "link": "/radios/country/Spain/state/Badajoz"
+        }, {
+            "title": "Almendralejo",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["News", "Spanish", "Talk"],
+        "location": {
+            "city": "Almendralejo",
+            "country": "Spain"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.copelacapital.es/",
+            "facebook": "http://www.facebook.com/cope.almendralejo/",
+            "twitter": "http://twitter.com/copealmendralej?lang=es",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Cadena_Cope_Almendralejo",
+            "title": "Play Cadena Cope Almendralejo"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streaming6.elitecomunicacion.es:8632/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/bc/cd/bccd734ec669d8ea98f838eed8746fe9.jpg"
+    }, {
+        "title": "Radiogolex",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radiogolex",
+        "link_player": "/radios/play/Radiogolex",
+        "image": "https://static-media.streema.com/media/cache/c8/55/c8553dacfcb5a076e9aa1ce587a63700.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Badajoz",
+            "link": "/radios/country/Spain/state/Badajoz"
+        }, {
+            "title": "Almendralejo",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Spanish"],
+        "location": {
+            "city": "Almendralejo",
+            "country": "Spain"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiogolex.com/",
+            "facebook": "http://www.facebook.com/Radiogolex/",
+            "twitter": "http://twitter.com/radiogolex",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radiogolex",
+            "title": "Play Radiogolex"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streaming6.elitecomunicacion.es:8218/stream/;",
+        "radio_image": "https://static-media.streema.com/media/cache/70/c6/70c6d8e86569e660edfe3ddfccd67df3.jpg"
+    }, {
+        "title": "Cadena SER - Tierra de Barros",
+        "no_play": false,
+        "frequency": "FM 105.7",
+        "link_deatils": "/radios/Cadena_SER_Tierra_de_Barros",
+        "link_player": "/radios/play/Cadena_SER_Tierra_de_Barros",
+        "image": "https://static-media.streema.com/media/cache/83/0a/830a29d09db80a2e04fa125f911edee6.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Badajoz",
+            "link": "/radios/country/Spain/state/Badajoz"
+        }, {
+            "title": "Almendralejo",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["News", "Politics", "Spanish", "Talk"],
+        "location": {
+            "city": "Almendralejo",
+            "country": "Spain"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://cadenaser.com/emisora/ser_tierra_de_barros/",
+            "facebook": "http://www.facebook.com/SERTierraDeBarros",
+            "twitter": "http://twitter.com/sertierrabarros?lang=en",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Cadena_SER_Tierra_de_Barros",
+            "title": "Play Cadena SER - Tierra de Barros"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://srv3021.lcinternet.com:8018/live",
+        "radio_image": "https://static-media.streema.com/media/cache/5c/0d/5c0da8032b83fa7915c9fa7f122268a5.jpg"
+    }, {
+        "title": "Radio Comarca de Barros (RCB)",
+        "no_play": true,
+        "frequency": "FM 107.9",
+        "link_deatils": "/radios/Radio_Comarca_de_Barros_RCB",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/61/9c/619c825b21c8377badd98adbb5879792.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Badajoz",
+            "link": "/radios/country/Spain/state/Badajoz"
+        }, {
+            "title": "Almendralejo",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Entertainment", "Music", "News", "Talk"],
+        "location": {
+            "city": "Almendralejo",
+            "country": "Spain"
+        },
+        "profile_slogan": "La radio pública de Almendralejo",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Radio Comarca de Barros (RCB) is a broadcast radio station from Almendralejo, Badajoz, Spain, providing News, Talk, Adult Contemporary, Music and Entertainment programming.",
+            "rest": "Radio Comarca de Barros (RCB) is a broadcast radio station from Almendralejo, Badajoz, Spain, providing News, Talk, Adult Contemporary, Music and Entertainment programming."
+        },
+        "radio_contacts": {
+            "short": "Radio Comarca de Barros (RCB) is a broadcast radio station from Almendralejo, Badajoz, Spain, providing News, Talk, Adult Contemporary, Music and Entertainment programming.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://rcb.almendralejo.es/",
+            "facebook": "http://www.facebook.com/radiocomarca.debarros/",
+            "twitter": "http://twitter.com/radiocomarca",
+            "phone": "+34 924 67 10 20 | +34 924 67 05 09",
+            "address": "Calle Suarez Bárcena, 9 06200 Almendralejo, Spain",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}]

@@ -1,0 +1,329 @@
+[{
+    "title": "Kielce",
+    "link": "https://streema.com/radios/Kielce",
+    "msg_results": "6 Radio Stations from Kielce",
+    "page_copy": "Listen to radio stations from Kielce, from a wide variety of genres like Adult Contemporary, Hits, Pop, Rock and Talk.  Enjoy stations such as Radio Eska Kielce, Radio Kielce 101.4, Meloradio, Radio FAMA, Radio eM Kielce and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Radio Eska Kielce",
+        "no_play": false,
+        "frequency": "FM 103.3",
+        "link_deatils": "/radios/Radio_Eska_Kielce",
+        "link_player": "/radios/play/Radio_Eska_Kielce",
+        "image": "https://static-media.streema.com/media/cache/0f/23/0f23fc2ff82b149bd364e6b683a579b3.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/country/Poland"
+        }, {
+            "title": "Świętokrzyskie",
+            "link": "/country/Poland/state/Swietokrzyskie"
+        }, {
+            "title": "Kielce",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Dance", "Pop", "Top 40"],
+        "location": {
+            "city": "Kielce",
+            "country": "Poland"
+        },
+        "profile_slogan": "Muzyka w Twoim klimacie tam, gdzie jesteś",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Radio Eska Kielce is a broadcast radio station from Kielce, Poland providing Top 40/Pop and Hits music.",
+            "rest": "Radio Eska Kielce is a broadcast radio station from Kielce, Poland providing Top 40/Pop and Hits music."
+        },
+        "radio_contacts": {
+            "short": "Radio Eska Kielce is a broadcast radio station from Kielce, Poland providing Top 40/Pop and Hits music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.eska.pl/?stationId=24",
+            "facebook": "http://www.facebook.com/radioeska",
+            "twitter": "http://twitter.com/eska_pl",
+            "phone": "+48 22 516 47 00",
+            "address": "ul. Jubilerska 10, 04-190 Warsaw, Poland",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Eska_Kielce",
+            "title": "Play Radio Eska Kielce"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://pldm.ml/radio?url=http://www.eskago.pl/radio/eska-kielce",
+        "radio_image": "https://static-media.streema.com/media/cache/fc/72/fc72dc070c6742025d709a58ccb3e01b.jpg"
+    }, {
+        "title": "Radio Kielce 101.4",
+        "no_play": false,
+        "frequency": "FM 101.4",
+        "link_deatils": "/radios/Radio_Kielce",
+        "link_player": "/radios/play/Radio_Kielce",
+        "image": "https://static-media.streema.com/media/cache/e6/ad/e6ad7f7911047d98e08b9e0c6530a89f.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/country/Poland"
+        }, {
+            "title": "Świętokrzyskie",
+            "link": "/country/Poland/state/Swietokrzyskie"
+        }, {
+            "title": "Kielce",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Information", "Music", "Talk"],
+        "location": {
+            "city": "Kielce",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Radio Kielce 101.4 is a broadcast radio station from Kielce, Poland providing Polish News, Talk, Music and information.",
+            "rest": "Radio Kielce 101.4 is a broadcast radio station from Kielce, Poland providing Polish News, Talk, Music and information."
+        },
+        "radio_contacts": {
+            "short": "Radio Kielce 101.4 is a broadcast radio station from Kielce, Poland providing Polish News, Talk, Music and information.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radio.kielce.pl/",
+            "facebook": "http://www.facebook.com/Polskie.Radio.Kielce",
+            "twitter": "",
+            "phone": "41 368 12 00",
+            "address": "ul. Radiowa 4",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Kielce",
+            "title": "Play Radio Kielce 101.4"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://gra.radio.kielce.pl:8000/rk1",
+        "radio_image": "https://static-media.streema.com/media/cache/cb/80/cb802c084ac9a1eab4642fb000c739a4.jpg"
+    }, {
+        "title": "Meloradio",
+        "no_play": false,
+        "frequency": "FM 103.9",
+        "link_deatils": "/radios/Planeta_FM_Planeta_FM_Kielce",
+        "link_player": "/radios/play/Planeta_FM_Planeta_FM_Kielce",
+        "image": "https://static-media.streema.com/media/cache/54/fe/54fe8ec5748351c0b267c5832ba571bd.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/country/Poland"
+        }, {
+            "title": "Świętokrzyskie",
+            "link": "/country/Poland/state/Swietokrzyskie"
+        }, {
+            "title": "Kielce",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Hits", "Pop", "RnB", "Rock"],
+        "location": {
+            "city": "Kielce",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Meloradio is a broadcast radio station in Kielce, Poland, providing Pop, Rock and R&B Hits music as part of the Radio Zet network.",
+            "rest": "Meloradio is a broadcast radio station in Kielce, Poland, providing Pop, Rock and R&B Hits music as part of the Radio Zet network."
+        },
+        "radio_contacts": {
+            "short": "Meloradio is a broadcast radio station in Kielce, Poland, providing Pop, Rock and R&B Hits music as part of the Radio Zet network.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.meloradio.pl/",
+            "facebook": "http://www.facebook.com/meloradiopl/",
+            "twitter": "",
+            "phone": "+ 48 41 341 60 44",
+            "address": "ul. Zagórska 18b  25-339 Kielce, Poland",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Planeta_FM_Planeta_FM_Kielce",
+            "title": "Play Meloradio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://r.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5",
+        "radio_image": "https://static-media.streema.com/media/cache/f1/44/f144b19f4386da46da8d1bacf73a4c7f.jpg"
+    }, {
+        "title": "Radio FAMA",
+        "no_play": false,
+        "frequency": "FM 100.8",
+        "link_deatils": "/radios/Radio_FaMa_2",
+        "link_player": "/radios/play/Radio_FaMa_2",
+        "image": "https://static-media.streema.com/media/cache/80/92/80929ce6d279f79ac7de1996b22356f9.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/country/Poland"
+        }, {
+            "title": "Świętokrzyskie",
+            "link": "/country/Poland/state/Swietokrzyskie"
+        }, {
+            "title": "Kielce",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Rock", "Talk"],
+        "location": {
+            "city": "Kielce",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiofama.com.pl/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_FaMa_2",
+            "title": "Play Radio FAMA"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://stream2.nadaje.com:8076/;;",
+        "radio_image": "https://static-media.streema.com/media/cache/d5/63/d563aa0e38ba4b1867c0180338ee9b2a.jpg"
+    }, {
+        "title": "Radio eM Kielce",
+        "no_play": false,
+        "frequency": "FM 107.9",
+        "link_deatils": "/radios/Radio_Plus_10",
+        "link_player": "/radios/play/Radio_Plus_10",
+        "image": "https://static-media.streema.com/media/cache/48/d9/48d979d121865fafca89dcff8814521c.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/country/Poland"
+        }, {
+            "title": "Świętokrzyskie",
+            "link": "/country/Poland/state/Swietokrzyskie"
+        }, {
+            "title": "Kielce",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Adult Contemporary", "Hits", "Pop", "Rock"],
+        "location": {
+            "city": "Kielce",
+            "country": "Poland"
+        },
+        "profile_slogan": "Informacje, wiadomości z Kielc i regionu świętokrzyskiego",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.emkielce.pl/",
+            "facebook": "http://www.facebook.com/radioemkielce/",
+            "twitter": "http://twitter.com/radio_em_kielce?lang=en",
+            "phone": "+48 41 349 50 51",
+            "address": "ul. Sienkiewicza 2 25-333 Kielce, Poland",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Plus_10",
+            "title": "Play Radio eM Kielce"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://78.46.170.230:8000/;",
+        "radio_image": "https://static-media.streema.com/media/cache/46/76/46760dde64eb381960f800f49a44ec27.jpg"
+    }, {
+        "title": "Radio Tak",
+        "no_play": true,
+        "frequency": "FM 106.5",
+        "link_deatils": "/radios/Radio_Tak",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/d5/38/d538987f56b888a08489673c1df28621.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Poland",
+            "link": "/country/Poland"
+        }, {
+            "title": "Świętokrzyskie",
+            "link": "/country/Poland/state/Swietokrzyskie"
+        }, {
+            "title": "Kielce",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Folk", "Polish"],
+        "location": {
+            "city": "Kielce",
+            "country": "Poland"
+        },
+        "profile_slogan": "",
+        "radio_language": "Polish",
+        "radio_info": {
+            "short": "Radio tak fm 1065",
+            "rest": "Radio tak fm 1065"
+        },
+        "radio_contacts": {
+            "short": "Radio tak fm 1065",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiotak.com.pl/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}]

@@ -1,0 +1,811 @@
+[
+    {
+        "title": "Gaborone",
+        "link": "https://streema.com/radios/Gaborone",
+        "msg_results": "12 Radio Stations from Gaborone",
+        "page_copy": "Listen to radio stations from Gaborone, from a wide variety of genres like Adult Contemporary, African, Gospel, Hip Hop and Talk.  Enjoy stations such as Duma FM, Gabz FM, Yarona FM, Zanany Live, RERA Online Christian Radio and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+        "radios": [
+            {
+                "title": "Duma FM",
+                "no_play": false,
+                "frequency": "FM 93.0",
+                "link_deatils": "/radios/Duma_FM_Gaborone",
+                "link_player": "/radios/play/Duma_FM_Gaborone",
+                "image": "https://static-media.streema.com/media/cache/47/9e/479ee0aac51b383c176d875812ad0cdc.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Botswana",
+                        "link": "/radios/country/Botswana"
+                    },
+                    {
+                        "title": "Gaborone",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "1020 Listens",
+                    "stars": 0
+                },
+                "genres": [
+                    "Adult Contemporary",
+                    "Music",
+                    "Pop",
+                    "Rock",
+                    "Top 40"
+                ],
+                "location": {
+                    "city": "Gaborone",
+                    "country": "Botswana"
+                },
+                "profile_slogan": "More Talk, More Music",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "Duma FM 93.0 is a broadcast radio station from Gaborone, Botswana providing News and Information on what's happening in and around Botswana and the world",
+                    "rest": "as well as Adult Contemporary music "
+                },
+                "radio_contacts": {
+                    "short": "Duma FM 93.0 is a broadcast radio station from Gaborone, Botswana providing News and Information on what's happening in and around Botswana and the world",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.dumafm.co.bw/",
+                    "facebook": "http://www.facebook.com/pg/DumaFM",
+                    "twitter": "http://twitter.com/dumafm20_20news",
+                    "phone": "+267 350 0130",
+                    "address": "Plot 59140 Block 7, P O Box 47326 Phakalane Gaborone, Botswana",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Duma_FM_Gaborone",
+                    "title": "Play Duma FM"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://s3.voscast.com:10076/;",
+                "radio_image": "https://static-media.streema.com/media/cache/03/b0/03b07d7e336072726e3deb1250f73d86.jpg"
+            },
+            {
+                "title": "Gabz FM",
+                "no_play": false,
+                "frequency": "FM 96.2",
+                "link_deatils": "/radios/Gabz_FM",
+                "link_player": "/radios/play/Gabz_FM",
+                "image": "https://static-media.streema.com/media/cache/4c/02/4c02b6bcd4694dd537e243afebb608af.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Botswana",
+                        "link": "/radios/country/Botswana"
+                    },
+                    {
+                        "title": "Gaborone",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "360 Listens",
+                    "stars": 5
+                },
+                "genres": [
+                    "Adult Contemporary",
+                    "Music",
+                    "Pop",
+                    "Rock",
+                    "Top 40"
+                ],
+                "location": {
+                    "city": "Gaborone",
+                    "country": "Botswana"
+                },
+                "profile_slogan": "Today's Hits Yesterday's Classics",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "Gabz FM is a broadcast radio station in Gaborone, Botswana, providing Urban Adult Contemporary music on a variety of frequencies throughout the country.",
+                    "rest": "Gabz FM is a broadcast radio station in Gaborone, Botswana, providing Urban Adult Contemporary music on a variety of frequencies throughout the country."
+                },
+                "radio_contacts": {
+                    "short": "Gabz FM is a broadcast radio station in Gaborone, Botswana, providing Urban Adult Contemporary music on a variety of frequencies throughout the country.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.gabzfm.com/",
+                    "facebook": "http://www.facebook.com/pages/Gabzfm-News/192430994115607",
+                    "twitter": "http://twitter.com/gabzfmnews",
+                    "phone": "(+267) 317 09 05",
+                    "address": "2nd Floor, Capital House, Plot 17954, Old Lobatse Road, Gaborone, Botswana",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Gabz_FM",
+                    "title": "Play Gabz FM"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://fmt01.egihosting.com:17721/;",
+                "radio_image": "https://static-media.streema.com/media/cache/34/e3/34e38251f21a1971b64752a2c1ecc428.jpg"
+            },
+            {
+                "title": "Yarona FM",
+                "no_play": false,
+                "frequency": "FM 106.6",
+                "link_deatils": "/radios/Yarona_FM",
+                "link_player": "/radios/play/Yarona_FM",
+                "image": "https://static-media.streema.com/media/cache/a9/61/a961e84efdc9c99e48332bdb448773f6.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Botswana",
+                        "link": "/radios/country/Botswana"
+                    },
+                    {
+                        "title": "Gaborone",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "120 Listens",
+                    "stars": 5
+                },
+                "genres": [
+                    "African",
+                    "Hip Hop",
+                    "Kwaito music",
+                    "Urban"
+                ],
+                "location": {
+                    "city": "Gaborone",
+                    "country": "Botswana"
+                },
+                "profile_slogan": "LIVE THE MUSIC",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "The Yarona FM brand is POSITIVE, HIGH ENERGY, DANCE, URBAN, VIBRANT, INNOVATIVE and YOUTH. The station rocks the freshest, newest tracks first and encapsulates an",
+                    "rest": "urban lifestyle underpinned by a hunger for success and a drive for progress. Sporting the most recognizable presenters in the game today, Yarona FM simply Rocks! All Day, All Night, All Week. The Yarona FM positioning statement, \"Live The Music\" is testament to this. Music is not all the station is about though. Great contests, promotions, charity initiatives and various community engagements form part of the Yarona FM mission.\nThe Station identifies itself with the \"freshest\" and newest songs, relevant and compelling talk and news content targeted towards Botswana's urban youth audience.\n\nYarona FM is the entertainment authority in Botswana, having initiated and participated in numerous music concerts, and being regarded as the go-to Station for event promotion by local promoters.\nWe also pride ourselves in articulating our audience's key issues of interest from a socio-economic, lifestyle, political and entertainment point of view well and we are well known for our unique on air promotions and contests. All this is done to a pulsating soundtrack of Hip-Hop, Kwaito, R&B and House music, spectacular station imaging and great audience interactions."
+                },
+                "radio_contacts": {
+                    "short": "The Yarona FM brand is POSITIVE, HIGH ENERGY, DANCE, URBAN, VIBRANT, INNOVATIVE and YOUTH. The station rocks the freshest, newest tracks first and encapsulates an",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.yaronafm.co.bw/",
+                    "facebook": "http://www.facebook.com/YaronaFMLiveTheMusic/",
+                    "twitter": "http://twitter.com/@TheRealYaronaFM",
+                    "phone": "(+267) 391 1066",
+                    "address": "Unit F18, Fairgrounds Shopping Mall, Plot 28562, Samora Machel Drive, Gaborone, Botswana",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Yarona_FM",
+                    "title": "Play Yarona FM"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://capeant.antfarm.co.za:8000/yarona",
+                "radio_image": "https://static-media.streema.com/media/cache/fb/e1/fbe13d864598764e46b3e18c185c2b03.jpg"
+            },
+            {
+                "title": "Zanany Live",
+                "no_play": false,
+                "frequency": "Web",
+                "link_deatils": "/radios/Zanany_Live",
+                "link_player": "/radios/play/Zanany_Live",
+                "image": "https://static-media.streema.com/media/cache/e5/d1/e5d13e9e5a81b86bbc325a4516b01ac9.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Botswana",
+                        "link": "/radios/country/Botswana"
+                    },
+                    {
+                        "title": "Gaborone",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "30 Listens",
+                    "stars": 0
+                },
+                "genres": [
+                    "Afropop",
+                    "Electro",
+                    "Gospel",
+                    "Hip Hop"
+                ],
+                "location": {
+                    "city": "Gaborone",
+                    "country": "Botswana"
+                },
+                "profile_slogan": "Music to the Masses.",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "The idea is to be BW's number one playlist. Powered by 100% local tunes from zanany.com and zalitos.com.",
+                    "rest": "The idea is to be BW's number one playlist. Powered by 100% local tunes from zanany.com and zalitos.com."
+                },
+                "radio_contacts": {
+                    "short": "The idea is to be BW's number one playlist. Powered by 100% local tunes from zanany.com and zalitos.com.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://about.zanany.com/welcome/live/",
+                    "facebook": "http://www.facebook.com/zananylive",
+                    "twitter": "http://twitter.com/zananylive",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Zanany_Live",
+                    "title": "Play Zanany Live"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://s6.voscast.com:8818/live",
+                "radio_image": "https://static-media.streema.com/media/cache/6a/ce/6ace3a1029a0e338aca1bc68ad291ee0.jpg"
+            },
+            {
+                "title": "RERA Online Christian Radio",
+                "no_play": false,
+                "frequency": "Web",
+                "link_deatils": "/radios/RERA_Online_Christian_Radio",
+                "link_player": "/radios/play/RERA_Online_Christian_Radio",
+                "image": "https://static-media.streema.com/media/cache/8c/09/8c090cc609261089810219b7957123f9.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Botswana",
+                        "link": "/radios/country/Botswana"
+                    },
+                    {
+                        "title": "Gaborone",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "30 Listens",
+                    "stars": 0
+                },
+                "genres": [
+                    "Christian",
+                    "Gospel"
+                ],
+                "location": {
+                    "city": "Gaborone",
+                    "country": "Botswana"
+                },
+                "profile_slogan": "Sharing The Bread of Life",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "Christian radio station located in Botswana. Our mission is to share God's Word to our nation and to the nations of the world.",
+                    "rest": "Christian radio station located in Botswana. Our mission is to share God's Word to our nation and to the nations of the world."
+                },
+                "radio_contacts": {
+                    "short": "Christian radio station located in Botswana. Our mission is to share God's Word to our nation and to the nations of the world.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.reraradio.com/",
+                    "facebook": "http://www.facebook.com/reraonlinechristianradio",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/RERA_Online_Christian_Radio",
+                    "title": "Play RERA Online Christian Radio"
+                },
+                "radio_shows": [""],
+                "radio_source": "https://s2.radio.co/sc93b4c6aa/listen",
+                "radio_image": "https://static-media.streema.com/media/cache/c3/0c/c30c62fa471b14f3ba0b06942e09f9c8.jpg"
+            },
+            {
+                "title": "SPORTSNATION RADIO",
+                "no_play": false,
+                "frequency": "Web",
+                "link_deatils": "/radios/SPORTSNATION_RADIO",
+                "link_player": "/radios/play/SPORTSNATION_RADIO",
+                "image": "https://static-media.streema.com/media/cache/71/01/71019be3a4003bcb9ed2057eb99d8ffb.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Botswana",
+                        "link": "/radios/country/Botswana"
+                    },
+                    {
+                        "title": "Gaborone",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Adult",
+                    "Football",
+                    "Sports",
+                    "Talk"
+                ],
+                "location": {
+                    "city": "Gaborone",
+                    "country": "Botswana"
+                },
+                "profile_slogan": "Where Talent Meets Passion",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "Sportsnation Radio is an online mobile radio station sited in Gaboroe,Botswana broadcasting to the world nothing but 100% local and international sporting content.",
+                    "rest": "Sportsnation Radio is an online mobile radio station sited in Gaboroe,Botswana broadcasting to the world nothing but 100% local and international sporting content."
+                },
+                "radio_contacts": {
+                    "short": "Sportsnation Radio is an online mobile radio station sited in Gaboroe,Botswana broadcasting to the world nothing but 100% local and international sporting content.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://sportsnationradio.weebly.com",
+                    "facebook": "http://www.facebook.com/sportsnationradio",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/SPORTSNATION_RADIO",
+                    "title": "Play SPORTSNATION RADIO"
+                },
+                "radio_shows": [""],
+                "radio_source": "https://stream.zenolive.com/yyduar33uxquv.aac",
+                "radio_image": "https://static-media.streema.com/media/cache/61/ce/61ce79430f34ebcce8f176b33104d681.jpg"
+            },
+            {
+                "title": "BLXCKHIPPYRADIO",
+                "no_play": true,
+                "frequency": "Web",
+                "link_deatils": "/radios/Blxckhippy.bw",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/6f/24/6f24fabf170c1b84794165998505599a.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Botswana",
+                        "link": "/radios/country/Botswana"
+                    },
+                    {
+                        "title": "Gaborone",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "African",
+                    "Hip Hop",
+                    "Talk",
+                    "Youth"
+                ],
+                "location": {
+                    "city": "Gaborone",
+                    "country": "Botswana"
+                },
+                "profile_slogan": "Get With the Waves!",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "Interviews, discussions and hot tracks, because often when words fail us, music communicates better. Keep listening.",
+                    "rest": "Interviews, discussions and hot tracks, because often when words fail us, music communicates better. Keep listening."
+                },
+                "radio_contacts": {
+                    "short": "Interviews, discussions and hot tracks, because often when words fail us, music communicates better. Keep listening.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://blxckhippyent.wixsite.com/radio",
+                    "facebook": "http://www.facebook.com/blxckhippyradio",
+                    "twitter": "http://twitter.com/blxckhippyradio",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            },
+            {
+                "title": "Radio Botswana 2",
+                "no_play": true,
+                "frequency": "FM 103.0",
+                "link_deatils": "/radios/RB2_Radio_Botswana",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/3c/7b/3c7b584b53081c64c215a1dbfb8a2154.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Botswana",
+                        "link": "/radios/country/Botswana"
+                    },
+                    {
+                        "title": "Gaborone",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "\n        \n          \n          \n          \n          \n        ",
+                    "stars": 5
+                },
+                "genres": [
+                    "Community",
+                    "Information",
+                    "News",
+                    "Public",
+                    "Talk"
+                ],
+                "location": {
+                    "city": "Gaborone",
+                    "country": "Botswana"
+                },
+                "profile_slogan": "The Department Of Information And Broadcasting",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "RB2-Radio Botswana 2 is a broadcast radio station from Gaborone, Botswana providing Contemporary music and entertainment programs for the urban youth as well as news",
+                    "rest": "bulletins."
+                },
+                "radio_contacts": {
+                    "short": "RB2-Radio Botswana 2 is a broadcast radio station from Gaborone, Botswana providing Contemporary music and entertainment programs for the urban youth as well as news",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.dib.gov.bw/",
+                    "facebook": "",
+                    "twitter": "",
+                    "phone": "+ 267 365 8000",
+                    "address": "Private Bag 0060 Gaborone, Botswana",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            },
+            {
+                "title": "Radio Botswana - RB1",
+                "no_play": true,
+                "frequency": "FM 89.9",
+                "link_deatils": "/radios/RB1_Radio_Botswana",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/10/c8/10c8e8693679073b26cb0330bb9dd1f4.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Botswana",
+                        "link": "/radios/country/Botswana"
+                    },
+                    {
+                        "title": "Gaborone",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "\n        \n          \n          \n          \n          \n        ",
+                    "stars": 5
+                },
+                "genres": [
+                    "Culture",
+                    "Current Affairs",
+                    "Government",
+                    "News"
+                ],
+                "location": {
+                    "city": "Gaborone",
+                    "country": "Botswana"
+                },
+                "profile_slogan": "The Department of Information and Broadcasting",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "Radio Botswana - RB1 is a Government broadcast radio station in Garborone, Botswana, providing News, Current Affairs, , Culture, Education and Entertainment. The Culture and",
+                    "rest": "Entertainment Section of RB 1 is responsible for the general programmes and features cultural themes, music and drama to educate and entertain the public about government programmes.\n"
+                },
+                "radio_contacts": {
+                    "short": "Radio Botswana - RB1 is a Government broadcast radio station in Garborone, Botswana, providing News, Current Affairs, , Culture, Education and Entertainment. The Culture and",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.dib.gov.bw/",
+                    "facebook": "",
+                    "twitter": "",
+                    "phone": "+ 267 365 8000",
+                    "address": "Private Bag 0060, Gaborone, Botswana",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            },
+            {
+                "title": "Apostle Donald K Motsumi",
+                "no_play": true,
+                "frequency": "Web",
+                "link_deatils": "/radios/Apostle_Donald_K_Motsumi",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/5b/26/5b2673c7cf0ecb2bb81a9783464b238b.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Botswana",
+                        "link": "/radios/country/Botswana"
+                    },
+                    {
+                        "title": "Gaborone",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "African Gospel",
+                    "Business",
+                    "Gospel"
+                ],
+                "location": {
+                    "city": "Gaborone",
+                    "country": "Botswana"
+                },
+                "profile_slogan": "",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "Apostle Donald is the minister of the Word of God. His teaching is centered on Faith",
+                    "rest": "Apostle Donald is the minister of the Word of God. His teaching is centered on Faith"
+                },
+                "radio_contacts": {
+                    "short": "Apostle Donald is the minister of the Word of God. His teaching is centered on Faith",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://station.voscast.com/584aa79a6e94f/",
+                    "facebook": "http://www.facebook.com/Apostle-Donald-K-Motsumi-384888194776/?fref=ts",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            },
+            {
+                "title": "Music Bw FM",
+                "no_play": true,
+                "frequency": "Web",
+                "link_deatils": "/radios/Music_Bw_FM",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/da/8f/da8fab162a0055432e0df252ba4317b6.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Botswana",
+                        "link": "/radios/country/Botswana"
+                    },
+                    {
+                        "title": "Gaborone",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "\n        \n          \n          \n          \n          \n        ",
+                    "stars": 5
+                },
+                "genres": [
+                    "African",
+                    "Hip Hop",
+                    "Kwaito music",
+                    "Urban"
+                ],
+                "location": {
+                    "city": "Gaborone",
+                    "country": "Botswana"
+                },
+                "profile_slogan": "Botswana Music to the Masses",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "Music Bw FM streams only music from Botswana and exclusively sold at https://musicbw.com................",
+                    "rest": "Music Bw FM streams only music from Botswana and exclusively sold at https://musicbw.com................"
+                },
+                "radio_contacts": {
+                    "short": "Music Bw FM streams only music from Botswana and exclusively sold at https://musicbw.com................",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://www.musicbw.com/music-bw-fm/",
+                    "facebook": "http://www.facebook.com/Music-BW-1546120292315420",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            },
+            {
+                "title": "Trail Fm",
+                "no_play": true,
+                "frequency": "Web",
+                "link_deatils": "/radios/Trail_Fm",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/49/a3/49a3880b46db085a50ae204300d0c084.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Botswana",
+                        "link": "/radios/country/Botswana"
+                    },
+                    {
+                        "title": "Gaborone",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "\n        \n          \n          \n          \n          \n        ",
+                    "stars": 5
+                },
+                "genres": [
+                    "Adult Contemporary",
+                    "Hip Hop",
+                    "House",
+                    "RnB"
+                ],
+                "location": {
+                    "city": "Gaborone",
+                    "country": "Botswana"
+                },
+                "profile_slogan": "Varsity Edition",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "You Trail Fm is a rebrand from Botswana's First online Fm BADNEWSFM and is orientated to inspire the youth for a future.",
+                    "rest": "You Trail Fm is a rebrand from Botswana's First online Fm BADNEWSFM and is orientated to inspire the youth for a future."
+                },
+                "radio_contacts": {
+                    "short": "You Trail Fm is a rebrand from Botswana's First online Fm BADNEWSFM and is orientated to inspire the youth for a future.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://www.trailfm.co.tv/",
+                    "facebook": "http://www.facebook.com/pages/Trail-Fm-University-of-Botswana/233576810015980",
+                    "twitter": "http://twitter.com/trailfm",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": [""],
+                "radio_source": "",
+                "radio_image": ""
+            }
+        ]
+    },
+    {
+        "title": "Nata",
+        "link": "https://streema.com/radios/Nata",
+        "msg_results": "1 Radio Stations from Nata",
+        "page_copy": "Listen to radio stations from Nata, from a wide variety of genres like African, Jazz, RnB and Soul.  Enjoy stations such as JazzySoul Radio Nata and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+        "radios": [
+            {
+                "title": "JazzySoul Radio Nata",
+                "no_play": false,
+                "frequency": "Web",
+                "link_deatils": "/radios/JazzySoul_Radio_Nata",
+                "link_player": "/radios/play/JazzySoul_Radio_Nata",
+                "image": "https://static-media.streema.com/media/cache/17/9f/179f6638ca4dc9d0ff25b81e021b0e9e.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Africa",
+                        "link": "/radios/region/Africa"
+                    },
+                    {
+                        "title": "Botswana",
+                        "link": "/radios/country/Botswana"
+                    },
+                    {
+                        "title": "Nata",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "African",
+                    "Jazz",
+                    "RnB",
+                    "Soul"
+                ],
+                "location": {
+                    "city": "Nata",
+                    "country": "Botswana"
+                },
+                "profile_slogan": "Jazz Soul african vibes from Nata Botswana to the World",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "Jazz Soul african vibes from Nata Botswana to the World, programmed by international Dj JazzyPete",
+                    "rest": "Jazz Soul african vibes from Nata Botswana to the World, programmed by international Dj JazzyPete"
+                },
+                "radio_contacts": {
+                    "short": "Jazz Soul african vibes from Nata Botswana to the World, programmed by international Dj JazzyPete",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://jazzysoulradio.wixsite.com/djjazzypete/radio",
+                    "facebook": "http://www.facebook.com/JSRNATA",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/JazzySoul_Radio_Nata",
+                    "title": "Play JazzySoul Radio Nata"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://209.95.50.189:8015/;",
+                "radio_image": "https://static-media.streema.com/media/cache/17/2a/172a5a3799d28a0da0bb2a5f9833ae1f.jpg"
+            }
+        ]
+    }
+]

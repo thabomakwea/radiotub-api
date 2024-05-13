@@ -1,0 +1,923 @@
+[
+    {
+        "title": "Labasa",
+        "link": "https://streema.com/radios/Labasa",
+        "msg_results": "1 Radio Stations from Labasa",
+        "page_copy": "Listen to radio stations from Labasa, from a wide variety of genres like Current Affairs, Entertainment, Live Shows and Youth.  Enjoy stations such as Radio Rishtey and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+        "radios": [
+            {
+                "title": "Radio Rishtey",
+                "no_play": false,
+                "frequency": "Web",
+                "link_deatils": "/radios/Radio_Rishtey",
+                "link_player": "/radios/play/Radio_Rishtey",
+                "image": "https://static-media.streema.com/media/cache/93/c9/93c9e9175ef55b97ff2389d45d1ab91f.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Oceania",
+                        "link": "/radios/region/Oceania"
+                    },
+                    {
+                        "title": "Fiji",
+                        "link": "/country/Fiji"
+                    },
+                    {
+                        "title": "Labasa",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "30 Listens",
+                    "stars": 0
+                },
+                "genres": [
+                    "Current Affairs",
+                    "Entertainment",
+                    "Live Shows",
+                    "Youth"
+                ],
+                "location": {
+                    "city": "Labasa",
+                    "country": "Fiji"
+                },
+                "profile_slogan": "Aap Ka Pariwaar Ka Rishta",
+                "radio_language": "Hindi",
+                "radio_info": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contacts": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://radiorishtey.website2.me/",
+                    "facebook": "http://www.facebook.com/12rishtey/",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Radio_Rishtey",
+                    "title": "Play Radio Rishtey"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://cast5.servcast.net:8048/stream?type=http&nocache=12589",
+                "radio_image": "https://static-media.streema.com/media/cache/03/ef/03ef0c349efdbb05c311201c93de15c4.jpg"
+            }
+        ]
+    },
+    {
+        "title": "Lautoka",
+        "link": "https://streema.com/radios/Lautoka",
+        "msg_results": "1 Radio Stations from Lautoka",
+        "page_copy": "Listen to radio stations from Lautoka, from a wide variety of genres like 50s, 90s, DJ and Hits.  Enjoy stations such as Mix FM and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+        "radios": [
+            {
+                "title": "Mix FM",
+                "no_play": false,
+                "frequency": "FM 93.8",
+                "link_deatils": "/radios/Mix_FM_93.8_FM",
+                "link_player": "/radios/play/Mix_FM_93.8_FM",
+                "image": "https://static-media.streema.com/media/cache/b0/58/b05877f2bb2fb951c418599fed60a97e.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Oceania",
+                        "link": "/radios/region/Oceania"
+                    },
+                    {
+                        "title": "Fiji",
+                        "link": "/country/Fiji"
+                    },
+                    {
+                        "title": "Lautoka",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "30 Listens",
+                    "stars": 0
+                },
+                "genres": [
+                    "50s",
+                    "90s",
+                    "DJ",
+                    "Hits"
+                ],
+                "location": {
+                    "city": "Lautoka",
+                    "country": "Fiji"
+                },
+                "profile_slogan": "Fiji's Best Mix",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "Mix FM 93.8 is a broadcast based radio station from Lautoka that plays Adult Contemporary, Easy Listening and variety genre of music.",
+                    "rest": "Mix FM 93.8 is a broadcast based radio station from Lautoka that plays Adult Contemporary, Easy Listening and variety genre of music."
+                },
+                "radio_contacts": {
+                    "short": "Mix FM 93.8 is a broadcast based radio station from Lautoka that plays Adult Contemporary, Easy Listening and variety genre of music.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://mix.com.fj/",
+                    "facebook": "http://www.facebook.com/mixfm94",
+                    "twitter": "",
+                    "phone": "+6796668900",
+                    "address": "11 Nasoki Street, Lautoka, Fiji",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Mix_FM_93.8_FM",
+                    "title": "Play Mix FM"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://fijiradio.net:8000/live",
+                "radio_image": "https://static-media.streema.com/media/cache/e7/cc/e7cc9f809ca3e649c876cf6298822068.jpg"
+            }
+        ]
+    },
+    {
+        "title": "Nadi",
+        "link": "https://streema.com/radios/Nadi",
+        "msg_results": "2 Radio Stations from Nadi",
+        "page_copy": "Listen to radio stations from Nadi, from a wide variety of genres like Smooth Jazz and Soul.  Enjoy stations such as HTR Fiji, FM 906 and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+        "radios": [
+            {
+                "title": "HTR Fiji",
+                "no_play": true,
+                "frequency": "Web",
+                "link_deatils": "/radios/HTR_Fiji",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/71/44/7144cf99a7ad4a28b5a8d670bbdde163.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Oceania",
+                        "link": "/radios/region/Oceania"
+                    },
+                    {
+                        "title": "Fiji",
+                        "link": "/country/Fiji"
+                    },
+                    {
+                        "title": "Nadi",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [
+                    "Smooth Jazz",
+                    "Soul"
+                ],
+                "location": {
+                    "city": "Nadi",
+                    "country": "Fiji"
+                },
+                "profile_slogan": "Fiji's Rhythm & Soul Jazz",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "Let us show you some of the action that Fiji has to offer and join us for Fiji’s Smoothest Music Mix – Rhythm & Soul",
+                    "rest": "Jazz – HTR"
+                },
+                "radio_contacts": {
+                    "short": "Let us show you some of the action that Fiji has to offer and join us for Fiji’s Smoothest Music Mix – Rhythm & Soul",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://htrfiji.com/",
+                    "facebook": "",
+                    "twitter": "http://twitter.com/HTRFIJI",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": []
+            },
+            {
+                "title": "FM 906",
+                "no_play": true,
+                "frequency": "FM 90.6",
+                "link_deatils": "/radios/FM_906",
+                "link_player": "",
+                "image": "https://static-media.streema.com/media/cache/05/2a/052acf7014f95f3255a3d547d16642ce.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Oceania",
+                        "link": "/radios/region/Oceania"
+                    },
+                    {
+                        "title": "Fiji",
+                        "link": "/country/Fiji"
+                    },
+                    {
+                        "title": "Nadi",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [],
+                "location": {
+                    "city": "Nadi",
+                    "country": "Fiji"
+                },
+                "profile_slogan": "GREAT & ROCKING MUSIC ...",
+                "radio_language": "Hindi",
+                "radio_info": {
+                    "short": "FM 90.6 is a broadcast radio station from Nadi, Fiji providing Hindi Pop music and Live shows.",
+                    "rest": "FM 90.6 is a broadcast radio station from Nadi, Fiji providing Hindi Pop music and Live shows."
+                },
+                "radio_contacts": {
+                    "short": "FM 90.6 is a broadcast radio station from Nadi, Fiji providing Hindi Pop music and Live shows.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://fijiradio.net/90-6-fm/",
+                    "facebook": "http://www.facebook.com/pages/906-FM/229050817112902",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": []
+            }
+        ]
+    },
+    {
+        "title": "Suva",
+        "link": "https://streema.com/radios/Suva",
+        "msg_results": "11 Radio Stations from Suva",
+        "page_copy": "Listen to radio stations from Suva, from a wide variety of genres like Community, Entertainment, Hits, News and Talk.  Enjoy stations such as Radio Fiji Two, Radio Navtarang, Radio Sargam, Mirchi FM, Viti FM and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+        "radios": [
+            {
+                "title": "Radio Fiji Two",
+                "no_play": false,
+                "frequency": "FM 105.2",
+                "link_deatils": "/radios/Radio_Fiji_Two",
+                "link_player": "/radios/play/Radio_Fiji_Two",
+                "image": "https://static-media.streema.com/media/cache/d2/2e/d22e00450e07f43f92a714a4af33b94a.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Oceania",
+                        "link": "/radios/region/Oceania"
+                    },
+                    {
+                        "title": "Fiji",
+                        "link": "/country/Fiji"
+                    },
+                    {
+                        "title": "Suva",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "2820 Listens",
+                    "stars": 5
+                },
+                "genres": [
+                    "Education",
+                    "Information",
+                    "News",
+                    "Sports"
+                ],
+                "location": {
+                    "city": "Suva",
+                    "country": "Fiji"
+                },
+                "profile_slogan": "Desh ki Dhadkan",
+                "radio_language": "Hindi",
+                "radio_info": {
+                    "short": "Radio Fiji Two 105.2 is a broadcast Radio station from Suva, Fiji, providing informative, education, culture, religion, good health, agriculture, talk back shows, news, current",
+                    "rest": "affairs and sports programs."
+                },
+                "radio_contacts": {
+                    "short": "Radio Fiji Two 105.2 is a broadcast Radio station from Suva, Fiji, providing informative, education, culture, religion, good health, agriculture, talk back shows, news, current",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://www.fbcnews.com.fj/",
+                    "facebook": "http://www.facebook.com/RadioFijiTwo/",
+                    "twitter": "",
+                    "phone": "(679) 3220 934",
+                    "address": "PO Box 334, Suva",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Radio_Fiji_Two",
+                    "title": "Play Radio Fiji Two"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://peridot.streamguys.com:7150/RFTwo",
+                "radio_image": "https://static-media.streema.com/media/cache/7a/f3/7af3a8182e7577e2d1c8b554d648b51d.jpg"
+            },
+            {
+                "title": "Radio Navtarang",
+                "no_play": false,
+                "frequency": "FM 98.8",
+                "link_deatils": "/radios/Radio_Navtarang",
+                "link_player": "/radios/play/Radio_Navtarang",
+                "image": "https://static-media.streema.com/media/cache/0c/fc/0cfc4225f428ebaca0aa02fbb79d36d3.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Oceania",
+                        "link": "/radios/region/Oceania"
+                    },
+                    {
+                        "title": "Fiji",
+                        "link": "/country/Fiji"
+                    },
+                    {
+                        "title": "Suva",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "1530 Listens",
+                    "stars": 2
+                },
+                "genres": [
+                    "Bollywood",
+                    "Hits"
+                ],
+                "location": {
+                    "city": "Suva",
+                    "country": "Fiji"
+                },
+                "profile_slogan": "",
+                "radio_language": "Hindi",
+                "radio_info": {
+                    "short": "Radio Navtarang is a broadcast radio station in Suva, Fiji, providing Bollywood.",
+                    "rest": "Radio Navtarang is a broadcast radio station in Suva, Fiji, providing Bollywood."
+                },
+                "radio_contacts": {
+                    "short": "Radio Navtarang is a broadcast radio station in Suva, Fiji, providing Bollywood.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://www.navtarang.com.fj/",
+                    "facebook": "http://www.facebook.com/navtarangfiji",
+                    "twitter": "http://twitter.com/fijivillage",
+                    "phone": "(679) 331 4766",
+                    "address": "231 Waimanu Rd, Suva, Fiji Islands",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Radio_Navtarang",
+                    "title": "Play Radio Navtarang"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://stream.fijivillage.com/navtarang",
+                "radio_image": "https://static-media.streema.com/media/cache/c7/38/c73807aaac699ff4fbb84db9bf565444.jpg"
+            },
+            {
+                "title": "Radio Sargam",
+                "no_play": false,
+                "frequency": "FM 103.4",
+                "link_deatils": "/radios/Radio_Sargam",
+                "link_player": "/radios/play/Radio_Sargam",
+                "image": "https://static-media.streema.com/media/cache/dd/c2/ddc2d4dc353e0658cdabb73d9345b353.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Oceania",
+                        "link": "/radios/region/Oceania"
+                    },
+                    {
+                        "title": "Fiji",
+                        "link": "/country/Fiji"
+                    },
+                    {
+                        "title": "Suva",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "1290 Listens",
+                    "stars": 5
+                },
+                "genres": [
+                    "Community",
+                    "Entertainment",
+                    "News",
+                    "Talk"
+                ],
+                "location": {
+                    "city": "Suva",
+                    "country": "Fiji"
+                },
+                "profile_slogan": "",
+                "radio_language": "Hindi",
+                "radio_info": {
+                    "short": "Radio Sargam is a broadcast radio station from Suva, Fiji providing Indian music and programs.",
+                    "rest": "Radio Sargam is a broadcast radio station from Suva, Fiji providing Indian music and programs."
+                },
+                "radio_contacts": {
+                    "short": "Radio Sargam is a broadcast radio station from Suva, Fiji providing Indian music and programs.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://sargam.com.fj/",
+                    "facebook": "http://www.facebook.com/fijivillage",
+                    "twitter": "http://twitter.com/fijivillage",
+                    "phone": "(679) 331 4766",
+                    "address": "231 Waimanu Rd, Suva, Fiji Islands",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Radio_Sargam",
+                    "title": "Play Radio Sargam"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://stream.fijivillage.com/radiosargam",
+                "radio_image": "https://static-media.streema.com/media/cache/6f/e6/6fe6dcc4323e0e2a4be834f712d9e5f4.jpg"
+            },
+            {
+                "title": "Mirchi FM",
+                "no_play": false,
+                "frequency": "FM 97.8",
+                "link_deatils": "/radios/Radio_Mirchi_Hyderabad",
+                "link_player": "/radios/play/Radio_Mirchi_Hyderabad",
+                "image": "https://static-media.streema.com/media/cache/dd/5a/dd5a7e5c054a9104dd2580c5ad4a34fa.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Oceania",
+                        "link": "/radios/region/Oceania"
+                    },
+                    {
+                        "title": "Fiji",
+                        "link": "/country/Fiji"
+                    },
+                    {
+                        "title": "Suva",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "360 Listens",
+                    "stars": 2
+                },
+                "genres": [
+                    "Bollywood"
+                ],
+                "location": {
+                    "city": "Suva",
+                    "country": "Fiji"
+                },
+                "profile_slogan": "It's Hot!",
+                "radio_language": "Hindustani",
+                "radio_info": {
+                    "short": "Mirchi FM is a broadcast radio station in Suva, Fiji, providing Bollywood, Punjabi and World Top 40 Pop music.",
+                    "rest": "Mirchi FM is a broadcast radio station in Suva, Fiji, providing Bollywood, Punjabi and World Top 40 Pop music."
+                },
+                "radio_contacts": {
+                    "short": "Mirchi FM is a broadcast radio station in Suva, Fiji, providing Bollywood, Punjabi and World Top 40 Pop music.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "http://mirchifm.fbc.com.fj/",
+                    "facebook": "http://www.facebook.com/mirchifm",
+                    "twitter": "http://twitter.com/mirchi_fm",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Radio_Mirchi_Hyderabad",
+                    "title": "Play Mirchi FM"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://peridot.streamguys.com:7150/Mirchi",
+                "radio_image": "https://static-media.streema.com/media/cache/2e/60/2e601a55c61d680d49c15be640f23eeb.jpg"
+            },
+            {
+                "title": "Viti FM",
+                "no_play": false,
+                "frequency": "FM 102.8",
+                "link_deatils": "/radios/Viti_FM",
+                "link_player": "/radios/play/Viti_FM",
+                "image": "https://static-media.streema.com/media/cache/a0/48/a0487374d5276171ed15193307ec6ee4.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Oceania",
+                        "link": "/radios/region/Oceania"
+                    },
+                    {
+                        "title": "Fiji",
+                        "link": "/country/Fiji"
+                    },
+                    {
+                        "title": "Suva",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "270 Listens",
+                    "stars": 4
+                },
+                "genres": [
+                    "Adult Contemporary",
+                    "Hits",
+                    "Pop",
+                    "Reggae"
+                ],
+                "location": {
+                    "city": "Suva",
+                    "country": "Fiji"
+                },
+                "profile_slogan": "Fiji Limited's Fijian language radio station",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "Viti FM 102.8 is a broadcast Radio station from Suva, Fiji, providing Hit songs coupled with Country and western and also caters for Raggae music",
+                    "rest": "lovers out there.\n\n------\nShows: Maikeli Radua, Nimilote Naisorotabua"
+                },
+                "radio_contacts": {
+                    "short": "Viti FM 102.8 is a broadcast Radio station from Suva, Fiji, providing Hit songs coupled with Country and western and also caters for Raggae music",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://www.vitifm.com.fj/",
+                    "facebook": "http://www.facebook.com/pages/VitiFM/188130761223752",
+                    "twitter": "http://twitter.com/VitiFM",
+                    "phone": "(679) 331 4766",
+                    "address": "231 Waimanu Road  Suva, Fiji",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Viti_FM",
+                    "title": "Play Viti FM"
+                },
+                "radio_shows": [
+                    "Maikeli Radua"
+                ],
+                "radio_source": "http://stream.fijivillage.com/vitifm",
+                "radio_image": "https://static-media.streema.com/media/cache/3d/90/3d9059bfdd2de1ae541c04b0e2e3ac21.jpg"
+            },
+            {
+                "title": "FBC - Bula FM",
+                "no_play": false,
+                "frequency": "FM 102.0",
+                "link_deatils": "/radios/Bula_FM",
+                "link_player": "/radios/play/Bula_FM",
+                "image": "https://static-media.streema.com/media/cache/54/0f/540ffa53b6ca1bdbcdb83106d357161c.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Oceania",
+                        "link": "/radios/region/Oceania"
+                    },
+                    {
+                        "title": "Fiji",
+                        "link": "/country/Fiji"
+                    },
+                    {
+                        "title": "Suva",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "120 Listens",
+                    "stars": 5
+                },
+                "genres": [
+                    "Community",
+                    "News",
+                    "Pop",
+                    "Talk"
+                ],
+                "location": {
+                    "city": "Suva",
+                    "country": "Fiji"
+                },
+                "profile_slogan": "Naba dua ena Sere",
+                "radio_language": "Fijian",
+                "radio_info": {
+                    "short": "Bula FM is a broadcast radio station in Suva, Fiji, providing Community News, Information and Entertainment to the Fijian speaking audience as part of the",
+                    "rest": "Fuji Broadcasting Corporation (FBC). FBC provides nation-wide AM and FM community broadcasts in three languages, Fijian, Hindustani (Indo-Fijian) and English to reflect the multicultural character of the country."
+                },
+                "radio_contacts": {
+                    "short": "Bula FM is a broadcast radio station in Suva, Fiji, providing Community News, Information and Entertainment to the Fijian speaking audience as part of the",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://www.fbcnews.com.fj/",
+                    "facebook": "http://www.facebook.com/BulaFm",
+                    "twitter": "http://twitter.com/bula102fm",
+                    "phone": "(679) 331 4333",
+                    "address": "PO Box 334, Suva, Fiji",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Bula_FM",
+                    "title": "Play FBC - Bula FM"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://peridot.streamguys.com:7150/Bula",
+                "radio_image": "https://static-media.streema.com/media/cache/c0/ec/c0ecd2ef9ef84985b3423f6876047c7f.jpg"
+            },
+            {
+                "title": "Radio Fiji GOLD",
+                "no_play": false,
+                "frequency": "FM 100.4",
+                "link_deatils": "/radios/Radio_Fiji_GOLD",
+                "link_player": "/radios/play/Radio_Fiji_GOLD",
+                "image": "https://static-media.streema.com/media/cache/9d/a8/9da8d94931c46086e8ff019befa88eb5.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Oceania",
+                        "link": "/radios/region/Oceania"
+                    },
+                    {
+                        "title": "Fiji",
+                        "link": "/country/Fiji"
+                    },
+                    {
+                        "title": "Suva",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "90 Listens",
+                    "stars": 0
+                },
+                "genres": [
+                    "News",
+                    "Sports"
+                ],
+                "location": {
+                    "city": "Suva",
+                    "country": "Fiji"
+                },
+                "profile_slogan": "Broadcasting Fiji to the world",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "Radio Fiji Gold started back in 1995 with a target audience from 35 – 60 yrs old . Barry Ferber came in 95 on a",
+                    "rest": "three years contract to head the then Radio Fiji Commission he set a format in music which plays only the hits from 60’s 70’s 80’s 90’s and today which is mainly adult contemporary. These songs are mainly your favorites and have what we like to call the Gold sound.\nDuring the later times of the 90’s, Radio Fiji Gold had played host to legends like Kahmal and a few international artists who have graced our shores\nRadio Fiji Gold had done promotions which involved the community, some notable examples are: The Gold Heart week, The Community Awareness week, Road Awareness week, even Involving Radio with organizations like Crime Stoppers and in local Music Awards Nights."
+                },
+                "radio_contacts": {
+                    "short": "Radio Fiji Gold started back in 1995 with a target audience from 35 – 60 yrs old . Barry Ferber came in 95 on a",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://www.fbcnews.com.fj/",
+                    "facebook": "",
+                    "twitter": "",
+                    "phone": "(679) 330 2588",
+                    "address": "PO Box 334,Suva",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Radio_Fiji_GOLD",
+                    "title": "Play Radio Fiji GOLD"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://peridot.streamguys.com:7150/Gold",
+                "radio_image": "https://static-media.streema.com/media/cache/45/a9/45a9f5326d7906cdb6092a21add8d6ad.jpg"
+            },
+            {
+                "title": "Legend FM",
+                "no_play": false,
+                "frequency": "FM 102.8",
+                "link_deatils": "/radios/viti_fm_2",
+                "link_player": "/radios/play/viti_fm_2",
+                "image": "https://static-media.streema.com/media/cache/4a/8b/4a8b4bc8e028ca90dff80fd3688b06c8.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Oceania",
+                        "link": "/radios/region/Oceania"
+                    },
+                    {
+                        "title": "Fiji",
+                        "link": "/country/Fiji"
+                    },
+                    {
+                        "title": "Suva",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "90 Listens",
+                    "stars": 0
+                },
+                "genres": [
+                    "Disco",
+                    "Reggae",
+                    "Rock",
+                    "Soul"
+                ],
+                "location": {
+                    "city": "Suva",
+                    "country": "Fiji"
+                },
+                "profile_slogan": "",
+                "radio_language": "Fijian",
+                "radio_info": {
+                    "short": "Viti FM 102.8 is a broadcast radio station from Suva, Fiji, providing Gospel music.",
+                    "rest": "Viti FM 102.8 is a broadcast radio station from Suva, Fiji, providing Gospel music."
+                },
+                "radio_contacts": {
+                    "short": "Viti FM 102.8 is a broadcast radio station from Suva, Fiji, providing Gospel music.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://www.legendfm.com.fj/",
+                    "facebook": "http://www.facebook.com/LegendFMFiji/",
+                    "twitter": "",
+                    "phone": "(679) 331 4766",
+                    "address": "231 Waimanu Rd, Suva, Fiji Islands",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/viti_fm_2",
+                    "title": "Play Legend FM"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://stream.fijivillage.com/legendfm",
+                "radio_image": "https://static-media.streema.com/media/cache/33/c5/33c582acbcaed7b4db357c06e72fd5f9.jpg"
+            },
+            {
+                "title": "FM 96",
+                "no_play": false,
+                "frequency": "FM 96.6",
+                "link_deatils": "/radios/FM_96",
+                "link_player": "/radios/play/FM_96",
+                "image": "https://static-media.streema.com/media/cache/43/8e/438eda3c34923df20a8c376b6473860e.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Oceania",
+                        "link": "/radios/region/Oceania"
+                    },
+                    {
+                        "title": "Fiji",
+                        "link": "/country/Fiji"
+                    },
+                    {
+                        "title": "Suva",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "60 Listens",
+                    "stars": 2
+                },
+                "genres": [
+                    "Culture",
+                    "Entertainment",
+                    "Local"
+                ],
+                "location": {
+                    "city": "Suva",
+                    "country": "Fiji"
+                },
+                "profile_slogan": "Fiji's home on the world wide web",
+                "radio_language": "English",
+                "radio_info": {
+                    "short": "FM96 is the #1 Radio Station in the Fiji Islands that broadcasts in English to an urbanized, westernized audience from 18-25 years old.",
+                    "rest": "FM96 is the #1 Radio Station in the Fiji Islands that broadcasts in English to an urbanized, westernized audience from 18-25 years old."
+                },
+                "radio_contacts": {
+                    "short": "FM96 is the #1 Radio Station in the Fiji Islands that broadcasts in English to an urbanized, westernized audience from 18-25 years old.",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://fm96.com.fj/",
+                    "facebook": "http://www.facebook.com/pages/FM96/92874036623",
+                    "twitter": "http://twitter.com/FijisBest_FM96",
+                    "phone": "",
+                    "address": "231 Waimanu Road, Suva, Fiji",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/FM_96",
+                    "title": "Play FM 96"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://stream.fijivillage.com/fm96",
+                "radio_image": "https://static-media.streema.com/media/cache/3c/0f/3c0fd09b2bb1bbf61944bdd53d28d798.jpg"
+            },
+            {
+                "title": "Radio Fiji ONE",
+                "no_play": false,
+                "frequency": "FM 107.4",
+                "link_deatils": "/radios/Radio_Fiji_ONE",
+                "link_player": "/radios/play/Radio_Fiji_ONE",
+                "image": "https://static-media.streema.com/media/cache/9a/15/9a15d0dd3859a616f290e3ad8e06e663.jpg",
+                "breadcrumb": [
+                    {
+                        "title": "Oceania",
+                        "link": "/radios/region/Oceania"
+                    },
+                    {
+                        "title": "Fiji",
+                        "link": "/country/Fiji"
+                    },
+                    {
+                        "title": "Suva",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "60 Listens",
+                    "stars": 0
+                },
+                "genres": [
+                    "News",
+                    "Talk"
+                ],
+                "location": {
+                    "city": "Suva",
+                    "country": "Fiji"
+                },
+                "profile_slogan": "",
+                "radio_language": "Multilingual",
+                "radio_info": {
+                    "short": "FBCL provides nation-wide AM and FM community broadcasts in three languages, Fijian, Hindustani (Indo-Fijian) and English - a mandate that reflects the multicultural character of",
+                    "rest": "the country. FBCL is the only radio broadcasting organization with national reach."
+                },
+                "radio_contacts": {
+                    "short": "FBCL provides nation-wide AM and FM community broadcasts in three languages, Fijian, Hindustani (Indo-Fijian) and English - a mandate that reflects the multicultural character of",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "https://www.fbcnews.com.fj/",
+                    "facebook": "",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "/radios/play/Radio_Fiji_ONE",
+                    "title": "Play Radio Fiji ONE"
+                },
+                "radio_shows": [""],
+                "radio_source": "http://peridot.streamguys.com:7150/RFOne",
+                "radio_image": "https://static-media.streema.com/media/cache/d9/5a/d95a85d12b54e953569dc50a5930ae87.jpg"
+            },
+            {
+                "title": "Bula Namaste FM",
+                "no_play": true,
+                "frequency": "FM 99.4",
+                "link_deatils": "/radios/Bula_Namaste_FM",
+                "link_player": "",
+                "image": "https://statics-v2.streema.com/static/img/radios/radio.placeholder.75.3c4c08402b54.png",
+                "breadcrumb": [
+                    {
+                        "title": "Oceania",
+                        "link": "/radios/region/Oceania"
+                    },
+                    {
+                        "title": "Fiji",
+                        "link": "/country/Fiji"
+                    },
+                    {
+                        "title": "Suva",
+                        "link": ""
+                    }
+                ],
+                "ratings": {
+                    "listens": "",
+                    "stars": 0
+                },
+                "genres": [],
+                "location": {
+                    "city": "Suva",
+                    "country": "Fiji"
+                },
+                "profile_slogan": "",
+                "radio_language": "",
+                "radio_info": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contacts": {
+                    "short": "",
+                    "rest": ""
+                },
+                "radio_contact": {
+                    "website": "",
+                    "facebook": "",
+                    "twitter": "",
+                    "phone": "",
+                    "address": "",
+                    "email": ""
+                },
+                "radio_player": {
+                    "link": "",
+                    "title": ""
+                },
+                "radio_shows": []
+            }
+        ]
+    }
+]

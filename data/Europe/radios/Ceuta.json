@@ -1,0 +1,223 @@
+[{
+    "title": "Ceuta",
+    "link": "https://streema.com/radios/Ceuta",
+    "msg_results": "4 Radio Stations from Ceuta",
+    "page_copy": "Listen to radio stations from Ceuta, from a wide variety of genres like Information, News, Spanish, Sports and Talk.  Enjoy stations such as RTVCE - Radiotelevisión Ceuta, Cadena SER - Radio Ceuta, COPE Ceuta, Onda Cero Ceuta and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "RTVCE - Radiotelevisión Ceuta",
+        "no_play": false,
+        "frequency": "FM 99.0",
+        "link_deatils": "/radios/RTVCE_Radiotelevision_Ceuta",
+        "link_player": "/radios/play/RTVCE_Radiotelevision_Ceuta",
+        "image": "https://static-media.streema.com/media/cache/27/ad/27ad6cb5b3438a881f81fccb23d820d0.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Ceuta",
+            "link": "/radios/country/Spain/state/Ceuta"
+        }, {
+            "title": "Ceuta",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Spanish"],
+        "location": {
+            "city": "Ceuta",
+            "country": "Spain"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contacts": {
+            "short": "",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.rtvce.es/seccion/radio/",
+            "facebook": "http://www.facebook.com/RTVCE",
+            "twitter": "http://twitter.com/rtvce",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/RTVCE_Radiotelevision_Ceuta",
+            "title": "Play RTVCE - Radiotelevisión Ceuta"
+        },
+        "radio_shows": [""],
+        "radio_source": "https://5924d3ad0efcf.streamlock.net/ceutaradio/ceutaradiolive/playlist.m3u8",
+        "radio_image": "https://static-media.streema.com/media/cache/4d/94/4d948653a224325bc0e85dfb18a38330.jpg"
+    }, {
+        "title": "Cadena SER - Radio Ceuta",
+        "no_play": false,
+        "frequency": "FM 96.2",
+        "link_deatils": "/radios/Radio_Ceuta_Cadena_SER",
+        "link_player": "/radios/play/Radio_Ceuta_Cadena_SER",
+        "image": "https://static-media.streema.com/media/cache/08/f9/08f96dc96cd772ffc982f9e051570954.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Ceuta",
+            "link": "/radios/country/Spain/state/Ceuta"
+        }, {
+            "title": "Ceuta",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["News", "Sports", "Talk"],
+        "location": {
+            "city": "Ceuta",
+            "country": "Spain"
+        },
+        "profile_slogan": "Escucha con nosotros la vida",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Radio Ceuta is a broadcast radio station in Ceuta, Spain, providing News, Talk and Sports shows.",
+            "rest": "Radio Ceuta is a broadcast radio station in Ceuta, Spain, providing News, Talk and Sports shows."
+        },
+        "radio_contacts": {
+            "short": "Radio Ceuta is a broadcast radio station in Ceuta, Spain, providing News, Talk and Sports shows.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://cadenaser.com/emisora/f/radio_ceuta/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "+34 956 511 820",
+            "address": "Poblado Marinero, local 32, 51001 Ceuta, Spain",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Ceuta_Cadena_SER",
+            "title": "Play Cadena SER - Radio Ceuta"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CEUTA.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/7c/8d/7c8dd417f756a299bbc81017ef8bc134.jpg"
+    }, {
+        "title": "COPE Ceuta",
+        "no_play": false,
+        "frequency": "FM 89.8",
+        "link_deatils": "/radios/Cope_Ceuta",
+        "link_player": "/radios/play/Cope_Ceuta",
+        "image": "https://static-media.streema.com/media/cache/f8/1c/f81c9a1e8fe59754b2ceefbe4e40a9c5.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Ceuta",
+            "link": "/radios/country/Spain/state/Ceuta"
+        }, {
+            "title": "Ceuta",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Information", "News", "Spanish", "Talk"],
+        "location": {
+            "city": "Ceuta",
+            "country": "Spain"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "COPE Cueta is a broadcast radio station in Cueta, Spain, providing News, Talk and Sports as an affiliate of the broadcast radio network Cadena COPE",
+            "rest": "from Madrid, Spain."
+        },
+        "radio_contacts": {
+            "short": "COPE Cueta is a broadcast radio station in Cueta, Spain, providing News, Talk and Sports as an affiliate of the broadcast radio network Cadena COPE",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://elfarodeceuta.es/cope-ceuta/",
+            "facebook": "http://www.facebook.com/copeceuta",
+            "twitter": "http://twitter.com/Cope_Ceuta",
+            "phone": "",
+            "address": "Sargento Mena 8, 51001 Ciudad De Ceuta, Andalucia, Spain",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Cope_Ceuta",
+            "title": "Play COPE Ceuta"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://copeceuta.es:8000/copeceuta",
+        "radio_image": "https://static-media.streema.com/media/cache/23/42/23421372f5d25e9efe26e9aa595bf44a.jpg"
+    }, {
+        "title": "Onda Cero Ceuta",
+        "no_play": false,
+        "frequency": "FM 101.4",
+        "link_deatils": "/radios/Onda_Cero_Ceuta",
+        "link_player": "/radios/play/Onda_Cero_Ceuta",
+        "image": "https://static-media.streema.com/media/cache/4c/ec/4cecde3ccfc8328b41b90e43457feb72.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Ceuta",
+            "link": "/radios/country/Spain/state/Ceuta"
+        }, {
+            "title": "Ceuta",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["News", "Spanish", "Sports", "Talk"],
+        "location": {
+            "city": "Ceuta",
+            "country": "Spain"
+        },
+        "profile_slogan": "Te mereces esta radio. Tu",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Onda Cero 101.4 is a broadcast radio station from Ceuta, Spain, providing Spanish Talk , National News , Sports Talk & News programs.",
+            "rest": "Onda Cero 101.4 is a broadcast radio station from Ceuta, Spain, providing Spanish Talk , National News , Sports Talk & News programs."
+        },
+        "radio_contacts": {
+            "short": "Onda Cero 101.4 is a broadcast radio station from Ceuta, Spain, providing Spanish Talk , National News , Sports Talk & News programs.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.ondacero.es/emisoras/ceuta/",
+            "facebook": "http://www.facebook.com/ceuta-en-la-onda-362653380622/",
+            "twitter": "http://twitter.com/ondaceroceuta",
+            "phone": "856200174",
+            "address": "Delgado Serrano 1, 1º dcha 51001",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Onda_Cero_Ceuta",
+            "title": "Play Onda Cero Ceuta"
+        },
+        "radio_shows": [""],
+        "radio_source": "https://livefastly-webs.ondacero.es/ceuta-pull/audio/master.m3u8",
+        "radio_image": "https://static-media.streema.com/media/cache/17/0c/170cf08d8ac5c3b5a4e8526e85e4f9b5.jpg"
+    }]
+}]

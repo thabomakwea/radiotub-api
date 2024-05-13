@@ -1,0 +1,433 @@
+[{
+    "title": "Aosta",
+    "link": "https://streema.com/radios/Aosta",
+    "msg_results": "8 Radio Stations from Aosta",
+    "page_copy": "Listen to radio stations from Aosta, from a wide variety of genres like Classical, Italian, News, Smooth Jazz and Top 40.  Enjoy stations such as Ujump, Top Italia Radio, Radio 24 Aosta, Radio Nostalgia - Radio Nostalgia Aosta, Radio Kiss Kiss and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Ujump",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Ujump",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/e2/31/e2312787414bc14dd9fff8e37ac9b76c.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Valle d'Aosta",
+            "link": "/country/Italy/state/Valle_dAosta"
+        }, {
+            "title": "Aosta",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "1 Listens",
+            "stars": 0
+        },
+        "genres": ["Acoustic", "Ambient", "Easy Listening", "Smooth Jazz"],
+        "location": {
+            "city": "Aosta",
+            "country": "Italy"
+        },
+        "profile_slogan": "deep and cool",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "deep and cool, for travel and cooking, studying and thinking. Our radio is merging the European background with the global experience, the quality of life",
+            "rest": "with the challenges of the present times"
+        },
+        "radio_contacts": {
+            "short": "deep and cool, for travel and cooking, studying and thinking. Our radio is merging the European background with the global experience, the quality of life",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://www.radionomy.com/fr/radio/ujump",
+            "facebook": "http://www.facebook.com/ujumping",
+            "twitter": "http://twitter.com/ujump",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Top Italia Radio",
+        "no_play": false,
+        "frequency": "FM 98.2",
+        "link_deatils": "/radios/Top_Italia_Radio",
+        "link_player": "/radios/play/Top_Italia_Radio",
+        "image": "https://static-media.streema.com/media/cache/fb/54/fb545f944cc9d6d824a9241533e973ff.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Valle d'Aosta",
+            "link": "/country/Italy/state/Valle_dAosta"
+        }, {
+            "title": "Aosta",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["News", "Pop", "World"],
+        "location": {
+            "city": "Aosta",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Top Italia Radio is an Internet Radio station broadcasting from Aosta, Italy, providing Top 40/Pop, World Music and Local News programs.",
+            "rest": "Top Italia Radio is an Internet Radio station broadcasting from Aosta, Italy, providing Top 40/Pop, World Music and Local News programs."
+        },
+        "radio_contacts": {
+            "short": "Top Italia Radio is an Internet Radio station broadcasting from Aosta, Italy, providing Top 40/Pop, World Music and Local News programs.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.tir.fm/",
+            "facebook": "http://www.facebook.com/topitaliaradiovda",
+            "twitter": "http://twitter.com/TopItaliaRadio",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Top_Italia_Radio",
+            "title": "Play Top Italia Radio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streaming.cst98.com:8000/tir.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/39/28/39280dc647a1032318a65403a8fa34ef.jpg"
+    }, {
+        "title": "Radio 24 Aosta",
+        "no_play": false,
+        "frequency": "FM 105.4",
+        "link_deatils": "/radios/Radio_24_Radio_24_Aosta",
+        "link_player": "/radios/play/Radio_24_Radio_24_Aosta",
+        "image": "https://static-media.streema.com/media/cache/d5/1d/d51d1750aed7a8c5f0eef135ea9de732.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Valle d'Aosta",
+            "link": "/country/Italy/state/Valle_dAosta"
+        }, {
+            "title": "Aosta",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Italian", "News", "Talk"],
+        "location": {
+            "city": "Aosta",
+            "country": "Italy"
+        },
+        "profile_slogan": "La Passione si Suete",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Radio 24 - Radio 24 Aosta is a broadcast radio station from Aosta, Valle d'Aosta, Italy providing Italian Talk, National News and music. ------ Shows:",
+            "rest": " Rassegna Stampa, 2024, 4 Ruote e Dintorni, A Tempo Di Sport, Destinazione Pechino, Domenica 24, English24, Essere e Avere, Essere e Benessere, Focus Economia, Gr 24 extralarge, Guardie o Ladri, I magnifici, Il Cielo In Una Frase, Il Gastronauta, Il riposo del guerriero, Il Taccuino Del Dottor Agrò, Jefferson Ming e l'arte Del Sorpasso, Job 24, La Finestra Sul Cortile, La Quota Rosa, La Rosa Purpurea, La Storia e La Memoria, La Zanzara, Lettere a Radio24, L'informazione Del Mattino, L'Ottavo Giorno, Melog, Moebius, Musica Maestro, Obbligo Di Frequenza, Palla Ovale, Questa Casa Non è Un Albergo, Radio DOC, Respiro, Saccheggi, Salvadanaio, Storiacce, Storielle, Trovati Un Bravo Ragazzo, Tuttifrutti, Un Abuso Al Giorno, Toglie Il Codice D'intorno, Un Libro Tira L'altro, Viva Voce"
+        },
+        "radio_contacts": {
+            "short": "Radio 24 - Radio 24 Aosta is a broadcast radio station from Aosta, Valle d'Aosta, Italy providing Italian Talk, National News and music. ------ Shows:",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radio24.ilsole24ore.com/",
+            "facebook": "http://www.facebook.com/RADIO24.ilsole24ore",
+            "twitter": "http://twitter.com/Radio24_news",
+            "phone": "800-24-00-24",
+            "address": "via Monte Rosa, 91 20149 Milano",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_24_Radio_24_Aosta",
+            "title": "Play Radio 24 Aosta"
+        },
+        "radio_shows": ["Rassegna Stampa", "2024", "4 Ruote e Dintorni", "A Tempo Di Sport", "Destinazione Pechino", "See all shows...", "Domenica 24\n                    \n                      English24\n                    \n                      Essere e Avere\n                    \n                      Essere e Benessere\n                    \n                      Focus Economia\n                    \n                      Gr 24 extralarge\n                    \n                      Guardie o Ladri\n                    \n                      I magnifici\n                    \n                      Il Cielo In Una Frase\n                    \n                      Il Gastronauta\n                    \n                      Il riposo del guerriero\n                    \n                      Il Taccuino Del Dottor Agrò\n                    \n                      Jefferson Ming e l'arte Del Sorpasso\n                    \n                      Job 24\n                    \n                      La Finestra Sul Cortile\n                    \n                      La Quota Rosa\n                    \n                      La Rosa Purpurea\n                    \n                      La Storia e La Memoria\n                    \n                      La Zanzara\n                    \n                      Lettere a Radio24\n                    \n                      L'informazione Del Mattino\n                    \n                      L'Ottavo Giorno\n                    \n                      Melog\n                    \n                      Moebius\n                    \n                      Musica Maestro\n                    \n                      Obbligo Di Frequenza\n                    \n                      Palla Ovale\n                    \n                      Questa Casa Non è Un Albergo\n                    \n                      Radio DOC\n                    \n                      Respiro\n                    \n                      Saccheggi\n                    \n                      Salvadanaio\n                    \n                      Storiacce\n                    \n                      Storielle\n                    \n                      Trovati Un Bravo Ragazzo\n                    \n                      Tuttifrutti\n                    \n                      Un Abuso Al Giorno, Toglie Il Codice D'intorno\n                    \n                      Un Libro Tira L'altro\n                    \n                      Viva Voce", "Domenica 24", "English24", "Essere e Avere", "Essere e Benessere", "Focus Economia", "Gr 24 extralarge", "Guardie o Ladri", "I magnifici", "Il Cielo In Una Frase", "Il Gastronauta", "Il riposo del guerriero", "Il Taccuino Del Dottor Agrò", "Jefferson Ming e l'arte Del Sorpasso", "Job 24", "La Finestra Sul Cortile", "La Quota Rosa", "La Rosa Purpurea", "La Storia e La Memoria", "La Zanzara", "Lettere a Radio24", "L'informazione Del Mattino", "L'Ottavo Giorno", "Melog", "Moebius", "Musica Maestro", "Obbligo Di Frequenza", "Palla Ovale", "Questa Casa Non è Un Albergo", "Radio DOC", "Respiro", "Saccheggi", "Salvadanaio", "Storiacce", "Storielle", "Trovati Un Bravo Ragazzo", "Tuttifrutti", "Un Abuso Al Giorno, Toglie Il Codice D'intorno", "Un Libro Tira L'altro", "Viva Voce"],
+        "radio_source": "http://shoutcast.radio24.ilsole24ore.com:8000/;",
+        "radio_image": "https://static-media.streema.com/media/cache/4b/b8/4bb80891270f036998a96dca9346cbb9.jpg"
+    }, {
+        "title": "Radio Nostalgia - Radio Nostalgia Aosta",
+        "no_play": false,
+        "frequency": "FM 103.800",
+        "link_deatils": "/radios/Radio_Nostalgia_Radio_Nostalgia_Aosta",
+        "link_player": "/radios/play/Radio_Nostalgia_Radio_Nostalgia_Aosta",
+        "image": "https://static-media.streema.com/media/cache/ba/14/ba144a35b7baec6291008013a8a5dab6.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Valle d'Aosta",
+            "link": "/country/Italy/state/Valle_dAosta"
+        }, {
+            "title": "Aosta",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["News", "Sports"],
+        "location": {
+            "city": "Aosta",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Radio Nostalgia, musica di sempre: le canzoni 'indimenticabili' che ci portano al ricordo di un emozione vissuta, dall'era di Elvis sino a pochi anni fa.",
+            "rest": "\n------\nShows: Giornale Radio Regionale, MeteoNews"
+        },
+        "radio_contacts": {
+            "short": "Radio Nostalgia, musica di sempre: le canzoni 'indimenticabili' che ci portano al ricordo di un emozione vissuta, dall'era di Elvis sino a pochi anni fa.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.nostalgia.it/",
+            "facebook": "http://www.facebook.com/nostalgia.it/",
+            "twitter": "http://twitter.com/radio_on_it",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Nostalgia_Radio_Nostalgia_Aosta",
+            "title": "Play Radio Nostalgia - Radio Nostalgia Aosta"
+        },
+        "radio_shows": ["Giornale Radio Regionale", "MeteoNews"],
+        "radio_source": "http://rn1.fluidstream.eu/nostalgia_li.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/01/86/018647a0d360c2b8394b13eb986c6591.jpg"
+    }, {
+        "title": "Radio Kiss Kiss",
+        "no_play": false,
+        "frequency": "FM 92.5",
+        "link_deatils": "/radios/Radio_Kiss_Kiss",
+        "link_player": "/radios/play/Radio_Kiss_Kiss",
+        "image": "https://static-media.streema.com/media/cache/dd/c3/ddc31da65a8a22de4ad5f9f4edf1b281.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Valle d'Aosta",
+            "link": "/country/Italy/state/Valle_dAosta"
+        }, {
+            "title": "Aosta",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Love Songs", "Top 40"],
+        "location": {
+            "city": "Aosta",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Radio Kiss Kiss is a broadcast radio station in Aosta, Valle d'Aosta, Italy, providing Love Songs and Top 40 songs.",
+            "rest": "Radio Kiss Kiss is a broadcast radio station in Aosta, Valle d'Aosta, Italy, providing Love Songs and Top 40 songs."
+        },
+        "radio_contacts": {
+            "short": "Radio Kiss Kiss is a broadcast radio station in Aosta, Valle d'Aosta, Italy, providing Love Songs and Top 40 songs.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.kisskiss.it/",
+            "facebook": "http://www.facebook.com/radiokisskiss",
+            "twitter": "http://twitter.com/radiokisskiss",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Kiss_Kiss",
+            "title": "Play Radio Kiss Kiss"
+        },
+        "radio_shows": [""],
+        "radio_source": "https://kisskiss.fluidstream.eu/KissKiss.aac?FLID=D",
+        "radio_image": "https://static-media.streema.com/media/cache/b4/4d/b44d3409c84f788db4e96810a1e6146d.jpg"
+    }, {
+        "title": "Radio Club",
+        "no_play": false,
+        "frequency": "FM 95.0",
+        "link_deatils": "/radios/Radio_Club_Radio_Club",
+        "link_player": "/radios/play/Radio_Club_Radio_Club",
+        "image": "https://static-media.streema.com/media/cache/a7/52/a752a82fa4f1a408ccdc72b23d85b376.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Valle d'Aosta",
+            "link": "/country/Italy/state/Valle_dAosta"
+        }, {
+            "title": "Aosta",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Italian"],
+        "location": {
+            "city": "Aosta",
+            "country": "Italy"
+        },
+        "profile_slogan": "Music In The Air",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Music in the air",
+            "rest": "Music in the air"
+        },
+        "radio_contacts": {
+            "short": "Music in the air",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radio-club.it/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Club_Radio_Club",
+            "title": "Play Radio Club"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://streaming.cst98.com:8000/club.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/0a/bf/0abf929112b300ce7f470fbe3b2e9fba.jpg"
+    }, {
+        "title": "12Vda Radio",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/12Vda_Radio",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/91/30/913069bf182bb871b82ce796a9647905.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Valle d'Aosta",
+            "link": "/country/Italy/state/Valle_dAosta"
+        }, {
+            "title": "Aosta",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Classical"],
+        "location": {
+            "city": "Aosta",
+            "country": "Italy"
+        },
+        "profile_slogan": "",
+        "radio_language": "English",
+        "radio_info": {
+            "short": "12vda webradio e' la radio on line della Valle d'Aosta: la migliore musica italiana degli ultimi trent'anni e l'informazione puntuale sulla Valle d'Aosta",
+            "rest": "12vda webradio e' la radio on line della Valle d'Aosta: la migliore musica italiana degli ultimi trent'anni e l'informazione puntuale sulla Valle d'Aosta"
+        },
+        "radio_contacts": {
+            "short": "12vda webradio e' la radio on line della Valle d'Aosta: la migliore musica italiana degli ultimi trent'anni e l'informazione puntuale sulla Valle d'Aosta",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.12vda.eu/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }, {
+        "title": "Radio Valle D Aosta 101",
+        "no_play": true,
+        "frequency": "FM 100.8",
+        "link_deatils": "/radios/Radio_Valle_D_Aosta",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/0e/7b/0e7b12bcaca92e75e2e09edc68bc8880.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Italy",
+            "link": "/country/Italy"
+        }, {
+            "title": "Valle d'Aosta",
+            "link": "/country/Italy/state/Valle_dAosta"
+        }, {
+            "title": "Aosta",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Oldies"],
+        "location": {
+            "city": "Aosta",
+            "country": "Italy"
+        },
+        "profile_slogan": "Classic Hit Radio",
+        "radio_language": "Italian",
+        "radio_info": {
+            "short": "Radio Valle D Aosta 101 è una stazione radio FM di Aosta, Valle d'Aosta, Italy, che trasmette Oldies.",
+            "rest": "Radio Valle D Aosta 101 è una stazione radio FM di Aosta, Valle d'Aosta, Italy, che trasmette Oldies."
+        },
+        "radio_contacts": {
+            "short": "Radio Valle D Aosta 101 è una stazione radio FM di Aosta, Valle d'Aosta, Italy, che trasmette Oldies.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.radiovalledaosta101.it/",
+            "facebook": "",
+            "twitter": "",
+            "phone": "",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}]

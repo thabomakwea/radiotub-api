@@ -1,0 +1,275 @@
+[{
+    "title": "Badajoz",
+    "link": "https://streema.com/radios/Badajoz",
+    "msg_results": "5 Radio Stations from Badajoz",
+    "page_copy": "Listen to radio stations from Badajoz, from a wide variety of genres like 90s, Education, Hits, Live Shows and Sports.  Enjoy stations such as Onda Cero Badajoz, Europa FM, Cadena COPE Badajoz, Radio Escuela Monesterio, Love Bites Radio and more.  Come find the top new songs, playlists, and music!  Listen on your iPhone, iPad, iPod Touch, Android, Blackberry, and other app-enabled mobile phones.",
+    "radios": [{
+        "title": "Onda Cero Badajoz",
+        "no_play": false,
+        "frequency": "FM 104.8",
+        "link_deatils": "/radios/Onda_Cero_Badajoz",
+        "link_player": "/radios/play/Onda_Cero_Badajoz",
+        "image": "https://static-media.streema.com/media/cache/ab/36/ab3662853ec58f11b24a6c2aa3d3e7e4.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Extremadura",
+            "link": "/radios/country/Spain/state/Extremadura"
+        }, {
+            "title": "Badajoz",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Entertainment", "Information", "Local", "News", "Talk"],
+        "location": {
+            "city": "Badajoz",
+            "country": "Spain"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Onda Cero Badajoz es una emisora de radio FM de Badajoz, Extremadura, Spain, transmitiendo Entertainment, Information, Local.",
+            "rest": "Onda Cero Badajoz es una emisora de radio FM de Badajoz, Extremadura, Spain, transmitiendo Entertainment, Information, Local."
+        },
+        "radio_contacts": {
+            "short": "Onda Cero Badajoz es una emisora de radio FM de Badajoz, Extremadura, Spain, transmitiendo Entertainment, Information, Local.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.ondacero.es/",
+            "facebook": "http://www.facebook.com/ondacero",
+            "twitter": "http://twitter.com/OndaCero_es",
+            "phone": "Masdeuno@ondacero.es",
+            "address": "Fuerteventura 12, San Sebastián de los Reyes, 28703 Madrid",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Onda_Cero_Badajoz",
+            "title": "Play Onda Cero Badajoz"
+        },
+        "radio_shows": [""],
+        "radio_source": "https://livefastly-webs.ondacero.es/badajoz-pull/audio/master.m3u8",
+        "radio_image": "https://static-media.streema.com/media/cache/d1/3f/d13f5c1f0eacede815606bbd787f7c47.jpg"
+    }, {
+        "title": "Europa FM",
+        "no_play": false,
+        "frequency": "FM 92.7",
+        "link_deatils": "/radios/Europa_FM_Badajoz_92.7_FM",
+        "link_player": "/radios/play/Europa_FM_Badajoz_92.7_FM",
+        "image": "https://static-media.streema.com/media/cache/ac/f5/acf53585a23d1317af1388c067a30eab.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Extremadura",
+            "link": "/radios/country/Spain/state/Extremadura"
+        }, {
+            "title": "Badajoz",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["90s", "Chillout", "Hits", "Rock"],
+        "location": {
+            "city": "Badajoz",
+            "country": "Spain"
+        },
+        "profile_slogan": "Radio Network Spain",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Europa FM (Badajoz) 92.7 is a broadcast based radio station from Badajoz that plays 90's, Rock, Euro Hits, Chill genre of music.",
+            "rest": "Europa FM (Badajoz) 92.7 is a broadcast based radio station from Badajoz that plays 90's, Rock, Euro Hits, Chill genre of music."
+        },
+        "radio_contacts": {
+            "short": "Europa FM (Badajoz) 92.7 is a broadcast based radio station from Badajoz that plays 90's, Rock, Euro Hits, Chill genre of music.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.europafm.com/",
+            "facebook": "http://www.facebook.com/tueuropafm",
+            "twitter": "http://twitter.com/europa_fm",
+            "phone": "00 34 902 10 32 62",
+            "address": "Las Ramblas 88-94, 4ª planta 08002 Barcelona, Spain",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Europa_FM_Badajoz_92.7_FM",
+            "title": "Play Europa FM"
+        },
+        "radio_shows": [""],
+        "radio_source": "",
+        "radio_image": "https://static-media.streema.com/media/cache/8f/f5/8ff583940a408a8f86ff78eff8c93830.jpg"
+    }, {
+        "title": "Cadena COPE Badajoz",
+        "no_play": false,
+        "frequency": "FM 87.5",
+        "link_deatils": "/radios/Cadena_COPE_6",
+        "link_player": "/radios/play/Cadena_COPE_6",
+        "image": "https://static-media.streema.com/media/cache/1b/e5/1be5e75c1f86c88f4233f2f40d3886c7.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Extremadura",
+            "link": "/radios/country/Spain/state/Extremadura"
+        }, {
+            "title": "Badajoz",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Live Shows", "Sports"],
+        "location": {
+            "city": "Badajoz",
+            "country": "Spain"
+        },
+        "profile_slogan": "",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Cadena COPE is a broadcast radio station from Badajoj, Spain providing News, Talk, Sports and Live shows.",
+            "rest": "Cadena COPE is a broadcast radio station from Badajoj, Spain providing News, Talk, Sports and Live shows."
+        },
+        "radio_contacts": {
+            "short": "Cadena COPE is a broadcast radio station from Badajoj, Spain providing News, Talk, Sports and Live shows.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://www.cope.es/Menu/Local/Badajoz/Audios",
+            "facebook": "http://www.facebook.com/cope",
+            "twitter": "http://twitter.com/cope_es",
+            "phone": "91.595.12.00",
+            "address": "Menacho, 12 - 3º, 06001 Badajoz, Spain",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Cadena_COPE_6",
+            "title": "Play Cadena COPE Badajoz"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://wecast-b02-05.flumotion.com/copesedes/badajoz.mp3",
+        "radio_image": "https://static-media.streema.com/media/cache/dd/3a/dd3a63b4ab1834e2c4b7670ae9205f6d.jpg"
+    }, {
+        "title": "Radio Escuela Monesterio",
+        "no_play": false,
+        "frequency": "Web",
+        "link_deatils": "/radios/Radio_Escuela_Monesterio",
+        "link_player": "/radios/play/Radio_Escuela_Monesterio",
+        "image": "https://static-media.streema.com/media/cache/ec/5e/ec5ee19c1af8f88303c1a23ab49a2baf.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Extremadura",
+            "link": "/radios/country/Spain/state/Extremadura"
+        }, {
+            "title": "Badajoz",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["Education", "Spanish"],
+        "location": {
+            "city": "Badajoz",
+            "country": "Spain"
+        },
+        "profile_slogan": "Emisora de radio educativa del CEIP El Llano",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Radio Escuela Monesterio is an online School radio station from Monesterio, Spain, providing teaching, information and education.",
+            "rest": "Radio Escuela Monesterio is an online School radio station from Monesterio, Spain, providing teaching, information and education."
+        },
+        "radio_contacts": {
+            "short": "Radio Escuela Monesterio is an online School radio station from Monesterio, Spain, providing teaching, information and education.",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "http://cpelllano.juntaextremadura.net/",
+            "facebook": "",
+            "twitter": "http://twitter.com/REMonesterio",
+            "phone": "924 02 36 38",
+            "address": "CEIP \"PLAIN\",  Avda Ramón y Cajal, 33",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "/radios/play/Radio_Escuela_Monesterio",
+            "title": "Play Radio Escuela Monesterio"
+        },
+        "radio_shows": [""],
+        "radio_source": "http://emisoras.dip-badajoz.es:8100/stream",
+        "radio_image": "https://static-media.streema.com/media/cache/ef/1f/ef1fad8e6689d91274c1f2a521dfe7ac.jpg"
+    }, {
+        "title": "Love Bites Radio",
+        "no_play": true,
+        "frequency": "Web",
+        "link_deatils": "/radios/Love_Bites_Radio_2",
+        "link_player": "",
+        "image": "https://static-media.streema.com/media/cache/96/f3/96f34674c0d084ef35be143dc1fb4f94.jpg",
+        "breadcrumb": [{
+            "title": "Europe",
+            "link": "/radios/region/Europe"
+        }, {
+            "title": "Spain",
+            "link": "/radios/country/Spain"
+        }, {
+            "title": "Extremadura",
+            "link": "/radios/country/Spain/state/Extremadura"
+        }, {
+            "title": "Badajoz",
+            "link": ""
+        }],
+        "ratings": {
+            "listens": "",
+            "stars": 0
+        },
+        "genres": ["90s", "Dance Hits", "Electro", "Hits"],
+        "location": {
+            "city": "Badajoz",
+            "country": "Spain"
+        },
+        "profile_slogan": "If you Love the 90s, follow us......enjoy.",
+        "radio_language": "Spanish",
+        "radio_info": {
+            "short": "Station radio of the 90s hits, music, for dance, listen by night and travel to another dimension and time, themes are make history in our",
+            "rest": "personnal lifes, some goods another not some goods, but this is the life, if not, we cant live that. Enjoy us."
+        },
+        "radio_contacts": {
+            "short": "Station radio of the 90s hits, music, for dance, listen by night and travel to another dimension and time, themes are make history in our",
+            "rest": ""
+        },
+        "radio_contact": {
+            "website": "https://manpereira523.wixsite.com/imaginesoundsradio",
+            "facebook": "http://www.facebook.com/profile.php?id=100034122833849",
+            "twitter": "",
+            "phone": "+34.655.21.74.49",
+            "address": "",
+            "email": ""
+        },
+        "radio_player": {
+            "link": "",
+            "title": ""
+        },
+        "radio_shows": [""]
+    }]
+}]
