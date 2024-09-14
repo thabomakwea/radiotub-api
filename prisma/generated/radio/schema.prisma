@@ -1,0 +1,85 @@
+generator client {
+  provider = "prisma-client-js"
+  output   = "../prisma/generated/radio"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./database/radio.db"
+}
+
+model Radios {
+  id                Int         @id @default(autoincrement())
+  createdAt         DateTime    @default(now())
+  updatedAt         DateTime    @updatedAt
+  address           String      @default("")
+  email             String      @default("")
+  facebook          String      @default("")
+  frequency         String      @default("")
+  image             String      @default("")
+  link_deatils      String      @default("")
+  link_player       String      @default("")
+  listens           String      @default("")
+  long_description  String      @default("")
+  no_play           Boolean     @default(true)
+  phone             String      @default("")
+  profile_slogan    String      @default("")
+  radio_language    String      @default("")
+  short_description String      @default("")
+  stars             Int         @default(0)
+  title             String      @default("")
+  twitter           String      @default("")
+  website           String      @default("")
+  source            String      @default("")
+  radio_id          String      @default("")
+  state_id          String      @default("")
+  shows             String      @default("")
+  json              String      @default("")
+  city              Cities[]    @relation("CitiesToRadios")
+  country           Countries[] @relation("CountriesToRadios")
+  genres            Genres[]    @relation("GenresToRadios")
+  language          Languages[] @relation("LanguagesToRadios")
+  region            Regions[]   @relation("RadiosToRegions")
+  state             States[]    @relation("RadiosToStates")
+}
+
+model States {
+  id      Int      @id @default(autoincrement())
+  name    String   @unique
+  region  String   @default("")
+  country String   @default("")
+  radios  Radios[] @relation("RadiosToStates")
+}
+
+model Genres {
+  id     Int      @id @default(autoincrement())
+  name   String   @unique
+  radios Radios[] @relation("GenresToRadios")
+}
+
+model Cities {
+  id      Int      @id @default(autoincrement())
+  name    String   @unique
+  region  String   @default("")
+  country String   @default("")
+  radios  Radios[] @relation("CitiesToRadios")
+}
+
+model Countries {
+  id     Int      @id @default(autoincrement())
+  name   String   @unique
+  region String   @default("")
+  radios Radios[] @relation("CountriesToRadios")
+}
+
+model Languages {
+  id     Int      @id @default(autoincrement())
+  name   String   @unique
+  radios Radios[] @relation("LanguagesToRadios")
+}
+
+model Regions {
+  id     Int      @id @default(autoincrement())
+  name   String   @unique
+  radios Radios[] @relation("RadiosToRegions")
+}
