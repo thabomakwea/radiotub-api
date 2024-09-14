@@ -13,12 +13,17 @@ RUN npm install
 # Copy the rest of the application code
 COPY . .
 
-# Run Prisma migrations (for each schema if needed)
+# Run Prisma migrations and generate clients for each schema
 RUN npx prisma generate --schema=./prisma/radio.prisma
 RUN npx prisma generate --schema=./prisma/podcasts.prisma
 RUN npx prisma generate --schema=./prisma/playlists.prisma
 
-# Build your application (if needed)
+# Run Prisma migrations to apply database schema for each project
+RUN npx prisma migrate deploy --schema=./prisma/radio.prisma
+RUN npx prisma migrate deploy --schema=./prisma/podcasts.prisma
+RUN npx prisma migrate deploy --schema=./prisma/playlists.prisma
+
+# Build your application (if you're using TypeScript)
 RUN npm run build
 
 # Expose the port your app runs on
@@ -26,6 +31,7 @@ EXPOSE 3000
 
 # Start the application
 CMD ["node", "dist/index.js"]
+
 
 
 # # Use the official Node.js image as the base image
