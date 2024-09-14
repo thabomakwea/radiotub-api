@@ -25,7 +25,7 @@ const playlistsPrisma = new PlaylistsPrismaClient();
 app.get('/api/podcasts', async (req: Request, res: Response) => {
   try {
     const podcasts = await podcastsPrisma.podcasts.findMany({
-        take: 5,
+        take: 30,
         select: {
         id: true,
         title: true,
@@ -63,7 +63,7 @@ app.get('/api/podcasts', async (req: Request, res: Response) => {
 app.get('/api/radio', async (req: Request, res: Response) => {
   try {
     const podcasts = await radioPrisma.radios.findMany({
-        take: 5,
+        take: 30,
         select: {
         id: true,
         title: true,
@@ -88,7 +88,7 @@ app.get('/api/radio', async (req: Request, res: Response) => {
 app.get('/api/playlists', async (req: Request, res: Response) => {
   try {
     const podcasts = await playlistsPrisma.playlists.findMany({
-        take: 5,
+        take: 30,
         select: {
         id: true,
         title: true,
