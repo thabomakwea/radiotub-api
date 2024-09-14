@@ -19,9 +19,9 @@ RUN npx prisma generate --schema=./prisma/podcasts.prisma
 RUN npx prisma generate --schema=./prisma/playlists.prisma
 
 # Run Prisma migrations to apply database schema for each project
-RUN npx prisma migrate deploy --schema=./prisma/radio.prisma
-RUN npx prisma migrate deploy --schema=./prisma/podcasts.prisma
-RUN npx prisma migrate deploy --schema=./prisma/playlists.prisma
+# RUN npx prisma migrate deploy --schema=./prisma/radio.prisma
+# RUN npx prisma migrate deploy --schema=./prisma/podcasts.prisma
+# RUN npx prisma migrate deploy --schema=./prisma/playlists.prisma
 
 # Build your application (if you're using TypeScript)
 RUN npm run build
