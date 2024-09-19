@@ -107,15 +107,14 @@ app.get('/api/podcasts', async (req: Request, res: Response) => {
 
 app.get('/api/podcast', async (req: Request, res: Response) => {
   // Extract and validate query parameters
-  const podcastId = req.query.podcastId as string;
+  const id = Number(req.query.id);
 // Extract and validate query parameters
-  const skip = parseInt(req.query.skip as string, 10) || 0;
-  const take = parseInt(req.query.take as string, 10) || 10; // Default to 10 if not provided
   try {
     // Fetch podcast using Prisma
     const podcast = await podcastsPrisma.podcasts.findFirst({
-      skip,
-      take,
+      where: {
+          id: id
+      },
       select: {
         id: true,
         title: true,
@@ -142,6 +141,7 @@ app.get('/api/podcast', async (req: Request, res: Response) => {
         category10: true,
       }
     });
+    res.json(podcast);
   } catch (error) {
     console.error('Error fetching podcast:', error);
     res.status(500).json({ message: 'An error occurred while fetching podcast' });
