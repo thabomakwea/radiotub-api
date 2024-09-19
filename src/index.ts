@@ -105,6 +105,49 @@ app.get('/api/podcasts', async (req: Request, res: Response) => {
   }
 });
 
+app.get('/api/podcast', async (req: Request, res: Response) => {
+  // Extract and validate query parameters
+  const podcastId = req.query.podcastId as string;
+// Extract and validate query parameters
+  const skip = parseInt(req.query.skip as string, 10) || 0;
+  const take = parseInt(req.query.take as string, 10) || 10; // Default to 10 if not provided
+  try {
+    // Fetch podcast using Prisma
+    const podcast = await podcastsPrisma.podcasts.findFirst({
+      skip,
+      take,
+      select: {
+        id: true,
+        title: true,
+        description: true,
+        link: true,
+        itunesId: true,
+        originalUrl: true,
+        itunesAuthor: true,
+        itunesOwnerName: true,
+        imageUrl: true,
+        language: true,
+        episodeCount: true,
+        popularityScore: true,
+        priority: true,
+        category1: true,
+        category2: true,
+        category3: true,
+        category4: true,
+        category5: true,
+        category6: true,
+        category7: true,
+        category8: true,
+        category9: true,
+        category10: true,
+      }
+    });
+  } catch (error) {
+    console.error('Error fetching podcast:', error);
+    res.status(500).json({ message: 'An error occurred while fetching podcast' });
+  }
+  
+});
 
 app.get('/api/radio', async (req: Request, res: Response) => {
   try {
@@ -159,6 +202,35 @@ app.get('/api/playlists', async (req: Request, res: Response) => {
     res.status(500).json({ message: 'Error fetching playlist' });
   }
 });
+
+app.get('/api/playlist', async (req: Request, res: Response) => {
+  // Extract and validate query parameters
+  const playlistId = req.query.playlistId as string;
+
+  try {
+    const playlist = await playlistsPrisma.playlists.findFirst({
+        where: {
+          playlistId
+        },
+        select: {
+        id: true,
+        title: true,
+        playlistId: true,
+        channelId: true,
+        description: true,
+        image: true,
+        channelTitle: true,
+        defaultLanguage: true,
+        itemCount: true,
+        // Exclude `newestEnclosureDuration`
+      }
+    });
+    res.json(playlist);
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ message: 'Error fetching playlist' });
+  }
+});  
 
 
 // Start the Express server
