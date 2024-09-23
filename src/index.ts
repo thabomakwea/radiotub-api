@@ -10,56 +10,6 @@ const radioPrisma = new RadioPrismaClient();
 const podcastsPrisma = new PodcastsPrismaClient();
 const playlistsPrisma = new PlaylistsPrismaClient();
 
-// Radio API
-// app.get('/api/radio', async (req: Request, res: Response) => {
-//   try {
-//     const radioStations = await radioPrisma.radioStation.findMany();
-//     res.json(radioStations);
-//   } catch (error) {
-//     console.error(error);
-//     res.status(500).json({ message: 'Error fetching radio stations' });
-//   }
-// });
-
-// Podcasts API
-// app.get('/api/podcasts', async (req: Request, res: Response) => {
-//   try {
-//     const podcasts = await podcastsPrisma.podcasts.findMany({
-//         take: 30,
-//         select: {
-//         id: true,
-//         title: true,
-//         description: true,
-//         link: true,
-//         itunesId: true,
-//         originalUrl: true,
-//         itunesAuthor: true,
-//         itunesOwnerName: true,
-//         imageUrl: true,
-//         language: true,
-//         episodeCount: true,
-//         popularityScore: true,
-//         priority: true,
-//         category1: true,
-//         category2: true,
-//         category3: true,
-//         category4: true,
-//         category5: true,
-//         category6: true,
-//         category7: true,
-//         category8: true,
-//         category9: true,
-//         category10: true,
-//         // Exclude `newestEnclosureDuration`
-//       }
-//     });
-//     res.json(podcasts);
-//   } catch (error) {
-//     console.error(error);
-//     res.status(500).json({ message: 'Error fetching podcasts' });
-//   }
-// });
-
 app.get('/api/podcasts', async (req: Request, res: Response) => {
   try {
     // Extract and validate query parameters
@@ -108,7 +58,6 @@ app.get('/api/podcasts', async (req: Request, res: Response) => {
 app.get('/api/podcast', async (req: Request, res: Response) => {
   // Extract and validate query parameters
   const id = Number(req.query.id);
-// Extract and validate query parameters
   try {
     // Fetch podcast using Prisma
     const podcast = await podcastsPrisma.podcasts.findFirst({
@@ -149,6 +98,52 @@ app.get('/api/podcast', async (req: Request, res: Response) => {
   
 });
 
+app.get('/api/podcast/genres', async (req: Request, res: Response) => {
+  // Extract and validate query parameters
+  const name = req.query.name;
+  // Extract and validate query parameters
+    const skip = parseInt(req.query.skip as string, 10) || 0;
+    const take = parseInt(req.query.take as string, 10) || 10;
+  try {
+    // Fetch podcast using Prisma 
+
+    const podcast = await podcastsPrisma.podcasts.findMany({
+      skip,
+      take,
+      // check if the name is in the category1, category2, category3, category4, category5, category6, category7, category8, category9, category10
+      where: {
+        OR: [
+          { category1: String(name) },
+          { category2: String(name) },
+          { category3: String(name) },
+          { category4: String(name) },
+          { category5: String(name) },
+          { category6: String(name) },
+          { category7: String(name) },
+          { category8: String(name) },
+          { category9: String(name) },
+        ]
+      },
+      select: {
+        id: true,
+        title: true,
+        description: true,
+        link: true,
+        itunesId: true,
+        originalUrl: true,
+        itunesAuthor: true,
+        itunesOwnerName: true,
+        imageUrl: true,
+      }
+    });
+    res.json(podcast);
+  } catch (error) {
+    console.error('Error fetching podcast:', error);
+    res.status(500).json({ message: 'An error occurred while fetching podcast' });
+  }
+  
+});
+
 app.get('/api/radio', async (req: Request, res: Response) => {
   try {
     const podcasts = await radioPrisma.radios.findMany({
@@ -164,7 +159,6 @@ app.get('/api/radio', async (req: Request, res: Response) => {
         source: true,
         listens: true,
         image: true,
-        // Exclude `newestEnclosureDuration`
       }
     });
     res.json(podcasts);
