@@ -134,6 +134,15 @@ app.get('/api/podcast/genres', async (req: Request, res: Response) => {
         itunesAuthor: true,
         itunesOwnerName: true,
         imageUrl: true,
+        category1: true,
+        category2: true,
+        category3: true,
+        category4: true,
+        category5: true,
+        category6: true,
+        category7: true,
+        category8: true,
+        category9: true,
       }
     });
     res.json(podcast);
