@@ -18,6 +18,11 @@ export type PrismaPromise<T> = $Public.PrismaPromise<T>
  * 
  */
 export type podcasts = $Result.DefaultSelection<Prisma.$podcastsPayload>
+/**
+ * Model genres
+ * 
+ */
+export type genres = $Result.DefaultSelection<Prisma.$genresPayload>
 
 /**
  * ##  Prisma Client ʲˢ
@@ -151,6 +156,16 @@ export class PrismaClient<
     * ```
     */
   get podcasts(): Prisma.podcastsDelegate<ExtArgs>;
+
+  /**
+   * `prisma.genres`: Exposes CRUD operations for the **genres** model.
+    * Example usage:
+    * ```ts
+    * // Fetch zero or more Genres
+    * const genres = await prisma.genres.findMany()
+    * ```
+    */
+  get genres(): Prisma.genresDelegate<ExtArgs>;
 }
 
 export namespace Prisma {
@@ -590,7 +605,8 @@ export namespace Prisma {
 
 
   export const ModelName: {
-    podcasts: 'podcasts'
+    podcasts: 'podcasts',
+    genres: 'genres'
   };
 
   export type ModelName = (typeof ModelName)[keyof typeof ModelName]
@@ -606,7 +622,7 @@ export namespace Prisma {
 
   export type TypeMap<ExtArgs extends $Extensions.InternalArgs = $Extensions.DefaultArgs, ClientOptions = {}> = {
     meta: {
-      modelProps: "podcasts"
+      modelProps: "podcasts" | "genres"
       txIsolationLevel: Prisma.TransactionIsolationLevel
     }
     model: {
@@ -677,6 +693,76 @@ export namespace Prisma {
           count: {
             args: Prisma.podcastsCountArgs<ExtArgs>
             result: $Utils.Optional<PodcastsCountAggregateOutputType> | number
+          }
+        }
+      }
+      genres: {
+        payload: Prisma.$genresPayload<ExtArgs>
+        fields: Prisma.genresFieldRefs
+        operations: {
+          findUnique: {
+            args: Prisma.genresFindUniqueArgs<ExtArgs>
+            result: $Utils.PayloadToResult<Prisma.$genresPayload> | null
+          }
+          findUniqueOrThrow: {
+            args: Prisma.genresFindUniqueOrThrowArgs<ExtArgs>
+            result: $Utils.PayloadToResult<Prisma.$genresPayload>
+          }
+          findFirst: {
+            args: Prisma.genresFindFirstArgs<ExtArgs>
+            result: $Utils.PayloadToResult<Prisma.$genresPayload> | null
+          }
+          findFirstOrThrow: {
+            args: Prisma.genresFindFirstOrThrowArgs<ExtArgs>
+            result: $Utils.PayloadToResult<Prisma.$genresPayload>
+          }
+          findMany: {
+            args: Prisma.genresFindManyArgs<ExtArgs>
+            result: $Utils.PayloadToResult<Prisma.$genresPayload>[]
+          }
+          create: {
+            args: Prisma.genresCreateArgs<ExtArgs>
+            result: $Utils.PayloadToResult<Prisma.$genresPayload>
+          }
+          createMany: {
+            args: Prisma.genresCreateManyArgs<ExtArgs>
+            result: BatchPayload
+          }
+          createManyAndReturn: {
+            args: Prisma.genresCreateManyAndReturnArgs<ExtArgs>
+            result: $Utils.PayloadToResult<Prisma.$genresPayload>[]
+          }
+          delete: {
+            args: Prisma.genresDeleteArgs<ExtArgs>
+            result: $Utils.PayloadToResult<Prisma.$genresPayload>
+          }
+          update: {
+            args: Prisma.genresUpdateArgs<ExtArgs>
+            result: $Utils.PayloadToResult<Prisma.$genresPayload>
+          }
+          deleteMany: {
+            args: Prisma.genresDeleteManyArgs<ExtArgs>
+            result: BatchPayload
+          }
+          updateMany: {
+            args: Prisma.genresUpdateManyArgs<ExtArgs>
+            result: BatchPayload
+          }
+          upsert: {
+            args: Prisma.genresUpsertArgs<ExtArgs>
+            result: $Utils.PayloadToResult<Prisma.$genresPayload>
+          }
+          aggregate: {
+            args: Prisma.GenresAggregateArgs<ExtArgs>
+            result: $Utils.Optional<AggregateGenres>
+          }
+          groupBy: {
+            args: Prisma.genresGroupByArgs<ExtArgs>
+            result: $Utils.Optional<GenresGroupByOutputType>[]
+          }
+          count: {
+            args: Prisma.genresCountArgs<ExtArgs>
+            result: $Utils.Optional<GenresCountAggregateOutputType> | number
           }
         }
       }
@@ -1293,21 +1379,21 @@ export namespace Prisma {
     priority: number | null
     createdOn: number | null
     updateFrequency: number | null
-    chash: string | null
-    host: string | null
-    newestEnclosureUrl: string | null
-    podcastGuid: string | null
-    description: string | null
-    category1: string | null
-    category2: string | null
-    category3: string | null
-    category4: string | null
-    category5: string | null
-    category6: string | null
-    category7: string | null
-    category8: string | null
-    category9: string | null
-    category10: string | null
+    chash: string
+    host: string
+    newestEnclosureUrl: string
+    podcastGuid: string
+    description: string
+    category1: string
+    category2: string
+    category3: string
+    category4: string
+    category5: string
+    category6: string
+    category7: string
+    category8: string
+    category9: string
+    category10: string
     newestEnclosureDuration: number | null
     _count: PodcastsCountAggregateOutputType | null
     _avg: PodcastsAvgAggregateOutputType | null
@@ -1488,21 +1574,21 @@ export namespace Prisma {
       priority: number | null
       createdOn: number | null
       updateFrequency: number | null
-      chash: string | null
-      host: string | null
-      newestEnclosureUrl: string | null
-      podcastGuid: string | null
-      description: string | null
-      category1: string | null
-      category2: string | null
-      category3: string | null
-      category4: string | null
-      category5: string | null
-      category6: string | null
-      category7: string | null
-      category8: string | null
-      category9: string | null
-      category10: string | null
+      chash: string
+      host: string
+      newestEnclosureUrl: string
+      podcastGuid: string
+      description: string
+      category1: string
+      category2: string
+      category3: string
+      category4: string
+      category5: string
+      category6: string
+      category7: string
+      category8: string
+      category9: string
+      category10: string
       newestEnclosureDuration: number | null
     }, ExtArgs["result"]["podcasts"]>
     composites: {}
@@ -2224,6 +2310,880 @@ export namespace Prisma {
 
 
   /**
+   * Model genres
+   */
+
+  export type AggregateGenres = {
+    _count: GenresCountAggregateOutputType | null
+    _avg: GenresAvgAggregateOutputType | null
+    _sum: GenresSumAggregateOutputType | null
+    _min: GenresMinAggregateOutputType | null
+    _max: GenresMaxAggregateOutputType | null
+  }
+
+  export type GenresAvgAggregateOutputType = {
+    id: number | null
+  }
+
+  export type GenresSumAggregateOutputType = {
+    id: number | null
+  }
+
+  export type GenresMinAggregateOutputType = {
+    id: number | null
+    genre: string | null
+  }
+
+  export type GenresMaxAggregateOutputType = {
+    id: number | null
+    genre: string | null
+  }
+
+  export type GenresCountAggregateOutputType = {
+    id: number
+    genre: number
+    _all: number
+  }
+
+
+  export type GenresAvgAggregateInputType = {
+    id?: true
+  }
+
+  export type GenresSumAggregateInputType = {
+    id?: true
+  }
+
+  export type GenresMinAggregateInputType = {
+    id?: true
+    genre?: true
+  }
+
+  export type GenresMaxAggregateInputType = {
+    id?: true
+    genre?: true
+  }
+
+  export type GenresCountAggregateInputType = {
+    id?: true
+    genre?: true
+    _all?: true
+  }
+
+  export type GenresAggregateArgs<ExtArgs extends $Extensions.InternalArgs = $Extensions.DefaultArgs> = {
+    /**
+     * Filter which genres to aggregate.
+     */
+    where?: genresWhereInput
+    /**
+     * {@link https://www.prisma.io/docs/concepts/components/prisma-client/sorting Sorting Docs}
+     * 
+     * Determine the order of genres to fetch.
+     */
+    orderBy?: genresOrderByWithRelationInput | genresOrderByWithRelationInput[]
+    /**
+     * {@link https://www.prisma.io/docs/concepts/components/prisma-client/pagination#cursor-based-pagination Cursor Docs}
+     * 
+     * Sets the start position
+     */
+    cursor?: genresWhereUniqueInput
+    /**
+     * {@link https://www.prisma.io/docs/concepts/components/prisma-client/pagination Pagination Docs}
+     * 
+     * Take `±n` genres from the position of the cursor.
+     */
+    take?: number
+    /**
+     * {@link https://www.prisma.io/docs/concepts/components/prisma-client/pagination Pagination Docs}
+     * 
+     * Skip the first `n` genres.
+     */
+    skip?: number
+    /**
+     * {@link https://www.prisma.io/docs/concepts/components/prisma-client/aggregations Aggregation Docs}
+     * 
+     * Count returned genres
+    **/
+    _count?: true | GenresCountAggregateInputType
+    /**
+     * {@link https://www.prisma.io/docs/concepts/components/prisma-client/aggregations Aggregation Docs}
+     * 
+     * Select which fields to average
+    **/
+    _avg?: GenresAvgAggregateInputType
+    /**
+     * {@link https://www.prisma.io/docs/concepts/components/prisma-client/aggregations Aggregation Docs}
+     * 
+     * Select which fields to sum
+    **/
+    _sum?: GenresSumAggregateInputType
+    /**
+     * {@link https://www.prisma.io/docs/concepts/components/prisma-client/aggregations Aggregation Docs}
+     * 
+     * Select which fields to find the minimum value
+    **/
+    _min?: GenresMinAggregateInputType
+    /**
+     * {@link https://www.prisma.io/docs/concepts/components/prisma-client/aggregations Aggregation Docs}
+     * 
+     * Select which fields to find the maximum value
+    **/
+    _max?: GenresMaxAggregateInputType
+  }
+
+  export type GetGenresAggregateType<T extends GenresAggregateArgs> = {
+        [P in keyof T & keyof AggregateGenres]: P extends '_count' | 'count'
+      ? T[P] extends true
+        ? number
+        : GetScalarType<T[P], AggregateGenres[P]>
+      : GetScalarType<T[P], AggregateGenres[P]>
+  }
+
+
+
+
+  export type genresGroupByArgs<ExtArgs extends $Extensions.InternalArgs = $Extensions.DefaultArgs> = {
+    where?: genresWhereInput
+    orderBy?: genresOrderByWithAggregationInput | genresOrderByWithAggregationInput[]
+    by: GenresScalarFieldEnum[] | GenresScalarFieldEnum
+    having?: genresScalarWhereWithAggregatesInput
+    take?: number
+    skip?: number
+    _count?: GenresCountAggregateInputType | true
+    _avg?: GenresAvgAggregateInputType
+    _sum?: GenresSumAggregateInputType
+    _min?: GenresMinAggregateInputType
+    _max?: GenresMaxAggregateInputType
+  }
+
+  export type GenresGroupByOutputType = {
+    id: number
+    genre: string | null
+    _count: GenresCountAggregateOutputType | null
+    _avg: GenresAvgAggregateOutputType | null
+    _sum: GenresSumAggregateOutputType | null
+    _min: GenresMinAggregateOutputType | null
+    _max: GenresMaxAggregateOutputType | null
+  }
+
+  type GetGenresGroupByPayload<T extends genresGroupByArgs> = Prisma.PrismaPromise<
+    Array<
+      PickEnumerable<GenresGroupByOutputType, T['by']> &
+        {
+          [P in ((keyof T) & (keyof GenresGroupByOutputType))]: P extends '_count'
+            ? T[P] extends boolean
+              ? number
+              : GetScalarType<T[P], GenresGroupByOutputType[P]>
+            : GetScalarType<T[P], GenresGroupByOutputType[P]>
+        }
+      >
+    >
+
+
+  export type genresSelect<ExtArgs extends $Extensions.InternalArgs = $Extensions.DefaultArgs> = $Extensions.GetSelect<{
+    id?: boolean
+    genre?: boolean
+  }, ExtArgs["result"]["genres"]>
+
+  export type genresSelectCreateManyAndReturn<ExtArgs extends $Extensions.InternalArgs = $Extensions.DefaultArgs> = $Extensions.GetSelect<{
+    id?: boolean
+    genre?: boolean
+  }, ExtArgs["result"]["genres"]>
+
+  export type genresSelectScalar = {
+    id?: boolean
+    genre?: boolean
+  }
+
+
+  export type $genresPayload<ExtArgs extends $Extensions.InternalArgs = $Extensions.DefaultArgs> = {
+    name: "genres"
+    objects: {}
+    scalars: $Extensions.GetPayloadResult<{
+      id: number
+      genre: string | null
+    }, ExtArgs["result"]["genres"]>
+    composites: {}
+  }
+
+  type genresGetPayload<S extends boolean | null | undefined | genresDefaultArgs> = $Result.GetResult<Prisma.$genresPayload, S>
+
+  type genresCountArgs<ExtArgs extends $Extensions.InternalArgs = $Extensions.DefaultArgs> = 
+    Omit<genresFindManyArgs, 'select' | 'include' | 'distinct'> & {
+      select?: GenresCountAggregateInputType | true
+    }
+
+  export interface genresDelegate<ExtArgs extends $Extensions.InternalArgs = $Extensions.DefaultArgs> {
+    [K: symbol]: { types: Prisma.TypeMap<ExtArgs>['model']['genres'], meta: { name: 'genres' } }
+    /**
+     * Find zero or one Genres that matches the filter.
+     * @param {genresFindUniqueArgs} args - Arguments to find a Genres
+     * @example
+     * // Get one Genres
+     * const genres = await prisma.genres.findUnique({
+     *   where: {
+     *     // ... provide filter here
+     *   }
+     * })
+     */
+    findUnique<T extends genresFindUniqueArgs>(args: SelectSubset<T, genresFindUniqueArgs<ExtArgs>>): Prisma__genresClient<$Result.GetResult<Prisma.$genresPayload<ExtArgs>, T, "findUnique"> | null, null, ExtArgs>
+
+    /**
+     * Find one Genres that matches the filter or throw an error with `error.code='P2025'` 
+     * if no matches were found.
+     * @param {genresFindUniqueOrThrowArgs} args - Arguments to find a Genres
+     * @example
+     * // Get one Genres
+     * const genres = await prisma.genres.findUniqueOrThrow({
+     *   where: {
+     *     // ... provide filter here
+     *   }
+     * })
+     */
+    findUniqueOrThrow<T extends genresFindUniqueOrThrowArgs>(args: SelectSubset<T, genresFindUniqueOrThrowArgs<ExtArgs>>): Prisma__genresClient<$Result.GetResult<Prisma.$genresPayload<ExtArgs>, T, "findUniqueOrThrow">, never, ExtArgs>
+
+    /**
+     * Find the first Genres that matches the filter.
+     * Note, that providing `undefined` is treated as the value not being there.
+     * Read more here: https://pris.ly/d/null-undefined
+     * @param {genresFindFirstArgs} args - Arguments to find a Genres
+     * @example
+     * // Get one Genres
+     * const genres = await prisma.genres.findFirst({
+     *   where: {
+     *     // ... provide filter here
+     *   }
+     * })
+     */
+    findFirst<T extends genresFindFirstArgs>(args?: SelectSubset<T, genresFindFirstArgs<ExtArgs>>): Prisma__genresClient<$Result.GetResult<Prisma.$genresPayload<ExtArgs>, T, "findFirst"> | null, null, ExtArgs>
+
+    /**
+     * Find the first Genres that matches the filter or
+     * throw `PrismaKnownClientError` with `P2025` code if no matches were found.
+     * Note, that providing `undefined` is treated as the value not being there.
+     * Read more here: https://pris.ly/d/null-undefined
+     * @param {genresFindFirstOrThrowArgs} args - Arguments to find a Genres
+     * @example
+     * // Get one Genres
+     * const genres = await prisma.genres.findFirstOrThrow({
+     *   where: {
+     *     // ... provide filter here
+     *   }
+     * })
+     */
+    findFirstOrThrow<T extends genresFindFirstOrThrowArgs>(args?: SelectSubset<T, genresFindFirstOrThrowArgs<ExtArgs>>): Prisma__genresClient<$Result.GetResult<Prisma.$genresPayload<ExtArgs>, T, "findFirstOrThrow">, never, ExtArgs>
+
+    /**
+     * Find zero or more Genres that matches the filter.
+     * Note, that providing `undefined` is treated as the value not being there.
+     * Read more here: https://pris.ly/d/null-undefined
+     * @param {genresFindManyArgs} args - Arguments to filter and select certain fields only.
+     * @example
+     * // Get all Genres
+     * const genres = await prisma.genres.findMany()
+     * 
+     * // Get first 10 Genres
+     * const genres = await prisma.genres.findMany({ take: 10 })
+     * 
+     * // Only select the `id`
+     * const genresWithIdOnly = await prisma.genres.findMany({ select: { id: true } })
+     * 
+     */
+    findMany<T extends genresFindManyArgs>(args?: SelectSubset<T, genresFindManyArgs<ExtArgs>>): Prisma.PrismaPromise<$Result.GetResult<Prisma.$genresPayload<ExtArgs>, T, "findMany">>
+
+    /**
+     * Create a Genres.
+     * @param {genresCreateArgs} args - Arguments to create a Genres.
+     * @example
+     * // Create one Genres
+     * const Genres = await prisma.genres.create({
+     *   data: {
+     *     // ... data to create a Genres
+     *   }
+     * })
+     * 
+     */
+    create<T extends genresCreateArgs>(args: SelectSubset<T, genresCreateArgs<ExtArgs>>): Prisma__genresClient<$Result.GetResult<Prisma.$genresPayload<ExtArgs>, T, "create">, never, ExtArgs>
+
+    /**
+     * Create many Genres.
+     * @param {genresCreateManyArgs} args - Arguments to create many Genres.
+     * @example
+     * // Create many Genres
+     * const genres = await prisma.genres.createMany({
+     *   data: [
+     *     // ... provide data here
+     *   ]
+     * })
+     *     
+     */
+    createMany<T extends genresCreateManyArgs>(args?: SelectSubset<T, genresCreateManyArgs<ExtArgs>>): Prisma.PrismaPromise<BatchPayload>
+
+    /**
+     * Create many Genres and returns the data saved in the database.
+     * @param {genresCreateManyAndReturnArgs} args - Arguments to create many Genres.
+     * @example
+     * // Create many Genres
+     * const genres = await prisma.genres.createManyAndReturn({
+     *   data: [
+     *     // ... provide data here
+     *   ]
+     * })
+     * 
+     * // Create many Genres and only return the `id`
+     * const genresWithIdOnly = await prisma.genres.createManyAndReturn({ 
+     *   select: { id: true },
+     *   data: [
+     *     // ... provide data here
+     *   ]
+     * })
+     * Note, that providing `undefined` is treated as the value not being there.
+     * Read more here: https://pris.ly/d/null-undefined
+     * 
+     */
+    createManyAndReturn<T extends genresCreateManyAndReturnArgs>(args?: SelectSubset<T, genresCreateManyAndReturnArgs<ExtArgs>>): Prisma.PrismaPromise<$Result.GetResult<Prisma.$genresPayload<ExtArgs>, T, "createManyAndReturn">>
+
+    /**
+     * Delete a Genres.
+     * @param {genresDeleteArgs} args - Arguments to delete one Genres.
+     * @example
+     * // Delete one Genres
+     * const Genres = await prisma.genres.delete({
+     *   where: {
+     *     // ... filter to delete one Genres
+     *   }
+     * })
+     * 
+     */
+    delete<T extends genresDeleteArgs>(args: SelectSubset<T, genresDeleteArgs<ExtArgs>>): Prisma__genresClient<$Result.GetResult<Prisma.$genresPayload<ExtArgs>, T, "delete">, never, ExtArgs>
+
+    /**
+     * Update one Genres.
+     * @param {genresUpdateArgs} args - Arguments to update one Genres.
+     * @example
+     * // Update one Genres
+     * const genres = await prisma.genres.update({
+     *   where: {
+     *     // ... provide filter here
+     *   },
+     *   data: {
+     *     // ... provide data here
+     *   }
+     * })
+     * 
+     */
+    update<T extends genresUpdateArgs>(args: SelectSubset<T, genresUpdateArgs<ExtArgs>>): Prisma__genresClient<$Result.GetResult<Prisma.$genresPayload<ExtArgs>, T, "update">, never, ExtArgs>
+
+    /**
+     * Delete zero or more Genres.
+     * @param {genresDeleteManyArgs} args - Arguments to filter Genres to delete.
+     * @example
+     * // Delete a few Genres
+     * const { count } = await prisma.genres.deleteMany({
+     *   where: {
+     *     // ... provide filter here
+     *   }
+     * })
+     * 
+     */
+    deleteMany<T extends genresDeleteManyArgs>(args?: SelectSubset<T, genresDeleteManyArgs<ExtArgs>>): Prisma.PrismaPromise<BatchPayload>
+
+    /**
+     * Update zero or more Genres.
+     * Note, that providing `undefined` is treated as the value not being there.
+     * Read more here: https://pris.ly/d/null-undefined
+     * @param {genresUpdateManyArgs} args - Arguments to update one or more rows.
+     * @example
+     * // Update many Genres
+     * const genres = await prisma.genres.updateMany({
+     *   where: {
+     *     // ... provide filter here
+     *   },
+     *   data: {
+     *     // ... provide data here
+     *   }
+     * })
+     * 
+     */
+    updateMany<T extends genresUpdateManyArgs>(args: SelectSubset<T, genresUpdateManyArgs<ExtArgs>>): Prisma.PrismaPromise<BatchPayload>
+
+    /**
+     * Create or update one Genres.
+     * @param {genresUpsertArgs} args - Arguments to update or create a Genres.
+     * @example
+     * // Update or create a Genres
+     * const genres = await prisma.genres.upsert({
+     *   create: {
+     *     // ... data to create a Genres
+     *   },
+     *   update: {
+     *     // ... in case it already exists, update
+     *   },
+     *   where: {
+     *     // ... the filter for the Genres we want to update
+     *   }
+     * })
+     */
+    upsert<T extends genresUpsertArgs>(args: SelectSubset<T, genresUpsertArgs<ExtArgs>>): Prisma__genresClient<$Result.GetResult<Prisma.$genresPayload<ExtArgs>, T, "upsert">, never, ExtArgs>
+
+
+    /**
+     * Count the number of Genres.
+     * Note, that providing `undefined` is treated as the value not being there.
+     * Read more here: https://pris.ly/d/null-undefined
+     * @param {genresCountArgs} args - Arguments to filter Genres to count.
+     * @example
+     * // Count the number of Genres
+     * const count = await prisma.genres.count({
+     *   where: {
+     *     // ... the filter for the Genres we want to count
+     *   }
+     * })
+    **/
+    count<T extends genresCountArgs>(
+      args?: Subset<T, genresCountArgs>,
+    ): Prisma.PrismaPromise<
+      T extends $Utils.Record<'select', any>
+        ? T['select'] extends true
+          ? number
+          : GetScalarType<T['select'], GenresCountAggregateOutputType>
+        : number
+    >
+
+    /**
+     * Allows you to perform aggregations operations on a Genres.
+     * Note, that providing `undefined` is treated as the value not being there.
+     * Read more here: https://pris.ly/d/null-undefined
+     * @param {GenresAggregateArgs} args - Select which aggregations you would like to apply and on what fields.
+     * @example
+     * // Ordered by age ascending
+     * // Where email contains prisma.io
+     * // Limited to the 10 users
+     * const aggregations = await prisma.user.aggregate({
+     *   _avg: {
+     *     age: true,
+     *   },
+     *   where: {
+     *     email: {
+     *       contains: "prisma.io",
+     *     },
+     *   },
+     *   orderBy: {
+     *     age: "asc",
+     *   },
+     *   take: 10,
+     * })
+    **/
+    aggregate<T extends GenresAggregateArgs>(args: Subset<T, GenresAggregateArgs>): Prisma.PrismaPromise<GetGenresAggregateType<T>>
+
+    /**
+     * Group by Genres.
+     * Note, that providing `undefined` is treated as the value not being there.
+     * Read more here: https://pris.ly/d/null-undefined
+     * @param {genresGroupByArgs} args - Group by arguments.
+     * @example
+     * // Group by city, order by createdAt, get count
+     * const result = await prisma.user.groupBy({
+     *   by: ['city', 'createdAt'],
+     *   orderBy: {
+     *     createdAt: true
+     *   },
+     *   _count: {
+     *     _all: true
+     *   },
+     * })
+     * 
+    **/
+    groupBy<
+      T extends genresGroupByArgs,
+      HasSelectOrTake extends Or<
+        Extends<'skip', Keys<T>>,
+        Extends<'take', Keys<T>>
+      >,
+      OrderByArg extends True extends HasSelectOrTake
+        ? { orderBy: genresGroupByArgs['orderBy'] }
+        : { orderBy?: genresGroupByArgs['orderBy'] },
+      OrderFields extends ExcludeUnderscoreKeys<Keys<MaybeTupleToUnion<T['orderBy']>>>,
+      ByFields extends MaybeTupleToUnion<T['by']>,
+      ByValid extends Has<ByFields, OrderFields>,
+      HavingFields extends GetHavingFields<T['having']>,
+      HavingValid extends Has<ByFields, HavingFields>,
+      ByEmpty extends T['by'] extends never[] ? True : False,
+      InputErrors extends ByEmpty extends True
+      ? `Error: "by" must not be empty.`
+      : HavingValid extends False
+      ? {
+          [P in HavingFields]: P extends ByFields
+            ? never
+            : P extends string
+            ? `Error: Field "${P}" used in "having" needs to be provided in "by".`
+            : [
+                Error,
+                'Field ',
+                P,
+                ` in "having" needs to be provided in "by"`,
+              ]
+        }[HavingFields]
+      : 'take' extends Keys<T>
+      ? 'orderBy' extends Keys<T>
+        ? ByValid extends True
+          ? {}
+          : {
+              [P in OrderFields]: P extends ByFields
+                ? never
+                : `Error: Field "${P}" in "orderBy" needs to be provided in "by"`
+            }[OrderFields]
+        : 'Error: If you provide "take", you also need to provide "orderBy"'
+      : 'skip' extends Keys<T>
+      ? 'orderBy' extends Keys<T>
+        ? ByValid extends True
+          ? {}
+          : {
+              [P in OrderFields]: P extends ByFields
+                ? never
+                : `Error: Field "${P}" in "orderBy" needs to be provided in "by"`
+            }[OrderFields]
+        : 'Error: If you provide "skip", you also need to provide "orderBy"'
+      : ByValid extends True
+      ? {}
+      : {
+          [P in OrderFields]: P extends ByFields
+            ? never
+            : `Error: Field "${P}" in "orderBy" needs to be provided in "by"`
+        }[OrderFields]
+    >(args: SubsetIntersection<T, genresGroupByArgs, OrderByArg> & InputErrors): {} extends InputErrors ? GetGenresGroupByPayload<T> : Prisma.PrismaPromise<InputErrors>
+  /**
+   * Fields of the genres model
+   */
+  readonly fields: genresFieldRefs;
+  }
+
+  /**
+   * The delegate class that acts as a "Promise-like" for genres.
+   * Why is this prefixed with `Prisma__`?
+   * Because we want to prevent naming conflicts as mentioned in
+   * https://github.com/prisma/prisma-client-js/issues/707
+   */
+  export interface Prisma__genresClient<T, Null = never, ExtArgs extends $Extensions.InternalArgs = $Extensions.DefaultArgs> extends Prisma.PrismaPromise<T> {
+    readonly [Symbol.toStringTag]: "PrismaPromise"
+    /**
+     * Attaches callbacks for the resolution and/or rejection of the Promise.
+     * @param onfulfilled The callback to execute when the Promise is resolved.
+     * @param onrejected The callback to execute when the Promise is rejected.
+     * @returns A Promise for the completion of which ever callback is executed.
+     */
+    then<TResult1 = T, TResult2 = never>(onfulfilled?: ((value: T) => TResult1 | PromiseLike<TResult1>) | undefined | null, onrejected?: ((reason: any) => TResult2 | PromiseLike<TResult2>) | undefined | null): $Utils.JsPromise<TResult1 | TResult2>
+    /**
+     * Attaches a callback for only the rejection of the Promise.
+     * @param onrejected The callback to execute when the Promise is rejected.
+     * @returns A Promise for the completion of the callback.
+     */
+    catch<TResult = never>(onrejected?: ((reason: any) => TResult | PromiseLike<TResult>) | undefined | null): $Utils.JsPromise<T | TResult>
+    /**
+     * Attaches a callback that is invoked when the Promise is settled (fulfilled or rejected). The
+     * resolved value cannot be modified from the callback.
+     * @param onfinally The callback to execute when the Promise is settled (fulfilled or rejected).
+     * @returns A Promise for the completion of the callback.
+     */
+    finally(onfinally?: (() => void) | undefined | null): $Utils.JsPromise<T>
+  }
+
+
+
+
+  /**
+   * Fields of the genres model
+   */ 
+  interface genresFieldRefs {
+    readonly id: FieldRef<"genres", 'Int'>
+    readonly genre: FieldRef<"genres", 'String'>
+  }
+    
+
+  // Custom InputTypes
+  /**
+   * genres findUnique
+   */
+  export type genresFindUniqueArgs<ExtArgs extends $Extensions.InternalArgs = $Extensions.DefaultArgs> = {
+    /**
+     * Select specific fields to fetch from the genres
+     */
+    select?: genresSelect<ExtArgs> | null
+    /**
+     * Filter, which genres to fetch.
+     */
+    where: genresWhereUniqueInput
+  }
+
+  /**
+   * genres findUniqueOrThrow
+   */
+  export type genresFindUniqueOrThrowArgs<ExtArgs extends $Extensions.InternalArgs = $Extensions.DefaultArgs> = {
+    /**
+     * Select specific fields to fetch from the genres
+     */
+    select?: genresSelect<ExtArgs> | null
+    /**
+     * Filter, which genres to fetch.
+     */
+    where: genresWhereUniqueInput
+  }
+
+  /**
+   * genres findFirst
+   */
+  export type genresFindFirstArgs<ExtArgs extends $Extensions.InternalArgs = $Extensions.DefaultArgs> = {
+    /**
+     * Select specific fields to fetch from the genres
+     */
+    select?: genresSelect<ExtArgs> | null
+    /**
+     * Filter, which genres to fetch.
+     */
+    where?: genresWhereInput
+    /**
+     * {@link https://www.prisma.io/docs/concepts/components/prisma-client/sorting Sorting Docs}
+     * 
+     * Determine the order of genres to fetch.
+     */
+    orderBy?: genresOrderByWithRelationInput | genresOrderByWithRelationInput[]
+    /**
+     * {@link https://www.prisma.io/docs/concepts/components/prisma-client/pagination#cursor-based-pagination Cursor Docs}
+     * 
+     * Sets the position for searching for genres.
+     */
+    cursor?: genresWhereUniqueInput
+    /**
+     * {@link https://www.prisma.io/docs/concepts/components/prisma-client/pagination Pagination Docs}
+     * 
+     * Take `±n` genres from the position of the cursor.
+     */
+    take?: number
+    /**
+     * {@link https://www.prisma.io/docs/concepts/components/prisma-client/pagination Pagination Docs}
+     * 
+     * Skip the first `n` genres.
+     */
+    skip?: number
+    /**
+     * {@link https://www.prisma.io/docs/concepts/components/prisma-client/distinct Distinct Docs}
+     * 
+     * Filter by unique combinations of genres.
+     */
+    distinct?: GenresScalarFieldEnum | GenresScalarFieldEnum[]
+  }
+
+  /**
+   * genres findFirstOrThrow
+   */
+  export type genresFindFirstOrThrowArgs<ExtArgs extends $Extensions.InternalArgs = $Extensions.DefaultArgs> = {
+    /**
+     * Select specific fields to fetch from the genres
+     */
+    select?: genresSelect<ExtArgs> | null
+    /**
+     * Filter, which genres to fetch.
+     */
+    where?: genresWhereInput
+    /**
+     * {@link https://www.prisma.io/docs/concepts/components/prisma-client/sorting Sorting Docs}
+     * 
+     * Determine the order of genres to fetch.
+     */
+    orderBy?: genresOrderByWithRelationInput | genresOrderByWithRelationInput[]
+    /**
+     * {@link https://www.prisma.io/docs/concepts/components/prisma-client/pagination#cursor-based-pagination Cursor Docs}
+     * 
+     * Sets the position for searching for genres.
+     */
+    cursor?: genresWhereUniqueInput
+    /**
+     * {@link https://www.prisma.io/docs/concepts/components/prisma-client/pagination Pagination Docs}
+     * 
+     * Take `±n` genres from the position of the cursor.
+     */
+    take?: number
+    /**
+     * {@link https://www.prisma.io/docs/concepts/components/prisma-client/pagination Pagination Docs}
+     * 
+     * Skip the first `n` genres.
+     */
+    skip?: number
+    /**
+     * {@link https://www.prisma.io/docs/concepts/components/prisma-client/distinct Distinct Docs}
+     * 
+     * Filter by unique combinations of genres.
+     */
+    distinct?: GenresScalarFieldEnum | GenresScalarFieldEnum[]
+  }
+
+  /**
+   * genres findMany
+   */
+  export type genresFindManyArgs<ExtArgs extends $Extensions.InternalArgs = $Extensions.DefaultArgs> = {
+    /**
+     * Select specific fields to fetch from the genres
+     */
+    select?: genresSelect<ExtArgs> | null
+    /**
+     * Filter, which genres to fetch.
+     */
+    where?: genresWhereInput
+    /**
+     * {@link https://www.prisma.io/docs/concepts/components/prisma-client/sorting Sorting Docs}
+     * 
+     * Determine the order of genres to fetch.
+     */
+    orderBy?: genresOrderByWithRelationInput | genresOrderByWithRelationInput[]
+    /**
+     * {@link https://www.prisma.io/docs/concepts/components/prisma-client/pagination#cursor-based-pagination Cursor Docs}
+     * 
+     * Sets the position for listing genres.
+     */
+    cursor?: genresWhereUniqueInput
+    /**
+     * {@link https://www.prisma.io/docs/concepts/components/prisma-client/pagination Pagination Docs}
+     * 
+     * Take `±n` genres from the position of the cursor.
+     */
+    take?: number
+    /**
+     * {@link https://www.prisma.io/docs/concepts/components/prisma-client/pagination Pagination Docs}
+     * 
+     * Skip the first `n` genres.
+     */
+    skip?: number
+    distinct?: GenresScalarFieldEnum | GenresScalarFieldEnum[]
+  }
+
+  /**
+   * genres create
+   */
+  export type genresCreateArgs<ExtArgs extends $Extensions.InternalArgs = $Extensions.DefaultArgs> = {
+    /**
+     * Select specific fields to fetch from the genres
+     */
+    select?: genresSelect<ExtArgs> | null
+    /**
+     * The data needed to create a genres.
+     */
+    data?: XOR<genresCreateInput, genresUncheckedCreateInput>
+  }
+
+  /**
+   * genres createMany
+   */
+  export type genresCreateManyArgs<ExtArgs extends $Extensions.InternalArgs = $Extensions.DefaultArgs> = {
+    /**
+     * The data used to create many genres.
+     */
+    data: genresCreateManyInput | genresCreateManyInput[]
+  }
+
+  /**
+   * genres createManyAndReturn
+   */
+  export type genresCreateManyAndReturnArgs<ExtArgs extends $Extensions.InternalArgs = $Extensions.DefaultArgs> = {
+    /**
+     * Select specific fields to fetch from the genres
+     */
+    select?: genresSelectCreateManyAndReturn<ExtArgs> | null
+    /**
+     * The data used to create many genres.
+     */
+    data: genresCreateManyInput | genresCreateManyInput[]
+  }
+
+  /**
+   * genres update
+   */
+  export type genresUpdateArgs<ExtArgs extends $Extensions.InternalArgs = $Extensions.DefaultArgs> = {
+    /**
+     * Select specific fields to fetch from the genres
+     */
+    select?: genresSelect<ExtArgs> | null
+    /**
+     * The data needed to update a genres.
+     */
+    data: XOR<genresUpdateInput, genresUncheckedUpdateInput>
+    /**
+     * Choose, which genres to update.
+     */
+    where: genresWhereUniqueInput
+  }
+
+  /**
+   * genres updateMany
+   */
+  export type genresUpdateManyArgs<ExtArgs extends $Extensions.InternalArgs = $Extensions.DefaultArgs> = {
+    /**
+     * The data used to update genres.
+     */
+    data: XOR<genresUpdateManyMutationInput, genresUncheckedUpdateManyInput>
+    /**
+     * Filter which genres to update
+     */
+    where?: genresWhereInput
+  }
+
+  /**
+   * genres upsert
+   */
+  export type genresUpsertArgs<ExtArgs extends $Extensions.InternalArgs = $Extensions.DefaultArgs> = {
+    /**
+     * Select specific fields to fetch from the genres
+     */
+    select?: genresSelect<ExtArgs> | null
+    /**
+     * The filter to search for the genres to update in case it exists.
+     */
+    where: genresWhereUniqueInput
+    /**
+     * In case the genres found by the `where` argument doesn't exist, create a new genres with this data.
+     */
+    create: XOR<genresCreateInput, genresUncheckedCreateInput>
+    /**
+     * In case the genres was found with the provided `where` argument, update it with this data.
+     */
+    update: XOR<genresUpdateInput, genresUncheckedUpdateInput>
+  }
+
+  /**
+   * genres delete
+   */
+  export type genresDeleteArgs<ExtArgs extends $Extensions.InternalArgs = $Extensions.DefaultArgs> = {
+    /**
+     * Select specific fields to fetch from the genres
+     */
+    select?: genresSelect<ExtArgs> | null
+    /**
+     * Filter which genres to delete.
+     */
+    where: genresWhereUniqueInput
+  }
+
+  /**
+   * genres deleteMany
+   */
+  export type genresDeleteManyArgs<ExtArgs extends $Extensions.InternalArgs = $Extensions.DefaultArgs> = {
+    /**
+     * Filter which genres to delete
+     */
+    where?: genresWhereInput
+  }
+
+  /**
+   * genres without action
+   */
+  export type genresDefaultArgs<ExtArgs extends $Extensions.InternalArgs = $Extensions.DefaultArgs> = {
+    /**
+     * Select specific fields to fetch from the genres
+     */
+    select?: genresSelect<ExtArgs> | null
+  }
+
+
+  /**
    * Enums
    */
 
@@ -2278,6 +3238,14 @@ export namespace Prisma {
   };
 
   export type PodcastsScalarFieldEnum = (typeof PodcastsScalarFieldEnum)[keyof typeof PodcastsScalarFieldEnum]
+
+
+  export const GenresScalarFieldEnum: {
+    id: 'id',
+    genre: 'genre'
+  };
+
+  export type GenresScalarFieldEnum = (typeof GenresScalarFieldEnum)[keyof typeof GenresScalarFieldEnum]
 
 
   export const SortOrder: {
@@ -2353,21 +3321,21 @@ export namespace Prisma {
     priority?: IntNullableFilter<"podcasts"> | number | null
     createdOn?: IntNullableFilter<"podcasts"> | number | null
     updateFrequency?: IntNullableFilter<"podcasts"> | number | null
-    chash?: StringNullableFilter<"podcasts"> | string | null
-    host?: StringNullableFilter<"podcasts"> | string | null
-    newestEnclosureUrl?: StringNullableFilter<"podcasts"> | string | null
-    podcastGuid?: StringNullableFilter<"podcasts"> | string | null
-    description?: StringNullableFilter<"podcasts"> | string | null
-    category1?: StringNullableFilter<"podcasts"> | string | null
-    category2?: StringNullableFilter<"podcasts"> | string | null
-    category3?: StringNullableFilter<"podcasts"> | string | null
-    category4?: StringNullableFilter<"podcasts"> | string | null
-    category5?: StringNullableFilter<"podcasts"> | string | null
-    category6?: StringNullableFilter<"podcasts"> | string | null
-    category7?: StringNullableFilter<"podcasts"> | string | null
-    category8?: StringNullableFilter<"podcasts"> | string | null
-    category9?: StringNullableFilter<"podcasts"> | string | null
-    category10?: StringNullableFilter<"podcasts"> | string | null
+    chash?: StringFilter<"podcasts"> | string
+    host?: StringFilter<"podcasts"> | string
+    newestEnclosureUrl?: StringFilter<"podcasts"> | string
+    podcastGuid?: StringFilter<"podcasts"> | string
+    description?: StringFilter<"podcasts"> | string
+    category1?: StringFilter<"podcasts"> | string
+    category2?: StringFilter<"podcasts"> | string
+    category3?: StringFilter<"podcasts"> | string
+    category4?: StringFilter<"podcasts"> | string
+    category5?: StringFilter<"podcasts"> | string
+    category6?: StringFilter<"podcasts"> | string
+    category7?: StringFilter<"podcasts"> | string
+    category8?: StringFilter<"podcasts"> | string
+    category9?: StringFilter<"podcasts"> | string
+    category10?: StringFilter<"podcasts"> | string
     newestEnclosureDuration?: IntNullableFilter<"podcasts"> | number | null
   }
 
@@ -2396,21 +3364,21 @@ export namespace Prisma {
     priority?: SortOrderInput | SortOrder
     createdOn?: SortOrderInput | SortOrder
     updateFrequency?: SortOrderInput | SortOrder
-    chash?: SortOrderInput | SortOrder
-    host?: SortOrderInput | SortOrder
-    newestEnclosureUrl?: SortOrderInput | SortOrder
-    podcastGuid?: SortOrderInput | SortOrder
-    description?: SortOrderInput | SortOrder
-    category1?: SortOrderInput | SortOrder
-    category2?: SortOrderInput | SortOrder
-    category3?: SortOrderInput | SortOrder
-    category4?: SortOrderInput | SortOrder
-    category5?: SortOrderInput | SortOrder
-    category6?: SortOrderInput | SortOrder
-    category7?: SortOrderInput | SortOrder
-    category8?: SortOrderInput | SortOrder
-    category9?: SortOrderInput | SortOrder
-    category10?: SortOrderInput | SortOrder
+    chash?: SortOrder
+    host?: SortOrder
+    newestEnclosureUrl?: SortOrder
+    podcastGuid?: SortOrder
+    description?: SortOrder
+    category1?: SortOrder
+    category2?: SortOrder
+    category3?: SortOrder
+    category4?: SortOrder
+    category5?: SortOrder
+    category6?: SortOrder
+    category7?: SortOrder
+    category8?: SortOrder
+    category9?: SortOrder
+    category10?: SortOrder
     newestEnclosureDuration?: SortOrderInput | SortOrder
   }
 
@@ -2442,21 +3410,21 @@ export namespace Prisma {
     priority?: IntNullableFilter<"podcasts"> | number | null
     createdOn?: IntNullableFilter<"podcasts"> | number | null
     updateFrequency?: IntNullableFilter<"podcasts"> | number | null
-    chash?: StringNullableFilter<"podcasts"> | string | null
-    host?: StringNullableFilter<"podcasts"> | string | null
-    newestEnclosureUrl?: StringNullableFilter<"podcasts"> | string | null
-    podcastGuid?: StringNullableFilter<"podcasts"> | string | null
-    description?: StringNullableFilter<"podcasts"> | string | null
-    category1?: StringNullableFilter<"podcasts"> | string | null
-    category2?: StringNullableFilter<"podcasts"> | string | null
-    category3?: StringNullableFilter<"podcasts"> | string | null
-    category4?: StringNullableFilter<"podcasts"> | string | null
-    category5?: StringNullableFilter<"podcasts"> | string | null
-    category6?: StringNullableFilter<"podcasts"> | string | null
-    category7?: StringNullableFilter<"podcasts"> | string | null
-    category8?: StringNullableFilter<"podcasts"> | string | null
-    category9?: StringNullableFilter<"podcasts"> | string | null
-    category10?: StringNullableFilter<"podcasts"> | string | null
+    chash?: StringFilter<"podcasts"> | string
+    host?: StringFilter<"podcasts"> | string
+    newestEnclosureUrl?: StringFilter<"podcasts"> | string
+    podcastGuid?: StringFilter<"podcasts"> | string
+    description?: StringFilter<"podcasts"> | string
+    category1?: StringFilter<"podcasts"> | string
+    category2?: StringFilter<"podcasts"> | string
+    category3?: StringFilter<"podcasts"> | string
+    category4?: StringFilter<"podcasts"> | string
+    category5?: StringFilter<"podcasts"> | string
+    category6?: StringFilter<"podcasts"> | string
+    category7?: StringFilter<"podcasts"> | string
+    category8?: StringFilter<"podcasts"> | string
+    category9?: StringFilter<"podcasts"> | string
+    category10?: StringFilter<"podcasts"> | string
     newestEnclosureDuration?: IntNullableFilter<"podcasts"> | number | null
   }, "id" | "url">
 
@@ -2485,21 +3453,21 @@ export namespace Prisma {
     priority?: SortOrderInput | SortOrder
     createdOn?: SortOrderInput | SortOrder
     updateFrequency?: SortOrderInput | SortOrder
-    chash?: SortOrderInput | SortOrder
-    host?: SortOrderInput | SortOrder
-    newestEnclosureUrl?: SortOrderInput | SortOrder
-    podcastGuid?: SortOrderInput | SortOrder
-    description?: SortOrderInput | SortOrder
-    category1?: SortOrderInput | SortOrder
-    category2?: SortOrderInput | SortOrder
-    category3?: SortOrderInput | SortOrder
-    category4?: SortOrderInput | SortOrder
-    category5?: SortOrderInput | SortOrder
-    category6?: SortOrderInput | SortOrder
-    category7?: SortOrderInput | SortOrder
-    category8?: SortOrderInput | SortOrder
-    category9?: SortOrderInput | SortOrder
-    category10?: SortOrderInput | SortOrder
+    chash?: SortOrder
+    host?: SortOrder
+    newestEnclosureUrl?: SortOrder
+    podcastGuid?: SortOrder
+    description?: SortOrder
+    category1?: SortOrder
+    category2?: SortOrder
+    category3?: SortOrder
+    category4?: SortOrder
+    category5?: SortOrder
+    category6?: SortOrder
+    category7?: SortOrder
+    category8?: SortOrder
+    category9?: SortOrder
+    category10?: SortOrder
     newestEnclosureDuration?: SortOrderInput | SortOrder
     _count?: podcastsCountOrderByAggregateInput
     _avg?: podcastsAvgOrderByAggregateInput
@@ -2536,22 +3504,61 @@ export namespace Prisma {
     priority?: IntNullableWithAggregatesFilter<"podcasts"> | number | null
     createdOn?: IntNullableWithAggregatesFilter<"podcasts"> | number | null
     updateFrequency?: IntNullableWithAggregatesFilter<"podcasts"> | number | null
-    chash?: StringNullableWithAggregatesFilter<"podcasts"> | string | null
-    host?: StringNullableWithAggregatesFilter<"podcasts"> | string | null
-    newestEnclosureUrl?: StringNullableWithAggregatesFilter<"podcasts"> | string | null
-    podcastGuid?: StringNullableWithAggregatesFilter<"podcasts"> | string | null
-    description?: StringNullableWithAggregatesFilter<"podcasts"> | string | null
-    category1?: StringNullableWithAggregatesFilter<"podcasts"> | string | null
-    category2?: StringNullableWithAggregatesFilter<"podcasts"> | string | null
-    category3?: StringNullableWithAggregatesFilter<"podcasts"> | string | null
-    category4?: StringNullableWithAggregatesFilter<"podcasts"> | string | null
-    category5?: StringNullableWithAggregatesFilter<"podcasts"> | string | null
-    category6?: StringNullableWithAggregatesFilter<"podcasts"> | string | null
-    category7?: StringNullableWithAggregatesFilter<"podcasts"> | string | null
-    category8?: StringNullableWithAggregatesFilter<"podcasts"> | string | null
-    category9?: StringNullableWithAggregatesFilter<"podcasts"> | string | null
-    category10?: StringNullableWithAggregatesFilter<"podcasts"> | string | null
+    chash?: StringWithAggregatesFilter<"podcasts"> | string
+    host?: StringWithAggregatesFilter<"podcasts"> | string
+    newestEnclosureUrl?: StringWithAggregatesFilter<"podcasts"> | string
+    podcastGuid?: StringWithAggregatesFilter<"podcasts"> | string
+    description?: StringWithAggregatesFilter<"podcasts"> | string
+    category1?: StringWithAggregatesFilter<"podcasts"> | string
+    category2?: StringWithAggregatesFilter<"podcasts"> | string
+    category3?: StringWithAggregatesFilter<"podcasts"> | string
+    category4?: StringWithAggregatesFilter<"podcasts"> | string
+    category5?: StringWithAggregatesFilter<"podcasts"> | string
+    category6?: StringWithAggregatesFilter<"podcasts"> | string
+    category7?: StringWithAggregatesFilter<"podcasts"> | string
+    category8?: StringWithAggregatesFilter<"podcasts"> | string
+    category9?: StringWithAggregatesFilter<"podcasts"> | string
+    category10?: StringWithAggregatesFilter<"podcasts"> | string
     newestEnclosureDuration?: IntNullableWithAggregatesFilter<"podcasts"> | number | null
+  }
+
+  export type genresWhereInput = {
+    AND?: genresWhereInput | genresWhereInput[]
+    OR?: genresWhereInput[]
+    NOT?: genresWhereInput | genresWhereInput[]
+    id?: IntFilter<"genres"> | number
+    genre?: StringNullableFilter<"genres"> | string | null
+  }
+
+  export type genresOrderByWithRelationInput = {
+    id?: SortOrder
+    genre?: SortOrderInput | SortOrder
+  }
+
+  export type genresWhereUniqueInput = Prisma.AtLeast<{
+    id?: number
+    genre?: string
+    AND?: genresWhereInput | genresWhereInput[]
+    OR?: genresWhereInput[]
+    NOT?: genresWhereInput | genresWhereInput[]
+  }, "id" | "genre">
+
+  export type genresOrderByWithAggregationInput = {
+    id?: SortOrder
+    genre?: SortOrderInput | SortOrder
+    _count?: genresCountOrderByAggregateInput
+    _avg?: genresAvgOrderByAggregateInput
+    _max?: genresMaxOrderByAggregateInput
+    _min?: genresMinOrderByAggregateInput
+    _sum?: genresSumOrderByAggregateInput
+  }
+
+  export type genresScalarWhereWithAggregatesInput = {
+    AND?: genresScalarWhereWithAggregatesInput | genresScalarWhereWithAggregatesInput[]
+    OR?: genresScalarWhereWithAggregatesInput[]
+    NOT?: genresScalarWhereWithAggregatesInput | genresScalarWhereWithAggregatesInput[]
+    id?: IntWithAggregatesFilter<"genres"> | number
+    genre?: StringNullableWithAggregatesFilter<"genres"> | string | null
   }
 
   export type podcastsCreateInput = {
@@ -2578,21 +3585,21 @@ export namespace Prisma {
     priority?: number | null
     createdOn?: number | null
     updateFrequency?: number | null
-    chash?: string | null
-    host?: string | null
-    newestEnclosureUrl?: string | null
-    podcastGuid?: string | null
-    description?: string | null
-    category1?: string | null
-    category2?: string | null
-    category3?: string | null
-    category4?: string | null
-    category5?: string | null
-    category6?: string | null
-    category7?: string | null
-    category8?: string | null
-    category9?: string | null
-    category10?: string | null
+    chash: string
+    host: string
+    newestEnclosureUrl: string
+    podcastGuid: string
+    description: string
+    category1: string
+    category2: string
+    category3: string
+    category4: string
+    category5: string
+    category6: string
+    category7: string
+    category8: string
+    category9: string
+    category10: string
     newestEnclosureDuration?: number | null
   }
 
@@ -2621,21 +3628,21 @@ export namespace Prisma {
     priority?: number | null
     createdOn?: number | null
     updateFrequency?: number | null
-    chash?: string | null
-    host?: string | null
-    newestEnclosureUrl?: string | null
-    podcastGuid?: string | null
-    description?: string | null
-    category1?: string | null
-    category2?: string | null
-    category3?: string | null
-    category4?: string | null
-    category5?: string | null
-    category6?: string | null
-    category7?: string | null
-    category8?: string | null
-    category9?: string | null
-    category10?: string | null
+    chash: string
+    host: string
+    newestEnclosureUrl: string
+    podcastGuid: string
+    description: string
+    category1: string
+    category2: string
+    category3: string
+    category4: string
+    category5: string
+    category6: string
+    category7: string
+    category8: string
+    category9: string
+    category10: string
     newestEnclosureDuration?: number | null
   }
 
@@ -2663,21 +3670,21 @@ export namespace Prisma {
     priority?: NullableIntFieldUpdateOperationsInput | number | null
     createdOn?: NullableIntFieldUpdateOperationsInput | number | null
     updateFrequency?: NullableIntFieldUpdateOperationsInput | number | null
-    chash?: NullableStringFieldUpdateOperationsInput | string | null
-    host?: NullableStringFieldUpdateOperationsInput | string | null
-    newestEnclosureUrl?: NullableStringFieldUpdateOperationsInput | string | null
-    podcastGuid?: NullableStringFieldUpdateOperationsInput | string | null
-    description?: NullableStringFieldUpdateOperationsInput | string | null
-    category1?: NullableStringFieldUpdateOperationsInput | string | null
-    category2?: NullableStringFieldUpdateOperationsInput | string | null
-    category3?: NullableStringFieldUpdateOperationsInput | string | null
-    category4?: NullableStringFieldUpdateOperationsInput | string | null
-    category5?: NullableStringFieldUpdateOperationsInput | string | null
-    category6?: NullableStringFieldUpdateOperationsInput | string | null
-    category7?: NullableStringFieldUpdateOperationsInput | string | null
-    category8?: NullableStringFieldUpdateOperationsInput | string | null
-    category9?: NullableStringFieldUpdateOperationsInput | string | null
-    category10?: NullableStringFieldUpdateOperationsInput | string | null
+    chash?: StringFieldUpdateOperationsInput | string
+    host?: StringFieldUpdateOperationsInput | string
+    newestEnclosureUrl?: StringFieldUpdateOperationsInput | string
+    podcastGuid?: StringFieldUpdateOperationsInput | string
+    description?: StringFieldUpdateOperationsInput | string
+    category1?: StringFieldUpdateOperationsInput | string
+    category2?: StringFieldUpdateOperationsInput | string
+    category3?: StringFieldUpdateOperationsInput | string
+    category4?: StringFieldUpdateOperationsInput | string
+    category5?: StringFieldUpdateOperationsInput | string
+    category6?: StringFieldUpdateOperationsInput | string
+    category7?: StringFieldUpdateOperationsInput | string
+    category8?: StringFieldUpdateOperationsInput | string
+    category9?: StringFieldUpdateOperationsInput | string
+    category10?: StringFieldUpdateOperationsInput | string
     newestEnclosureDuration?: NullableIntFieldUpdateOperationsInput | number | null
   }
 
@@ -2706,21 +3713,21 @@ export namespace Prisma {
     priority?: NullableIntFieldUpdateOperationsInput | number | null
     createdOn?: NullableIntFieldUpdateOperationsInput | number | null
     updateFrequency?: NullableIntFieldUpdateOperationsInput | number | null
-    chash?: NullableStringFieldUpdateOperationsInput | string | null
-    host?: NullableStringFieldUpdateOperationsInput | string | null
-    newestEnclosureUrl?: NullableStringFieldUpdateOperationsInput | string | null
-    podcastGuid?: NullableStringFieldUpdateOperationsInput | string | null
-    description?: NullableStringFieldUpdateOperationsInput | string | null
-    category1?: NullableStringFieldUpdateOperationsInput | string | null
-    category2?: NullableStringFieldUpdateOperationsInput | string | null
-    category3?: NullableStringFieldUpdateOperationsInput | string | null
-    category4?: NullableStringFieldUpdateOperationsInput | string | null
-    category5?: NullableStringFieldUpdateOperationsInput | string | null
-    category6?: NullableStringFieldUpdateOperationsInput | string | null
-    category7?: NullableStringFieldUpdateOperationsInput | string | null
-    category8?: NullableStringFieldUpdateOperationsInput | string | null
-    category9?: NullableStringFieldUpdateOperationsInput | string | null
-    category10?: NullableStringFieldUpdateOperationsInput | string | null
+    chash?: StringFieldUpdateOperationsInput | string
+    host?: StringFieldUpdateOperationsInput | string
+    newestEnclosureUrl?: StringFieldUpdateOperationsInput | string
+    podcastGuid?: StringFieldUpdateOperationsInput | string
+    description?: StringFieldUpdateOperationsInput | string
+    category1?: StringFieldUpdateOperationsInput | string
+    category2?: StringFieldUpdateOperationsInput | string
+    category3?: StringFieldUpdateOperationsInput | string
+    category4?: StringFieldUpdateOperationsInput | string
+    category5?: StringFieldUpdateOperationsInput | string
+    category6?: StringFieldUpdateOperationsInput | string
+    category7?: StringFieldUpdateOperationsInput | string
+    category8?: StringFieldUpdateOperationsInput | string
+    category9?: StringFieldUpdateOperationsInput | string
+    category10?: StringFieldUpdateOperationsInput | string
     newestEnclosureDuration?: NullableIntFieldUpdateOperationsInput | number | null
   }
 
@@ -2749,21 +3756,21 @@ export namespace Prisma {
     priority?: number | null
     createdOn?: number | null
     updateFrequency?: number | null
-    chash?: string | null
-    host?: string | null
-    newestEnclosureUrl?: string | null
-    podcastGuid?: string | null
-    description?: string | null
-    category1?: string | null
-    category2?: string | null
-    category3?: string | null
-    category4?: string | null
-    category5?: string | null
-    category6?: string | null
-    category7?: string | null
-    category8?: string | null
-    category9?: string | null
-    category10?: string | null
+    chash: string
+    host: string
+    newestEnclosureUrl: string
+    podcastGuid: string
+    description: string
+    category1: string
+    category2: string
+    category3: string
+    category4: string
+    category5: string
+    category6: string
+    category7: string
+    category8: string
+    category9: string
+    category10: string
     newestEnclosureDuration?: number | null
   }
 
@@ -2791,21 +3798,21 @@ export namespace Prisma {
     priority?: NullableIntFieldUpdateOperationsInput | number | null
     createdOn?: NullableIntFieldUpdateOperationsInput | number | null
     updateFrequency?: NullableIntFieldUpdateOperationsInput | number | null
-    chash?: NullableStringFieldUpdateOperationsInput | string | null
-    host?: NullableStringFieldUpdateOperationsInput | string | null
-    newestEnclosureUrl?: NullableStringFieldUpdateOperationsInput | string | null
-    podcastGuid?: NullableStringFieldUpdateOperationsInput | string | null
-    description?: NullableStringFieldUpdateOperationsInput | string | null
-    category1?: NullableStringFieldUpdateOperationsInput | string | null
-    category2?: NullableStringFieldUpdateOperationsInput | string | null
-    category3?: NullableStringFieldUpdateOperationsInput | string | null
-    category4?: NullableStringFieldUpdateOperationsInput | string | null
-    category5?: NullableStringFieldUpdateOperationsInput | string | null
-    category6?: NullableStringFieldUpdateOperationsInput | string | null
-    category7?: NullableStringFieldUpdateOperationsInput | string | null
-    category8?: NullableStringFieldUpdateOperationsInput | string | null
-    category9?: NullableStringFieldUpdateOperationsInput | string | null
-    category10?: NullableStringFieldUpdateOperationsInput | string | null
+    chash?: StringFieldUpdateOperationsInput | string
+    host?: StringFieldUpdateOperationsInput | string
+    newestEnclosureUrl?: StringFieldUpdateOperationsInput | string
+    podcastGuid?: StringFieldUpdateOperationsInput | string
+    description?: StringFieldUpdateOperationsInput | string
+    category1?: StringFieldUpdateOperationsInput | string
+    category2?: StringFieldUpdateOperationsInput | string
+    category3?: StringFieldUpdateOperationsInput | string
+    category4?: StringFieldUpdateOperationsInput | string
+    category5?: StringFieldUpdateOperationsInput | string
+    category6?: StringFieldUpdateOperationsInput | string
+    category7?: StringFieldUpdateOperationsInput | string
+    category8?: StringFieldUpdateOperationsInput | string
+    category9?: StringFieldUpdateOperationsInput | string
+    category10?: StringFieldUpdateOperationsInput | string
     newestEnclosureDuration?: NullableIntFieldUpdateOperationsInput | number | null
   }
 
@@ -2834,22 +3841,54 @@ export namespace Prisma {
     priority?: NullableIntFieldUpdateOperationsInput | number | null
     createdOn?: NullableIntFieldUpdateOperationsInput | number | null
     updateFrequency?: NullableIntFieldUpdateOperationsInput | number | null
-    chash?: NullableStringFieldUpdateOperationsInput | string | null
-    host?: NullableStringFieldUpdateOperationsInput | string | null
-    newestEnclosureUrl?: NullableStringFieldUpdateOperationsInput | string | null
-    podcastGuid?: NullableStringFieldUpdateOperationsInput | string | null
-    description?: NullableStringFieldUpdateOperationsInput | string | null
-    category1?: NullableStringFieldUpdateOperationsInput | string | null
-    category2?: NullableStringFieldUpdateOperationsInput | string | null
-    category3?: NullableStringFieldUpdateOperationsInput | string | null
-    category4?: NullableStringFieldUpdateOperationsInput | string | null
-    category5?: NullableStringFieldUpdateOperationsInput | string | null
-    category6?: NullableStringFieldUpdateOperationsInput | string | null
-    category7?: NullableStringFieldUpdateOperationsInput | string | null
-    category8?: NullableStringFieldUpdateOperationsInput | string | null
-    category9?: NullableStringFieldUpdateOperationsInput | string | null
-    category10?: NullableStringFieldUpdateOperationsInput | string | null
+    chash?: StringFieldUpdateOperationsInput | string
+    host?: StringFieldUpdateOperationsInput | string
+    newestEnclosureUrl?: StringFieldUpdateOperationsInput | string
+    podcastGuid?: StringFieldUpdateOperationsInput | string
+    description?: StringFieldUpdateOperationsInput | string
+    category1?: StringFieldUpdateOperationsInput | string
+    category2?: StringFieldUpdateOperationsInput | string
+    category3?: StringFieldUpdateOperationsInput | string
+    category4?: StringFieldUpdateOperationsInput | string
+    category5?: StringFieldUpdateOperationsInput | string
+    category6?: StringFieldUpdateOperationsInput | string
+    category7?: StringFieldUpdateOperationsInput | string
+    category8?: StringFieldUpdateOperationsInput | string
+    category9?: StringFieldUpdateOperationsInput | string
+    category10?: StringFieldUpdateOperationsInput | string
     newestEnclosureDuration?: NullableIntFieldUpdateOperationsInput | number | null
+  }
+
+  export type genresCreateInput = {
+    genre?: string | null
+  }
+
+  export type genresUncheckedCreateInput = {
+    id?: number
+    genre?: string | null
+  }
+
+  export type genresUpdateInput = {
+    genre?: NullableStringFieldUpdateOperationsInput | string | null
+  }
+
+  export type genresUncheckedUpdateInput = {
+    id?: IntFieldUpdateOperationsInput | number
+    genre?: NullableStringFieldUpdateOperationsInput | string | null
+  }
+
+  export type genresCreateManyInput = {
+    id?: number
+    genre?: string | null
+  }
+
+  export type genresUpdateManyMutationInput = {
+    genre?: NullableStringFieldUpdateOperationsInput | string | null
+  }
+
+  export type genresUncheckedUpdateManyInput = {
+    id?: IntFieldUpdateOperationsInput | number
+    genre?: NullableStringFieldUpdateOperationsInput | string | null
   }
 
   export type IntFilter<$PrismaModel = never> = {
@@ -2886,20 +3925,6 @@ export namespace Prisma {
     gt?: number | IntFieldRefInput<$PrismaModel>
     gte?: number | IntFieldRefInput<$PrismaModel>
     not?: NestedIntNullableFilter<$PrismaModel> | number | null
-  }
-
-  export type StringNullableFilter<$PrismaModel = never> = {
-    equals?: string | StringFieldRefInput<$PrismaModel> | null
-    in?: string[] | null
-    notIn?: string[] | null
-    lt?: string | StringFieldRefInput<$PrismaModel>
-    lte?: string | StringFieldRefInput<$PrismaModel>
-    gt?: string | StringFieldRefInput<$PrismaModel>
-    gte?: string | StringFieldRefInput<$PrismaModel>
-    contains?: string | StringFieldRefInput<$PrismaModel>
-    startsWith?: string | StringFieldRefInput<$PrismaModel>
-    endsWith?: string | StringFieldRefInput<$PrismaModel>
-    not?: NestedStringNullableFilter<$PrismaModel> | string | null
   }
 
   export type SortOrderInput = {
@@ -3119,6 +4144,43 @@ export namespace Prisma {
     _max?: NestedIntNullableFilter<$PrismaModel>
   }
 
+  export type StringNullableFilter<$PrismaModel = never> = {
+    equals?: string | StringFieldRefInput<$PrismaModel> | null
+    in?: string[] | null
+    notIn?: string[] | null
+    lt?: string | StringFieldRefInput<$PrismaModel>
+    lte?: string | StringFieldRefInput<$PrismaModel>
+    gt?: string | StringFieldRefInput<$PrismaModel>
+    gte?: string | StringFieldRefInput<$PrismaModel>
+    contains?: string | StringFieldRefInput<$PrismaModel>
+    startsWith?: string | StringFieldRefInput<$PrismaModel>
+    endsWith?: string | StringFieldRefInput<$PrismaModel>
+    not?: NestedStringNullableFilter<$PrismaModel> | string | null
+  }
+
+  export type genresCountOrderByAggregateInput = {
+    id?: SortOrder
+    genre?: SortOrder
+  }
+
+  export type genresAvgOrderByAggregateInput = {
+    id?: SortOrder
+  }
+
+  export type genresMaxOrderByAggregateInput = {
+    id?: SortOrder
+    genre?: SortOrder
+  }
+
+  export type genresMinOrderByAggregateInput = {
+    id?: SortOrder
+    genre?: SortOrder
+  }
+
+  export type genresSumOrderByAggregateInput = {
+    id?: SortOrder
+  }
+
   export type StringNullableWithAggregatesFilter<$PrismaModel = never> = {
     equals?: string | StringFieldRefInput<$PrismaModel> | null
     in?: string[] | null
@@ -3148,16 +4210,16 @@ export namespace Prisma {
     divide?: number
   }
 
-  export type NullableStringFieldUpdateOperationsInput = {
-    set?: string | null
-  }
-
   export type IntFieldUpdateOperationsInput = {
     set?: number
     increment?: number
     decrement?: number
     multiply?: number
     divide?: number
+  }
+
+  export type NullableStringFieldUpdateOperationsInput = {
+    set?: string | null
   }
 
   export type NestedIntFilter<$PrismaModel = never> = {
@@ -3194,20 +4256,6 @@ export namespace Prisma {
     gt?: number | IntFieldRefInput<$PrismaModel>
     gte?: number | IntFieldRefInput<$PrismaModel>
     not?: NestedIntNullableFilter<$PrismaModel> | number | null
-  }
-
-  export type NestedStringNullableFilter<$PrismaModel = never> = {
-    equals?: string | StringFieldRefInput<$PrismaModel> | null
-    in?: string[] | null
-    notIn?: string[] | null
-    lt?: string | StringFieldRefInput<$PrismaModel>
-    lte?: string | StringFieldRefInput<$PrismaModel>
-    gt?: string | StringFieldRefInput<$PrismaModel>
-    gte?: string | StringFieldRefInput<$PrismaModel>
-    contains?: string | StringFieldRefInput<$PrismaModel>
-    startsWith?: string | StringFieldRefInput<$PrismaModel>
-    endsWith?: string | StringFieldRefInput<$PrismaModel>
-    not?: NestedStringNullableFilter<$PrismaModel> | string | null
   }
 
   export type NestedIntWithAggregatesFilter<$PrismaModel = never> = {
@@ -3281,6 +4329,20 @@ export namespace Prisma {
     not?: NestedFloatNullableFilter<$PrismaModel> | number | null
   }
 
+  export type NestedStringNullableFilter<$PrismaModel = never> = {
+    equals?: string | StringFieldRefInput<$PrismaModel> | null
+    in?: string[] | null
+    notIn?: string[] | null
+    lt?: string | StringFieldRefInput<$PrismaModel>
+    lte?: string | StringFieldRefInput<$PrismaModel>
+    gt?: string | StringFieldRefInput<$PrismaModel>
+    gte?: string | StringFieldRefInput<$PrismaModel>
+    contains?: string | StringFieldRefInput<$PrismaModel>
+    startsWith?: string | StringFieldRefInput<$PrismaModel>
+    endsWith?: string | StringFieldRefInput<$PrismaModel>
+    not?: NestedStringNullableFilter<$PrismaModel> | string | null
+  }
+
   export type NestedStringNullableWithAggregatesFilter<$PrismaModel = never> = {
     equals?: string | StringFieldRefInput<$PrismaModel> | null
     in?: string[] | null
@@ -3307,6 +4369,10 @@ export namespace Prisma {
      * @deprecated Use podcastsDefaultArgs instead
      */
     export type podcastsArgs<ExtArgs extends $Extensions.InternalArgs = $Extensions.DefaultArgs> = podcastsDefaultArgs<ExtArgs>
+    /**
+     * @deprecated Use genresDefaultArgs instead
+     */
+    export type genresArgs<ExtArgs extends $Extensions.InternalArgs = $Extensions.DefaultArgs> = genresDefaultArgs<ExtArgs>
 
   /**
    * Batch Payload for updateMany & deleteMany & createMany

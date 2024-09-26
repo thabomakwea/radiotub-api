@@ -159,6 +159,11 @@ exports.Prisma.PodcastsScalarFieldEnum = {
   newestEnclosureDuration: 'newestEnclosureDuration'
 };
 
+exports.Prisma.GenresScalarFieldEnum = {
+  id: 'id',
+  genre: 'genre'
+};
+
 exports.Prisma.SortOrder = {
   asc: 'asc',
   desc: 'desc'
@@ -171,7 +176,8 @@ exports.Prisma.NullsOrder = {
 
 
 exports.Prisma.ModelName = {
-  podcasts: 'podcasts'
+  podcasts: 'podcasts',
+  genres: 'genres'
 };
 
 /**

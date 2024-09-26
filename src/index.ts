@@ -98,12 +98,12 @@ app.get('/api/podcast', async (req: Request, res: Response) => {
   
 });
 
-app.get('/api/podcast/genres', async (req: Request, res: Response) => {
+app.get('/api/podcasts/genres', async (req: Request, res: Response) => {
   // Extract and validate query parameters
   const name = req.query.name;
   // Extract and validate query parameters
-    const skip = parseInt(req.query.skip as string, 10) || 0;
-    const take = parseInt(req.query.take as string, 10) || 10;
+  const skip = parseInt(req.query.skip as string, 10) || 0;
+  const take = parseInt(req.query.take as string, 10) || 10;
   try {
     // Fetch podcast using Prisma 
 
@@ -152,6 +152,30 @@ app.get('/api/podcast/genres', async (req: Request, res: Response) => {
   }
   
 });
+
+app.get('/api/podcast/genres-letter', async (req: Request, res: Response) => {
+  // Extract and validate query parameters
+  const skip = parseInt(req.query.skip as string, 10) || 0;
+  const take = parseInt(req.query.take as string, 10) || 10; // Default to 10 if not provided
+  const letter = String(req.query.letter);
+
+  try {
+    const podcasts = await podcastsPrisma.genres.findMany({
+      skip,
+      take,
+      where: {
+        genre: {
+          startsWith: letter
+        }
+      },
+    });
+    res.json(podcasts);
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ message: 'Error fetching genres' });
+  }
+});
+
 
 app.get('/api/radio', async (req: Request, res: Response) => {
   try {
@@ -212,20 +236,21 @@ app.get('/api/playlist', async (req: Request, res: Response) => {
 
   try {
     const playlist = await playlistsPrisma.playlists.findFirst({
-        where: {
-          playlistId
-        },
-        select: {
-        id: true,
-        title: true,
-        playlistId: true,
-        channelId: true,
-        description: true,
-        image: true,
-        channelTitle: true,
-        defaultLanguage: true,
-        itemCount: true,
-        // Exclude `newestEnclosureDuration`
+      where: {
+        playlistId
+      },
+      select: {
+      id: true,
+      title: true,
+      playlistId: true,
+      channelId: true,
+      description: true,
+      image: true,
+      channelTitle: true,
+      defaultLanguage: true,
+      itemCount: true,
+      // Exclude `newestEnclosureDuration`
+
       }
     });
     res.json(playlist);
