@@ -1,0 +1,868 @@
+{
+  "kind": "youtube#playlistListResponse",
+  "etag": "sDvJnHGPgX3Ob-nnAeDciISBDn0",
+  "pageInfo": {
+    "totalResults": 22,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "XVmHlyWZJLatQZcomjFT2G9iV-0",
+      "id": "OLAK5uy_luk90R9D3hE57R9ZQpGHgEpg43-o1W7xc",
+      "snippet": {
+        "publishedAt": "2024-09-30T18:46:08Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Album - Tiempo (Original Album)",
+        "description": "",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_luk90R9D3hE57R9ZQpGHgEpg43-o1W7xc/mqdefault.jpg?sqp=COD_gLgGir7X7AMICKjo7rcGEAE=&rs=AOn4CLCz3ccdhcY6FzkywyYjm19Ko1VEuw&v=1727771688",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_luk90R9D3hE57R9ZQpGHgEpg43-o1W7xc/sddefault.jpg?sqp=COD_gLgGir7X7AMICKjo7rcGEAE=&rs=AOn4CLDRbGCjfpHWseGSHPV6XzvxxNi8mg&v=1727771688",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_luk90R9D3hE57R9ZQpGHgEpg43-o1W7xc/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICKjo7rcGEAE=&rs=AOn4CLCcp5cjAeiA3_KA3psQmgZG3jeY_g&v=1727771688",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "localized": {
+          "title": "Album - Tiempo (Original Album)",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      },
+      "contentDetails": {
+        "itemCount": 14
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "uFncfAo4sTrK5I31Ha62blXwEW4",
+      "id": "OLAK5uy_mW0i__vgngnUrMI3WplNM5CDebwsZuE4Y",
+      "snippet": {
+        "publishedAt": "2023-11-26T09:33:28Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Album - Chabo",
+        "description": "",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_mW0i__vgngnUrMI3WplNM5CDebwsZuE4Y/mqdefault.jpg?sqp=COD_gLgGir7X7AMICMOt-rcGEAE=&rs=AOn4CLBOJ49ExvBf6BIptTRnPu4iqhOeYg&v=1727960771",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_mW0i__vgngnUrMI3WplNM5CDebwsZuE4Y/sddefault.jpg?sqp=COD_gLgGir7X7AMICMOt-rcGEAE=&rs=AOn4CLAUYMdhwWL6Nj-gklv0f4Tjn8oMiA&v=1727960771",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_mW0i__vgngnUrMI3WplNM5CDebwsZuE4Y/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICMOt-rcGEAE=&rs=AOn4CLBgudKW3RMoMjn2xdDBrqelh7YyVA&v=1727960771",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "localized": {
+          "title": "Album - Chabo",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      },
+      "contentDetails": {
+        "itemCount": 14
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "clY7hF_zOkRh7nrMKM4zrKPgO1I",
+      "id": "OLAK5uy_lSCBWyNTIZJcrmG8v5QWIP-c8kBFeDphE",
+      "snippet": {
+        "publishedAt": "2024-09-12T19:47:23Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Album - N.A.I.F. Live Album",
+        "description": "",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_lSCBWyNTIZJcrmG8v5QWIP-c8kBFeDphE/mqdefault.jpg?sqp=COD_gLgGir7X7AMICOu86bcGEAE=&rs=AOn4CLCKlxU0-LH3j1daLN-zTJxjASyXCA&v=1727684203",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_lSCBWyNTIZJcrmG8v5QWIP-c8kBFeDphE/sddefault.jpg?sqp=COD_gLgGir7X7AMICOu86bcGEAE=&rs=AOn4CLDCV9sdWWLThDghl4JVVC2DMMADwA&v=1727684203",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_lSCBWyNTIZJcrmG8v5QWIP-c8kBFeDphE/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICOu86bcGEAE=&rs=AOn4CLAAAO0izYgc8T_wcZwj3Mh8HSwgiA&v=1727684203",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "localized": {
+          "title": "Album - N.A.I.F. Live Album",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      },
+      "contentDetails": {
+        "itemCount": 9
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "VgbSkkeBF5wBU-hAmTewlZSd7Ew",
+      "id": "OLAK5uy_n2cHMsjrRUA8CkcBhsxIGQidXCHdIq8Mw",
+      "snippet": {
+        "publishedAt": "2024-04-12T13:04:51Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Album - Isibuko (Deluxe)",
+        "description": "",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_n2cHMsjrRUA8CkcBhsxIGQidXCHdIq8Mw/mqdefault.jpg?sqp=COD_gLgGir7X7AMICJnE_LcGEAE=&rs=AOn4CLBS1iP3xkatBXL6ezdsCglhToCuhA&v=1727996441",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_n2cHMsjrRUA8CkcBhsxIGQidXCHdIq8Mw/sddefault.jpg?sqp=COD_gLgGir7X7AMICJnE_LcGEAE=&rs=AOn4CLCw9ruZGb0TShmWxW-uLJDZjPgisw&v=1727996441",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_n2cHMsjrRUA8CkcBhsxIGQidXCHdIq8Mw/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICJnE_LcGEAE=&rs=AOn4CLA2E4brybvnNRxC0NX9C43iujJLJw&v=1727996441",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "localized": {
+          "title": "Album - Isibuko (Deluxe)",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      },
+      "contentDetails": {
+        "itemCount": 22
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "f8DgH7XG90a1r0nAI9i9SwCqRnM",
+      "id": "OLAK5uy_nAn-wKh2bwSqEkRHXMnktFr6_vre7WlfQ",
+      "snippet": {
+        "publishedAt": "2023-08-09T16:50:41Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Album - Amukelani",
+        "description": "",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_nAn-wKh2bwSqEkRHXMnktFr6_vre7WlfQ/mqdefault.jpg?sqp=COD_gLgGir7X7AMICMSw-LcGEAE=&rs=AOn4CLDtJiUahp1T8H8GHQlu5iMuTyLZng&v=1727928388",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_nAn-wKh2bwSqEkRHXMnktFr6_vre7WlfQ/sddefault.jpg?sqp=COD_gLgGir7X7AMICMSw-LcGEAE=&rs=AOn4CLCFsBw5FMWusLHW6g8NhWQ1Sq682A&v=1727928388",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_nAn-wKh2bwSqEkRHXMnktFr6_vre7WlfQ/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICMSw-LcGEAE=&rs=AOn4CLDJoHkmoTLKfg5PU7Ew6vi1rm_4xg&v=1727928388",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "localized": {
+          "title": "Album - Amukelani",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      },
+      "contentDetails": {
+        "itemCount": 26
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "JxNVJncH4MuHmrNXQeyd11sMapQ",
+      "id": "OLAK5uy_nXHfUFSC-9-n6_n5ILYLrx1jB4rfkHTxc",
+      "snippet": {
+        "publishedAt": "2024-09-11T14:16:56Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Album - COLOURS",
+        "description": "",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_nXHfUFSC-9-n6_n5ILYLrx1jB4rfkHTxc/mqdefault.jpg?sqp=COD_gLgGir7X7AMICNva9LcGEAE=&rs=AOn4CLD1eweWITfADA0a2qVNEWRKNqjjAg&v=1727868251",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_nXHfUFSC-9-n6_n5ILYLrx1jB4rfkHTxc/sddefault.jpg?sqp=COD_gLgGir7X7AMICNva9LcGEAE=&rs=AOn4CLAkvIO2tR57CcxiiaxOhs9qfksgxw&v=1727868251",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_nXHfUFSC-9-n6_n5ILYLrx1jB4rfkHTxc/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICNva9LcGEAE=&rs=AOn4CLA2PIutAjUpVPY4lVTNyXVIjyYCiA&v=1727868251",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "localized": {
+          "title": "Album - COLOURS",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      },
+      "contentDetails": {
+        "itemCount": 14
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "FKhyFXAZBepnOTufUDIdnvrj6uM",
+      "id": "OLAK5uy_mqhvscx9mUZj3uBrpcFWFBtMDqPaPDk90",
+      "snippet": {
+        "publishedAt": "2024-01-25T16:16:33Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Album - Kurhula",
+        "description": "",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_mqhvscx9mUZj3uBrpcFWFBtMDqPaPDk90/mqdefault.jpg?sqp=COD_gLgGir7X7AMICI6g8rcGEAE=&rs=AOn4CLBot0kP4NfJ_zcrGPTITfZsFCmXmQ&v=1727827982",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_mqhvscx9mUZj3uBrpcFWFBtMDqPaPDk90/sddefault.jpg?sqp=COD_gLgGir7X7AMICI6g8rcGEAE=&rs=AOn4CLBl-yh2vW0bnV6GiPcNJutURJ4T_A&v=1727827982",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_mqhvscx9mUZj3uBrpcFWFBtMDqPaPDk90/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICI6g8rcGEAE=&rs=AOn4CLD10DE_BPFGXpM3RKibqFXyO3812A&v=1727827982",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "localized": {
+          "title": "Album - Kurhula",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      },
+      "contentDetails": {
+        "itemCount": 27
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "xKzY8ihmeNfWKTiD_K-HV4WyLB8",
+      "id": "OLAK5uy_mMwPBtecNoxJ3O8pXYfuoyh6RajoKpGJQ",
+      "snippet": {
+        "publishedAt": "2024-09-12T23:42:05Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Album - Dream Chaser Album",
+        "description": "",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_mMwPBtecNoxJ3O8pXYfuoyh6RajoKpGJQ/mqdefault.jpg?sqp=COD_gLgGir7X7AMICIvH5LcGEAE=&rs=AOn4CLAYcC-USkzCgRRO5wlRtCrNKO-vMw&v=1727603595",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_mMwPBtecNoxJ3O8pXYfuoyh6RajoKpGJQ/sddefault.jpg?sqp=COD_gLgGir7X7AMICIvH5LcGEAE=&rs=AOn4CLAA2-sTEr7UmD4dMeDQzOzNFW78fQ&v=1727603595",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_mMwPBtecNoxJ3O8pXYfuoyh6RajoKpGJQ/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICIvH5LcGEAE=&rs=AOn4CLBgtUInu3WwNTYpEPojZ7JSoFDhDg&v=1727603595",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "localized": {
+          "title": "Album - Dream Chaser Album",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      },
+      "contentDetails": {
+        "itemCount": 10
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "Zb-idI7-DFAuBHaCs108vCfi-lg",
+      "id": "OLAK5uy_mgplOTkCF-KD2BHaarBAh5XMZiHavk2x0",
+      "snippet": {
+        "publishedAt": "2024-09-20T14:40:43Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Album - NO ALBUM",
+        "description": "",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_mgplOTkCF-KD2BHaarBAh5XMZiHavk2x0/mqdefault.jpg?sqp=COD_gLgGir7X7AMICI2J4bcGEAE=&rs=AOn4CLBLmWXNuiFA5hK7lGxwRd33dv0FTw&v=1727546509",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_mgplOTkCF-KD2BHaarBAh5XMZiHavk2x0/sddefault.jpg?sqp=COD_gLgGir7X7AMICI2J4bcGEAE=&rs=AOn4CLCsnRkEhlTwx3xsO8V_RldHT27e8g&v=1727546509",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_mgplOTkCF-KD2BHaarBAh5XMZiHavk2x0/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICI2J4bcGEAE=&rs=AOn4CLC6gG8_fyFkfrdIK8WFECq6HH1RiQ&v=1727546509",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "localized": {
+          "title": "Album - NO ALBUM",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      },
+      "contentDetails": {
+        "itemCount": 5
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "yR4hDjGE-Kpy2fq4qfMlF9-lRBU",
+      "id": "OLAK5uy_mwBkuyHZe0nUpHeosTMcDb9ES7F75ZiZI",
+      "snippet": {
+        "publishedAt": "2022-06-13T17:40:36Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Album - Umqhele",
+        "description": "",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_mwBkuyHZe0nUpHeosTMcDb9ES7F75ZiZI/mqdefault.jpg?sqp=COD_gLgGir7X7AMICLTx6bcGEAE=&rs=AOn4CLAMOpw7JOPpHaI-EcVeBphgKZ6SAg&v=1727690932",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_mwBkuyHZe0nUpHeosTMcDb9ES7F75ZiZI/sddefault.jpg?sqp=COD_gLgGir7X7AMICLTx6bcGEAE=&rs=AOn4CLBsK0UxT2wWnE6udA_O1k60tMEM_g&v=1727690932",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_mwBkuyHZe0nUpHeosTMcDb9ES7F75ZiZI/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICLTx6bcGEAE=&rs=AOn4CLDIXIjGWDkZTUCDpAro1F4ORrIR3Q&v=1727690932",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "localized": {
+          "title": "Album - Umqhele",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      },
+      "contentDetails": {
+        "itemCount": 18
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "mpLv8MfwYAujSt-ePMpZLFX-Ujs",
+      "id": "OLAK5uy_moAdBH6dLZTwtURPZP8IIrr4v_3sSWXH8",
+      "snippet": {
+        "publishedAt": "2024-02-23T01:41:08Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Album - Isibuko",
+        "description": "",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_moAdBH6dLZTwtURPZP8IIrr4v_3sSWXH8/mqdefault.jpg?sqp=COD_gLgGir7X7AMICMmp6rcGEAE=&rs=AOn4CLDNkCJqaEjZ90W3KGhOF8lTWI0GtA&v=1727698121",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_moAdBH6dLZTwtURPZP8IIrr4v_3sSWXH8/sddefault.jpg?sqp=COD_gLgGir7X7AMICMmp6rcGEAE=&rs=AOn4CLD4U1hdYkwkK2NFb6LT7qC3HAEQ0Q&v=1727698121",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_moAdBH6dLZTwtURPZP8IIrr4v_3sSWXH8/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICMmp6rcGEAE=&rs=AOn4CLDzMVhu5qvrQ_W3LDP_UiXadxTI9g&v=1727698121",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "localized": {
+          "title": "Album - Isibuko",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      },
+      "contentDetails": {
+        "itemCount": 18
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "Zcl97tZXb_L5ykWOVDMQqVXa-I0",
+      "id": "OLAK5uy_lYcMyat04JNsFIUu1wuF8bClGuBcfGV4o",
+      "snippet": {
+        "publishedAt": "2024-08-08T06:38:01Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Album - Sewe",
+        "description": "",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_lYcMyat04JNsFIUu1wuF8bClGuBcfGV4o/mqdefault.jpg?sqp=COD_gLgGir7X7AMICILv9rcGEAE=&rs=AOn4CLCY73QTy6ilqTw1Blr-tKzqx4m3AQ&v=1727903618",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_lYcMyat04JNsFIUu1wuF8bClGuBcfGV4o/sddefault.jpg?sqp=COD_gLgGir7X7AMICILv9rcGEAE=&rs=AOn4CLBgGB28zVfAkQTCPOhAOlnLvlyKDg&v=1727903618",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_lYcMyat04JNsFIUu1wuF8bClGuBcfGV4o/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICILv9rcGEAE=&rs=AOn4CLBocHA7_81PycGvPhRNbSj7Fv0TPA&v=1727903618",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "localized": {
+          "title": "Album - Sewe",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      },
+      "contentDetails": {
+        "itemCount": 30
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "zRJwoN2UFwP1aIAdOJmdzFQEF9s",
+      "id": "OLAK5uy_mCJLX-iJrjtt0qElP7W0SBWOfUp_gaUE0",
+      "snippet": {
+        "publishedAt": "2023-12-07T05:04:28Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Album - Ijuba",
+        "description": "",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_mCJLX-iJrjtt0qElP7W0SBWOfUp_gaUE0/mqdefault.jpg?sqp=COD_gLgGir7X7AMICOHO5bcGEAE=&rs=AOn4CLD0aRnj5Qdp5F5ait8j6fEqTlRxgQ&v=1727620961",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_mCJLX-iJrjtt0qElP7W0SBWOfUp_gaUE0/sddefault.jpg?sqp=COD_gLgGir7X7AMICOHO5bcGEAE=&rs=AOn4CLDNIjDXKePH59DBzJZqje-z3u4Kxw&v=1727620961",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_mCJLX-iJrjtt0qElP7W0SBWOfUp_gaUE0/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICOHO5bcGEAE=&rs=AOn4CLCyNetphyAWBiRuLOTmPYwVQAwUZw&v=1727620961",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "localized": {
+          "title": "Album - Ijuba",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      },
+      "contentDetails": {
+        "itemCount": 15
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "_i5RJpDB7titGN7Q6C6N0VdqS1I",
+      "id": "OLAK5uy_kaXyrpxfImdHpuFkMxh1JwlQGjw5nMVeA",
+      "snippet": {
+        "publishedAt": "2024-09-25T16:12:42Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Album - The Lost 1979 Album",
+        "description": "",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_kaXyrpxfImdHpuFkMxh1JwlQGjw5nMVeA/mqdefault.jpg?sqp=COD_gLgGir7X7AMICOuc4bcGEAE=&rs=AOn4CLAQfdoDZYb6tgQonXpUoxz4AOHp6Q&v=1727549035",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_kaXyrpxfImdHpuFkMxh1JwlQGjw5nMVeA/sddefault.jpg?sqp=COD_gLgGir7X7AMICOuc4bcGEAE=&rs=AOn4CLA7PBCxsmzuTgCau1hvHuO-EG2bCg&v=1727549035",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_kaXyrpxfImdHpuFkMxh1JwlQGjw5nMVeA/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICOuc4bcGEAE=&rs=AOn4CLCUtczGSm_pSOWOips8wGrxmlRNyg&v=1727549035",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "localized": {
+          "title": "Album - The Lost 1979 Album",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      },
+      "contentDetails": {
+        "itemCount": 18
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "sAHFXCJBB0Cmg5LoxuTJYcyRJsw",
+      "id": "OLAK5uy_nLtTc7rSNjtfN6vZIU9j4MnUfZYWcFweY",
+      "snippet": {
+        "publishedAt": "2023-09-07T00:06:56Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Album - Nostalgia",
+        "description": "",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_nLtTc7rSNjtfN6vZIU9j4MnUfZYWcFweY/mqdefault.jpg?sqp=COD_gLgGir7X7AMICLbT97cGEAE=&rs=AOn4CLCXAdmbZ9Fd-qalwSYJOssa4rUwlw&v=1727916470",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_nLtTc7rSNjtfN6vZIU9j4MnUfZYWcFweY/sddefault.jpg?sqp=COD_gLgGir7X7AMICLbT97cGEAE=&rs=AOn4CLDfoa6IAXjXLyWle1WvLCkavOIvXQ&v=1727916470",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_nLtTc7rSNjtfN6vZIU9j4MnUfZYWcFweY/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICLbT97cGEAE=&rs=AOn4CLA7yU35pZpuC092D6dal4hHV_eQxQ&v=1727916470",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "localized": {
+          "title": "Album - Nostalgia",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      },
+      "contentDetails": {
+        "itemCount": 18
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "89MeCCRYNyQusW9WhRKlo3xGHoU",
+      "id": "OLAK5uy_mPpt4yO9pro1RqgYOPlorLib_gWUPVftA",
+      "snippet": {
+        "publishedAt": "2024-06-20T10:25:29Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Album - Immortal",
+        "description": "",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_mPpt4yO9pro1RqgYOPlorLib_gWUPVftA/mqdefault.jpg?sqp=COD_gLgGir7X7AMICM79-bcGEAE=&rs=AOn4CLBF0pktlMpQC3B5HyWBtsM3hvsBdA&v=1727954638",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_mPpt4yO9pro1RqgYOPlorLib_gWUPVftA/sddefault.jpg?sqp=COD_gLgGir7X7AMICM79-bcGEAE=&rs=AOn4CLDtt5MaPndtPRfqsfEKs7hULEmZSg&v=1727954638",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_mPpt4yO9pro1RqgYOPlorLib_gWUPVftA/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICM79-bcGEAE=&rs=AOn4CLDSHHhVJti0IQOrP2v0nCv1umL3Mw&v=1727954638",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "localized": {
+          "title": "Album - Immortal",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      },
+      "contentDetails": {
+        "itemCount": 10
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "_TvhqKcygFeHa7OvGJedXPVGNPM",
+      "id": "OLAK5uy_kjAzmw2b8vckZPEX-pAPhBXxZKuYF_cF0",
+      "snippet": {
+        "publishedAt": "2023-10-27T04:33:11Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Album - Tronics Land Series 2",
+        "description": "",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_kjAzmw2b8vckZPEX-pAPhBXxZKuYF_cF0/mqdefault.jpg?sqp=COD_gLgGir7X7AMICJDN3LcGEAE=&rs=AOn4CLDXa86a1Lth1C2vteMEMLAmyemgvw&v=1727473296",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_kjAzmw2b8vckZPEX-pAPhBXxZKuYF_cF0/sddefault.jpg?sqp=COD_gLgGir7X7AMICJDN3LcGEAE=&rs=AOn4CLD1gM1NmdyB3BBoZFfEJiFo2Ec9qg&v=1727473296",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_kjAzmw2b8vckZPEX-pAPhBXxZKuYF_cF0/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICJDN3LcGEAE=&rs=AOn4CLCbK6WghDkiphbmMbKOZWBjNxkBng&v=1727473296",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "localized": {
+          "title": "Album - Tronics Land Series 2",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      },
+      "contentDetails": {
+        "itemCount": 16
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "RU7BsEkia41FDJGKiigVCF9On4o",
+      "id": "OLAK5uy_m7io0OAMeRi4iBNTQl7g6wWpR7Em4YV-s",
+      "snippet": {
+        "publishedAt": "2024-02-26T16:52:05Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Album - African Queen 2.0",
+        "description": "",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_m7io0OAMeRi4iBNTQl7g6wWpR7Em4YV-s/mqdefault.jpg?sqp=COD_gLgGir7X7AMICPv037cGEAE=&rs=AOn4CLCA66mJrfeNxKZAqgLLYhLDtV-0Qw&v=1727527547",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_m7io0OAMeRi4iBNTQl7g6wWpR7Em4YV-s/sddefault.jpg?sqp=COD_gLgGir7X7AMICPv037cGEAE=&rs=AOn4CLAkCCTsByk9_-Pt7DnIiYP5-pPlzw&v=1727527547",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_m7io0OAMeRi4iBNTQl7g6wWpR7Em4YV-s/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICPv037cGEAE=&rs=AOn4CLA4mUD1yyvcESKLN-C1x1LqYh8D-g&v=1727527547",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "localized": {
+          "title": "Album - African Queen 2.0",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      },
+      "contentDetails": {
+        "itemCount": 22
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "7T9ToMWtiQEGuQW9_ZGcRpgeMO4",
+      "id": "OLAK5uy_kheo4kIdeoFpyC8fNaMJ-suQpkTl87qHE",
+      "snippet": {
+        "publishedAt": "2023-11-28T20:12:43Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Album - NATIONAL ANTHEM",
+        "description": "",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_kheo4kIdeoFpyC8fNaMJ-suQpkTl87qHE/mqdefault.jpg?sqp=COD_gLgGir7X7AMICL3z9rcGEAE=&rs=AOn4CLCUK56nQaM5T7iJjtVLCpsBjrD70A&v=1727904189",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_kheo4kIdeoFpyC8fNaMJ-suQpkTl87qHE/sddefault.jpg?sqp=COD_gLgGir7X7AMICL3z9rcGEAE=&rs=AOn4CLB3QgYx3TgXbeUVeT622cN_YtFIlQ&v=1727904189",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_kheo4kIdeoFpyC8fNaMJ-suQpkTl87qHE/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICL3z9rcGEAE=&rs=AOn4CLDkq8WODQtQoMe7irFfuH-BP4idjg&v=1727904189",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "localized": {
+          "title": "Album - NATIONAL ANTHEM",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      },
+      "contentDetails": {
+        "itemCount": 15
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "EsWOF_-xgWXhlZGXVG76Jln_XmM",
+      "id": "OLAK5uy_kcQMvdtj7BBtl2Tc-fS5IRgWiVsdImO58",
+      "snippet": {
+        "publishedAt": "2024-10-04T12:52:55Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Album - Sweetin Album (Speed Up)",
+        "description": "",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_kcQMvdtj7BBtl2Tc-fS5IRgWiVsdImO58/mqdefault.jpg?sqp=COD_gLgGir7X7AMICNGPgLgGEAE=&rs=AOn4CLCxR1sYzAqwgPTNdi4cNqtsRlhb3A&v=1728055249",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_kcQMvdtj7BBtl2Tc-fS5IRgWiVsdImO58/sddefault.jpg?sqp=COD_gLgGir7X7AMICNGPgLgGEAE=&rs=AOn4CLD2L8IcQWuj0kM2S_ox5-wZasXGnA&v=1728055249",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_kcQMvdtj7BBtl2Tc-fS5IRgWiVsdImO58/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICNGPgLgGEAE=&rs=AOn4CLA6BJLf6ALSIzhMyFd50NyvHazgfA&v=1728055249",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "localized": {
+          "title": "Album - Sweetin Album (Speed Up)",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      },
+      "contentDetails": {
+        "itemCount": 7
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "Qvw1ddrBn95UlgL4qVX6BMwVxDU",
+      "id": "OLAK5uy_kpXbMBTdv2-2Li8VqvvJpdgQbL-NTA9sc",
+      "snippet": {
+        "publishedAt": "2024-03-14T17:22:20Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Album - Ngises'Congweni",
+        "description": "",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_kpXbMBTdv2-2Li8VqvvJpdgQbL-NTA9sc/mqdefault.jpg?sqp=COD_gLgGir7X7AMICOXw9LcGEAE=&rs=AOn4CLDdExxN8XBm3l5ssuxAUtBS9eHs3A&v=1727871077",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_kpXbMBTdv2-2Li8VqvvJpdgQbL-NTA9sc/sddefault.jpg?sqp=COD_gLgGir7X7AMICOXw9LcGEAE=&rs=AOn4CLB6qwGcPKPLVheaRdyB07ASeVNh1Q&v=1727871077",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_kpXbMBTdv2-2Li8VqvvJpdgQbL-NTA9sc/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICOXw9LcGEAE=&rs=AOn4CLAZTf8AILb5r5QwLcF350UBxPlUZg&v=1727871077",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "localized": {
+          "title": "Album - Ngises'Congweni",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      },
+      "contentDetails": {
+        "itemCount": 14
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "b4W3NY0d0E_6DBoeg1x--YruuFg",
+      "id": "OLAK5uy_nltyItLmiz6Tld4ld2Yu9aM_LRVjhMVcU",
+      "snippet": {
+        "publishedAt": "2023-12-08T23:12:57Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Album - Uyihlo nonyoko",
+        "description": "",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_nltyItLmiz6Tld4ld2Yu9aM_LRVjhMVcU/mqdefault.jpg?sqp=COD_gLgGir7X7AMICKSq4rcGEAE=&rs=AOn4CLA8h6otSOdGGQKfR9LrReFglmdilg&v=1727567140",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_nltyItLmiz6Tld4ld2Yu9aM_LRVjhMVcU/sddefault.jpg?sqp=COD_gLgGir7X7AMICKSq4rcGEAE=&rs=AOn4CLAW2o13Ra2VOzak1i6ph9WRxgXx_A&v=1727567140",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/OLAK5uy_nltyItLmiz6Tld4ld2Yu9aM_LRVjhMVcU/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICKSq4rcGEAE=&rs=AOn4CLBHwFmpb5lGd6ze0Vr04ZaMEsswHA&v=1727567140",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "localized": {
+          "title": "Album - Uyihlo nonyoko",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "unlisted"
+      },
+      "contentDetails": {
+        "itemCount": 16
+      }
+    }
+  ]
+}
