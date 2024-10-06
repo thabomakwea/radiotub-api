@@ -873,6 +873,17 @@ export namespace Prisma {
     channelTitle: string | null
     defaultLanguage: string | null
     itemCount: number | null
+    imageUrl: string | null
+    category_1: string | null
+    category_2: string | null
+    category_3: string | null
+    category_4: string | null
+    category_5: string | null
+    category_6: string | null
+    category_7: string | null
+    category_8: string | null
+    category_9: string | null
+    category_10: string | null
   }
 
   export type PlaylistsMaxAggregateOutputType = {
@@ -885,6 +896,17 @@ export namespace Prisma {
     channelTitle: string | null
     defaultLanguage: string | null
     itemCount: number | null
+    imageUrl: string | null
+    category_1: string | null
+    category_2: string | null
+    category_3: string | null
+    category_4: string | null
+    category_5: string | null
+    category_6: string | null
+    category_7: string | null
+    category_8: string | null
+    category_9: string | null
+    category_10: string | null
   }
 
   export type PlaylistsCountAggregateOutputType = {
@@ -897,6 +919,17 @@ export namespace Prisma {
     channelTitle: number
     defaultLanguage: number
     itemCount: number
+    imageUrl: number
+    category_1: number
+    category_2: number
+    category_3: number
+    category_4: number
+    category_5: number
+    category_6: number
+    category_7: number
+    category_8: number
+    category_9: number
+    category_10: number
     _all: number
   }
 
@@ -921,6 +954,17 @@ export namespace Prisma {
     channelTitle?: true
     defaultLanguage?: true
     itemCount?: true
+    imageUrl?: true
+    category_1?: true
+    category_2?: true
+    category_3?: true
+    category_4?: true
+    category_5?: true
+    category_6?: true
+    category_7?: true
+    category_8?: true
+    category_9?: true
+    category_10?: true
   }
 
   export type PlaylistsMaxAggregateInputType = {
@@ -933,6 +977,17 @@ export namespace Prisma {
     channelTitle?: true
     defaultLanguage?: true
     itemCount?: true
+    imageUrl?: true
+    category_1?: true
+    category_2?: true
+    category_3?: true
+    category_4?: true
+    category_5?: true
+    category_6?: true
+    category_7?: true
+    category_8?: true
+    category_9?: true
+    category_10?: true
   }
 
   export type PlaylistsCountAggregateInputType = {
@@ -945,6 +1000,17 @@ export namespace Prisma {
     channelTitle?: true
     defaultLanguage?: true
     itemCount?: true
+    imageUrl?: true
+    category_1?: true
+    category_2?: true
+    category_3?: true
+    category_4?: true
+    category_5?: true
+    category_6?: true
+    category_7?: true
+    category_8?: true
+    category_9?: true
+    category_10?: true
     _all?: true
   }
 
@@ -1044,6 +1110,17 @@ export namespace Prisma {
     channelTitle: string | null
     defaultLanguage: string | null
     itemCount: number | null
+    imageUrl: string | null
+    category_1: string | null
+    category_2: string | null
+    category_3: string | null
+    category_4: string | null
+    category_5: string | null
+    category_6: string | null
+    category_7: string | null
+    category_8: string | null
+    category_9: string | null
+    category_10: string | null
     _count: PlaylistsCountAggregateOutputType | null
     _avg: PlaylistsAvgAggregateOutputType | null
     _sum: PlaylistsSumAggregateOutputType | null
@@ -1075,6 +1152,17 @@ export namespace Prisma {
     channelTitle?: boolean
     defaultLanguage?: boolean
     itemCount?: boolean
+    imageUrl?: boolean
+    category_1?: boolean
+    category_2?: boolean
+    category_3?: boolean
+    category_4?: boolean
+    category_5?: boolean
+    category_6?: boolean
+    category_7?: boolean
+    category_8?: boolean
+    category_9?: boolean
+    category_10?: boolean
   }, ExtArgs["result"]["playlists"]>
 
   export type playlistsSelectCreateManyAndReturn<ExtArgs extends $Extensions.InternalArgs = $Extensions.DefaultArgs> = $Extensions.GetSelect<{
@@ -1087,6 +1175,17 @@ export namespace Prisma {
     channelTitle?: boolean
     defaultLanguage?: boolean
     itemCount?: boolean
+    imageUrl?: boolean
+    category_1?: boolean
+    category_2?: boolean
+    category_3?: boolean
+    category_4?: boolean
+    category_5?: boolean
+    category_6?: boolean
+    category_7?: boolean
+    category_8?: boolean
+    category_9?: boolean
+    category_10?: boolean
   }, ExtArgs["result"]["playlists"]>
 
   export type playlistsSelectScalar = {
@@ -1099,6 +1198,17 @@ export namespace Prisma {
     channelTitle?: boolean
     defaultLanguage?: boolean
     itemCount?: boolean
+    imageUrl?: boolean
+    category_1?: boolean
+    category_2?: boolean
+    category_3?: boolean
+    category_4?: boolean
+    category_5?: boolean
+    category_6?: boolean
+    category_7?: boolean
+    category_8?: boolean
+    category_9?: boolean
+    category_10?: boolean
   }
 
 
@@ -1115,6 +1225,17 @@ export namespace Prisma {
       channelTitle: string | null
       defaultLanguage: string | null
       itemCount: number | null
+      imageUrl: string | null
+      category_1: string | null
+      category_2: string | null
+      category_3: string | null
+      category_4: string | null
+      category_5: string | null
+      category_6: string | null
+      category_7: string | null
+      category_8: string | null
+      category_9: string | null
+      category_10: string | null
     }, ExtArgs["result"]["playlists"]>
     composites: {}
   }
@@ -1517,6 +1638,17 @@ export namespace Prisma {
     readonly channelTitle: FieldRef<"playlists", 'String'>
     readonly defaultLanguage: FieldRef<"playlists", 'String'>
     readonly itemCount: FieldRef<"playlists", 'Int'>
+    readonly imageUrl: FieldRef<"playlists", 'String'>
+    readonly category_1: FieldRef<"playlists", 'String'>
+    readonly category_2: FieldRef<"playlists", 'String'>
+    readonly category_3: FieldRef<"playlists", 'String'>
+    readonly category_4: FieldRef<"playlists", 'String'>
+    readonly category_5: FieldRef<"playlists", 'String'>
+    readonly category_6: FieldRef<"playlists", 'String'>
+    readonly category_7: FieldRef<"playlists", 'String'>
+    readonly category_8: FieldRef<"playlists", 'String'>
+    readonly category_9: FieldRef<"playlists", 'String'>
+    readonly category_10: FieldRef<"playlists", 'String'>
   }
     
 
@@ -1823,7 +1955,18 @@ export namespace Prisma {
     image: 'image',
     channelTitle: 'channelTitle',
     defaultLanguage: 'defaultLanguage',
-    itemCount: 'itemCount'
+    itemCount: 'itemCount',
+    imageUrl: 'imageUrl',
+    category_1: 'category_1',
+    category_2: 'category_2',
+    category_3: 'category_3',
+    category_4: 'category_4',
+    category_5: 'category_5',
+    category_6: 'category_6',
+    category_7: 'category_7',
+    category_8: 'category_8',
+    category_9: 'category_9',
+    category_10: 'category_10'
   };
 
   export type PlaylistsScalarFieldEnum = (typeof PlaylistsScalarFieldEnum)[keyof typeof PlaylistsScalarFieldEnum]
@@ -1887,6 +2030,17 @@ export namespace Prisma {
     channelTitle?: StringNullableFilter<"playlists"> | string | null
     defaultLanguage?: StringNullableFilter<"playlists"> | string | null
     itemCount?: IntNullableFilter<"playlists"> | number | null
+    imageUrl?: StringNullableFilter<"playlists"> | string | null
+    category_1?: StringNullableFilter<"playlists"> | string | null
+    category_2?: StringNullableFilter<"playlists"> | string | null
+    category_3?: StringNullableFilter<"playlists"> | string | null
+    category_4?: StringNullableFilter<"playlists"> | string | null
+    category_5?: StringNullableFilter<"playlists"> | string | null
+    category_6?: StringNullableFilter<"playlists"> | string | null
+    category_7?: StringNullableFilter<"playlists"> | string | null
+    category_8?: StringNullableFilter<"playlists"> | string | null
+    category_9?: StringNullableFilter<"playlists"> | string | null
+    category_10?: StringNullableFilter<"playlists"> | string | null
   }
 
   export type playlistsOrderByWithRelationInput = {
@@ -1899,6 +2053,17 @@ export namespace Prisma {
     channelTitle?: SortOrderInput | SortOrder
     defaultLanguage?: SortOrderInput | SortOrder
     itemCount?: SortOrderInput | SortOrder
+    imageUrl?: SortOrderInput | SortOrder
+    category_1?: SortOrderInput | SortOrder
+    category_2?: SortOrderInput | SortOrder
+    category_3?: SortOrderInput | SortOrder
+    category_4?: SortOrderInput | SortOrder
+    category_5?: SortOrderInput | SortOrder
+    category_6?: SortOrderInput | SortOrder
+    category_7?: SortOrderInput | SortOrder
+    category_8?: SortOrderInput | SortOrder
+    category_9?: SortOrderInput | SortOrder
+    category_10?: SortOrderInput | SortOrder
   }
 
   export type playlistsWhereUniqueInput = Prisma.AtLeast<{
@@ -1914,6 +2079,17 @@ export namespace Prisma {
     channelTitle?: StringNullableFilter<"playlists"> | string | null
     defaultLanguage?: StringNullableFilter<"playlists"> | string | null
     itemCount?: IntNullableFilter<"playlists"> | number | null
+    imageUrl?: StringNullableFilter<"playlists"> | string | null
+    category_1?: StringNullableFilter<"playlists"> | string | null
+    category_2?: StringNullableFilter<"playlists"> | string | null
+    category_3?: StringNullableFilter<"playlists"> | string | null
+    category_4?: StringNullableFilter<"playlists"> | string | null
+    category_5?: StringNullableFilter<"playlists"> | string | null
+    category_6?: StringNullableFilter<"playlists"> | string | null
+    category_7?: StringNullableFilter<"playlists"> | string | null
+    category_8?: StringNullableFilter<"playlists"> | string | null
+    category_9?: StringNullableFilter<"playlists"> | string | null
+    category_10?: StringNullableFilter<"playlists"> | string | null
   }, "id">
 
   export type playlistsOrderByWithAggregationInput = {
@@ -1926,6 +2102,17 @@ export namespace Prisma {
     channelTitle?: SortOrderInput | SortOrder
     defaultLanguage?: SortOrderInput | SortOrder
     itemCount?: SortOrderInput | SortOrder
+    imageUrl?: SortOrderInput | SortOrder
+    category_1?: SortOrderInput | SortOrder
+    category_2?: SortOrderInput | SortOrder
+    category_3?: SortOrderInput | SortOrder
+    category_4?: SortOrderInput | SortOrder
+    category_5?: SortOrderInput | SortOrder
+    category_6?: SortOrderInput | SortOrder
+    category_7?: SortOrderInput | SortOrder
+    category_8?: SortOrderInput | SortOrder
+    category_9?: SortOrderInput | SortOrder
+    category_10?: SortOrderInput | SortOrder
     _count?: playlistsCountOrderByAggregateInput
     _avg?: playlistsAvgOrderByAggregateInput
     _max?: playlistsMaxOrderByAggregateInput
@@ -1946,6 +2133,17 @@ export namespace Prisma {
     channelTitle?: StringNullableWithAggregatesFilter<"playlists"> | string | null
     defaultLanguage?: StringNullableWithAggregatesFilter<"playlists"> | string | null
     itemCount?: IntNullableWithAggregatesFilter<"playlists"> | number | null
+    imageUrl?: StringNullableWithAggregatesFilter<"playlists"> | string | null
+    category_1?: StringNullableWithAggregatesFilter<"playlists"> | string | null
+    category_2?: StringNullableWithAggregatesFilter<"playlists"> | string | null
+    category_3?: StringNullableWithAggregatesFilter<"playlists"> | string | null
+    category_4?: StringNullableWithAggregatesFilter<"playlists"> | string | null
+    category_5?: StringNullableWithAggregatesFilter<"playlists"> | string | null
+    category_6?: StringNullableWithAggregatesFilter<"playlists"> | string | null
+    category_7?: StringNullableWithAggregatesFilter<"playlists"> | string | null
+    category_8?: StringNullableWithAggregatesFilter<"playlists"> | string | null
+    category_9?: StringNullableWithAggregatesFilter<"playlists"> | string | null
+    category_10?: StringNullableWithAggregatesFilter<"playlists"> | string | null
   }
 
   export type playlistsCreateInput = {
@@ -1957,6 +2155,17 @@ export namespace Prisma {
     channelTitle?: string | null
     defaultLanguage?: string | null
     itemCount?: number | null
+    imageUrl?: string | null
+    category_1?: string | null
+    category_2?: string | null
+    category_3?: string | null
+    category_4?: string | null
+    category_5?: string | null
+    category_6?: string | null
+    category_7?: string | null
+    category_8?: string | null
+    category_9?: string | null
+    category_10?: string | null
   }
 
   export type playlistsUncheckedCreateInput = {
@@ -1969,6 +2178,17 @@ export namespace Prisma {
     channelTitle?: string | null
     defaultLanguage?: string | null
     itemCount?: number | null
+    imageUrl?: string | null
+    category_1?: string | null
+    category_2?: string | null
+    category_3?: string | null
+    category_4?: string | null
+    category_5?: string | null
+    category_6?: string | null
+    category_7?: string | null
+    category_8?: string | null
+    category_9?: string | null
+    category_10?: string | null
   }
 
   export type playlistsUpdateInput = {
@@ -1980,6 +2200,17 @@ export namespace Prisma {
     channelTitle?: NullableStringFieldUpdateOperationsInput | string | null
     defaultLanguage?: NullableStringFieldUpdateOperationsInput | string | null
     itemCount?: NullableIntFieldUpdateOperationsInput | number | null
+    imageUrl?: NullableStringFieldUpdateOperationsInput | string | null
+    category_1?: NullableStringFieldUpdateOperationsInput | string | null
+    category_2?: NullableStringFieldUpdateOperationsInput | string | null
+    category_3?: NullableStringFieldUpdateOperationsInput | string | null
+    category_4?: NullableStringFieldUpdateOperationsInput | string | null
+    category_5?: NullableStringFieldUpdateOperationsInput | string | null
+    category_6?: NullableStringFieldUpdateOperationsInput | string | null
+    category_7?: NullableStringFieldUpdateOperationsInput | string | null
+    category_8?: NullableStringFieldUpdateOperationsInput | string | null
+    category_9?: NullableStringFieldUpdateOperationsInput | string | null
+    category_10?: NullableStringFieldUpdateOperationsInput | string | null
   }
 
   export type playlistsUncheckedUpdateInput = {
@@ -1992,6 +2223,17 @@ export namespace Prisma {
     channelTitle?: NullableStringFieldUpdateOperationsInput | string | null
     defaultLanguage?: NullableStringFieldUpdateOperationsInput | string | null
     itemCount?: NullableIntFieldUpdateOperationsInput | number | null
+    imageUrl?: NullableStringFieldUpdateOperationsInput | string | null
+    category_1?: NullableStringFieldUpdateOperationsInput | string | null
+    category_2?: NullableStringFieldUpdateOperationsInput | string | null
+    category_3?: NullableStringFieldUpdateOperationsInput | string | null
+    category_4?: NullableStringFieldUpdateOperationsInput | string | null
+    category_5?: NullableStringFieldUpdateOperationsInput | string | null
+    category_6?: NullableStringFieldUpdateOperationsInput | string | null
+    category_7?: NullableStringFieldUpdateOperationsInput | string | null
+    category_8?: NullableStringFieldUpdateOperationsInput | string | null
+    category_9?: NullableStringFieldUpdateOperationsInput | string | null
+    category_10?: NullableStringFieldUpdateOperationsInput | string | null
   }
 
   export type playlistsCreateManyInput = {
@@ -2004,6 +2246,17 @@ export namespace Prisma {
     channelTitle?: string | null
     defaultLanguage?: string | null
     itemCount?: number | null
+    imageUrl?: string | null
+    category_1?: string | null
+    category_2?: string | null
+    category_3?: string | null
+    category_4?: string | null
+    category_5?: string | null
+    category_6?: string | null
+    category_7?: string | null
+    category_8?: string | null
+    category_9?: string | null
+    category_10?: string | null
   }
 
   export type playlistsUpdateManyMutationInput = {
@@ -2015,6 +2268,17 @@ export namespace Prisma {
     channelTitle?: NullableStringFieldUpdateOperationsInput | string | null
     defaultLanguage?: NullableStringFieldUpdateOperationsInput | string | null
     itemCount?: NullableIntFieldUpdateOperationsInput | number | null
+    imageUrl?: NullableStringFieldUpdateOperationsInput | string | null
+    category_1?: NullableStringFieldUpdateOperationsInput | string | null
+    category_2?: NullableStringFieldUpdateOperationsInput | string | null
+    category_3?: NullableStringFieldUpdateOperationsInput | string | null
+    category_4?: NullableStringFieldUpdateOperationsInput | string | null
+    category_5?: NullableStringFieldUpdateOperationsInput | string | null
+    category_6?: NullableStringFieldUpdateOperationsInput | string | null
+    category_7?: NullableStringFieldUpdateOperationsInput | string | null
+    category_8?: NullableStringFieldUpdateOperationsInput | string | null
+    category_9?: NullableStringFieldUpdateOperationsInput | string | null
+    category_10?: NullableStringFieldUpdateOperationsInput | string | null
   }
 
   export type playlistsUncheckedUpdateManyInput = {
@@ -2027,6 +2291,17 @@ export namespace Prisma {
     channelTitle?: NullableStringFieldUpdateOperationsInput | string | null
     defaultLanguage?: NullableStringFieldUpdateOperationsInput | string | null
     itemCount?: NullableIntFieldUpdateOperationsInput | number | null
+    imageUrl?: NullableStringFieldUpdateOperationsInput | string | null
+    category_1?: NullableStringFieldUpdateOperationsInput | string | null
+    category_2?: NullableStringFieldUpdateOperationsInput | string | null
+    category_3?: NullableStringFieldUpdateOperationsInput | string | null
+    category_4?: NullableStringFieldUpdateOperationsInput | string | null
+    category_5?: NullableStringFieldUpdateOperationsInput | string | null
+    category_6?: NullableStringFieldUpdateOperationsInput | string | null
+    category_7?: NullableStringFieldUpdateOperationsInput | string | null
+    category_8?: NullableStringFieldUpdateOperationsInput | string | null
+    category_9?: NullableStringFieldUpdateOperationsInput | string | null
+    category_10?: NullableStringFieldUpdateOperationsInput | string | null
   }
 
   export type IntFilter<$PrismaModel = never> = {
@@ -2080,6 +2355,17 @@ export namespace Prisma {
     channelTitle?: SortOrder
     defaultLanguage?: SortOrder
     itemCount?: SortOrder
+    imageUrl?: SortOrder
+    category_1?: SortOrder
+    category_2?: SortOrder
+    category_3?: SortOrder
+    category_4?: SortOrder
+    category_5?: SortOrder
+    category_6?: SortOrder
+    category_7?: SortOrder
+    category_8?: SortOrder
+    category_9?: SortOrder
+    category_10?: SortOrder
   }
 
   export type playlistsAvgOrderByAggregateInput = {
@@ -2097,6 +2383,17 @@ export namespace Prisma {
     channelTitle?: SortOrder
     defaultLanguage?: SortOrder
     itemCount?: SortOrder
+    imageUrl?: SortOrder
+    category_1?: SortOrder
+    category_2?: SortOrder
+    category_3?: SortOrder
+    category_4?: SortOrder
+    category_5?: SortOrder
+    category_6?: SortOrder
+    category_7?: SortOrder
+    category_8?: SortOrder
+    category_9?: SortOrder
+    category_10?: SortOrder
   }
 
   export type playlistsMinOrderByAggregateInput = {
@@ -2109,6 +2406,17 @@ export namespace Prisma {
     channelTitle?: SortOrder
     defaultLanguage?: SortOrder
     itemCount?: SortOrder
+    imageUrl?: SortOrder
+    category_1?: SortOrder
+    category_2?: SortOrder
+    category_3?: SortOrder
+    category_4?: SortOrder
+    category_5?: SortOrder
+    category_6?: SortOrder
+    category_7?: SortOrder
+    category_8?: SortOrder
+    category_9?: SortOrder
+    category_10?: SortOrder
   }
 
   export type playlistsSumOrderByAggregateInput = {

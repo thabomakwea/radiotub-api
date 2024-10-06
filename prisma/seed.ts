@@ -51,7 +51,7 @@ import path from 'path';
 const playlistsPrisma = new PlaylistsPrismaClient();
 
 const main = async () => {
-    const directoryPath = path.join(__dirname, '../data/playlist/youtube/01'); // Replace with your folder path
+    const directoryPath = path.join(__dirname, '../data/playlist/youtube/mapped'); // Replace with your folder path
     let finalData: any[] = [];
     const allPlaylist: any[] = [];
     
@@ -83,6 +83,17 @@ const main = async () => {
                         channelTitle: item.snippet?.channelTitle ?? '',
                         defaultLanguage: item.snippet?.defaultLanguage ?? null,
                         itemCount: item.contentDetails?.itemCount ?? 0,
+                        imageUrl: item.snippet?.image?.url ?? '', // Adjusting image field as per your JSON
+                        category_1: item.snippet?.category_1 ?? '',
+                        category_2: item.snippet?.category_2 ?? '',
+                        category_3: item.snippet?.category_3 ?? '',
+                        category_4: item.snippet?.category_4 ?? '',
+                        category_5: item.snippet?.category_5 ?? '',
+                        category_6: item.snippet?.category_6 ?? '',
+                        category_7: item.snippet?.category_7 ?? '',
+                        category_8: item.snippet?.category_8 ?? '',
+                        category_9: item.snippet?.category_9 ?? '',
+                        category_10: item.snippet?.category_10 ?? ''
                     }
                 }));
 
@@ -115,6 +126,17 @@ const startSeeding = async (allPlaylist: any[]) => {
                     channelTitle: element.snippet.channelTitle,
                     defaultLanguage: element.snippet.defaultLanguage,
                     itemCount: element.snippet.itemCount,
+                    imageUrl: element.snippet.imageUrl,
+                    category_1: element.snippet.category_1,
+                    category_2: element.snippet.category_2,
+                    category_3: element.snippet.category_3,
+                    category_4: element.snippet.category_4,
+                    category_5: element.snippet.category_5,
+                    category_6: element.snippet.category_6,
+                    category_7: element.snippet.category_7,
+                    category_8: element.snippet.category_8,
+                    category_9: element.snippet.category_9,
+                    category_10: element.snippet.category_10
                 },
             });
             console.log(`Seeded playlist: ${element.snippet.title}`);

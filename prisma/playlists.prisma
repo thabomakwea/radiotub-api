@@ -18,4 +18,15 @@ model playlists {
   channelTitle    String?
   defaultLanguage String?
   itemCount       Int?
+  imageUrl        String?
+  category_1      String?
+  category_2      String?
+  category_3      String?
+  category_4      String?
+  category_5      String?
+  category_6      String?
+  category_7      String?
+  category_8      String?
+  category_9      String?
+  category_10     String?
 }

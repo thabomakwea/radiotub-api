@@ -125,7 +125,18 @@ exports.Prisma.PlaylistsScalarFieldEnum = {
   image: 'image',
   channelTitle: 'channelTitle',
   defaultLanguage: 'defaultLanguage',
-  itemCount: 'itemCount'
+  itemCount: 'itemCount',
+  imageUrl: 'imageUrl',
+  category_1: 'category_1',
+  category_2: 'category_2',
+  category_3: 'category_3',
+  category_4: 'category_4',
+  category_5: 'category_5',
+  category_6: 'category_6',
+  category_7: 'category_7',
+  category_8: 'category_8',
+  category_9: 'category_9',
+  category_10: 'category_10'
 };
 
 exports.Prisma.SortOrder = {

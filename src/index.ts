@@ -220,6 +220,17 @@ app.get('/api/playlists', async (req: Request, res: Response) => {
         channelTitle: true,
         defaultLanguage: true,
         itemCount: true,
+        imageUrl: true,
+        category_1: true,
+        category_2: true,
+        category_3: true,
+        category_4: true,
+        category_5: true,
+        category_6: true,
+        category_7: true,
+        category_8: true,
+        category_9: true,
+        category_10: true,
         // Exclude `newestEnclosureDuration`
       }
     });
@@ -249,6 +260,17 @@ app.get('/api/playlist', async (req: Request, res: Response) => {
       channelTitle: true,
       defaultLanguage: true,
       itemCount: true,
+      imageUrl: true,
+      category_1: true,
+      category_2: true,
+      category_3: true,
+      category_4: true,
+      category_5: true,
+      category_6: true,
+      category_7: true,
+      category_8: true,
+      category_9: true,
+      category_10: true,
       // Exclude `newestEnclosureDuration`
 
       }
