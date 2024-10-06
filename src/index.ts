@@ -177,30 +177,6 @@ app.get('/api/podcast/genres-letter', async (req: Request, res: Response) => {
 });
 
 
-app.get('/api/radio', async (req: Request, res: Response) => {
-  try {
-    const podcasts = await radioPrisma.radios.findMany({
-        take: 30,
-        select: {
-        id: true,
-        title: true,
-        city: true,
-        country: true,
-        genres: true,
-        state: true,
-        region: true,
-        source: true,
-        listens: true,
-        image: true,
-      }
-    });
-    res.json(podcasts);
-  } catch (error) {
-    console.error(error);
-    res.status(500).json({ message: 'Error fetching podcasts' });
-  }
-});
-
 app.get('/api/playlists', async (req: Request, res: Response) => {
   // Extract and validate query parameters
   const skip = parseInt(req.query.skip as string, 10) || 0;
@@ -280,7 +256,110 @@ app.get('/api/playlist', async (req: Request, res: Response) => {
     console.error(error);
     res.status(500).json({ message: 'Error fetching playlist' });
   }
-});  
+}); 
+
+app.get('/api/playlists/genres', async (req: Request, res: Response) => {
+  // Extract and validate query parameters
+  const name = req.query.name;
+  // Extract and validate query parameters
+  const skip = parseInt(req.query.skip as string, 10) || 0;
+  const take = parseInt(req.query.take as string, 10) || 10;
+  try {
+    // Fetch podcast using Prisma 
+
+    const playlist = await playlistsPrisma.playlists.findMany({
+      skip,
+      take,
+      // check if the name is in the category1, category2, category3, category4, category5, category6, category7, category8, category9, category10
+      where: {
+        OR: [
+          { category_1: String(name) },
+          { category_2: String(name) },
+          { category_3: String(name) },
+          { category_4: String(name) },
+          { category_5: String(name) },
+          { category_6: String(name) },
+          { category_7: String(name) },
+          { category_8: String(name) },
+          { category_9: String(name) },
+        ]
+      },
+      select: {
+        id: true,
+        title: true,
+        playlistId: true,
+        channelId: true,
+        description: true,
+        image: true,
+        channelTitle: true,
+        defaultLanguage: true,
+        itemCount: true,
+        imageUrl: true,
+        category_1: true,
+        category_2: true,
+        category_3: true,
+        category_4: true,
+        category_5: true,
+        category_6: true,
+        category_7: true,
+        category_8: true,
+        category_9: true,
+      }
+    });
+    res.json(playlist);
+  } catch (error) {
+    console.error('Error fetching podcast:', error);
+    res.status(500).json({ message: 'An error occurred while fetching podcast' });
+  }
+  
+});
+
+app.get('/api/playlist/genres-letter', async (req: Request, res: Response) => {
+  // Extract and validate query parameters
+  const skip = parseInt(req.query.skip as string, 10) || 0;
+  const take = parseInt(req.query.take as string, 10) || 10; // Default to 10 if not provided
+  const letter = String(req.query.letter);
+
+  try {
+    // const playlists = await playlistsPrisma.genres.findMany({
+    //   skip,
+    //   take,
+    //   where: {
+    //     genre: {
+    //       startsWith: letter
+    //     }
+    //   },
+    // });
+    // res.json(playlists);
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ message: 'Error fetching genres' });
+  }
+});
+
+app.get('/api/radio', async (req: Request, res: Response) => {
+  try {
+    const podcasts = await radioPrisma.radios.findMany({
+        take: 30,
+        select: {
+        id: true,
+        title: true,
+        city: true,
+        country: true,
+        genres: true,
+        state: true,
+        region: true,
+        source: true,
+        listens: true,
+        image: true,
+      }
+    });
+    res.json(podcasts);
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ message: 'Error fetching podcasts' });
+  }
+});
 
 
 // Start the Express server
