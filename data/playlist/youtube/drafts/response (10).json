@@ -1,0 +1,1890 @@
+{
+  "kind": "youtube#playlistListResponse",
+  "etag": "56Oh3w3Q5OhO-LpbBeTdF3gWvlg",
+  "pageInfo": {
+    "totalResults": 44,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "n4gwlpZ1IKmU0AhIPT-MYDZ64fg",
+      "id": "RDCLAK5uy_mdlddKQt0-UqxL1dxv9dv9Numx8wybDVA",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Alternative Hits 2023",
+        "description": "Experience the sound of 2023 with this collection of some of the biggest Alternative hits of the year.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mdlddKQt0-UqxL1dxv9dv9Numx8wybDVA/mqdefault.jpg?sqp=COjSu7YGir7X7AMICIygurYGEAE=&rs=AOn4CLAAy_0D8l90yvnAU8oqgCZYKt4LcQ&v=1724813324",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mdlddKQt0-UqxL1dxv9dv9Numx8wybDVA/sddefault.jpg?sqp=COjSu7YGir7X7AMICIygurYGEAE=&rs=AOn4CLAsrw2gPFf3Cdh6cK4ZbVn2q8YsZw&v=1724813324",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mdlddKQt0-UqxL1dxv9dv9Numx8wybDVA/maxresdefault.jpg?sqp=COjSu7YGir7X7AMICIygurYGEAE=&rs=AOn4CLAsvUN-fPNr8FQWUJx6bKFqPb2ieA&v=1724813324",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Alternative Hits 2023",
+          "description": "Experience the sound of 2023 with this collection of some of the biggest Alternative hits of the year."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 40
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "-6y6W8xGg8kqGzPtefloT3D8yw8",
+      "id": "RDCLAK5uy_m6VlFmvetIqG-CPX0chKyDrtMyaY8SaIQ",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Bella Shmurda",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m6VlFmvetIqG-CPX0chKyDrtMyaY8SaIQ/mqdefault.jpg?sqp=COjSu7YGir7X7AMICPK1ubYGEAE=&rs=AOn4CLBtKitGZUyWkPa-ZQ1fgoqfzSqkiA&v=1724799730",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m6VlFmvetIqG-CPX0chKyDrtMyaY8SaIQ/sddefault.jpg?sqp=COjSu7YGir7X7AMICPK1ubYGEAE=&rs=AOn4CLDbJmqEHVdobrnpJSnqOBpQMEhFjA&v=1724799730",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m6VlFmvetIqG-CPX0chKyDrtMyaY8SaIQ/maxresdefault.jpg?sqp=COjSu7YGir7X7AMICPK1ubYGEAE=&rs=AOn4CLCMozmeXYycznS7cTZwbyIfMqB0Gg&v=1724799730",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Bella Shmurda",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 25
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "VYWNkvZP4grlGrybzKIYuHdtd0I",
+      "id": "RDCLAK5uy_mtPstTMx3aI1zLCoJt7BplMBE34R7spW4",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Seyi Vibez",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mtPstTMx3aI1zLCoJt7BplMBE34R7spW4/mqdefault.jpg?sqp=COjSu7YGir7X7AMICOCtu7YGEAE=&rs=AOn4CLBJwTbRxEe1nz8VoWXBUpaYLRP9mQ&v=1724831456",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mtPstTMx3aI1zLCoJt7BplMBE34R7spW4/sddefault.jpg?sqp=COjSu7YGir7X7AMICOCtu7YGEAE=&rs=AOn4CLD6JQndEHwzdXqIXq-mt7r9ZEoGAA&v=1724831456",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mtPstTMx3aI1zLCoJt7BplMBE34R7spW4/maxresdefault.jpg?sqp=COjSu7YGir7X7AMICOCtu7YGEAE=&rs=AOn4CLAe_QwFxOsBGZAJxxTooyNlp3IsWA&v=1724831456",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Seyi Vibez",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 25
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "d1STBvsLeBzVhPu14i9IlzEbeG8",
+      "id": "RDCLAK5uy_mx81P0KnZ0ViG1QGFlI5zV-Eymzg_hz7U",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Bailey Zimmerman",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mx81P0KnZ0ViG1QGFlI5zV-Eymzg_hz7U/mqdefault.jpg?sqp=COjSu7YGir7X7AMICPOeu7YGEAE=&rs=AOn4CLCU2-vYsxVrlTAV4vAce6MYoj0JmA&v=1724829555",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mx81P0KnZ0ViG1QGFlI5zV-Eymzg_hz7U/sddefault.jpg?sqp=COjSu7YGir7X7AMICPOeu7YGEAE=&rs=AOn4CLA3g25sf6PCEpExsXldG1hTCzwQsg&v=1724829555",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mx81P0KnZ0ViG1QGFlI5zV-Eymzg_hz7U/maxresdefault.jpg?sqp=COjSu7YGir7X7AMICPOeu7YGEAE=&rs=AOn4CLBPG_pilQoKTdsMt3m6Ym19PiMahA&v=1724829555",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Bailey Zimmerman",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 27
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "6ipeVMzJ2kT-e9dTHpxVZ6ILsuM",
+      "id": "RDCLAK5uy_nCrTwIcNDmNQCpw3I9pmc56r82CSXvmic",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "2024 ACM Winners",
+        "description": "Hear all the winners for the 59th Academy of Country Music Awards.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nCrTwIcNDmNQCpw3I9pmc56r82CSXvmic/mqdefault.jpg?sqp=COjSu7YGir7X7AMICLeYubYGEAE=&rs=AOn4CLBo3iGl7kh-hu0djooEUqCHjKI9wg&v=1724795959",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nCrTwIcNDmNQCpw3I9pmc56r82CSXvmic/sddefault.jpg?sqp=COjSu7YGir7X7AMICLeYubYGEAE=&rs=AOn4CLCyoPx4KjBkgNZ4DKBpDPL1M3_yYw&v=1724795959",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nCrTwIcNDmNQCpw3I9pmc56r82CSXvmic/maxresdefault.jpg?sqp=COjSu7YGir7X7AMICLeYubYGEAE=&rs=AOn4CLDUCwbel0g1FeBRfn8WkJL-V3F2Hg&v=1724795959",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "2024 ACM Winners",
+          "description": "Hear all the winners for the 59th Academy of Country Music Awards."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 17
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "9POZH16yNQVIroBJDzbB7aE16uM",
+      "id": "RDCLAK5uy_lE2usdNI1VquffUpVFdajZS0WgQN2Ih0o",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Tekno",
+        "description": "The Most Played Hits and Essential Tracks",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lE2usdNI1VquffUpVFdajZS0WgQN2Ih0o/mqdefault.jpg?sqp=COjSu7YGir7X7AMICLHJurYGEAE=&rs=AOn4CLBHyZ5AVMJ0J9VS2zolUMkNuJJ5Uw&v=1724818609",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lE2usdNI1VquffUpVFdajZS0WgQN2Ih0o/sddefault.jpg?sqp=COjSu7YGir7X7AMICLHJurYGEAE=&rs=AOn4CLCOdq9A7vo1uX3IxhpTte_JeCfICw&v=1724818609",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lE2usdNI1VquffUpVFdajZS0WgQN2Ih0o/maxresdefault.jpg?sqp=COjSu7YGir7X7AMICLHJurYGEAE=&rs=AOn4CLCVorV8vkCvhDQ5RWeG0yWGQ3lMJg&v=1724818609",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Tekno",
+          "description": "The Most Played Hits and Essential Tracks"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 30
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "iNS7heBw3hcYyajh1SV9Q1d6kho",
+      "id": "RDCLAK5uy_nPKG3faKyALfUXrqEe2vRJlrfefQo1B0s",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Cozy Gaming",
+        "description": "Get comfortable with these relaxing melodies while building your perfect virtual world.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nPKG3faKyALfUXrqEe2vRJlrfefQo1B0s/mqdefault.jpg?sqp=COjSu7YGir7X7AMICPPft7YGEAE=&rs=AOn4CLCbl8J8WdR1nBgCw-DWAQPxSfPxLw&v=1724772339",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nPKG3faKyALfUXrqEe2vRJlrfefQo1B0s/sddefault.jpg?sqp=COjSu7YGir7X7AMICPPft7YGEAE=&rs=AOn4CLBGFksbTsWeJ-Lx4xQ1FTUceV2e0Q&v=1724772339",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nPKG3faKyALfUXrqEe2vRJlrfefQo1B0s/maxresdefault.jpg?sqp=COjSu7YGir7X7AMICPPft7YGEAE=&rs=AOn4CLBfgGM_RccI7tbcE88rXgSuu3cIaQ&v=1724772339",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Cozy Gaming",
+          "description": "Get comfortable with these relaxing melodies while building your perfect virtual world."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 58
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "yvkIbgrSqAWle9d3UKXUmUGudRU",
+      "id": "RDCLAK5uy_k-S_kjtpwvJWs_N39OOZvbiv60SNnR9Ag",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Rock Hits 2023",
+        "description": "Experience the sound of 2023 with this collection of some of the biggest Rock hits of the year.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k-S_kjtpwvJWs_N39OOZvbiv60SNnR9Ag/mqdefault.jpg?sqp=COjSu7YGir7X7AMICJXEt7YGEAE=&rs=AOn4CLDq4KHbVnK-7IblaGuwvh3S-AexQw&v=1724768789",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k-S_kjtpwvJWs_N39OOZvbiv60SNnR9Ag/sddefault.jpg?sqp=COjSu7YGir7X7AMICJXEt7YGEAE=&rs=AOn4CLCfWU0mxmi_2Cz7B5kWEAiDW1DaZA&v=1724768789",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k-S_kjtpwvJWs_N39OOZvbiv60SNnR9Ag/maxresdefault.jpg?sqp=COjSu7YGir7X7AMICJXEt7YGEAE=&rs=AOn4CLA_QfbrHWX2okoLc5JdUSLtBZ1P4w&v=1724768789",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Rock Hits 2023",
+          "description": "Experience the sound of 2023 with this collection of some of the biggest Rock hits of the year."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 40
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "KBPgcylpIsVv8-Z2xuCFoRa_Lrs",
+      "id": "RDCLAK5uy_mNTLbK4aDbRYx9ZXc6s1Yhk7l8CwSN_m8",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "OPM Ballads",
+        "description": "Sentimental and romantic OPM favorites",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mNTLbK4aDbRYx9ZXc6s1Yhk7l8CwSN_m8/mqdefault.jpg?sqp=COjSu7YGir7X7AMICLjfubYGEAE=&rs=AOn4CLA_ao1Odu6-2JsK_QGLiHGCcjJbBQ&v=1724805048",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mNTLbK4aDbRYx9ZXc6s1Yhk7l8CwSN_m8/sddefault.jpg?sqp=COjSu7YGir7X7AMICLjfubYGEAE=&rs=AOn4CLCnNNB2p1kqIKVEDLIMfa7YnrGGxg&v=1724805048",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mNTLbK4aDbRYx9ZXc6s1Yhk7l8CwSN_m8/maxresdefault.jpg?sqp=COjSu7YGir7X7AMICLjfubYGEAE=&rs=AOn4CLCohJIXsYH_buFHPIFZRwgUnK331w&v=1724805048",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "OPM Ballads",
+          "description": "Sentimental and romantic OPM favorites"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 60
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "cgqb3EY-UxgXqYB5kTl5SqouUkE",
+      "id": "RDCLAK5uy_ljyDz8FJv4xec1TEdCPzYAHasU-OgXTeU",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "new phonk 2024",
+        "description": "All new phonk, krush, phonk house and drift tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ljyDz8FJv4xec1TEdCPzYAHasU-OgXTeU/mqdefault.jpg?sqp=COjSu7YGir7X7AMICMy4trYGEAE=&rs=AOn4CLAUDI8A5c_E_6ixdLiGp3J2TLHbnA&v=1724750924",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ljyDz8FJv4xec1TEdCPzYAHasU-OgXTeU/sddefault.jpg?sqp=COjSu7YGir7X7AMICMy4trYGEAE=&rs=AOn4CLAzbDUdAWq1IkXasqGccMnPI7uYXw&v=1724750924",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ljyDz8FJv4xec1TEdCPzYAHasU-OgXTeU/maxresdefault.jpg?sqp=COjSu7YGir7X7AMICMy4trYGEAE=&rs=AOn4CLAXaKJxNDNKbIVl_i8yEmUiGf2iyQ&v=1724750924",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "new phonk 2024",
+          "description": "All new phonk, krush, phonk house and drift tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 292
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "8ddtgTJvYZrnzUxwHpjymWl7AlQ",
+      "id": "RDCLAK5uy_m_zv7AdiOb0FfU3fQXuyZrBYBXLx0rtnE",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Training Season",
+        "description": "Winning tracks",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m_zv7AdiOb0FfU3fQXuyZrBYBXLx0rtnE/mqdefault.jpg?sqp=COjSu7YGir7X7AMICPTEt7YGEAE=&rs=AOn4CLC8uMSpz0kVLFg_egPftF2Gu-10Iw&v=1724768884",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m_zv7AdiOb0FfU3fQXuyZrBYBXLx0rtnE/sddefault.jpg?sqp=COjSu7YGir7X7AMICPTEt7YGEAE=&rs=AOn4CLAmRDi7BFd76VcGhcsZrcXG3g22cQ&v=1724768884",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m_zv7AdiOb0FfU3fQXuyZrBYBXLx0rtnE/maxresdefault.jpg?sqp=COjSu7YGir7X7AMICPTEt7YGEAE=&rs=AOn4CLDpUAhGSvsiCuvFwzIR-7GlbIY70Q&v=1724768884",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Training Season",
+          "description": "Winning tracks"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 48
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "Z-sii3JoJlu6fXth9lsQ3YiHhac",
+      "id": "RDCLAK5uy_niC6bt9uh5rA_jbznaVDBkYrtC69HcANw",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Enka Today",
+        "description": "A selection of popular Japanese Enka songs from the last several years.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_niC6bt9uh5rA_jbznaVDBkYrtC69HcANw/mqdefault.jpg?sqp=COjSu7YGir7X7AMICI71uLYGEAE=&rs=AOn4CLAH1kD-hDSvcQhFCLYj5k-I5kW8UQ&v=1724791438",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_niC6bt9uh5rA_jbznaVDBkYrtC69HcANw/sddefault.jpg?sqp=COjSu7YGir7X7AMICI71uLYGEAE=&rs=AOn4CLCHfutVw1ZQUTmjJWHxkgm6y6eQrg&v=1724791438",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_niC6bt9uh5rA_jbznaVDBkYrtC69HcANw/maxresdefault.jpg?sqp=COjSu7YGir7X7AMICI71uLYGEAE=&rs=AOn4CLCkrdNH2f42mUJz3jaous-9yEOp6g&v=1724791438",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Enka Today",
+          "description": "A selection of popular Japanese Enka songs from the last several years."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 65
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "rpVVbA6THb8ngaZE5lzTmIqihDw",
+      "id": "RDCLAK5uy_le2HZov3I4sCQJqwleya0KP7_lOv_5LgM",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Indie Hits 2023",
+        "description": "Experience the sound of 2023 with some of the biggest Indie hits of the year",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_le2HZov3I4sCQJqwleya0KP7_lOv_5LgM/mqdefault.jpg?sqp=COjSu7YGir7X7AMICIKIt7YGEAE=&rs=AOn4CLCyFbAfEQrKABa5HmfxhLXmUQgMsQ&v=1724761090",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_le2HZov3I4sCQJqwleya0KP7_lOv_5LgM/sddefault.jpg?sqp=COjSu7YGir7X7AMICIKIt7YGEAE=&rs=AOn4CLAV8CuEiUhaUl83GBNLelvjwf0Zaw&v=1724761090",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_le2HZov3I4sCQJqwleya0KP7_lOv_5LgM/maxresdefault.jpg?sqp=COjSu7YGir7X7AMICIKIt7YGEAE=&rs=AOn4CLBYgz6UCQ7JqhwqV1DVquE4J9aDSA&v=1724761090",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Indie Hits 2023",
+          "description": "Experience the sound of 2023 with some of the biggest Indie hits of the year"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 30
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "3QT31GXgHdOp8PK9R9nLHwyl67o",
+      "id": "RDCLAK5uy_lG5BkVBSPIGLjh-VYq9Fsb2aGGJe5yowE",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Eladio Carrión",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lG5BkVBSPIGLjh-VYq9Fsb2aGGJe5yowE/mqdefault.jpg?sqp=COjSu7YGir7X7AMICKv2t7YGEAE=&rs=AOn4CLCXV0fG1lbdSAPSpq96or86IgkyFA&v=1724775211",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lG5BkVBSPIGLjh-VYq9Fsb2aGGJe5yowE/sddefault.jpg?sqp=COjSu7YGir7X7AMICKv2t7YGEAE=&rs=AOn4CLCrFbc9F6pz3R-uCPFPPQpn8GTERg&v=1724775211",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lG5BkVBSPIGLjh-VYq9Fsb2aGGJe5yowE/maxresdefault.jpg?sqp=COjSu7YGir7X7AMICKv2t7YGEAE=&rs=AOn4CLCVcmZWBeRQTZqQQ0sAj4usn6O7Vg&v=1724775211",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Eladio Carrión",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 30
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "DSryp1KGE-_g-5JlFJZhIAvLPsA",
+      "id": "RDCLAK5uy_nSqb5wPmnKIQYoHxeB6P2wEtcRtpnd4JA",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Shilpa Rao",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nSqb5wPmnKIQYoHxeB6P2wEtcRtpnd4JA/mqdefault.jpg?sqp=COjSu7YGir7X7AMICKWSubYGEAE=&rs=AOn4CLBZdC62Q88sh1uBaexKLPjNFwnL0Q&v=1724795173",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nSqb5wPmnKIQYoHxeB6P2wEtcRtpnd4JA/sddefault.jpg?sqp=COjSu7YGir7X7AMICKWSubYGEAE=&rs=AOn4CLDQSrAp_bIp4nXs3e1hcBMvCVprlQ&v=1724795173",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nSqb5wPmnKIQYoHxeB6P2wEtcRtpnd4JA/maxresdefault.jpg?sqp=COjSu7YGir7X7AMICKWSubYGEAE=&rs=AOn4CLCPDCniDRrksfC6Mgip_qQQl1_72g&v=1724795173",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Shilpa Rao",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 38
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "sPlpNgcHmJ0LtCmW-GbdigWM72g",
+      "id": "RDCLAK5uy_khQwAyXJRttZB8bRzMKqfS5eJRBQSkh78",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Going For Gold",
+        "description": "Classic tracks to inspire victory",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_khQwAyXJRttZB8bRzMKqfS5eJRBQSkh78/mqdefault.jpg?sqp=COjSu7YGir7X7AMICNWWt7YGEAE=&rs=AOn4CLBfq1l_GjXaG823fsoYL_N8FhMZPA&v=1724762965",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_khQwAyXJRttZB8bRzMKqfS5eJRBQSkh78/sddefault.jpg?sqp=COjSu7YGir7X7AMICNWWt7YGEAE=&rs=AOn4CLAlJTvJvL76ZkZvnY49mXjN5E7PiQ&v=1724762965",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_khQwAyXJRttZB8bRzMKqfS5eJRBQSkh78/maxresdefault.jpg?sqp=COjSu7YGir7X7AMICNWWt7YGEAE=&rs=AOn4CLC3tcdyf4zkUOyNQVLo9Blupy1PVQ&v=1724762965",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Going For Gold",
+          "description": "Classic tracks to inspire victory"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 32
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "OwvConXYUk5emJlOxGbxxUjWbCE",
+      "id": "RDCLAK5uy_nhSTJDYjFhwODP-S1ofc--v8NiGnxbcc8",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Japan Rap Anthems",
+        "description": "The biggest hits in Japanese rap over the years.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nhSTJDYjFhwODP-S1ofc--v8NiGnxbcc8/mqdefault.jpg?sqp=COjSu7YGir7X7AMICJzkt7YGEAE=&rs=AOn4CLAFGezOfa1bD36ukFb-AG1t0rJ_KQ&v=1724772892",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nhSTJDYjFhwODP-S1ofc--v8NiGnxbcc8/sddefault.jpg?sqp=COjSu7YGir7X7AMICJzkt7YGEAE=&rs=AOn4CLDBTQXFf34LZdIup_EsnWhC3kn2Uw&v=1724772892",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nhSTJDYjFhwODP-S1ofc--v8NiGnxbcc8/maxresdefault.jpg?sqp=COjSu7YGir7X7AMICJzkt7YGEAE=&rs=AOn4CLAGAXUeeitRLaBj0G6C_TbjF47_7g&v=1724772892",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Japan Rap Anthems",
+          "description": "The biggest hits in Japanese rap over the years."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 50
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "s-fnhEpqNje8AJOdhsMD-iW53u8",
+      "id": "RDCLAK5uy_kbpe1vQYPX3F7LQmeLJHT9FA7tB0I3xz8",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Mercy Chinwo",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kbpe1vQYPX3F7LQmeLJHT9FA7tB0I3xz8/mqdefault.jpg?sqp=COjSu7YGir7X7AMICOvwubYGEAE=&rs=AOn4CLBuZqB6iWtxpegKBEHD55vIVGdzgA&v=1724807275",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kbpe1vQYPX3F7LQmeLJHT9FA7tB0I3xz8/sddefault.jpg?sqp=COjSu7YGir7X7AMICOvwubYGEAE=&rs=AOn4CLAHdqLWIwDYKu5V8j1ukGHd4oXpig&v=1724807275",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kbpe1vQYPX3F7LQmeLJHT9FA7tB0I3xz8/maxresdefault.jpg?sqp=COjSu7YGir7X7AMICOvwubYGEAE=&rs=AOn4CLDIAr6J8bTFPSDruGs-y7g6eGG5lg&v=1724807275",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Mercy Chinwo",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 25
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "yLWFPHltv_bsJteGu8lyx53DQGk",
+      "id": "RDCLAK5uy_kpWZfVQ3WLbjAiQ8NV69Ih7eJBvA2w-H0",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Elevation Worship",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kpWZfVQ3WLbjAiQ8NV69Ih7eJBvA2w-H0/mqdefault.jpg?sqp=COjSu7YGir7X7AMICO6FubYGEAE=&rs=AOn4CLA5KqnsoOKHud5PqjN7eSsCx4-dgg&v=1724793582",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kpWZfVQ3WLbjAiQ8NV69Ih7eJBvA2w-H0/sddefault.jpg?sqp=COjSu7YGir7X7AMICO6FubYGEAE=&rs=AOn4CLApxmsxvQIPT7JpJRhiGVCjLegQbQ&v=1724793582",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kpWZfVQ3WLbjAiQ8NV69Ih7eJBvA2w-H0/maxresdefault.jpg?sqp=COjSu7YGir7X7AMICO6FubYGEAE=&rs=AOn4CLCU7yvtxci2Vpyp_3XDBIjxEF1SRg&v=1724793582",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Elevation Worship",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 31
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "InLZ7bbFNbcRhkaub6gxEOQ5I-4",
+      "id": "RDCLAK5uy_lprmy9vLH1O_H3ylO9jFF-YowdCAQ_pXQ",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Yutaka Ozaki",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lprmy9vLH1O_H3ylO9jFF-YowdCAQ_pXQ/mqdefault.jpg?sqp=COjSu7YGir7X7AMICPXSt7YGEAE=&rs=AOn4CLCBU7JFayuXuBGiSZGnFON6jdWdvw&v=1724770677",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lprmy9vLH1O_H3ylO9jFF-YowdCAQ_pXQ/sddefault.jpg?sqp=COjSu7YGir7X7AMICPXSt7YGEAE=&rs=AOn4CLDlas_EHznmztk9774l8qnd325LUg&v=1724770677",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lprmy9vLH1O_H3ylO9jFF-YowdCAQ_pXQ/maxresdefault.jpg?sqp=COjSu7YGir7X7AMICPXSt7YGEAE=&rs=AOn4CLB68vepEJobOFTt9Vady5W0NWTUlA&v=1724770677",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Yutaka Ozaki",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 30
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "39In_mpH2E3bYRF2mhx2aOmUnjc",
+      "id": "RDCLAK5uy_kxN1_I9bHTyrwtcsLw2FbuVijyL6BveHM",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Sanam",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxN1_I9bHTyrwtcsLw2FbuVijyL6BveHM/mqdefault.jpg?sqp=COjSu7YGir7X7AMICPrbubYGEAE=&rs=AOn4CLANGqqilM3tjMvMUCwyB0Jzv31HCQ&v=1724804602",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxN1_I9bHTyrwtcsLw2FbuVijyL6BveHM/sddefault.jpg?sqp=COjSu7YGir7X7AMICPrbubYGEAE=&rs=AOn4CLBzGEWHjOByD42zF4uT7PwthZ6KFg&v=1724804602",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxN1_I9bHTyrwtcsLw2FbuVijyL6BveHM/maxresdefault.jpg?sqp=COjSu7YGir7X7AMICPrbubYGEAE=&rs=AOn4CLAHG51rwKm3MBpLqdAya_r4Ws5JHg&v=1724804602",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Sanam",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 30
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "cTexH7FPi-RtQLyR_NtQi_xB1DA",
+      "id": "RDCLAK5uy_k5faEHND0iXJljeASESqJ3A8UtRr2FL00",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Topnejo",
+        "description": "The top and trending Sertanejo tracks in Brazil. #sertanejo #hits #top",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k5faEHND0iXJljeASESqJ3A8UtRr2FL00/mqdefault.jpg?sqp=COjSu7YGir7X7AMICIKkurYGEAE=&rs=AOn4CLD6zO0SRc7lUtzQ8DI4OKhjqh5RlA&v=1724813826",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k5faEHND0iXJljeASESqJ3A8UtRr2FL00/sddefault.jpg?sqp=COjSu7YGir7X7AMICIKkurYGEAE=&rs=AOn4CLBXStTVIeGXmPA2AbTOMFOETniyiQ&v=1724813826",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k5faEHND0iXJljeASESqJ3A8UtRr2FL00/maxresdefault.jpg?sqp=COjSu7YGir7X7AMICIKkurYGEAE=&rs=AOn4CLCaN1kIzT3A_VGvbWdgHzmGZO6apg&v=1724813826",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Topnejo",
+          "description": "The top and trending Sertanejo tracks in Brazil. #sertanejo #hits #top"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 51
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "eNaN2iP7UYeBOKXvAiVwYk2wR04",
+      "id": "RDCLAK5uy_kgeLVqVzYg76Fb7ntLgv0Qevj-nQjb7-U",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Sunitha Upadrasta",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kgeLVqVzYg76Fb7ntLgv0Qevj-nQjb7-U/mqdefault.jpg?sqp=COjSu7YGir7X7AMICIy4t7YGEAE=&rs=AOn4CLARDy1Nfwnp1JCjla8Iy1r8jdO1Sw&v=1724767244",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kgeLVqVzYg76Fb7ntLgv0Qevj-nQjb7-U/sddefault.jpg?sqp=COjSu7YGir7X7AMICIy4t7YGEAE=&rs=AOn4CLCIcj5kXzW9ehHtdwLM6ao3-2v_kw&v=1724767244",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kgeLVqVzYg76Fb7ntLgv0Qevj-nQjb7-U/maxresdefault.jpg?sqp=COjSu7YGir7X7AMICIy4t7YGEAE=&rs=AOn4CLCEYjBAEoP24ElrIyipk72AruLlow&v=1724767244",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Sunitha Upadrasta",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 30
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "hUwM8cjD8WEacOv2E4jC-S5Iptc",
+      "id": "RDCLAK5uy_mobUQoWWE7bCp6QlBYKVF3TPITZUhvTM8",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Tollywood Romance",
+        "description": "Set the mood for romance with these beautiful Telugu love songs. #telugu #romance #lovesongs",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mobUQoWWE7bCp6QlBYKVF3TPITZUhvTM8/mqdefault.jpg?sqp=COjSu7YGir7X7AMICNDHuLYGEAE=&rs=AOn4CLAJZMAp6J0R0HguXVNNYUSRBSJzrw&v=1724785616",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mobUQoWWE7bCp6QlBYKVF3TPITZUhvTM8/sddefault.jpg?sqp=COjSu7YGir7X7AMICNDHuLYGEAE=&rs=AOn4CLCVMl1Fh3FBp__6PS8CPalnCYmGOQ&v=1724785616",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mobUQoWWE7bCp6QlBYKVF3TPITZUhvTM8/maxresdefault.jpg?sqp=COjSu7YGir7X7AMICNDHuLYGEAE=&rs=AOn4CLBxEexpKvw-GsjDl0M0OxpW19q5TA&v=1724785616",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Tollywood Romance",
+          "description": "Set the mood for romance with these beautiful Telugu love songs. #telugu #romance #lovesongs"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 65
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "ofnzbyeHMcCdBeT4wTnHEU3IF6U",
+      "id": "RDCLAK5uy_kMV8D6xyDudzUMstUx1-Ow5anGYJxfnrE",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Bollywood Remixes",
+        "description": "Your favorite Bollywood songs - Stirred, Shaken AND Remixed!",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kMV8D6xyDudzUMstUx1-Ow5anGYJxfnrE/mqdefault.jpg?sqp=COjSu7YGir7X7AMICISJuLYGEAE=&rs=AOn4CLCVFqQH5hkUs8Df_QBlzaL7F5bEfQ&v=1724777604",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kMV8D6xyDudzUMstUx1-Ow5anGYJxfnrE/sddefault.jpg?sqp=COjSu7YGir7X7AMICISJuLYGEAE=&rs=AOn4CLCF1CF9_flMukO8qU-KqRnwb_TAnQ&v=1724777604",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kMV8D6xyDudzUMstUx1-Ow5anGYJxfnrE/maxresdefault.jpg?sqp=COjSu7YGir7X7AMICISJuLYGEAE=&rs=AOn4CLBgMZmHXeBVATmpBBkGYnvWdzHuxA&v=1724777604",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Bollywood Remixes",
+          "description": "Your favorite Bollywood songs - Stirred, Shaken AND Remixed!"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 64
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "DYYrEEiFBD5pGdWzQNdhPwm70FE",
+      "id": "RDCLAK5uy_kaOuMxpxYVSamEzqIbmTxDg7yV6Wuzfbg",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Kana Nishino",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kaOuMxpxYVSamEzqIbmTxDg7yV6Wuzfbg/mqdefault.jpg?sqp=COjSu7YGir7X7AMICPiJuLYGEAE=&rs=AOn4CLCH4e80T0yFXSu-T6YzZ_cX2o2akw&v=1724777720",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kaOuMxpxYVSamEzqIbmTxDg7yV6Wuzfbg/sddefault.jpg?sqp=COjSu7YGir7X7AMICPiJuLYGEAE=&rs=AOn4CLDRxIfJCNkaNAwvXV84KdHh8GBIvg&v=1724777720",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kaOuMxpxYVSamEzqIbmTxDg7yV6Wuzfbg/maxresdefault.jpg?sqp=COjSu7YGir7X7AMICPiJuLYGEAE=&rs=AOn4CLDWVh6qOev-Z3cTo1PZnSqI-qpvPA&v=1724777720",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Kana Nishino",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 23
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "tcQI4DacRQBJ_41fO-jtU_OAbkI",
+      "id": "RDCLAK5uy_lUrzaYWnJvQv7UqkwbYLo9K_Qbui6WDgo",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Groovy Beats",
+        "description": "Discover the sound of the producers who combine R&B with electronic beats.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lUrzaYWnJvQv7UqkwbYLo9K_Qbui6WDgo/mqdefault.jpg?sqp=COjSu7YGir7X7AMICMLHurYGEAE=&rs=AOn4CLCu9PX5V6uoLFB00sB7Q-UIyodrSA&v=1724818370",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lUrzaYWnJvQv7UqkwbYLo9K_Qbui6WDgo/sddefault.jpg?sqp=COjSu7YGir7X7AMICMLHurYGEAE=&rs=AOn4CLCy6hCKWG96WCkP1PId4AjAv9HToQ&v=1724818370",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lUrzaYWnJvQv7UqkwbYLo9K_Qbui6WDgo/maxresdefault.jpg?sqp=COjSu7YGir7X7AMICMLHurYGEAE=&rs=AOn4CLA7vfvo8Ptn4q6HPpwRU5ZP0Rf_Yg&v=1724818370",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Groovy Beats",
+          "description": "Discover the sound of the producers who combine R&B with electronic beats."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 80
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "O9_wt3JW3vUZ-XhjF2_c3507V5g",
+      "id": "RDCLAK5uy_kskrFUGb5Tnz3-x4wyK9Q5j8RgfwQvq4k",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Fresh Feel-good Morning Pop",
+        "description": "Prepare you morning with feel good pop music. You can prepare your day with fresh energy. #pop #happy #bright",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kskrFUGb5Tnz3-x4wyK9Q5j8RgfwQvq4k/mqdefault.jpg?sqp=COjSu7YGir7X7AMICKDiuLYGEAE=&rs=AOn4CLC9yt-lIxtNZUDdl6ziuH6TIJpxfA&v=1724789024",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kskrFUGb5Tnz3-x4wyK9Q5j8RgfwQvq4k/sddefault.jpg?sqp=COjSu7YGir7X7AMICKDiuLYGEAE=&rs=AOn4CLBERGBEoO4fEPN4fTyoNgJUzYsI1Q&v=1724789024",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kskrFUGb5Tnz3-x4wyK9Q5j8RgfwQvq4k/maxresdefault.jpg?sqp=COjSu7YGir7X7AMICKDiuLYGEAE=&rs=AOn4CLBlaVvBhZViLT00Ys9bpk2RIkG4GQ&v=1724789024",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Fresh Feel-good Morning Pop",
+          "description": "Prepare you morning with feel good pop music. You can prepare your day with fresh energy. #pop #happy #bright"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 85
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "8ygO-Yeu0CH9iwVsv0tnsQtdG_I",
+      "id": "RDCLAK5uy_lGijwrgdF3idIR0G2Ylhg3pVSYzAafxHM",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Hillsong Worship",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lGijwrgdF3idIR0G2Ylhg3pVSYzAafxHM/mqdefault.jpg?sqp=COjSu7YGir7X7AMICJ_5uLYGEAE=&rs=AOn4CLClP_hEyMu_i1_1qY6lrGKTu9e2WA&v=1724791967",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lGijwrgdF3idIR0G2Ylhg3pVSYzAafxHM/sddefault.jpg?sqp=COjSu7YGir7X7AMICJ_5uLYGEAE=&rs=AOn4CLB9SEoU0izF85O1Z5d2rxwqv-RAmw&v=1724791967",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lGijwrgdF3idIR0G2Ylhg3pVSYzAafxHM/maxresdefault.jpg?sqp=COjSu7YGir7X7AMICJ_5uLYGEAE=&rs=AOn4CLDPtl3LEjMRqdlClzl6FTFFCcZ6kw&v=1724791967",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Hillsong Worship",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 47
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "kIhVm3CMI1SlUOSQ1D_U_FCXMYQ",
+      "id": "PLUvfp5G8vYamFQ9uaams4xbGoOx1sDln5",
+      "snippet": {
+        "publishedAt": "2022-10-31T11:04:19Z",
+        "channelId": "UC4XR0EZ0oHwSV2XhhShzX5A",
+        "title": "Crazy Frog - Official Video Playlist",
+        "description": "The OFFICIAL YouTube Playklist for @crazyfrog - everyone's favorite animated annoying thing!!!\nEntertainment and fun for everyone! Learn Crazy Frog's dance moves!\n\n\n✘ Homepage: https://www.crazyfrog.tv\n✘ Instagram: https://www.instagram.com/thecrazyfrogofficial\n✘ Tik Tok: https://www.tiktok.com/@crazyfrogofficial\n✘ Twitter: https://twitter.com/TrueCrazyFrog\n✘ Facebook: https://www.facebook.com/thecrazyfrogofficial\n✘ Discord: http://www.discord.gg/crazyfrog\n✘ VK: https://vk.com/crazyfrogofficial\n✘ Reddit: https://www.reddit.com/user/TheCrazyFrogOfficial\n\n#crazyfrog #playlist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k85mRPqvMbE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k85mRPqvMbE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k85mRPqvMbE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k85mRPqvMbE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k85mRPqvMbE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crazy Frog",
+        "localized": {
+          "title": "Crazy Frog - Official Video Playlist",
+          "description": "The OFFICIAL YouTube Playklist for @crazyfrog - everyone's favorite animated annoying thing!!!\nEntertainment and fun for everyone! Learn Crazy Frog's dance moves!\n\n\n✘ Homepage: https://www.crazyfrog.tv\n✘ Instagram: https://www.instagram.com/thecrazyfrogofficial\n✘ Tik Tok: https://www.tiktok.com/@crazyfrogofficial\n✘ Twitter: https://twitter.com/TrueCrazyFrog\n✘ Facebook: https://www.facebook.com/thecrazyfrogofficial\n✘ Discord: http://www.discord.gg/crazyfrog\n✘ VK: https://vk.com/crazyfrogofficial\n✘ Reddit: https://www.reddit.com/user/TheCrazyFrogOfficial\n\n#crazyfrog #playlist"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 20
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "PgyjFnohKgS0lbXqrR3xIiR491k",
+      "id": "PLYXfr3Na3Iuf8Kg__C6Fll5bapkVOXp9b",
+      "snippet": {
+        "publishedAt": "2012-10-12T01:52:28Z",
+        "channelId": "UC2gg6fzeCv6PfzxZHHmOzWw",
+        "title": "Harry Potter Complete Soundtrack Playlist",
+        "description": "Complete soundtrack playlist for all 8 Harry Potter Movies. Includes original track lists plus 6 bonus tracks for the Deathly Hallows Part 1. Enjoy!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UuPb1J_RCJM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UuPb1J_RCJM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UuPb1J_RCJM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UuPb1J_RCJM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UuPb1J_RCJM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Eggatha Crusty ",
+        "localized": {
+          "title": "Harry Potter Complete Soundtrack Playlist",
+          "description": "Complete soundtrack playlist for all 8 Harry Potter Movies. Includes original track lists plus 6 bonus tracks for the Deathly Hallows Part 1. Enjoy!"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 185
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "lB5ICnJFeGv6HTcAQZCi5i-OOZ0",
+      "id": "PL3-sRm8xAzY-w9GS19pLXMyFRTuJcuUjy",
+      "snippet": {
+        "publishedAt": "2017-04-10T14:02:05Z",
+        "channelId": "UC1XC2O_MgSQk_GC2S25rP-w",
+        "title": "SAD SONGS 2024 - Sad Love Songs Playlist",
+        "description": "SAD SONGS 2024 - Sad Love Songs Playlist\n\nEvery week, we update our playlist with the new top sad songs. To stay in the loop on all the new releases each week, save this playlist!\n\nsad songs\nsad songs that make you cry\nsad song 😭😭😭💔💔💔\nsad music\nsad songs playlist\ndepressing songs\nsad playlist\nsad songs 2024\nsad love songs\nsad song playlist\nemotional songs\nsad mix\nsongs that will make you cry\n\nSad songs January 2024, February 2024, March 2024, April 2024, May 2024, June 2024, July 2024, August 2024, September 2024, October 2024, November 2024, December 2024 etc.\n\nyou can find this as:\nSAD SONGS PLAYLIST.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jkj36B1YuDU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jkj36B1YuDU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jkj36B1YuDU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Jkj36B1YuDU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Jkj36B1YuDU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "AT Charts",
+        "localized": {
+          "title": "SAD SONGS 2024 - Sad Love Songs Playlist",
+          "description": "SAD SONGS 2024 - Sad Love Songs Playlist\n\nEvery week, we update our playlist with the new top sad songs. To stay in the loop on all the new releases each week, save this playlist!\n\nsad songs\nsad songs that make you cry\nsad song 😭😭😭💔💔💔\nsad music\nsad songs playlist\ndepressing songs\nsad playlist\nsad songs 2024\nsad love songs\nsad song playlist\nemotional songs\nsad mix\nsongs that will make you cry\n\nSad songs January 2024, February 2024, March 2024, April 2024, May 2024, June 2024, July 2024, August 2024, September 2024, October 2024, November 2024, December 2024 etc.\n\nyou can find this as:\nSAD SONGS PLAYLIST."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 140
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "odLVyUZbYcxD59TsRCSnrrkD-fo",
+      "id": "PLTKjnpVikK4ycqAixW-HfeShSjZn2v9l8",
+      "snippet": {
+        "publishedAt": "2018-03-01T06:22:13Z",
+        "channelId": "UClHPb_TaaM8knq7GZ9PdtxA",
+        "title": "Best Christian Rap Songs 2024 (Christian Rap Music Playlist)",
+        "description": "Best Christian Rap Songs 2024 (Christian Rap Music Playlist)\n\nIf you liked this playlist, we recommend you also listen to these music lists:\n\n1. Christian Rap 2024 Lyrics - Popular Christian Rap Songs 2024 with Lyrics (Urban Christian Music 2024-2025) - https://goplaylists.com/56751\n2. Christian Rap Music - Best Christian Rap Playlist - Popular Christian Rap - Good Christian Rap Songs - https://goplaylists.com/87579\n\nFind our playlist with these keywords: christian rap hits 2024, best christian hip hop, inspirational rap music, rap songs, gospel rap playlist, spiritual hip hop songs, christian rappers 2024, top christian rap, motivational christian music, christian hip hop artists, uplifting rap music, christian rappers, top christian rap songs, popular christian rappers, christian music rap, rap hymns, contemporary christian rap, urban christian music\n\nDive into the flow of beats and bars that uplift and inspire with this carefully curated playlist of the best Christian rap songs of the year. Feel the power of faith-driven lyrics coupled with hard-hitting rhythms that resonate beyond the surface. These tracks are not just about delivering a message, but about revolutionizing the genre with positivity and purpose. Every song is a journey through stories of struggle, triumph, and redemption, all set to the soundtrack of cutting-edge Christian rap that's breaking barriers and touching hearts. Turn up the volume and let the truth in the music speak to your soul 🎧\n\nIn the next year, the playlist is going to be titled: Best Christian Rap Songs 2025 (Christian Rap Music Playlist)\n Last year, the playlist was titled: Best Christian Rap Songs 2023 (Christian Rap Music Playlist)\n\nShare your thoughts on our playlist: contact@red-music.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MW_5jZ67z9E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MW_5jZ67z9E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MW_5jZ67z9E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MW_5jZ67z9E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "MEDLEY.ARTEMIS",
+        "localized": {
+          "title": "Best Christian Rap Songs 2024 (Christian Rap Music Playlist)",
+          "description": "Best Christian Rap Songs 2024 (Christian Rap Music Playlist)\n\nIf you liked this playlist, we recommend you also listen to these music lists:\n\n1. Christian Rap 2024 Lyrics - Popular Christian Rap Songs 2024 with Lyrics (Urban Christian Music 2024-2025) - https://goplaylists.com/56751\n2. Christian Rap Music - Best Christian Rap Playlist - Popular Christian Rap - Good Christian Rap Songs - https://goplaylists.com/87579\n\nFind our playlist with these keywords: christian rap hits 2024, best christian hip hop, inspirational rap music, rap songs, gospel rap playlist, spiritual hip hop songs, christian rappers 2024, top christian rap, motivational christian music, christian hip hop artists, uplifting rap music, christian rappers, top christian rap songs, popular christian rappers, christian music rap, rap hymns, contemporary christian rap, urban christian music\n\nDive into the flow of beats and bars that uplift and inspire with this carefully curated playlist of the best Christian rap songs of the year. Feel the power of faith-driven lyrics coupled with hard-hitting rhythms that resonate beyond the surface. These tracks are not just about delivering a message, but about revolutionizing the genre with positivity and purpose. Every song is a journey through stories of struggle, triumph, and redemption, all set to the soundtrack of cutting-edge Christian rap that's breaking barriers and touching hearts. Turn up the volume and let the truth in the music speak to your soul 🎧\n\nIn the next year, the playlist is going to be titled: Best Christian Rap Songs 2025 (Christian Rap Music Playlist)\n Last year, the playlist was titled: Best Christian Rap Songs 2023 (Christian Rap Music Playlist)\n\nShare your thoughts on our playlist: contact@red-music.com"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 40
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "wHiKhAToopgAJ_2cna01NC4Il4I",
+      "id": "PLDIoUOhQQPlWm_njQtKkNIk5RYSGgzomm",
+      "snippet": {
+        "publishedAt": "2016-04-29T07:26:56Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Songs with Lyrics Playlist - My Mix - English Songs 2024 with lyrics",
+        "description": "Songs with Lyrics Playlist - My Mix - English Songs 2024 with lyrics\n\nListen to latest favourite songs right now. Stream your favourite music and read the lyrics. Explore the unique community features that help you express yourself.\n\nmy mix\nsongs with lyrics playlist\ngood songs to listen to\nmy mix playlist\nsongs with lyrics mix\nrandom songs\nlyrics mix\nmy mix music\nenglish songs mix\nenglish songs with lyrics\nsongs with lyrics\nmy mix song\nenglish songs 2024 with lyrics\nlyrics\n\nNew songs january 2024, february 2024, march 2024, April 2024, May 2024, June 2024, July 2024, August 2024, September 2024, October 2024, November 2024, December 2024 etc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rxmtHVSVjdo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rxmtHVSVjdo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rxmtHVSVjdo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rxmtHVSVjdo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rxmtHVSVjdo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "localized": {
+          "title": "Songs with Lyrics Playlist - My Mix - English Songs 2024 with lyrics",
+          "description": "Songs with Lyrics Playlist - My Mix - English Songs 2024 with lyrics\n\nListen to latest favourite songs right now. Stream your favourite music and read the lyrics. Explore the unique community features that help you express yourself.\n\nmy mix\nsongs with lyrics playlist\ngood songs to listen to\nmy mix playlist\nsongs with lyrics mix\nrandom songs\nlyrics mix\nmy mix music\nenglish songs mix\nenglish songs with lyrics\nsongs with lyrics\nmy mix song\nenglish songs 2024 with lyrics\nlyrics\n\nNew songs january 2024, february 2024, march 2024, April 2024, May 2024, June 2024, July 2024, August 2024, September 2024, October 2024, November 2024, December 2024 etc."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 100
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "z9J-Yg_f9SPdH9KoR4ywbf9FBN4",
+      "id": "PLI_7Mg2Z_-4IzxbySOWX5xNT7vDV2HCgG",
+      "snippet": {
+        "publishedAt": "2015-10-08T08:20:13Z",
+        "channelId": "UC8Ojfs-1VLiAO_MosLwvjpQ",
+        "title": "Best Cumbia Songs Playlist - Top Cumbia Hits of All Time",
+        "description": "Best Cumbia Songs Playlist - Top Cumbia Hits of All Time\n\nIf you liked this playlist, we recommend you also listen to these music lists:\n\n1. Top 100 Colombia Songs 2024 ♫  Colombian Music Playlist 2024 - https://play.redlist.com/3405\n2. Cumbia Music 2024 - Top Cumbia Songs 2024-2025 (Playlist Cumbia 2024 Hits) - https://goplaylists.com/74214\n\nFind our playlist with these keywords: cumbia mix, cumbia music, cumbia songs, best cumbia songs, best of cumbia playlist, top cumbia hits, cumbia playlist hits, best colombian songs, popular cumbia songs, colombian music mix, famous cumbia songs, cumbia playlist, top 10 colombian songs, most famous colombian songs, colombia music hits, top colombian songs of all time, cumbia hits playlist, songs from columbia, top cumbia songs, greatest cumbia hits \n\nStep into the vibrant world of Cumbia with a playlist featuring the most iconic artists and their unforgettable tunes. From the legendary rhythms of Los Ángeles Azules, the magnetic sounds of Raymix, to the modern beats of Camilo and the timeless tunes of La Sonora Dinamita, every song is a journey into the heart of Cumbia. Not forgetting contributions from artists like Smiley, Paul Damixie, Ke Personajes, and Rodrigo Tapari, each of these songs encapsulates the essence of this beloved genre. Experience the best music and let Cumbia's soulful beats take you away!\n\nShare your thoughts on our playlist: contact@red-music.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k76BgIb89-s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k76BgIb89-s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k76BgIb89-s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k76BgIb89-s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k76BgIb89-s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist - Ultimate Music",
+        "localized": {
+          "title": "Best Cumbia Songs Playlist - Top Cumbia Hits of All Time",
+          "description": "Best Cumbia Songs Playlist - Top Cumbia Hits of All Time\n\nIf you liked this playlist, we recommend you also listen to these music lists:\n\n1. Top 100 Colombia Songs 2024 ♫  Colombian Music Playlist 2024 - https://play.redlist.com/3405\n2. Cumbia Music 2024 - Top Cumbia Songs 2024-2025 (Playlist Cumbia 2024 Hits) - https://goplaylists.com/74214\n\nFind our playlist with these keywords: cumbia mix, cumbia music, cumbia songs, best cumbia songs, best of cumbia playlist, top cumbia hits, cumbia playlist hits, best colombian songs, popular cumbia songs, colombian music mix, famous cumbia songs, cumbia playlist, top 10 colombian songs, most famous colombian songs, colombia music hits, top colombian songs of all time, cumbia hits playlist, songs from columbia, top cumbia songs, greatest cumbia hits \n\nStep into the vibrant world of Cumbia with a playlist featuring the most iconic artists and their unforgettable tunes. From the legendary rhythms of Los Ángeles Azules, the magnetic sounds of Raymix, to the modern beats of Camilo and the timeless tunes of La Sonora Dinamita, every song is a journey into the heart of Cumbia. Not forgetting contributions from artists like Smiley, Paul Damixie, Ke Personajes, and Rodrigo Tapari, each of these songs encapsulates the essence of this beloved genre. Experience the best music and let Cumbia's soulful beats take you away!\n\nShare your thoughts on our playlist: contact@red-music.com"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 70
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "qvN0MmV1y5-Fuh6DPBshbV2t7FQ",
+      "id": "PLTo6svdhIL1cxS4ffGueFpVCF756ip-ab",
+      "snippet": {
+        "publishedAt": "2019-12-13T01:02:57Z",
+        "channelId": "UCPw_qwoYuvJH6K2HF20xDWA",
+        "title": "TikTok Songs 2024 - TikTok Songs Playlist - Tik Tok Music 2024",
+        "description": "TikTok Songs 2024 - TikTok Songs Playlist - Tik Tok Music 2024\n\nThe playlist accompanies our weekly Best TikTok Songs right now. To stay in the loop on all the new releases each week, save this playlist!\n\ntiktok songs\ntiktok songs 2024\ntik tok songs\ntiktok song\ntiktok songs playlist\ntiktok music\ntiktok playlist 2024\ntiktok playlist\npopular tiktok songs\ntop tiktok songs 2024\nbest tiktok songs\ntiktok music 2024\ntiktok trending songs\ntiktok 2024 songs\ntiktok song playlist\nfamous tiktok songs\ntiktok viral songs\n\nTikTok songs january 2024, february 2024, march 2024, April 2024, May 2024, June 2024, July 2024, August 2024, September 2024, October 2024, November 2024, December 2024 etc.\n\nyou can find this as:\ntiktok songs 2023 - tiktok 2023 playlist.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/87d8bN3kBGc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/87d8bN3kBGc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/87d8bN3kBGc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/87d8bN3kBGc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/87d8bN3kBGc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cloudland",
+        "localized": {
+          "title": "TikTok Songs 2024 - TikTok Songs Playlist - Tik Tok Music 2024",
+          "description": "TikTok Songs 2024 - TikTok Songs Playlist - Tik Tok Music 2024\n\nThe playlist accompanies our weekly Best TikTok Songs right now. To stay in the loop on all the new releases each week, save this playlist!\n\ntiktok songs\ntiktok songs 2024\ntik tok songs\ntiktok song\ntiktok songs playlist\ntiktok music\ntiktok playlist 2024\ntiktok playlist\npopular tiktok songs\ntop tiktok songs 2024\nbest tiktok songs\ntiktok music 2024\ntiktok trending songs\ntiktok 2024 songs\ntiktok song playlist\nfamous tiktok songs\ntiktok viral songs\n\nTikTok songs january 2024, february 2024, march 2024, April 2024, May 2024, June 2024, July 2024, August 2024, September 2024, October 2024, November 2024, December 2024 etc.\n\nyou can find this as:\ntiktok songs 2023 - tiktok 2023 playlist."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 120
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "2oqCKHyrTmh3vKVU7MjVSwYVpG8",
+      "id": "PLG2ZRMcng2eqf048ISRlwwQXYyXkoJZOf",
+      "snippet": {
+        "publishedAt": "2015-12-01T21:35:21Z",
+        "channelId": "UCcKxZzWKezUfFMsAUSiMY8A",
+        "title": "Don Moen Live Worship Songs Playlist",
+        "description": "This playlist features live worship songs from Don including \"How Great Thou Art\" w/ Loyiso Bala, \"God Will Make A Way\", \"I Want to Be Where You Are\", \"Thank You Lord\" and many more. Come and worship with Don!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sax4aTgZ9dw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sax4aTgZ9dw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sax4aTgZ9dw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sax4aTgZ9dw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sax4aTgZ9dw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DonMoenTV",
+        "localized": {
+          "title": "Don Moen Live Worship Songs Playlist",
+          "description": "This playlist features live worship songs from Don including \"How Great Thou Art\" w/ Loyiso Bala, \"God Will Make A Way\", \"I Want to Be Where You Are\", \"Thank You Lord\" and many more. Come and worship with Don!"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 69
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "riuBR-xP5fmaFCj_fzAFHI7f3Ts",
+      "id": "PL129E71D8CE85579C",
+      "snippet": {
+        "publishedAt": "2011-09-27T15:54:53Z",
+        "channelId": "UCb_pjWhLsl39RKCxqhGV_FA",
+        "title": "planetshakers playlist",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SgSOW4faDXE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SgSOW4faDXE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SgSOW4faDXE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zheny Amar",
+        "localized": {
+          "title": "planetshakers playlist",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 29
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "tVGXqoVS0j9vtaxEAJi9jXgpSmg",
+      "id": "PLGBuKfnErZlBY9HuzOCx69yJaX5494Isl",
+      "snippet": {
+        "publishedAt": "2018-11-16T12:06:44Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Late 90s Early 2000s Hits Playlist - Best Songs of Late 90s Early 2000s",
+        "description": "Late 90s Early 2000s Hits Playlist - Best Songs of Late 90s Early 2000s\n\nIf you liked this playlist, we recommend you also listen to these music lists:\n\n1. Greatest 90s Music Hits - Best Songs of 1990 to 2000 - https://play.redlist.com/6132\n2. 90s Hits Playlist Full Songs - Best Music 1990 to 2000 ♫ - https://goplaylists.com/6266\n\nFind our playlist with these keywords: late 90s hits, early 2000s songs, best music 90s, popular songs 1990, old songs 90s 00s, 1990 to 2000 hit songs, old songs 1990 to 2000, late 90s early 2000s hits, early 2000s hits, 90s hits playlist, 90s 2000s hits, 2000's music hits playlist, music playlist 1990s and 2000s, songs 1990 hits playlist, hit songs 1900 to 2000, top 1900 songs list, best of 1990 songs playlist, songs 1990 to 2000 hits\n\nRelive the musical era that defined a generation with hits from Aqua, 50 Cent, Eminem, Linkin Park, Evanescence, Nelly, Dr. Dre, Backstreet Boys, Audioslave, Smash Mouth, Fugees, The Black Eyed Peas, Bon Jovi, Mary J. Blige, System Of A Down, and Gorillaz. Let the nostalgia flow as you groove to some of the best music of the late 90s and early 2000s. From hip-hop beats to heart-pounding rock tunes, every song captures the essence and rhythm of a time when music was truly revolutionary 🎧🎶\n\nShare your thoughts on our playlist: contact@red-music.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Eo-KmOd3i7s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Eo-KmOd3i7s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Eo-KmOd3i7s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Eo-KmOd3i7s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Eo-KmOd3i7s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "localized": {
+          "title": "Late 90s Early 2000s Hits Playlist - Best Songs of Late 90s Early 2000s",
+          "description": "Late 90s Early 2000s Hits Playlist - Best Songs of Late 90s Early 2000s\n\nIf you liked this playlist, we recommend you also listen to these music lists:\n\n1. Greatest 90s Music Hits - Best Songs of 1990 to 2000 - https://play.redlist.com/6132\n2. 90s Hits Playlist Full Songs - Best Music 1990 to 2000 ♫ - https://goplaylists.com/6266\n\nFind our playlist with these keywords: late 90s hits, early 2000s songs, best music 90s, popular songs 1990, old songs 90s 00s, 1990 to 2000 hit songs, old songs 1990 to 2000, late 90s early 2000s hits, early 2000s hits, 90s hits playlist, 90s 2000s hits, 2000's music hits playlist, music playlist 1990s and 2000s, songs 1990 hits playlist, hit songs 1900 to 2000, top 1900 songs list, best of 1990 songs playlist, songs 1990 to 2000 hits\n\nRelive the musical era that defined a generation with hits from Aqua, 50 Cent, Eminem, Linkin Park, Evanescence, Nelly, Dr. Dre, Backstreet Boys, Audioslave, Smash Mouth, Fugees, The Black Eyed Peas, Bon Jovi, Mary J. Blige, System Of A Down, and Gorillaz. Let the nostalgia flow as you groove to some of the best music of the late 90s and early 2000s. From hip-hop beats to heart-pounding rock tunes, every song captures the essence and rhythm of a time when music was truly revolutionary 🎧🎶\n\nShare your thoughts on our playlist: contact@red-music.com"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 150
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "EDY27a9Rhn8orSFNRPcmzaEh4EY",
+      "id": "PLem9vLZEVqmZ5H67lelbDER05kG8FcF-u",
+      "snippet": {
+        "publishedAt": "2013-01-12T22:38:59Z",
+        "channelId": "UCnujJ9CusMSwEs8yjlBzzAw",
+        "title": "Top Pop Songs of 2012 (Hits) - Playlist Research, About.com",
+        "description": "Top Pop Songs of 2012 According to playlist research\nSorted by popularity, shuffle for variety.\n\nTop Pop Songs of 2013 - https://www.youtube.com/playlist?list=PLem9vLZEVqmZ93W_-w7SbuooTvtUMOejH\n\nhttp://www.playlistresearch.com/2010s/2012pop.htm\nhttp://top40.about.com/od/top10lists/tp/top-100-Songs-of-2012.htm",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8UVNT4wvIGY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8UVNT4wvIGY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8UVNT4wvIGY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8UVNT4wvIGY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8UVNT4wvIGY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Christian W",
+        "localized": {
+          "title": "Top Pop Songs of 2012 (Hits) - Playlist Research, About.com",
+          "description": "Top Pop Songs of 2012 According to playlist research\nSorted by popularity, shuffle for variety.\n\nTop Pop Songs of 2013 - https://www.youtube.com/playlist?list=PLem9vLZEVqmZ93W_-w7SbuooTvtUMOejH\n\nhttp://www.playlistresearch.com/2010s/2012pop.htm\nhttp://top40.about.com/od/top10lists/tp/top-100-Songs-of-2012.htm"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 135
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "5ox8w2BrijdEqKm4LLiGOToauRg",
+      "id": "PL2C6E87117167B7C6",
+      "snippet": {
+        "publishedAt": "2012-03-06T16:01:15Z",
+        "channelId": "UCUg8KhMXhFxJm-YQzOQ7nPw",
+        "title": "James Blunt - Official Videos Playlist",
+        "description": "All of James Blunt's official music videos in one playlist including 'You're Beautiful ,'Goodbye My Lover', 'Wisemen', '1973', 'Stay The Night', 'Bonfire Heart', and ‘Monsters' \n\nSubscribe for more official content from James Blunt: https://Atlantic.lnk.to/JamesBluntSubscribe \n\nFollow James on:\nhttp://jamesblunt.com\nTwitter: http://twitter.com/jamesblunt\nFacebook: http://facebook.com/jamesblunt\nInstagram: http://instagram.com/jamesblunt\n\nJames Blunt is an internationally acclaimed multi-million selling artist known for his powerful performances, distinctive voice and a knack for crafting melodic, contemporary pop songs. \n \nHis catalogue includes 2004's 'Back to Bedlam', which became the one of the best selling albums of the Noughties, as well as albums All The Lost Souls, Some Kind Of Trouble, Moon Landing, The Afterlove and Once Upon A Mind.\n\n#JamesBlunt #OfficialVideos #Playlist",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oofSnsGkops/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oofSnsGkops/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oofSnsGkops/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oofSnsGkops/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oofSnsGkops/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "James Blunt",
+        "localized": {
+          "title": "James Blunt - Official Videos Playlist",
+          "description": "All of James Blunt's official music videos in one playlist including 'You're Beautiful ,'Goodbye My Lover', 'Wisemen', '1973', 'Stay The Night', 'Bonfire Heart', and ‘Monsters' \n\nSubscribe for more official content from James Blunt: https://Atlantic.lnk.to/JamesBluntSubscribe \n\nFollow James on:\nhttp://jamesblunt.com\nTwitter: http://twitter.com/jamesblunt\nFacebook: http://facebook.com/jamesblunt\nInstagram: http://instagram.com/jamesblunt\n\nJames Blunt is an internationally acclaimed multi-million selling artist known for his powerful performances, distinctive voice and a knack for crafting melodic, contemporary pop songs. \n \nHis catalogue includes 2004's 'Back to Bedlam', which became the one of the best selling albums of the Noughties, as well as albums All The Lost Souls, Some Kind Of Trouble, Moon Landing, The Afterlove and Once Upon A Mind.\n\n#JamesBlunt #OfficialVideos #Playlist"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 51
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "GGu6_a454V8PKTpaOBWPZaxeOW4",
+      "id": "PLPbMT4wSxX8957v3P_YoSHXn7-GeR0gCh",
+      "snippet": {
+        "publishedAt": "2016-04-14T20:20:26Z",
+        "channelId": "UCp0GnNlxOsQnDjy97CCU4aA",
+        "title": "Road Trip Songs - Best Driving Music Playlist",
+        "description": "Road Trip Songs - Best Driving Music Playlist\n\nFind our playlist with these keywords:\n\nIf you liked this playlist, we recommend you also listen to these music lists:\n\n1. Best Road Trip Sing Along Songs - Music to Listen to While Driving (Playlist Updated Weekly 2024) - https://play.redlist.com/1699\n2. Summer Road Trip Songs - Popular Summer Travel Music Mix (Playlist Updated in 2024) - https://play.redlist.com/68260\n\nFind our playlist with these keywords: best driving songs, road trip hits, driving music playlist, ultimate road trip songs, essential driving songs, songs for the road, long drive music, best songs for driving, driving playlist, driving songs playlist, perfect road trip songs, ultimate driving mix, songs to drive to, top songs for road trips, travel music, car songs, travel playlist, road music playlist, best road journey songs.\n\nHit the open road with the perfect soundtrack! Featuring artists like Doja Cat, Rema, Selena Gomez, The Weeknd, James Arthur, Wiz Khalifa, Charlie Puth, Mark Ronson, Bruno Mars, Adele, Michaël Brun, Anne-Marie, Becky G, Ed Sheeran, and Post Malone & Swae Lee, this playlist is designed to elevate every moment behind the wheel. From uplifting beats to soulful tunes, dive into a musical journey that matches the thrill of the journey. Let the best music guide your adventures and amplify your driving experience.\n\nShare your thoughts on our playlist: contact@red-music.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Iuuu-o72yLQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Iuuu-o72yLQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Iuuu-o72yLQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Iuuu-o72yLQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Iuuu-o72yLQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist - Top Music",
+        "localized": {
+          "title": "Road Trip Songs - Best Driving Music Playlist",
+          "description": "Road Trip Songs - Best Driving Music Playlist\n\nFind our playlist with these keywords:\n\nIf you liked this playlist, we recommend you also listen to these music lists:\n\n1. Best Road Trip Sing Along Songs - Music to Listen to While Driving (Playlist Updated Weekly 2024) - https://play.redlist.com/1699\n2. Summer Road Trip Songs - Popular Summer Travel Music Mix (Playlist Updated in 2024) - https://play.redlist.com/68260\n\nFind our playlist with these keywords: best driving songs, road trip hits, driving music playlist, ultimate road trip songs, essential driving songs, songs for the road, long drive music, best songs for driving, driving playlist, driving songs playlist, perfect road trip songs, ultimate driving mix, songs to drive to, top songs for road trips, travel music, car songs, travel playlist, road music playlist, best road journey songs.\n\nHit the open road with the perfect soundtrack! Featuring artists like Doja Cat, Rema, Selena Gomez, The Weeknd, James Arthur, Wiz Khalifa, Charlie Puth, Mark Ronson, Bruno Mars, Adele, Michaël Brun, Anne-Marie, Becky G, Ed Sheeran, and Post Malone & Swae Lee, this playlist is designed to elevate every moment behind the wheel. From uplifting beats to soulful tunes, dive into a musical journey that matches the thrill of the journey. Let the best music guide your adventures and amplify your driving experience.\n\nShare your thoughts on our playlist: contact@red-music.com"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 200
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "wnuVW1J7Ktt1SPvKCuz4nyHSJo4",
+      "id": "PL171A6536C5FDFD95",
+      "snippet": {
+        "publishedAt": "2012-02-17T14:37:33Z",
+        "channelId": "UCaisXKBdNOYqGr2qOXCLchQ",
+        "title": "Iron Maiden - Official Music Videos Playlist",
+        "description": "Watch all of Iron Maiden's official music videos including classic hits such as 'The Number Of The Beast', ‘The Trooper’, ‘Wasted Years’, ‘Hallowed Be Thy Name’, ‘Wasting Love’, ‘Run To The Hills’, ‘Aces High’, ‘Rime Of The Ancient Mariner’ and ‘2 Minutes to Midnight’.\n\nABOUT IRON MAIDEN:\nIron Maiden are an institution. Over the course of six decades they have come to embody a spirit of fearless creative independence, ferocious dedication to their fans, and a cheerful indifference to their critics that’s won them a following that spans every culture, generation, and time-zone. A story of gritty determination and courageous defiance of the naysayers, theirs has been an adventure like no other.\n\nThe band’s immense discography includes the studio albums ‘The Number Of The Beast’, ‘Piece Of Mind’, ‘Powerslave, ‘Somewhere In Time’, ‘Seventh Son Of A Seventh Son’, ‘Fear Of The Dark’, ‘The Final Frontier’ and ‘The Book Of Souls’ \n\n#IronMaiden",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WxnN05vOuSM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WxnN05vOuSM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WxnN05vOuSM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WxnN05vOuSM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WxnN05vOuSM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Iron Maiden",
+        "localized": {
+          "title": "Iron Maiden - Official Music Videos Playlist",
+          "description": "Watch all of Iron Maiden's official music videos including classic hits such as 'The Number Of The Beast', ‘The Trooper’, ‘Wasted Years’, ‘Hallowed Be Thy Name’, ‘Wasting Love’, ‘Run To The Hills’, ‘Aces High’, ‘Rime Of The Ancient Mariner’ and ‘2 Minutes to Midnight’.\n\nABOUT IRON MAIDEN:\nIron Maiden are an institution. Over the course of six decades they have come to embody a spirit of fearless creative independence, ferocious dedication to their fans, and a cheerful indifference to their critics that’s won them a following that spans every culture, generation, and time-zone. A story of gritty determination and courageous defiance of the naysayers, theirs has been an adventure like no other.\n\nThe band’s immense discography includes the studio albums ‘The Number Of The Beast’, ‘Piece Of Mind’, ‘Powerslave, ‘Somewhere In Time’, ‘Seventh Son Of A Seventh Son’, ‘Fear Of The Dark’, ‘The Final Frontier’ and ‘The Book Of Souls’ \n\n#IronMaiden"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 43
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "iRioxZqA3rZ6zDfQpR895xlE9Yw",
+      "id": "PL4BrNFx1j7E5qDxSPIkeXgBqX0J7WaB2a",
+      "snippet": {
+        "publishedAt": "2017-01-07T05:55:47Z",
+        "channelId": "UCk9Vi2DSLUzDGNO2JvWWvYA",
+        "title": "The Ultimate Movie Score Playlist",
+        "description": "The greatest film scores and themes from soundtracks. Including:\nJohn Williams | Hans Zimmer | Danny Elfman | Howard Shore | James Horner | Ennio Morricone | Thomas Newman | John Barry | Alan Silvestri | Elmer Bernstein | Henry Mancini | Basil Poledouris | Bill Conti",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/maA5bCx3_Jk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/maA5bCx3_Jk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/maA5bCx3_Jk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/maA5bCx3_Jk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/maA5bCx3_Jk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Doogie",
+        "localized": {
+          "title": "The Ultimate Movie Score Playlist",
+          "description": "The greatest film scores and themes from soundtracks. Including:\nJohn Williams | Hans Zimmer | Danny Elfman | Howard Shore | James Horner | Ennio Morricone | Thomas Newman | John Barry | Alan Silvestri | Elmer Bernstein | Henry Mancini | Basil Poledouris | Bill Conti"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 248
+      }
+    }
+  ]
+}

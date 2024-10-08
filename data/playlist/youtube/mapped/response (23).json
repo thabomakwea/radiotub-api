@@ -1,0 +1,1388 @@
+{
+    "kind": "youtube#playlistListResponse",
+    "etag": "6KHiCx5Xi6yLEEXr3IaFY482Zl8",
+    "pageInfo": {
+        "totalResults": 26,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#playlist",
+            "etag": "wXyeOT-icMDWgy810kP9Gd_MJ_o",
+            "id": "RDCLAK5uy_keaRtcQ8WBDIVLCzPzNFHex7WwRZDaedI",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Thai Rock Love Songs",
+                "description": "Even rockers get dumped, but luckily, they write beautiful songs about it.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_keaRtcQ8WBDIVLCzPzNFHex7WwRZDaedI/mqdefault.jpg?sqp=CMTalbgGir7X7AMICM_ElbgGEAE=&rs=AOn4CLDjNb4U8J9kxg8-GbGO9Mn7X_Me5w&v=1728406095",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_keaRtcQ8WBDIVLCzPzNFHex7WwRZDaedI/sddefault.jpg?sqp=CMTalbgGir7X7AMICM_ElbgGEAE=&rs=AOn4CLCdtBIRs95QXEKELRTo74JgM85_UA&v=1728406095",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_keaRtcQ8WBDIVLCzPzNFHex7WwRZDaedI/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICM_ElbgGEAE=&rs=AOn4CLAG7pBGyKQdDnFMh45snfsJpfsFPQ&v=1728406095",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Thai Rock Love Songs",
+                    "description": "Even rockers get dumped, but luckily, they write beautiful songs about it."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/giMvJzQzcUY6t9IKhz4hlEuXXi3XJrAsiUoXAjZImWbzkzb04tNfTxkBKm2kPW1y9Z1ogTX1kFL2BQo=w544-h544-l90-rj"
+                },
+                "category_1": "Rock",
+                "category_2": "Love",
+                "category_3": "Songs",
+                "category_4": "Beautiful",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 99
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "qy-17-baTTEZpkR_1ywYii6AIuc",
+            "id": "RDCLAK5uy_mcMBXir4RT5m0mkGIRtbwFOtD4nbiVSvg",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Midnight Romance: Hindi",
+                "description": "Nothing like great music to set the mood. Press play & let the magic unfold.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mcMBXir4RT5m0mkGIRtbwFOtD4nbiVSvg/mqdefault.jpg?sqp=CMTalbgGir7X7AMICL2nkrgGEAE=&rs=AOn4CLDgC9f-3H8FZijbpjHbhJh-vCzxYQ&v=1728353213",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mcMBXir4RT5m0mkGIRtbwFOtD4nbiVSvg/sddefault.jpg?sqp=CMTalbgGir7X7AMICL2nkrgGEAE=&rs=AOn4CLC3wv-2s7AAsoft7aruid-k05tq6g&v=1728353213",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mcMBXir4RT5m0mkGIRtbwFOtD4nbiVSvg/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICL2nkrgGEAE=&rs=AOn4CLCfFjAKVOUlZO0659ylAwr-t6Tp2A&v=1728353213",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Midnight Romance: Hindi",
+                    "description": "Nothing like great music to set the mood. Press play & let the magic unfold."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/TB9V8jYL6-p5hILLzHY57SKvg_HR7qo3OuSjoFXzdPHnHJy1Bm0kUdNdt_IAo3uuGIlgFdhpK1qNR6U=w544-h544-l90-rj"
+                },
+                "category_1": "Romance",
+                "category_2": "Hindi",
+                "category_3": "Music",
+                "category_4": "Mood",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 80
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "TnRDaFcaspAXKnPK1lqvv-2ZaI0",
+            "id": "RDCLAK5uy_mzHBpepNVBonVKx_0pqB-ifQyLLqIfssk",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Presenting Ilaiyaraaja (Telugu)",
+                "description": "The most played hits and essential tracks.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mzHBpepNVBonVKx_0pqB-ifQyLLqIfssk/mqdefault.jpg?sqp=CMTalbgGir7X7AMICIvUk7gGEAE=&rs=AOn4CLChwEk1ThHooLrYkaN4_Ujm1-SbFQ&v=1728375307",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mzHBpepNVBonVKx_0pqB-ifQyLLqIfssk/sddefault.jpg?sqp=CMTalbgGir7X7AMICIvUk7gGEAE=&rs=AOn4CLARom-g4VhAK3V9Y0wydmRFZoPOUg&v=1728375307",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mzHBpepNVBonVKx_0pqB-ifQyLLqIfssk/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICIvUk7gGEAE=&rs=AOn4CLAtDamOaSdsZU5MnShPWjRUoUAy5A&v=1728375307",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Presenting Ilaiyaraaja (Telugu)",
+                    "description": "The most played hits and essential tracks."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/GMZG0havZ3JoQqIkxW_I_pLEw8LabbebOkm68RY0mg4-mMak1BGnz1kXsyr6w6zATpla1x_P8Unzn-g=w544-h544-l90-rj"
+                },
+                "category_1": "Hits",
+                "category_2": "Essential",
+                "category_3": "Tracks",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 50
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "SIjPYwI3dDLSDL6jc9OaXlCwJCk",
+            "id": "RDCLAK5uy_mAb8LspEF2XjOQzfuZXEOdQhara0BXoh8",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "The Love Up North",
+                "description": "Meet the Canadian R&B singers introducing new sounds and taking the world to new levels. Featuring Dylan Sinclair.\n",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mAb8LspEF2XjOQzfuZXEOdQhara0BXoh8/mqdefault.jpg?sqp=CMTalbgGir7X7AMICJrOlLgGEAE=&rs=AOn4CLDDaTRTG9bCfHanpFSG6IzeDxnCqA&v=1728390938",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mAb8LspEF2XjOQzfuZXEOdQhara0BXoh8/sddefault.jpg?sqp=CMTalbgGir7X7AMICJrOlLgGEAE=&rs=AOn4CLAw4V8nCbxgUImdQl6ej0x7Rnj9fg&v=1728390938",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mAb8LspEF2XjOQzfuZXEOdQhara0BXoh8/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICJrOlLgGEAE=&rs=AOn4CLDab-Bj9uRas1JADNdVTN_smIBUdA&v=1728390938",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "The Love Up North",
+                    "description": "Meet the Canadian R&B singers introducing new sounds and taking the world to new levels. Featuring Dylan Sinclair.\n"
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/637rx1EbCWhQpWZw0CeFNy3lkW26XTnMtctITJ_N4uPqyuvoudxnfZLS65FFxeigfaYdrvlAlDCuWDcy=w544-h544-l90-rj"
+                },
+                "category_1": "Love",
+                "category_2": "Singers",
+                "category_3": "New",
+                "category_4": "Sounds",
+                "category_5": "Sound",
+                "category_6": "World",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 246
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "VLnuXVc86p8m4W8VJuZOSBx5UAc",
+            "id": "RDCLAK5uy_m8-hn_Dh2IINzL4vpN_vnafTZflvH30pM",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Malayalam Hits 2023",
+                "description": "Experience the sound of 2023 with this collection of some of the biggest Malayalam hits of the year.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m8-hn_Dh2IINzL4vpN_vnafTZflvH30pM/mqdefault.jpg?sqp=CMTalbgGir7X7AMICPLgkLgGEAE=&rs=AOn4CLApSab9Ex-5vTy6Xrni-1sMBVAoFg&v=1728327794",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m8-hn_Dh2IINzL4vpN_vnafTZflvH30pM/sddefault.jpg?sqp=CMTalbgGir7X7AMICPLgkLgGEAE=&rs=AOn4CLBGwrHy5FcumShHmGl4iGsKlunT0g&v=1728327794",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m8-hn_Dh2IINzL4vpN_vnafTZflvH30pM/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICPLgkLgGEAE=&rs=AOn4CLAUscdAbQytT16ZUCjfKCWN5X1sWw&v=1728327794",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Malayalam Hits 2023",
+                    "description": "Experience the sound of 2023 with this collection of some of the biggest Malayalam hits of the year."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/6mU9P-5zFeTkcPbCVskoI9MNqcUzH1qqrxFanttIPZEv2dEh3MbaoxSe5Cwa9pr-EU8pi9lIV0-FQlc=w544-h544-l90-rj"
+                },
+                "category_1": "Hits",
+                "category_2": "Sound",
+                "category_3": "Collection",
+                "category_4": "Biggest",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 40
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "YAz2UjWZm7CxcCnO4Gvm5-AT0jo",
+            "id": "RDCLAK5uy_kiDNaS5nAXxdzsqFElFKKKs0GUEFJE26w",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "90s Bollywood Dance",
+                "description": "Give into these glorious, fun tunes of the '90s and dance like no one's watching.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kiDNaS5nAXxdzsqFElFKKKs0GUEFJE26w/mqdefault.jpg?sqp=CMTalbgGir7X7AMICL25k7gGEAE=&rs=AOn4CLC11rEdRkDx1hoa4yrO_Ym9gOmZVA&v=1728371901",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kiDNaS5nAXxdzsqFElFKKKs0GUEFJE26w/sddefault.jpg?sqp=CMTalbgGir7X7AMICL25k7gGEAE=&rs=AOn4CLA1PXZ1geIv9sh9vOMx0YY6Tmxz3Q&v=1728371901",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kiDNaS5nAXxdzsqFElFKKKs0GUEFJE26w/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICL25k7gGEAE=&rs=AOn4CLDDzaU7uriRtE_TC0vpPXuvwlfkpQ&v=1728371901",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "90s Bollywood Dance",
+                    "description": "Give into these glorious, fun tunes of the '90s and dance like no one's watching."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/IMQLaE7L11DZSd6PQtaOZFwB768oj_HFFAmbG6sGUTiaVxbZOe60A-mz_JLToS3MUklveRLwtg-rQeM=w544-h544-l90-rj"
+                },
+                "category_1": "Bollywood",
+                "category_2": "Dance",
+                "category_3": "Tune",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 50
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "wSktgppVGLCOkD4UsmwLSwc8sWE",
+            "id": "RDCLAK5uy_k2f_-SF4oCrVKPcgHNVifHzjEHkNbvszU",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "OPM Unwind",
+                "description": "Your favorite easy listening OPM",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k2f_-SF4oCrVKPcgHNVifHzjEHkNbvszU/mqdefault.jpg?sqp=CMTalbgGir7X7AMICJbSkrgGEAE=&rs=AOn4CLBmAe9rY2TxqYQLZLFED_wwW0XNsQ&v=1728358678",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k2f_-SF4oCrVKPcgHNVifHzjEHkNbvszU/sddefault.jpg?sqp=CMTalbgGir7X7AMICJbSkrgGEAE=&rs=AOn4CLBMp6knCKi4HlyWv0HjlwGvnkgA9g&v=1728358678",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k2f_-SF4oCrVKPcgHNVifHzjEHkNbvszU/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICJbSkrgGEAE=&rs=AOn4CLC0BJtVS47hZo_th8LRWRVbXijgAA&v=1728358678",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "OPM Unwind",
+                    "description": "Your favorite easy listening OPM"
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/L5V2fnbBmVSxCqSN5xpksT6u2QNDGOYOQ07S10nmYLadOaYPtE9V7PgczUEqcxVbKPUk_OQ6cvVdNKAr=w544-h544-l90-rj"
+                },
+                "category_1": "Listen",
+                "category_2": "",
+                "category_3": "",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 50
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "J7_SzFSvNtf1eyaLcCVuRRwr7fk",
+            "id": "RDCLAK5uy_ncaFTt9dB4EzwWswnnV2p3L7qf4EXD0S0",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Tamil Hits 2023",
+                "description": "Experience the sound of 2023 with this collection of some of the biggest Tamil hits of the year.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ncaFTt9dB4EzwWswnnV2p3L7qf4EXD0S0/mqdefault.jpg?sqp=CMTalbgGir7X7AMICPyLkrgGEAE=&rs=AOn4CLB5o77jHxehM3T75dLgatIPZOiaNw&v=1728349692",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ncaFTt9dB4EzwWswnnV2p3L7qf4EXD0S0/sddefault.jpg?sqp=CMTalbgGir7X7AMICPyLkrgGEAE=&rs=AOn4CLCm_51IVvDkAV-iA-i-PrKDC4afdw&v=1728349692",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ncaFTt9dB4EzwWswnnV2p3L7qf4EXD0S0/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICPyLkrgGEAE=&rs=AOn4CLBxqFDGciZvgVc_zITniJDd_VhdDg&v=1728349692",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Tamil Hits 2023",
+                    "description": "Experience the sound of 2023 with this collection of some of the biggest Tamil hits of the year."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/IRPy3DMJ-nmOKzDttTEmLX3diG2EL0NgTO4ikbbukoAjyg4ijgqnYCheeD2dS8oTZINPN_2SsqbYIQ=w544-h544-l90-rj"
+                },
+                "category_1": "Hits",
+                "category_2": "Sound",
+                "category_3": "Collection",
+                "category_4": "Biggest",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 50
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "2fmqK-e-zIbsmMisUNHAK6dAh7U",
+            "id": "RDCLAK5uy_mnCTdYlF0zmjxm2QxgTpZE4hPQKMD5wYI",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Rainbow Love \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+                "description": "Celebrate love across the spectrum",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mnCTdYlF0zmjxm2QxgTpZE4hPQKMD5wYI/mqdefault.jpg?sqp=CMTalbgGir7X7AMICIfNkbgGEAE=&rs=AOn4CLDieDaBtG1rMhHIODXjlK3LUp54YQ&v=1728341639",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mnCTdYlF0zmjxm2QxgTpZE4hPQKMD5wYI/sddefault.jpg?sqp=CMTalbgGir7X7AMICIfNkbgGEAE=&rs=AOn4CLA0W8r7dNHIRKM3nraSVg98OYgoQA&v=1728341639",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mnCTdYlF0zmjxm2QxgTpZE4hPQKMD5wYI/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICIfNkbgGEAE=&rs=AOn4CLBl7lHhSVeIiXtLvJTWYN5VPVBm1g&v=1728341639",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Rainbow Love \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+                    "description": "Celebrate love across the spectrum"
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/9-GA4TovUi2FSRZdoWaURl4JNOaHaRjiTVxJ6n1M5VSMvOvh2fiYig_JdMVjOfQlRrTdw372YUpo9A=w544-h544-l90-rj"
+                },
+                "category_1": "Love",
+                "category_2": "",
+                "category_3": "",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 31
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "f8mDmOJKl-7VGARQdeaLIrVsvUo",
+            "id": "RDCLAK5uy_ms55UKAmQE5XAkphnhV1GPaWnd6fx_5Fc",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "90s Sing-Alongs",
+                "description": "Give your vocal chords a proper '90s workout with this collection of classics from the decade of britpop and boy bands.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ms55UKAmQE5XAkphnhV1GPaWnd6fx_5Fc/mqdefault.jpg?sqp=CMTalbgGir7X7AMICO-blbgGEAE=&rs=AOn4CLBIgTLkSvBmYStqQZVz8utIopPxpw&v=1728400879",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ms55UKAmQE5XAkphnhV1GPaWnd6fx_5Fc/sddefault.jpg?sqp=CMTalbgGir7X7AMICO-blbgGEAE=&rs=AOn4CLAgBUOWoCsr0PoWRNef4Kt4Wvw1ZQ&v=1728400879",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ms55UKAmQE5XAkphnhV1GPaWnd6fx_5Fc/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICO-blbgGEAE=&rs=AOn4CLAazawyx4-pUWqB7-LGA1TFoTTLcA&v=1728400879",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "90s Sing-Alongs",
+                    "description": "Give your vocal chords a proper '90s workout with this collection of classics from the decade of britpop and boy bands."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/sCpJfqYGRvN8YqugjJJ3LPujuc8OjLhInGuyg172T0XwmcgSRh5Nrl6oQpWpU8U5DMYCJ8slXzo9-g=w544-h544-l90-rj"
+                },
+                "category_1": "Singalong",
+                "category_2": "Vocal",
+                "category_3": "Workout",
+                "category_4": "Collection",
+                "category_5": "Classic",
+                "category_6": "Pop",
+                "category_7": "Bands",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 80
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "LVtGttMXArNCbCQACtEVJUTlqd0",
+            "id": "RDCLAK5uy_nShVU3b5eU0KnzD-WEKUPevjxqHCi_bLo",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Cozy Up Indie",
+                "description": "Cuddle up to these warm and fuzzy indie tracks, the perfect cold-weather antidote.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nShVU3b5eU0KnzD-WEKUPevjxqHCi_bLo/mqdefault.jpg?sqp=CMTalbgGir7X7AMICIHDkLgGEAE=&rs=AOn4CLAhfoNdiXEtpr0uZP9yf8J5tOMe8A&v=1728323969",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nShVU3b5eU0KnzD-WEKUPevjxqHCi_bLo/sddefault.jpg?sqp=CMTalbgGir7X7AMICIHDkLgGEAE=&rs=AOn4CLBhPIaefDJGTxMW1R5tpHkknwm0oA&v=1728323969",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nShVU3b5eU0KnzD-WEKUPevjxqHCi_bLo/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICIHDkLgGEAE=&rs=AOn4CLAaNI7wv9V-hccLFUnguIL2L5ZggA&v=1728323969",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Cozy Up Indie",
+                    "description": "Cuddle up to these warm and fuzzy indie tracks, the perfect cold-weather antidote."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/zFj7bFNltCWBD8TIdBH2r2RY3JOiSx0EtXpJDI6hnkhQkCTJgdqVOyN-rXtIW2S91Rpep5LD2XX8JA=w544-h544-l90-rj"
+                },
+                "category_1": "Cozy",
+                "category_2": "Indie",
+                "category_3": "Warm",
+                "category_4": "Tracks",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 113
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "09o4o36ePSKZvm55LAta5w8NNxE",
+            "id": "RDCLAK5uy_nUYyVbOpSSt7KMST3NamWI_zTjZqmGn2o",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "OPM Urban",
+                "description": "Favorite tracks in the Filipino Hip-Hop",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nUYyVbOpSSt7KMST3NamWI_zTjZqmGn2o/mqdefault.jpg?sqp=CMTalbgGir7X7AMICJankrgGEAE=&rs=AOn4CLBHlwdoojEKk9QI4U3I9BBqakzUWQ&v=1728353174",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nUYyVbOpSSt7KMST3NamWI_zTjZqmGn2o/sddefault.jpg?sqp=CMTalbgGir7X7AMICJankrgGEAE=&rs=AOn4CLDv4QVRbz_yfg91h_geNdcbm3fueQ&v=1728353174",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nUYyVbOpSSt7KMST3NamWI_zTjZqmGn2o/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICJankrgGEAE=&rs=AOn4CLDReCrjKaLoUo4zr2h2owNoWk7DSg&v=1728353174",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "OPM Urban",
+                    "description": "Favorite tracks in the Filipino Hip-Hop"
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/op5PATilENzcdOeEXWqdS83DJ1IygqfXPtOdDSSdLnOAiZd0f-s42yqjnU7vLsKL_7w5Su18fTBr7BgZ=w544-h544-l90-rj"
+                },
+                "category_1": "Tracks",
+                "category_2": "Filipino",
+                "category_3": "",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 65
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "4e70M8xRtKGe7OGkFghOvUr9XhY",
+            "id": "RDCLAK5uy_kCO40RkB9MzrBJF8p6uDcMP7tq2SUmrOE",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Bollywood Heartbreak",
+                "description": "Listen to these heart wrenching songs from Bollywood. #hindi #sad #indianpop",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kCO40RkB9MzrBJF8p6uDcMP7tq2SUmrOE/mqdefault.jpg?sqp=CMTalbgGir7X7AMICLzGkrgGEAE=&rs=AOn4CLDlxlFirOA6YbxncSXJS2642Z094g&v=1728357180",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kCO40RkB9MzrBJF8p6uDcMP7tq2SUmrOE/sddefault.jpg?sqp=CMTalbgGir7X7AMICLzGkrgGEAE=&rs=AOn4CLDxGIPOaW_sy24as8yikbgd9tvNRA&v=1728357180",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kCO40RkB9MzrBJF8p6uDcMP7tq2SUmrOE/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICLzGkrgGEAE=&rs=AOn4CLDosm8N7vC9sBUX_aPO6hsNYof9kA&v=1728357180",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Bollywood Heartbreak",
+                    "description": "Listen to these heart wrenching songs from Bollywood. #hindi #sad #indianpop"
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/EQxoWuw5wSbWOOHEHhBnIZm9ND785kawZfnk4d1lqYA-mqY9GQeeuX4q3shOwfPnCfIBDrQrZH87KoQ=w544-h544-l90-rj"
+                },
+                "category_1": "Bollywood",
+                "category_2": "Heartbreak",
+                "category_3": "Heart",
+                "category_4": "Listen",
+                "category_5": "Songs",
+                "category_6": "Hindi",
+                "category_7": "Sad",
+                "category_8": "Pop",
+                "category_9": "Indian",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 70
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "8diWEUESczwrc-oWj8AKWD4yEw0",
+            "id": "RDCLAK5uy_mgEm8q7vw-VJ8DeKUOCZqKgileRj9GnQ4",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Bollywood Romance Essentials",
+                "description": "Biggest hits to crowd favorites, enjoy the best of Bollywood Romance. #hindi #lovesongs #10s",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mgEm8q7vw-VJ8DeKUOCZqKgileRj9GnQ4/mqdefault.jpg?sqp=CMTalbgGir7X7AMICK30krgGEAE=&rs=AOn4CLAdIfqGGwFs0DVvxFzsBBacbLyATw&v=1728363053",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mgEm8q7vw-VJ8DeKUOCZqKgileRj9GnQ4/sddefault.jpg?sqp=CMTalbgGir7X7AMICK30krgGEAE=&rs=AOn4CLCVj5S1T7M8NbUjt_iHuP-kWTw7lw&v=1728363053",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mgEm8q7vw-VJ8DeKUOCZqKgileRj9GnQ4/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICK30krgGEAE=&rs=AOn4CLA7qxMLUjwvk6KYLCiIQXpimMH9IQ&v=1728363053",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Bollywood Romance Essentials",
+                    "description": "Biggest hits to crowd favorites, enjoy the best of Bollywood Romance. #hindi #lovesongs #10s"
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/9qpJ63LHirkn5sLN4GJG0k7MKZCmfRliGlTNNchq7o1HGPFyOeL8Z5c7qjFy7z5BUNxa6MxbE4_-4pI=w544-h544-l90-rj"
+                },
+                "category_1": "Bollywood",
+                "category_2": "Romance",
+                "category_3": "Essential",
+                "category_4": "Biggest",
+                "category_5": "Hits",
+                "category_6": "Enjoy",
+                "category_7": "Best",
+                "category_8": "Hindi",
+                "category_9": "Love",
+                "category_10": "Songs"
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 85
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "9H-ShEsWLtI65ee_szSvVEbq4vY",
+            "id": "RDCLAK5uy_nnp6booEkZvsSJJWVCPuqOe2kGW_YrJec",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Mellow Modern Love",
+                "description": "Get under a blanket and relax with these modern easy-listening serenades.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nnp6booEkZvsSJJWVCPuqOe2kGW_YrJec/mqdefault.jpg?sqp=CMTalbgGir7X7AMICNP7krgGEAE=&rs=AOn4CLD_AEeL1P6bm4Bb-G9gz7ky2WA6ew&v=1728363987",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nnp6booEkZvsSJJWVCPuqOe2kGW_YrJec/sddefault.jpg?sqp=CMTalbgGir7X7AMICNP7krgGEAE=&rs=AOn4CLDcW7sxzs9X18ly2kE2yzdBspz5TQ&v=1728363987",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nnp6booEkZvsSJJWVCPuqOe2kGW_YrJec/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICNP7krgGEAE=&rs=AOn4CLCPi2YWRs2JaZg8W2XbgByl0WHsGg&v=1728363987",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Mellow Modern Love",
+                    "description": "Get under a blanket and relax with these modern easy-listening serenades."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/OeFN686OgZKVuFitLPkeRWDSxz5iuhfsSvji4U6xKoc8Fs5tX7vi27Q2n7xlreUkvyJzWIDQ1FuCJL0=w512-h512-l90-rj"
+                },
+                "category_1": "Mellow",
+                "category_2": "Modern",
+                "category_3": "Love",
+                "category_4": "Relax",
+                "category_5": "Listen",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 70
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "LteqMHP3gQAMaM42ZxQ8cIWyYnQ",
+            "id": "RDCLAK5uy_kkkmhZXFpAZyn2AQ8GmnHfS1lP70KvHmE",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Touching Korean Ballad",
+                "description": "Touching Korean Ballads will warm up your day.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kkkmhZXFpAZyn2AQ8GmnHfS1lP70KvHmE/mqdefault.jpg?sqp=CMTalbgGir7X7AMICPjmk7gGEAE=&rs=AOn4CLD6t2PqRP6WARoIRqhwBJkxjpsilw&v=1728377720",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kkkmhZXFpAZyn2AQ8GmnHfS1lP70KvHmE/sddefault.jpg?sqp=CMTalbgGir7X7AMICPjmk7gGEAE=&rs=AOn4CLAJrMFy61sfN0gPAk-lmwf8lFL-zg&v=1728377720",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kkkmhZXFpAZyn2AQ8GmnHfS1lP70KvHmE/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICPjmk7gGEAE=&rs=AOn4CLCQOdXzugH1f4OOopuJHA0qyNTxRg&v=1728377720",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Touching Korean Ballad",
+                    "description": "Touching Korean Ballads will warm up your day."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/1KVUTj7GqOM9w7a6q5Pw_QL9SlwtuTxeANZjhtEH_fXJyD5F-nN7j-oHgyyZ4TxbxFkk7YWICcJJgw=w544-h544-l90-rj"
+                },
+                "category_1": "Korean",
+                "category_2": "Ballads",
+                "category_3": "Warm",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 77
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "ib52XDz4tPxQjKjmfe2TDSpMJyI",
+            "id": "RDCLAK5uy_lVfgZ6Q8Cv0tGlBR8fBAQHGt5pm_Vz0PY",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Presenting Phil Collins",
+                "description": "The most played hits and essential tracks.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lVfgZ6Q8Cv0tGlBR8fBAQHGt5pm_Vz0PY/mqdefault.jpg?sqp=CMTalbgGir7X7AMICOazkrgGEAE=&rs=AOn4CLAyF-HQwYO3BHdpneGEA0_beP82Lw&v=1728354790",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lVfgZ6Q8Cv0tGlBR8fBAQHGt5pm_Vz0PY/sddefault.jpg?sqp=CMTalbgGir7X7AMICOazkrgGEAE=&rs=AOn4CLA4kqsTRh0UDAqqX5NBQ-B5kiluPg&v=1728354790",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lVfgZ6Q8Cv0tGlBR8fBAQHGt5pm_Vz0PY/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICOazkrgGEAE=&rs=AOn4CLA5NVBLKBWNKU5HNxsUPSV2CjAUDQ&v=1728354790",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Presenting Phil Collins",
+                    "description": "The most played hits and essential tracks."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/esTzmFCdRTuTBkWk_8VZ2gu_SJulZeZWhePC_FnU8Lr9AOjg6Rr81B7EEGo867kYgQejXIRhwt1MSwY=w544-h544-l90-rj"
+                },
+                "category_1": "Hits",
+                "category_2": "Essential",
+                "category_3": "Tracks",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 22
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "VXK8mKzzWaH6-JrtoWmHOuRufcQ",
+            "id": "RDCLAK5uy_n47GxdoomrFNTUFtgEbZVtRt5WaIOMbCM",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "'80s One-Hit Wonders",
+                "description": "All your favorite one-hit wonders from the '80s. #pop #80s #nostalgia ",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n47GxdoomrFNTUFtgEbZVtRt5WaIOMbCM/mqdefault.jpg?sqp=CMTalbgGir7X7AMICPOkkrgGEAE=&rs=AOn4CLA4f26OO46hY1mUg8I2sB1IoEzkrw&v=1728352883",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n47GxdoomrFNTUFtgEbZVtRt5WaIOMbCM/sddefault.jpg?sqp=CMTalbgGir7X7AMICPOkkrgGEAE=&rs=AOn4CLA_jxaMERR7FrOC-sjP_PhkJE8dxA&v=1728352883",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n47GxdoomrFNTUFtgEbZVtRt5WaIOMbCM/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICPOkkrgGEAE=&rs=AOn4CLBZtVAohpePQudwPyw0bVEM-J9WMg&v=1728352883",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "'80s One-Hit Wonders",
+                    "description": "All your favorite one-hit wonders from the '80s. #pop #80s #nostalgia "
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/g0fKpt91jF6oQUahKz5mRBB960irjAdsF8ED7IPGx19yrozlYtL18w3diAkqMVvQptwWLbG1nyVe7Y8=w544-h544-l90-rj"
+                },
+                "category_1": "Pop",
+                "category_2": "",
+                "category_3": "",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 99
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "ZekspP9rTTQm-4Sg6xGQeJR8vks",
+            "id": "RDCLAK5uy_n1fjdTc-zRtRJElUbyT4V6TUY3Eh7-4Ro",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "'10s Latin",
+                "description": "Listen to the biggest latin hits from the 2010s.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n1fjdTc-zRtRJElUbyT4V6TUY3Eh7-4Ro/mqdefault.jpg?sqp=CMTalbgGir7X7AMICKv2kbgGEAE=&rs=AOn4CLAsBN0t512Hhzqn62DUBq5eiH063g&v=1728346923",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n1fjdTc-zRtRJElUbyT4V6TUY3Eh7-4Ro/sddefault.jpg?sqp=CMTalbgGir7X7AMICKv2kbgGEAE=&rs=AOn4CLBNIm4XJv_EmADc2VsU-BfpD7t5mQ&v=1728346923",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n1fjdTc-zRtRJElUbyT4V6TUY3Eh7-4Ro/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICKv2kbgGEAE=&rs=AOn4CLCjZ2BdiSPnX8DjHGhz3VlOWaeA8A&v=1728346923",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "'10s Latin",
+                    "description": "Listen to the biggest latin hits from the 2010s."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/1405H8hnz8QnQjZuC_KI_souby7Dw4FWHtwIEJQ_fYfukcVQ2Wu9ra1ycgqb2cyHhoWnjmod4Ozpyw=w544-h544-l90-rj"
+                },
+                "category_1": "Latin",
+                "category_2": "Listen",
+                "category_3": "Biggest",
+                "category_4": "Hits",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 100
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "LwO1JWZBqZbb6DKS2d5dAv_BN04",
+            "id": "RDCLAK5uy_marQRZafMZINvyjyl_52k3oz1UJxs3Hk4",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Japan Hits: '90s",
+                "description": "Travel back to the \"CD Bubble\" of the '90s with the biggest J-Pop songs of the decade.  #jpop #90s #essentials",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_marQRZafMZINvyjyl_52k3oz1UJxs3Hk4/mqdefault.jpg?sqp=CMTalbgGir7X7AMICLnekLgGEAE=&rs=AOn4CLDDR6mbqJKCt_pfOIRKFTrkWaA96g&v=1728327481",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_marQRZafMZINvyjyl_52k3oz1UJxs3Hk4/sddefault.jpg?sqp=CMTalbgGir7X7AMICLnekLgGEAE=&rs=AOn4CLC-ek4KO3woLrZl69apNP8ZCfHqjQ&v=1728327481",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_marQRZafMZINvyjyl_52k3oz1UJxs3Hk4/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICLnekLgGEAE=&rs=AOn4CLAQ3GJT7R9F0dXYXcpQB7GeAKauWQ&v=1728327481",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Japan Hits: '90s",
+                    "description": "Travel back to the \"CD Bubble\" of the '90s with the biggest J-Pop songs of the decade.  #jpop #90s #essentials"
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/EdFA7bVuwXjRZrxKmp0yfm08Hcob8BueLK54EASZEYDNK19791kSPG0P7aKFlOBPV2Eik_cJHH0tjQ=w544-h544-l90-rj"
+                },
+                "category_1": "Hits",
+                "category_2": "Travel",
+                "category_3": "Biggest",
+                "category_4": "Pop",
+                "category_5": "Songs",
+                "category_6": "Essential",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 95
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "YUc9SVFzMBI6p42h8BL3H_2zn8c",
+            "id": "RDCLAK5uy_n8yQByOJhuqsG_L8iP8SOrcEuEKjrejuM",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "In Love",
+                "description": "The best soundtrack for Indonesian love songs. #pop #love #lovesongs",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n8yQByOJhuqsG_L8iP8SOrcEuEKjrejuM/mqdefault.jpg?sqp=CMTalbgGir7X7AMICM6Dk7gGEAE=&rs=AOn4CLAMWiNzgztEakOP1I3OHnwBuwzjAw&v=1728365006",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n8yQByOJhuqsG_L8iP8SOrcEuEKjrejuM/sddefault.jpg?sqp=CMTalbgGir7X7AMICM6Dk7gGEAE=&rs=AOn4CLDjN1KGY6Up68U4oWJ2QHJh02nVcQ&v=1728365006",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n8yQByOJhuqsG_L8iP8SOrcEuEKjrejuM/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICM6Dk7gGEAE=&rs=AOn4CLAwoSvjWz5Qz7PuRzAvWdpi9ycijA&v=1728365006",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "In Love",
+                    "description": "The best soundtrack for Indonesian love songs. #pop #love #lovesongs"
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/ShQqf2yatK1hNp7-v12nNZJr8eM5w7kEg8oOofDMHv0Fn0hsBZfI-tdTNO_SEDKXcu7VmlLTUrG7X7hP=w544-h544-l90-rj"
+                },
+                "category_1": "Love",
+                "category_2": "Best",
+                "category_3": "Soundtracks",
+                "category_4": "Tracks",
+                "category_5": "Sound",
+                "category_6": "Songs",
+                "category_7": "Pop",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 100
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "Jo96Y_sCPeBhHCkDZ9f22ms1J0w",
+            "id": "RDCLAK5uy_mobUQoWWE7bCp6QlBYKVF3TPITZUhvTM8",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Tollywood Romance",
+                "description": "Set the mood for romance with these beautiful Telugu love songs. #telugu #romance #lovesongs",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mobUQoWWE7bCp6QlBYKVF3TPITZUhvTM8/mqdefault.jpg?sqp=CMTalbgGir7X7AMICM_ikLgGEAE=&rs=AOn4CLB8YS8ROefJjscMC2FkbBghaN-rGA&v=1728328015",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mobUQoWWE7bCp6QlBYKVF3TPITZUhvTM8/sddefault.jpg?sqp=CMTalbgGir7X7AMICM_ikLgGEAE=&rs=AOn4CLCUGiN7VhoDVJRPF38WgsTTHhnPQw&v=1728328015",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mobUQoWWE7bCp6QlBYKVF3TPITZUhvTM8/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICM_ikLgGEAE=&rs=AOn4CLB0dk8E6H8YCXcquVLXAEW_5FkQYw&v=1728328015",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Tollywood Romance",
+                    "description": "Set the mood for romance with these beautiful Telugu love songs. #telugu #romance #lovesongs"
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/QUYPx_Sykt6g72KQX-N06AZU9haxQfdaRZp7DtUgKPEaHgwQLGgFfkql6MGeOecc75nsIDhd0Drq4q0S=w544-h544-l90-rj"
+                },
+                "category_1": "Romance",
+                "category_2": "Mood",
+                "category_3": "Beautiful",
+                "category_4": "Love",
+                "category_5": "Songs",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 65
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "_CXe904ay4B9tcdunn1E50wc0Bg",
+            "id": "RDCLAK5uy_lePvUIRtka0fZSLEEjKByNMYbxfyr7rGM",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Presenting Queen",
+                "description": "The most played hits and essential tracks.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lePvUIRtka0fZSLEEjKByNMYbxfyr7rGM/mqdefault.jpg?sqp=CMTalbgGir7X7AMICJz6lLgGEAE=&rs=AOn4CLDBHLyfC-2Nc_CWGLkP_GZsKNmyEg&v=1728396572",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lePvUIRtka0fZSLEEjKByNMYbxfyr7rGM/sddefault.jpg?sqp=CMTalbgGir7X7AMICJz6lLgGEAE=&rs=AOn4CLDzaD9FdZ5JQpCWjVDkrvXsEaf1Dw&v=1728396572",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lePvUIRtka0fZSLEEjKByNMYbxfyr7rGM/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICJz6lLgGEAE=&rs=AOn4CLAEFZLl9rRS5KWN74BaqnHRbtEO1w&v=1728396572",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Presenting Queen",
+                    "description": "The most played hits and essential tracks."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/Yv_EfzeSbSiGsniwtU3vZMO-JbH68ElmO4SqpW71sDHp2mWC2jNP1SSupj506Irpd9_RudYTJ02r9DyK=w544-h544-l90-rj"
+                },
+                "category_1": "Hits",
+                "category_2": "Essential",
+                "category_3": "Tracks",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 34
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "QRD2r2xjVSnI2gEERWjHV_9jwAw",
+            "id": "RDCLAK5uy_lsbm2vEBPj4k2CFjNmvf6AMRGUcJAqcsg",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Love Songs for Confession",
+                "description": " ",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lsbm2vEBPj4k2CFjNmvf6AMRGUcJAqcsg/mqdefault.jpg?sqp=CMTalbgGir7X7AMICN7MkrgGEAE=&rs=AOn4CLBvfebO220Ia-nCBaZp1xcvjbmIlQ&v=1728357982",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lsbm2vEBPj4k2CFjNmvf6AMRGUcJAqcsg/sddefault.jpg?sqp=CMTalbgGir7X7AMICN7MkrgGEAE=&rs=AOn4CLC-2oc2sF6mXwkylG_SW5gShBS3tA&v=1728357982",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lsbm2vEBPj4k2CFjNmvf6AMRGUcJAqcsg/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICN7MkrgGEAE=&rs=AOn4CLD2ufxF4DgeOzr8zE5GboJtfLzUdg&v=1728357982",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Love Songs for Confession",
+                    "description": " "
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/hEgxJDyl6urzYhswqKBhhr400piIrF6RvW2RgrrRmGO7VBeKCTBhyUWzbEBa_owblp69iPDLKSEeABCk=w544-h544-l90-rj"
+                },
+                "category_1": "Love",
+                "category_2": "Songs",
+                "category_3": "",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 63
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "CrIj4kgEZ5DQqvOLa09N19bsKcU",
+            "id": "RDCLAK5uy_lHvyZXwRwQ09MxfS5Tx-iRZABLyClrlIU",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Ukrainian Romantic Rock",
+                "description": "Chilled rock-ballads about love.\nThis playlist is no longer updated.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lHvyZXwRwQ09MxfS5Tx-iRZABLyClrlIU/mqdefault.jpg?sqp=CMTalbgGir7X7AMICLv8kLgGEAE=&rs=AOn4CLCSCjLVIlbWhaCRpnbFJdkADxcAfA&v=1728331323",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lHvyZXwRwQ09MxfS5Tx-iRZABLyClrlIU/sddefault.jpg?sqp=CMTalbgGir7X7AMICLv8kLgGEAE=&rs=AOn4CLDJb_51OLcPMC4gsQQ2a2tGNhNG1A&v=1728331323",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lHvyZXwRwQ09MxfS5Tx-iRZABLyClrlIU/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICLv8kLgGEAE=&rs=AOn4CLAcOtRa8L87fiH2k4ZjVhqBqdqjuQ&v=1728331323",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Ukrainian Romantic Rock",
+                    "description": "Chilled rock-ballads about love.\nThis playlist is no longer updated."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/wu0TpmBtW8FzHAaaEJ6empi0RtNxNfvBBBtmkbswPWiY5RqH2O1V-UbogYfAGoLH-IsUFJNEI_GrTP0l=w544-h544-l90-rj"
+                },
+                "category_1": "Rock",
+                "category_2": "Chill",
+                "category_3": "Ballads",
+                "category_4": "Love",
+                "category_5": "Playlist",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 54
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "Tii3NLS-L3O9f3vHxPqyRSxwviw",
+            "id": "RDCLAK5uy_mLINy9qpTonGQC-ruYaB7k1QSb89CsyUU",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Bollywood Retro Romance",
+                "description": "Express your true feelings with these retro gems. #hindi #retro #romance",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mLINy9qpTonGQC-ruYaB7k1QSb89CsyUU/mqdefault.jpg?sqp=CMTalbgGir7X7AMICPr_kbgGEAE=&rs=AOn4CLB2GlzPtY6cha9rlBKUbYGuys3t7Q&v=1728348154",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mLINy9qpTonGQC-ruYaB7k1QSb89CsyUU/sddefault.jpg?sqp=CMTalbgGir7X7AMICPr_kbgGEAE=&rs=AOn4CLC8mH8QrBUFLgffU2G8tZ6RTxSG2w&v=1728348154",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mLINy9qpTonGQC-ruYaB7k1QSb89CsyUU/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICPr_kbgGEAE=&rs=AOn4CLCjzxHnne1fs9PmxZXzZgNhUuPrlg&v=1728348154",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Bollywood Retro Romance",
+                    "description": "Express your true feelings with these retro gems. #hindi #retro #romance"
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/RVCILKN-rB70yS8vGl47SXzH3qbE5O1dEVgg7ch9OpHjYulXvCPVyMi4-k7rJTKJkuFFeXXc6fRVDMkl=w544-h544-l90-rj"
+                },
+                "category_1": "Bollywood",
+                "category_2": "retro",
+                "category_3": "Romance",
+                "category_4": "Feeling",
+                "category_5": "Hindi",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 50
+            }
+        }
+    ]
+}

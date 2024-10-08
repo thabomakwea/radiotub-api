@@ -1,418 +1,46 @@
 {
     "kind": "youtube#playlistListResponse",
-    "etag": "WRKvtge_np8fTWFEGNbAkowTvF8",
+    "etag": "ukD_eVR8vDyCsnmdQqw79Qe8mf0",
     "pageInfo": {
-        "totalResults": 35,
+        "totalResults": 45,
         "resultsPerPage": 50
     },
     "items": [
         {
             "kind": "youtube#playlist",
-            "etag": "72K0MpUxp0AdR9P_H4WAuNvor-I",
-            "id": "RDCLAK5uy_lWtnXAlaiK3ZZVyuRhVTZB2RgSLPMnB0o",
+            "etag": "99cIIe6grDfsRGocuVbnbEmqQPk",
+            "id": "PL5Q6z7BEEX-L0wzSr6eFU6QSl-lh7plQy",
             "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "UK Rap Hits 2023",
-                "description": "Experience the sound of 2023 with some of the biggest UK Rap hits of the year.",
-                "thumbnails": {
-                    "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lWtnXAlaiK3ZZVyuRhVTZB2RgSLPMnB0o/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICL3purYGEAE=&rs=AOn4CLBvjzQt0tpJlSeSTOOen4cdYYJv4g&v=1724822717",
-                        "width": 180,
-                        "height": 180
-                    },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lWtnXAlaiK3ZZVyuRhVTZB2RgSLPMnB0o/sddefault.jpg?sqp=CLzQu7YGir7X7AMICL3purYGEAE=&rs=AOn4CLB0vZnj8X_G8z4359dxj7NpJAFAKg&v=1724822717",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lWtnXAlaiK3ZZVyuRhVTZB2RgSLPMnB0o/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICL3purYGEAE=&rs=AOn4CLCIwLBQLaH8eZ_SbP-GsuAOWv2PzA&v=1724822717",
-                        "width": 1200,
-                        "height": 1200
-                    }
-                },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "UK Rap Hits 2023",
-                    "description": "Experience the sound of 2023 with some of the biggest UK Rap hits of the year."
-                },
-                "image": {
-                    "url": ""
-                },
-                "category_1": "Rap",
-                "category_2": "Hits",
-                "category_3": "Sound",
-                "category_4": "Biggest",
-                "category_5": "",
-                "category_6": "",
-                "category_7": "",
-                "category_8": "",
-                "category_9": "",
-                "category_10": ""
-            },
-            "status": {
-                "privacyStatus": "public"
-            },
-            "contentDetails": {
-                "itemCount": 50
-            }
-        },
-        {
-            "kind": "youtube#playlist",
-            "etag": "r6qB-TV3Eo9xqONNJJfLiSQ9qoo",
-            "id": "RDCLAK5uy_mKmpAVmMOCxy7LJ8XfYlKsfmg-jkP27b4",
-            "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Presenting  Zola",
-                "description": "The most played hits and essential tracks.",
-                "thumbnails": {
-                    "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mKmpAVmMOCxy7LJ8XfYlKsfmg-jkP27b4/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICKWjurYGEAE=&rs=AOn4CLATihEGv3gyQM4S1w1Z31UNMsajyg&v=1724813733",
-                        "width": 180,
-                        "height": 180
-                    },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mKmpAVmMOCxy7LJ8XfYlKsfmg-jkP27b4/sddefault.jpg?sqp=CLzQu7YGir7X7AMICKWjurYGEAE=&rs=AOn4CLAKf62MVu_Z1yKU6jYPtub9WPDemg&v=1724813733",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mKmpAVmMOCxy7LJ8XfYlKsfmg-jkP27b4/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICKWjurYGEAE=&rs=AOn4CLA_sQ4VIcBLKnyOIG120G0eyKl_MA&v=1724813733",
-                        "width": 1200,
-                        "height": 1200
-                    }
-                },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Presenting  Zola",
-                    "description": "The most played hits and essential tracks."
-                },
-                "image": {
-                    "url": ""
-                },
-                "category_1": "Hits",
-                "category_2": "Essential",
-                "category_3": "Tracks",
-                "category_4": "",
-                "category_5": "",
-                "category_6": "",
-                "category_7": "",
-                "category_8": "",
-                "category_9": "",
-                "category_10": ""
-            },
-            "status": {
-                "privacyStatus": "public"
-            },
-            "contentDetails": {
-                "itemCount": 16
-            }
-        },
-        {
-            "kind": "youtube#playlist",
-            "etag": "Hs1KF8xPtyHChpDSgPVRDxQA81E",
-            "id": "RDCLAK5uy_kjp6zyHpOx8iOCNf3PsYthXDWTY8ZtlW0",
-            "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Japan Hits: '00s",
-                "description": "Relive the Japanese pop music scene of the 2000s. #jpop #00s #hit",
-                "thumbnails": {
-                    "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kjp6zyHpOx8iOCNf3PsYthXDWTY8ZtlW0/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICMH5trYGEAE=&rs=AOn4CLBJgmwmhzoHMwQxO2D_St_ORP00_A&v=1724759233",
-                        "width": 180,
-                        "height": 180
-                    },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kjp6zyHpOx8iOCNf3PsYthXDWTY8ZtlW0/sddefault.jpg?sqp=CLzQu7YGir7X7AMICMH5trYGEAE=&rs=AOn4CLBk2UgR2ZC89sZMF_hunkh87qQB2w&v=1724759233",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kjp6zyHpOx8iOCNf3PsYthXDWTY8ZtlW0/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICMH5trYGEAE=&rs=AOn4CLDkorDiOav0Y9xG0bPMUPUcB9fZhQ&v=1724759233",
-                        "width": 1200,
-                        "height": 1200
-                    }
-                },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Japan Hits: '00s",
-                    "description": "Relive the Japanese pop music scene of the 2000s. #jpop #00s #hit"
-                },
-                "image": {
-                    "url": ""
-                },
-                "category_1": "Hits",
-                "category_2": "Live",
-                "category_3": "Japanese",
-                "category_4": "Pop",
-                "category_5": "Music",
-                "category_6": "",
-                "category_7": "",
-                "category_8": "",
-                "category_9": "",
-                "category_10": ""
-            },
-            "status": {
-                "privacyStatus": "public"
-            },
-            "contentDetails": {
-                "itemCount": 100
-            }
-        },
-        {
-            "kind": "youtube#playlist",
-            "etag": "bz3DXCYy1JrDjkDNeUFGqZFsMhM",
-            "id": "RDCLAK5uy_nehdVGYe-c6H-5TJC3LzjOQOQopdAJhPM",
-            "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "French Pop Urban Hits 2023",
-                "description": "French Pop Urban Hits 2023",
-                "thumbnails": {
-                    "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nehdVGYe-c6H-5TJC3LzjOQOQopdAJhPM/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICMuNt7YGEAE=&rs=AOn4CLB6_c-uMD5z-EhYlrBK7DQXxNlMaw&v=1724761803",
-                        "width": 180,
-                        "height": 180
-                    },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nehdVGYe-c6H-5TJC3LzjOQOQopdAJhPM/sddefault.jpg?sqp=CLzQu7YGir7X7AMICMuNt7YGEAE=&rs=AOn4CLDaHJ4XiGywLF0f8dkt-rz15CCV1w&v=1724761803",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nehdVGYe-c6H-5TJC3LzjOQOQopdAJhPM/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICMuNt7YGEAE=&rs=AOn4CLBh4gCn59A6Oj_KSTIWWKe0PmEJJQ&v=1724761803",
-                        "width": 1200,
-                        "height": 1200
-                    }
-                },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "French Pop Urban Hits 2023",
-                    "description": "French Pop Urban Hits 2023"
-                },
-                "image": {
-                    "url": ""
-                },
-                "category_1": "Pop",
-                "category_2": "Hits",
-                "category_3": "",
-                "category_4": "",
-                "category_5": "",
-                "category_6": "",
-                "category_7": "",
-                "category_8": "",
-                "category_9": "",
-                "category_10": ""
-            },
-            "status": {
-                "privacyStatus": "public"
-            },
-            "contentDetails": {
-                "itemCount": 50
-            }
-        },
-        {
-            "kind": "youtube#playlist",
-            "etag": "2xM46IE_iJy8asP39LFdZ_q5G-8",
-            "id": "RDCLAK5uy_k9WrixXcwLYdQ6au61ha-ZVVCM4plLuqY",
-            "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Billion Views Club - Rock",
-                "description": "Rock hits with over 1 billion music video views on YouTube.",
-                "thumbnails": {
-                    "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k9WrixXcwLYdQ6au61ha-ZVVCM4plLuqY/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICNXitrYGEAE=&rs=AOn4CLD_RdWybFLfSLnsJMgBMUaxJiZzmQ&v=1724756309",
-                        "width": 180,
-                        "height": 180
-                    },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k9WrixXcwLYdQ6au61ha-ZVVCM4plLuqY/sddefault.jpg?sqp=CLzQu7YGir7X7AMICNXitrYGEAE=&rs=AOn4CLCCOSyMwdnIkThDeVqbwcSSrxsB_A&v=1724756309",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k9WrixXcwLYdQ6au61ha-ZVVCM4plLuqY/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICNXitrYGEAE=&rs=AOn4CLA_ppQS7Qo2P9Ixtv2tY2D5UfWmUw&v=1724756309",
-                        "width": 1200,
-                        "height": 1200
-                    }
-                },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Billion Views Club - Rock",
-                    "description": "Rock hits with over 1 billion music video views on YouTube."
-                },
-                "image": {
-                    "url": ""
-                },
-                "category_1": "Club",
-                "category_2": "Rock",
-                "category_3": "Hits",
-                "category_4": "Music",
-                "category_5": "Video",
-                "category_6": "",
-                "category_7": "",
-                "category_8": "",
-                "category_9": "",
-                "category_10": ""
-            },
-            "status": {
-                "privacyStatus": "public"
-            },
-            "contentDetails": {
-                "itemCount": 39
-            }
-        },
-        {
-            "kind": "youtube#playlist",
-            "etag": "QdnGDcnRhzmpGvVkdFdfgdCpvHo",
-            "id": "RDCLAK5uy_k9aootlc1DGVMdQ69HRaML8yOhT41Ha-0",
-            "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Presenting Zach Bryan",
-                "description": "The most played hits and essential tracks.",
-                "thumbnails": {
-                    "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k9aootlc1DGVMdQ69HRaML8yOhT41Ha-0/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICPaXuLYGEAE=&rs=AOn4CLARDaykKT1M2NDL5XT8PXJ56IdCIA&v=1724779510",
-                        "width": 180,
-                        "height": 180
-                    },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k9aootlc1DGVMdQ69HRaML8yOhT41Ha-0/sddefault.jpg?sqp=CLzQu7YGir7X7AMICPaXuLYGEAE=&rs=AOn4CLBHv-p9-zfSd18s3DWlZ-Bg09_AMw&v=1724779510",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k9aootlc1DGVMdQ69HRaML8yOhT41Ha-0/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICPaXuLYGEAE=&rs=AOn4CLBOB0Yi0zFQJ3ENK9erISXZVvyStA&v=1724779510",
-                        "width": 1200,
-                        "height": 1200
-                    }
-                },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Presenting Zach Bryan",
-                    "description": "The most played hits and essential tracks."
-                },
-                "image": {
-                    "url": ""
-                },
-                "category_1": "Hits",
-                "category_2": "Essential",
-                "category_3": "Tracks",
-                "category_4": "",
-                "category_5": "",
-                "category_6": "",
-                "category_7": "",
-                "category_8": "",
-                "category_9": "",
-                "category_10": ""
-            },
-            "status": {
-                "privacyStatus": "public"
-            },
-            "contentDetails": {
-                "itemCount": 39
-            }
-        },
-        {
-            "kind": "youtube#playlist",
-            "etag": "MGc9V-U6Xnxd7uXQFyW6b4ZyOk8",
-            "id": "RDCLAK5uy_kcMSKZlz7xvLj5CFdzxceBJRnf14zWSa4",
-            "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Pop Indonesia '80-an",
-                "description": "The biggest Indonesian songs from the 80s.",
-                "thumbnails": {
-                    "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kcMSKZlz7xvLj5CFdzxceBJRnf14zWSa4/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICJPmurYGEAE=&rs=AOn4CLCaY8zI-1d5h0zw8W1GUo8HFu2U8g&v=1724822291",
-                        "width": 180,
-                        "height": 180
-                    },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kcMSKZlz7xvLj5CFdzxceBJRnf14zWSa4/sddefault.jpg?sqp=CLzQu7YGir7X7AMICJPmurYGEAE=&rs=AOn4CLA3UaUVtx1M3g-jVsC7iAeAkdcc1w&v=1724822291",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kcMSKZlz7xvLj5CFdzxceBJRnf14zWSa4/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICJPmurYGEAE=&rs=AOn4CLCJkZriYe8855w52Xb1mMlg0m14JQ&v=1724822291",
-                        "width": 1200,
-                        "height": 1200
-                    }
-                },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Pop Indonesia '80-an",
-                    "description": "The biggest Indonesian songs from the 80s."
-                },
-                "image": {
-                    "url": ""
-                },
-                "category_1": "Pop",
-                "category_2": "Biggest",
-                "category_3": "Songs",
-                "category_4": "",
-                "category_5": "",
-                "category_6": "",
-                "category_7": "",
-                "category_8": "",
-                "category_9": "",
-                "category_10": ""
-            },
-            "status": {
-                "privacyStatus": "public"
-            },
-            "contentDetails": {
-                "itemCount": 99
-            }
-        },
-        {
-            "kind": "youtube#playlist",
-            "etag": "P0v52na43yJHGcHR8NTIziJTKpE",
-            "id": "RDCLAK5uy_kj-8x0FEeCRLBI9IFyuS-E93SAqsteSs4",
-            "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Presenting Lvbel C5",
+                "publishedAt": "2018-07-09T09:39:43Z",
+                "channelId": "UChyUsKMGlKV9qiO3P1ewtsA",
+                "title": "Nederlandse Gospel",
                 "description": "",
                 "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xT3Q0ocEZ-A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
                     "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kj-8x0FEeCRLBI9IFyuS-E93SAqsteSs4/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICIyUurYGEAE=&rs=AOn4CLCShHSSDnhXLd_VQKU2-jSnF0gQuQ&v=1724811788",
-                        "width": 180,
+                        "url": "https://i.ytimg.com/vi/xT3Q0ocEZ-A/mqdefault.jpg",
+                        "width": 320,
                         "height": 180
                     },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kj-8x0FEeCRLBI9IFyuS-E93SAqsteSs4/sddefault.jpg?sqp=CLzQu7YGir7X7AMICIyUurYGEAE=&rs=AOn4CLDXX4QvHQFzWVW_WcuvC6Qsz7lNmg&v=1724811788",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kj-8x0FEeCRLBI9IFyuS-E93SAqsteSs4/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICIyUurYGEAE=&rs=AOn4CLDQVPzc6-nJSSpqFpUniMyTlcsppw&v=1724811788",
-                        "width": 1200,
-                        "height": 1200
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xT3Q0ocEZ-A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
                     }
                 },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
+                "channelTitle": "Robert Randikas",
                 "localized": {
-                    "title": "Presenting Lvbel C5",
+                    "title": "Nederlandse Gospel",
                     "description": ""
                 },
                 "image": {
-                    "url": ""
+                    "url": "https://yt3.ggpht.com/1D0u5iVA7goSzT6MgxipDwAvymH78ALd77aefanMaNRcQZ_HTQ2oHoNQx6CR3Qa70zZrhYMT5sM=s1200"
                 },
-                "category_1": "",
+                "category_1": "Gospel",
                 "category_2": "",
                 "category_3": "",
                 "category_4": "",
@@ -427,100 +55,56 @@
                 "privacyStatus": "public"
             },
             "contentDetails": {
-                "itemCount": 41
+                "itemCount": 111
             }
         },
         {
             "kind": "youtube#playlist",
-            "etag": "eKA5y7nLJ9amt3kJpZxq50jRS8o",
-            "id": "RDCLAK5uy_mj4hCBtv24qsXcCcVZjBq-6LO7DkJVqPE",
+            "etag": "IWcgyNoRCjVc9yt66QD9c4FoorM",
+            "id": "PLDTWcA-L38HrbbEZ0JkUlk0Te-LDQ1aih",
             "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Grown Folks Choice",
-                "description": "A collection of the latest and most popular songs in adult contemporary R&B.",
+                "publishedAt": "2016-12-13T16:18:52Z",
+                "channelId": "UCrCI57voctIJmVQj4Gp3hjA",
+                "title": "Melhores musicas Gospel internacional",
+                "description": "",
                 "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VH3f0ellNv8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
                     "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mj4hCBtv24qsXcCcVZjBq-6LO7DkJVqPE/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICOmxubYGEAE=&rs=AOn4CLD8lQWp1_0LD_Inl34r8tXju3zWuw&v=1724799209",
-                        "width": 180,
+                        "url": "https://i.ytimg.com/vi/VH3f0ellNv8/mqdefault.jpg",
+                        "width": 320,
                         "height": 180
                     },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mj4hCBtv24qsXcCcVZjBq-6LO7DkJVqPE/sddefault.jpg?sqp=CLzQu7YGir7X7AMICOmxubYGEAE=&rs=AOn4CLAmuC6Ya4XO7J3d3ffULi_aDNE5FQ&v=1724799209",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mj4hCBtv24qsXcCcVZjBq-6LO7DkJVqPE/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICOmxubYGEAE=&rs=AOn4CLAXKoWMIRQR87AqN9PPmFKzW1w0Sw&v=1724799209",
-                        "width": 1200,
-                        "height": 1200
-                    }
-                },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Grown Folks Choice",
-                    "description": "A collection of the latest and most popular songs in adult contemporary R&B."
-                },
-                "image": {
-                    "url": ""
-                },
-                "category_1": "Folk",
-                "category_2": "Collection",
-                "category_3": "Latest",
-                "category_4": "Pop",
-                "category_5": "Songs",
-                "category_6": "tempo",
-                "category_7": "Contemporary",
-                "category_8": "",
-                "category_9": "",
-                "category_10": ""
-            },
-            "status": {
-                "privacyStatus": "public"
-            },
-            "contentDetails": {
-                "itemCount": 221
-            }
-        },
-        {
-            "kind": "youtube#playlist",
-            "etag": "wGSkiCMn-8BXlorAuL5n1p4OmmY",
-            "id": "RDCLAK5uy_lZZgGnig5IfTZNqR-Y9AF4izHcMm3AkHI",
-            "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Presenting Sal Priadi",
-                "description": "The most played hits and essential tracks.",
-                "thumbnails": {
-                    "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lZZgGnig5IfTZNqR-Y9AF4izHcMm3AkHI/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICIzpurYGEAE=&rs=AOn4CLCciZdy9j7fV6Jtj3IUixCXM6uqqQ&v=1724822668",
-                        "width": 180,
-                        "height": 180
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VH3f0ellNv8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
                     },
                     "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lZZgGnig5IfTZNqR-Y9AF4izHcMm3AkHI/sddefault.jpg?sqp=CLzQu7YGir7X7AMICIzpurYGEAE=&rs=AOn4CLC3dKz4iyyJRhFHtkJTgxL-mTQjng&v=1724822668",
+                        "url": "https://i.ytimg.com/vi/VH3f0ellNv8/sddefault.jpg",
                         "width": 640,
-                        "height": 640
+                        "height": 480
                     },
                     "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lZZgGnig5IfTZNqR-Y9AF4izHcMm3AkHI/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICIzpurYGEAE=&rs=AOn4CLDCyhTw3f3ELLPwIdp-pjx6ApJyCA&v=1724822668",
-                        "width": 1200,
-                        "height": 1200
+                        "url": "https://i.ytimg.com/vi/VH3f0ellNv8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
                     }
                 },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
+                "channelTitle": "Vida Crist\u00e3",
                 "localized": {
-                    "title": "Presenting Sal Priadi",
-                    "description": "The most played hits and essential tracks."
+                    "title": "Melhores musicas Gospel internacional",
+                    "description": ""
                 },
                 "image": {
-                    "url": ""
+                    "url": "https://i.ytimg.com/vi/VH3f0ellNv8/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3mohRsgjjdCHONTCTOIaWa1R51DTA"
                 },
-                "category_1": "Hits",
-                "category_2": "Essential",
-                "category_3": "Tracks",
+                "category_1": "Music",
+                "category_2": "Gospel",
+                "category_3": "",
                 "category_4": "",
                 "category_5": "",
                 "category_6": "",
@@ -533,50 +117,54 @@
                 "privacyStatus": "public"
             },
             "contentDetails": {
-                "itemCount": 20
+                "itemCount": 15
             }
         },
         {
             "kind": "youtube#playlist",
-            "etag": "z0JyCREGsN9BTNLVKTN8-mXUfP0",
-            "id": "RDCLAK5uy_mknwc9CM60PJypevnZTvYjInAIv31un6o",
+            "etag": "9ARTzA9g7We6m2bVDya9s8MRLsE",
+            "id": "PLZPusUm3vCVwGxzqj3D5_IJ5fr9Si3TON",
             "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Dance & Electronic Hits 2023",
-                "description": "Experience the sound of 2023 with this collection of some of the biggest dance & electronic hits of the year. #ytmDance",
+                "publishedAt": "2023-04-20T12:27:30Z",
+                "channelId": "UCtaFBfqhlb32__vOXO4Ac2g",
+                "title": "Namakwa Gospel",
+                "description": "",
                 "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jCdvuSFwqG8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
                     "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mknwc9CM60PJypevnZTvYjInAIv31un6o/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICJrlubYGEAE=&rs=AOn4CLABFrB_UMAYd_f-3VeJDyvV4yW9gw&v=1724805786",
-                        "width": 180,
+                        "url": "https://i.ytimg.com/vi/jCdvuSFwqG8/mqdefault.jpg",
+                        "width": 320,
                         "height": 180
                     },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mknwc9CM60PJypevnZTvYjInAIv31un6o/sddefault.jpg?sqp=CLzQu7YGir7X7AMICJrlubYGEAE=&rs=AOn4CLBxJjZJkhGgQCU2eOyumuMp-EuyJg&v=1724805786",
-                        "width": 640,
-                        "height": 640
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jCdvuSFwqG8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
                     },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mknwc9CM60PJypevnZTvYjInAIv31un6o/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICJrlubYGEAE=&rs=AOn4CLDVNjUIUwf6Op70DqFHTn9oNOnE1g&v=1724805786",
-                        "width": 1200,
-                        "height": 1200
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jCdvuSFwqG8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
                     }
                 },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
+                "channelTitle": "RAP AMERICAN 2 Pac ",
                 "localized": {
-                    "title": "Dance & Electronic Hits 2023",
-                    "description": "Experience the sound of 2023 with this collection of some of the biggest dance & electronic hits of the year. #ytmDance"
+                    "title": "Namakwa Gospel",
+                    "description": ""
                 },
                 "image": {
-                    "url": ""
+                    "url": "https://yt3.googleusercontent.com/FJpF1x2ZcjW37ZwgC-YDeyYC1LpQw0K9IESiMU_GYpr5qrMFvP6Xs4VTiZYXyMynBqbOIX84ww=s1200"
                 },
-                "category_1": "Dance",
-                "category_2": "Electronic",
-                "category_3": "Hits",
-                "category_4": "Sound",
-                "category_5": "Collection",
-                "category_6": "Biggest",
+                "category_1": "Gospel",
+                "category_2": "",
+                "category_3": "",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
                 "category_7": "",
                 "category_8": "",
                 "category_9": "",
@@ -586,48 +174,1420 @@
                 "privacyStatus": "public"
             },
             "contentDetails": {
-                "itemCount": 59
+                "itemCount": 30
             }
         },
         {
             "kind": "youtube#playlist",
-            "etag": "vXUnXgfEcd9ThOkOFFj7j9HdVMM",
-            "id": "RDCLAK5uy_nE3uiRORpi9xNsE8pJB9OayIOCC9l3vOM",
+            "etag": "GK0iusF7UU9CSB22z1fBflz4gos",
+            "id": "PLoTu_hkQkbJz5IvVOlC1Q50NEOx2HVfhN",
             "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Presenting Kaka",
-                "description": "The most played hits and essential tracks.",
+                "publishedAt": "2022-02-20T23:40:01Z",
+                "channelId": "UCjlU0yTfgqCzRxCcHWB6Umw",
+                "title": "TRACE GOSPEL",
+                "description": "",
                 "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mC-zw0zCCtg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
                     "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nE3uiRORpi9xNsE8pJB9OayIOCC9l3vOM/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICJb99rIGEAE=&rs=AOn4CLApxKVpFxfI6pWDdDpXKVv0QPZ5Kw&v=1717419670",
-                        "width": 180,
+                        "url": "https://i.ytimg.com/vi/mC-zw0zCCtg/mqdefault.jpg",
+                        "width": 320,
                         "height": 180
                     },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mC-zw0zCCtg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
                     "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nE3uiRORpi9xNsE8pJB9OayIOCC9l3vOM/sddefault.jpg?sqp=CLzQu7YGir7X7AMICJb99rIGEAE=&rs=AOn4CLDkCT_0wWC5Rw_dsZWUKisPIcYBAA&v=1717419670",
+                        "url": "https://i.ytimg.com/vi/mC-zw0zCCtg/sddefault.jpg",
                         "width": 640,
-                        "height": 640
+                        "height": 480
                     },
                     "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nE3uiRORpi9xNsE8pJB9OayIOCC9l3vOM/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICJb99rIGEAE=&rs=AOn4CLDnIlyfyFdVN3jE7lH953sb3IiqEw&v=1717419670",
-                        "width": 1200,
-                        "height": 1200
+                        "url": "https://i.ytimg.com/vi/mC-zw0zCCtg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
                     }
                 },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
+                "channelTitle": "alusine Sesay",
                 "localized": {
-                    "title": "Presenting Kaka",
-                    "description": "The most played hits and essential tracks."
+                    "title": "TRACE GOSPEL",
+                    "description": ""
+                },
+                "image": {
+                    "url": "https://yt3.ggpht.com/o5IDvj7Q-aHXFP4xYwTXBhUMOq8AYnL7W7t46_pxUFOy07OAYLXlOLguPArMM5_j6DxI65dRTncN=s1200"
+                },
+                "category_1": "Gospel",
+                "category_2": "",
+                "category_3": "",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 40
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "fqC5WccCoeq1aEOtw1WqRPdU7e8",
+            "id": "PLpH4DAcQO_DSfVXidxEcS5ea0v-gTK24-",
+            "snippet": {
+                "publishedAt": "2024-05-14T20:09:13Z",
+                "channelId": "UC9f8nkCgMRt9bC3ytDbRnOw",
+                "title": "gospel",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7YNvERJZzbE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7YNvERJZzbE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7YNvERJZzbE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7YNvERJZzbE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7YNvERJZzbE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Mrianna Poplap",
+                "localized": {
+                    "title": "gospel",
+                    "description": ""
+                },
+                "image": {
+                    "url": "https://yt3.googleusercontent.com/Uh1uuLqrEyBeM2qRlNO_zIbCZ2ATBiufK4G1kLmbyr54MeXaMKaCqRnFApxedSsws79HJA3udQ=s1200"
+                },
+                "category_1": "Gospel",
+                "category_2": "",
+                "category_3": "",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 13
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "oEr4ezQJi4ZmVk8OdG3VKL09kwE",
+            "id": "PL70FA5B820D9BD556",
+            "snippet": {
+                "publishedAt": "2009-04-03T18:52:00Z",
+                "channelId": "UC9L15ROnmCCIYBHjQP2Qv0w",
+                "title": "Gospel Songs with Lyrics",
+                "description": "Gospel Songs with Lyrics",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/COQ6cni_TG8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/COQ6cni_TG8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/COQ6cni_TG8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SilasJSantos",
+                "localized": {
+                    "title": "Gospel Songs with Lyrics",
+                    "description": "Gospel Songs with Lyrics"
+                },
+                "image": {
+                    "url": "https://yt3.ggpht.com/6iv3EEaabmhn1mlMvAvY9kpkXDsjY3g_wkg7vOtVUVWp6pYsvb19LdXUQ1-L3m1x22zKkUR2kfY=s1200"
+                },
+                "category_1": "Gospel",
+                "category_2": "Songs",
+                "category_3": "Lyrics",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 36
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "BrwT8xVBk32cuhoGJNyM3yppMTA",
+            "id": "PL22AD488CAE99D26B",
+            "snippet": {
+                "publishedAt": "2008-12-17T02:11:47Z",
+                "channelId": "UCHS5AbSAL_SqDxHitopEwdA",
+                "title": "Gospel Music in the Navajo Language",
+                "description": "This provides a collection of Christian gospel hymnals translated into the Navajo language, with accompanying vocal music. The lyrics, if available, are included.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GelW5haz6jc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GelW5haz6jc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GelW5haz6jc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "daybreakwarrior",
+                "localized": {
+                    "title": "Gospel Music in the Navajo Language",
+                    "description": "This provides a collection of Christian gospel hymnals translated into the Navajo language, with accompanying vocal music. The lyrics, if available, are included."
+                },
+                "image": {
+                    "url": "https://i.ytimg.com/vi/GelW5haz6jc/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs=AMzJL3lLjSuvK2JfzJvpsrRjExexyhmDUg"
+                },
+                "category_1": "Gospel",
+                "category_2": "Music",
+                "category_3": "Collection",
+                "category_4": "Christian",
+                "category_5": "Vocal",
+                "category_6": "Lyrics",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 38
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "5DcNYHgzZgl3OI7fSo2r3NZe_qc",
+            "id": "PLLqAPuDEH1w58KwV-2JDyjUf9arotr2As",
+            "snippet": {
+                "publishedAt": "2020-08-07T23:02:21Z",
+                "channelId": "UC7IHH5wwXZ257BORNJT4xSQ",
+                "title": "New Rwandan Gospel Music 2024 \u2606 Top Rwanda Gospel Songs playlist 2024",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/W7KwAObH4ts/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/W7KwAObH4ts/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/W7KwAObH4ts/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/W7KwAObH4ts/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/W7KwAObH4ts/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Untold story",
+                "localized": {
+                    "title": "New Rwandan Gospel Music 2024 \u2606 Top Rwanda Gospel Songs playlist 2024",
+                    "description": ""
+                },
+                "image": {
+                    "url": "https://yt3.googleusercontent.com/cHNw8sYMC48rRYJRELO_EOZ3OIMepIj13KgrKR1kUV87hpON11i3k8yrv0BoYqdShpK3qslIwHc=s1200"
+                },
+                "category_1": "New",
+                "category_2": "Gospel",
+                "category_3": "Music",
+                "category_4": "Top",
+                "category_5": "Songs",
+                "category_6": "Playlist",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 46
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "0TQHpE3ecK7Fwv3Oqni9r9rg00o",
+            "id": "PLsBhSuakeTxer_wkHE9C__Eu5lw6-_9Eg",
+            "snippet": {
+                "publishedAt": "2023-03-14T08:20:52Z",
+                "channelId": "UC9u8tR60JfWSzZ9CYmaELew",
+                "title": "Lesotho gospel music",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wY4K2RcouFE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wY4K2RcouFE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wY4K2RcouFE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Israel Origbe",
+                "localized": {
+                    "title": "Lesotho gospel music",
+                    "description": ""
+                },
+                "image": {
+                    "url": "https://yt3.googleusercontent.com/C8nwd9jB5bUE6PzfrXmgxz-MBh2nVDfI57BgtvH0hkVjOnjbDGqXoembEu7QONjEhBFV6gMlFGna=s1200"
+                },
+                "category_1": "Sotho",
+                "category_2": "Gospel",
+                "category_3": "Music",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 156
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "JCaig7Muur5_iPep5ccotlSmHIk",
+            "id": "PL8407478DCD804626",
+            "snippet": {
+                "publishedAt": "2011-07-02T06:53:06Z",
+                "channelId": "UCrjWH5vPTSPS7JMvaZsXY0A",
+                "title": "Caribbean GOspel at it's best",
+                "description": "W.I Gospel Explosion",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OFRX9xCTexQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OFRX9xCTexQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OFRX9xCTexQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "alcatelbar",
+                "localized": {
+                    "title": "Caribbean GOspel at it's best",
+                    "description": "W.I Gospel Explosion"
+                },
+                "image": {
+                    "url": "https://yt3.ggpht.com/DqodUuC0YrORSv66A1r49nOk7Qh2iOWlUTAYjZfcGmctUgjw_UUhWccZ3dZoy06c6MvIyhMd=s1200"
+                },
+                "category_1": "Caribbean",
+                "category_2": "Gospel",
+                "category_3": "Best",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 134
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "IF2wOVaiVLDW5XNto4C08oURc3I",
+            "id": "PLeN5if8ZUZ-IGGzqyFKGxuai4cNP87wMB",
+            "snippet": {
+                "publishedAt": "2015-07-02T12:30:27Z",
+                "channelId": "UCXIt8WFRT2k9akriLHNUo4A",
+                "title": "Gospel acustico",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fYqbin4aMiE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fYqbin4aMiE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fYqbin4aMiE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fYqbin4aMiE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fYqbin4aMiE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Felipe Gomes",
+                "localized": {
+                    "title": "Gospel acustico",
+                    "description": ""
+                },
+                "image": {
+                    "url": "https://yt3.ggpht.com/Ec3Mp1aJo1c3mHL2A8iK5BscHEZzwivwRehi-enyPnfhCutTImaXnO1Y9uqq41-nNLtx39a9ckU=s1200"
+                },
+                "category_1": "Gospel",
+                "category_2": "",
+                "category_3": "",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 66
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "lx2wKJ6fP0tWmDp6ZJ50C1WwbXc",
+            "id": "PLHe4eP3YsICtANxBl0fqYU_LN-qVGayZj",
+            "snippet": {
+                "publishedAt": "2023-07-19T08:00:22Z",
+                "channelId": "UCLxk1QM3QGl9IBbckZMPloQ",
+                "title": "\ud83d\ude4fBest Worship Songs 2023 Playlist - Non Stop Christian Gospel Music \ud83d\ude4f Bless The Lord Oh My Soul",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VXMszgTfT9c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VXMszgTfT9c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VXMszgTfT9c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VXMszgTfT9c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/VXMszgTfT9c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Worship Night",
+                "localized": {
+                    "title": "\ud83d\ude4fBest Worship Songs 2023 Playlist - Non Stop Christian Gospel Music \ud83d\ude4f Bless The Lord Oh My Soul",
+                    "description": ""
                 },
                 "image": {
                     "url": ""
                 },
-                "category_1": "Hits",
-                "category_2": "Essential",
-                "category_3": "Tracks",
+                "category_1": "Best",
+                "category_2": "Worship",
+                "category_3": "Songs",
+                "category_4": "Playlist",
+                "category_5": "Top",
+                "category_6": "Christian",
+                "category_7": "Gospel",
+                "category_8": "Music",
+                "category_9": "Soul",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public",
+                "podcastStatus": "enabled"
+            },
+            "contentDetails": {
+                "itemCount": 703
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "H6Mq0-QgWkA9IBK1fwWfGnTbys4",
+            "id": "PLR4ilkJNTu_MIEfKT5sHn9e_el4iCOdhe",
+            "snippet": {
+                "publishedAt": "2017-05-14T17:21:53Z",
+                "channelId": "UCMuhphqjhVyO0p3qr2AJ79A",
+                "title": "Gospel mothers day songs",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MpBkNZAV8Lk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MpBkNZAV8Lk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MpBkNZAV8Lk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Paul Raymond",
+                "localized": {
+                    "title": "Gospel mothers day songs",
+                    "description": ""
+                },
+                "image": {
+                    "url": "https://yt3.ggpht.com/6Y-DQA0ph0kUAiI8q-aKwlERzfO9-NgMA1kc58VlXkUUUOTi1y9pOjMYE2-pcubC26N4jS5HNWoN=s1200"
+                },
+                "category_1": "Gospel",
+                "category_2": "Songs",
+                "category_3": "",
                 "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 66
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "WtqzDzh_tOIgwgd1nLQrJ7f_YEI",
+            "id": "PLl284PH3feaSP9OLtOfcqcMhrcbmxsEl9",
+            "snippet": {
+                "publishedAt": "2022-09-30T22:21:17Z",
+                "channelId": "UCgo_q5X9vscuzZXKrhZnagA",
+                "title": "Tshivenda Gospel Songs",
+                "description": "Gospel",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2x-1dWPQNpk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2x-1dWPQNpk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2x-1dWPQNpk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2x-1dWPQNpk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Andani Masindi",
+                "localized": {
+                    "title": "Tshivenda Gospel Songs",
+                    "description": "Gospel"
+                },
+                "image": {
+                    "url": "https://yt3.ggpht.com/tzSk__jmL4vdQJm4JJCxHAojRuYBTa2FcGvi-lyIghESFkEF3jAkr9I2mk5i7wTwWlNeEEBSchQ=s1200"
+                },
+                "category_1": "Gospel",
+                "category_2": "Songs",
+                "category_3": "",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 92
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "rW1w1hqDim-hPr5p_1laDS7irsQ",
+            "id": "PLtgXLZFpP8FC5DP22pNkaeciDVM1j5K3n",
+            "snippet": {
+                "publishedAt": "2021-10-26T13:09:15Z",
+                "channelId": "UCz9UjDwQT8DsZpOIDlRZkFw",
+                "title": "Gospel Taarab",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wWYAVK3Fy80/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wWYAVK3Fy80/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wWYAVK3Fy80/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wWYAVK3Fy80/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wWYAVK3Fy80/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nielsen David",
+                "localized": {
+                    "title": "Gospel Taarab",
+                    "description": ""
+                },
+                "image": {
+                    "url": "https://yt3.ggpht.com/ZjlWRiYANa5IprqG7CwffV6gHWsz7iDTEf4kND7mb27cUBbygVmYv3Mw50aMUggBKMyEc0EAfB4=s1200"
+                },
+                "category_1": "Gospel",
+                "category_2": "",
+                "category_3": "",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 18
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "ifD8g5iohyCVhJTtaYVrHdFq3cg",
+            "id": "PLVEJ8p-zt4-Kp6ha2blSAec51JRpsgH2y",
+            "snippet": {
+                "publishedAt": "2017-08-25T06:53:08Z",
+                "channelId": "UClIPjy3veyrzDcytkJzssJg",
+                "title": "Best Gospel Songs by Bahati Bukuku",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yxFdhASCPGE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yxFdhASCPGE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yxFdhASCPGE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yxFdhASCPGE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yxFdhASCPGE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Bahati Bukuku",
+                "localized": {
+                    "title": "Best Gospel Songs by Bahati Bukuku",
+                    "description": ""
+                },
+                "image": {
+                    "url": "https://yt3.ggpht.com/JNk0HO5doV1n5TVoCuCZsEdmcD418jhJLm2wuzn2qrL_mgz0PSG7XOFWCSoUiKnARd6aBp-lYlb-=s1200"
+                },
+                "category_1": "Best",
+                "category_2": "Gospel",
+                "category_3": "Songs",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 51
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "U8t3vFTvba-FJ4kSjKQvS9ZL8G0",
+            "id": "PL0hn_VD7tQqLqtGWdVQtrBZDMiwPW56-N",
+            "snippet": {
+                "publishedAt": "2022-09-21T18:10:58Z",
+                "channelId": "UCt8S12OPZlUJfvZvrUQ67rA",
+                "title": "South African Gospel Music Instrumentals",
+                "description": "We do instrumental covers on South African gospel songs",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BHcUBLjzY48/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BHcUBLjzY48/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BHcUBLjzY48/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BHcUBLjzY48/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BHcUBLjzY48/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kea Studios",
+                "localized": {
+                    "title": "South African Gospel Music Instrumentals",
+                    "description": "We do instrumental covers on South African gospel songs"
+                },
+                "image": {
+                    "url": "https://yt3.googleusercontent.com/nHbJvO9jri4GEMD5mZBIHZ0Wum46xZoOkY9aKeHMk08iwe8zeZNlNZJXxPPot_Lx9tXmgxT3ndIW=s1200"
+                },
+                "category_1": "African",
+                "category_2": "Africa",
+                "category_3": "Gospel",
+                "category_4": "Music",
+                "category_5": "Instrumentals",
+                "category_6": "Covers",
+                "category_7": "Songs",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 67
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "YCFQm5zuhVpnrg0N9AK7CfXREQ0",
+            "id": "PLOKPib8YNEwhqLei4S9ZDgumCpvfFc6xo",
+            "snippet": {
+                "publishedAt": "2020-06-15T14:22:12Z",
+                "channelId": "UC_EmIAAq36u0KyXqvfBl89g",
+                "title": "Best Spirit Filled Morning Worship Songs | Nonstop English Praise and Worship Gospel Music Mixes by DJ Lifa",
+                "description": "Spirit-Filled Morning Worship Songs for prayers| Deep Intimate Worship Songs |\nBest Praise and Worship Songs and Hymns|  Top 100 Best Christian Gospel Songs Of All Time | Powerful Spirit-Filled Morning Worship Songs | Live 24/7 Christian Music | DJ Lifa",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3C8nPP9wVjc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3C8nPP9wVjc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3C8nPP9wVjc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3C8nPP9wVjc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3C8nPP9wVjc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DJ Lifa",
+                "localized": {
+                    "title": "Best Spirit Filled Morning Worship Songs | Nonstop English Praise and Worship Gospel Music Mixes by DJ Lifa",
+                    "description": "Spirit-Filled Morning Worship Songs for prayers| Deep Intimate Worship Songs |\nBest Praise and Worship Songs and Hymns|  Top 100 Best Christian Gospel Songs Of All Time | Powerful Spirit-Filled Morning Worship Songs | Live 24/7 Christian Music | DJ Lifa"
+                },
+                "image": {
+                    "url": "https://i.ytimg.com/vi/3C8nPP9wVjc/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3lizNhspBAif49Lq7zUGaBQBSXElw"
+                },
+                "category_1": "Best",
+                "category_2": "Worship",
+                "category_3": "Songs",
+                "category_4": "Top",
+                "category_5": "Praise",
+                "category_6": "Gospel",
+                "category_7": "Music",
+                "category_8": "Mix",
+                "category_9": "Deep",
+                "category_10": "Intimate"
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 38
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "kkVtexPBxmB80Sk9a9o1wc2tfjY",
+            "id": "PLVFEB62X-82rm-zzR8SKvLHb9U60pJqrH",
+            "snippet": {
+                "publishedAt": "2021-07-02T18:35:41Z",
+                "channelId": "UCOIhfpEh-d1knAZftuRIpSA",
+                "title": "Gospel Pioneer Reunion Extended Cut",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p1roLhYjodg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p1roLhYjodg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p1roLhYjodg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/p1roLhYjodg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/p1roLhYjodg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Stephen duBarry",
+                "localized": {
+                    "title": "Gospel Pioneer Reunion Extended Cut",
+                    "description": ""
+                },
+                "image": {
+                    "url": "https://yt3.ggpht.com/nk3z4RRUXyEQnkQ2D3EnJtLqC-eOQryDx3VIFWlEw0e7eeQF614U8Qo7XJyBgOaUiIJlomOMVQY=s1200"
+                },
+                "category_1": "Gospel",
+                "category_2": "",
+                "category_3": "",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 47
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "dmpgMIphWC5kWa9tTt3GXoxctY0",
+            "id": "PLVygBCdCKfb6pN3xpyenXvhJrRbq1UhTe",
+            "snippet": {
+                "publishedAt": "2024-02-04T17:13:36Z",
+                "channelId": "UC_A0vVwY71hiMpDzH6x1d9A",
+                "title": "IKHANSELA GOSPEL SONGS",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3y3AzsjvPYY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3y3AzsjvPYY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3y3AzsjvPYY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3y3AzsjvPYY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3y3AzsjvPYY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "nkosie khumalo",
+                "localized": {
+                    "title": "IKHANSELA GOSPEL SONGS",
+                    "description": ""
+                },
+                "image": {
+                    "url": "https://yt3.googleusercontent.com/62utxRPeWR8Gi-cu14lK9q47awK_1V7cFvzaZYFmI7GX7XmE0jrbzhHdrHZa9S1O90HQhz34Yw=s1200"
+                },
+                "category_1": "Gospel",
+                "category_2": "Songs",
+                "category_3": "",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "A35XzwWwlvi48l4I4D9DwKferiQ",
+            "id": "PLkx7j0XtoQmWyO-7OAnYc-gJURxLMsUFf",
+            "snippet": {
+                "publishedAt": "2015-01-29T19:21:16Z",
+                "channelId": "UCg5gwaFGSbudHm0tlMbFFPw",
+                "title": "Wow gospel 2006-2010",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wU3qgPn3bGA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wU3qgPn3bGA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wU3qgPn3bGA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wU3qgPn3bGA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wU3qgPn3bGA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tulia Matthew",
+                "localized": {
+                    "title": "Wow gospel 2006-2010",
+                    "description": ""
+                },
+                "image": {
+                    "url": "https://i.ytimg.com/vi/wU3qgPn3bGA/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kpmdruFayqsbVyGv8fogpuv0sSEg"
+                },
+                "category_1": "Gospel",
+                "category_2": "",
+                "category_3": "",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 45
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "Ta4ORRAO4uUBYC_OtkpZ7LnkHuI",
+            "id": "PL3PBFjlDwskMnyC1W6HO_Cwb5zpaJ2zML",
+            "snippet": {
+                "publishedAt": "2024-07-27T13:04:50Z",
+                "channelId": "UC0xt-Zd_B5Yk9JYU-yXSIlQ",
+                "title": "LATEST KIKUYU GOSPEL MIXES | KIGOOCO GOSPEL MIXES | DJ TROY KENYA",
+                "description": "latest kikuyu gospel mix | best kikuyu gospel mix | dj troy kenya | kikuyu gospel song all in one by dj troy kenya | kikuyu gospel | kikuyu worship",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BWUmppRmtdI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BWUmppRmtdI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BWUmppRmtdI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BWUmppRmtdI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BWUmppRmtdI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DJ TROY KENYA",
+                "localized": {
+                    "title": "LATEST KIKUYU GOSPEL MIXES | KIGOOCO GOSPEL MIXES | DJ TROY KENYA",
+                    "description": "latest kikuyu gospel mix | best kikuyu gospel mix | dj troy kenya | kikuyu gospel song all in one by dj troy kenya | kikuyu gospel | kikuyu worship"
+                },
+                "image": {
+                    "url": ""
+                },
+                "category_1": "Latest",
+                "category_2": "Gospel",
+                "category_3": "Mix",
+                "category_4": "Best",
+                "category_5": "Songs",
+                "category_6": "Worship",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public",
+                "podcastStatus": "enabled"
+            },
+            "contentDetails": {
+                "itemCount": 23
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "kjGI-9a2RCicxOWFxq5lRmGLluo",
+            "id": "PLtsq4GCigMJik_KEPreE4TChlzEU_eTdg",
+            "snippet": {
+                "publishedAt": "2019-10-04T01:57:40Z",
+                "channelId": "UCfcZZ-WZntwaoo_6zg0aKTA",
+                "title": "ARROCHA GOSPEL",
+                "description": "Playlist (remix) Arrocha Gospel",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pxoOhOE3spg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pxoOhOE3spg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pxoOhOE3spg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pxoOhOE3spg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pxoOhOE3spg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DJ Jefinho Produ\u00e7\u00f5es",
+                "localized": {
+                    "title": "ARROCHA GOSPEL",
+                    "description": "Playlist (remix) Arrocha Gospel"
+                },
+                "image": {
+                    "url": "https://yt3.googleusercontent.com/SViRV_JOKGkv-Ihgfswcn2TlZCrTlbolhbOjc6gu4E5Td-kWpzqWbjgCoY3O0ZuRaIDgtgMs7Lah=s1200"
+                },
+                "category_1": "Gospel",
+                "category_2": "Playlist",
+                "category_3": "Remix",
+                "category_4": "Mix",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 22
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "CNW_vfYzOiZDB4Is6sUPNrT-AJQ",
+            "id": "PLhXY--gNVxA9H3kx84T27geshiflFFen2",
+            "snippet": {
+                "publishedAt": "2022-04-19T19:19:38Z",
+                "channelId": "UCjMuTQ2HDQDiUHgDfFItxqw",
+                "title": "RUNYANKOLE GOSPEL VIDEOS  FOR ALL ARTIST",
+                "description": "This gospel music video playlist, gives you real time cerebrations, testimonies and every thing you would like to see and hear as far as gospel massages are concerned. So dont feel bored Just Click on EVERLASTING GRACE PRODUCTIONS and enjoy!!!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/exwBJIyWZgw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/exwBJIyWZgw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/exwBJIyWZgw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "EVERLASTING GRACE PRODUCTIONS",
+                "localized": {
+                    "title": "RUNYANKOLE GOSPEL VIDEOS  FOR ALL ARTIST",
+                    "description": "This gospel music video playlist, gives you real time cerebrations, testimonies and every thing you would like to see and hear as far as gospel massages are concerned. So dont feel bored Just Click on EVERLASTING GRACE PRODUCTIONS and enjoy!!!"
+                },
+                "image": {
+                    "url": "https://yt3.googleusercontent.com/761tS4zET277wAm45YZ329_5hWtdp3X4iUUf-X2nMW2MQyNMWrRssQ_FYh4iyqVGgciAJQwkFOw=s1200"
+                },
+                "category_1": "Gospel",
+                "category_2": "Video",
+                "category_3": "Videos",
+                "category_4": "Artist",
+                "category_5": "Music",
+                "category_6": "Playlist",
+                "category_7": "Enjoy",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 23
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "EyF2d6Rq1TNG8uEZ9KhoqTfXP2M",
+            "id": "PLJ4w4EdO9IXvXQ8_V2dpP6hZQht82gqEV",
+            "snippet": {
+                "publishedAt": "2024-08-29T13:35:52Z",
+                "channelId": "UCgYQdiZSKGZ_4TSZtSTy5mg",
+                "title": "jason engelbrecht gospel",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ElZXEOWVwe0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ElZXEOWVwe0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ElZXEOWVwe0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ElZXEOWVwe0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ElZXEOWVwe0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Rochelle Linden",
+                "localized": {
+                    "title": "jason engelbrecht gospel",
+                    "description": ""
+                },
+                "image": {
+                    "url": "https://yt3.googleusercontent.com/4Q2NiDB21VHeyJmQHLp5K4IDG9p52fDKzqgC--ZWKv1gD--FlgFN44GZooHYBoVe51r_fsEIjQY=s1200"
+                },
+                "category_1": "Gospel",
+                "category_2": "",
+                "category_3": "",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 22
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "tqZwjTGaf330hQJLdyq24MTcLXk",
+            "id": "PLYvPuiHFAyZXbHWhySsi1QjzC2HTF0gG7",
+            "snippet": {
+                "publishedAt": "2016-01-02T21:54:40Z",
+                "channelId": "UCb_o6vO3fYeB6zykGV6soHw",
+                "title": "Church of Christ Acappella Songs with Lyrics",
+                "description": "This playlist consists of a capella songs and hymns we enjoy singing at Pleasant Hill Church of Christ. It is meant for training/teaching new songs and listening to Christian music while not in the meeting place.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4Qn76sUHZ9I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4Qn76sUHZ9I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4Qn76sUHZ9I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4Qn76sUHZ9I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4Qn76sUHZ9I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Pleasant Hill Church of Christ",
+                "localized": {
+                    "title": "Church of Christ Acappella Songs with Lyrics",
+                    "description": "This playlist consists of a capella songs and hymns we enjoy singing at Pleasant Hill Church of Christ. It is meant for training/teaching new songs and listening to Christian music while not in the meeting place."
+                },
+                "image": {
+                    "url": "https://yt3.googleusercontent.com/ygOjQ7weeXdV-9hKlEg7JZJx9iv0FEWMBTpROf9E1dcdt4fTe-szi8Q7mOovGwM9Soc3qe8lJpMK=s1200"
+                },
+                "category_1": "Church",
+                "category_2": "Songs",
+                "category_3": "Lyrics",
+                "category_4": "Playlist",
+                "category_5": "Hymns",
+                "category_6": "Enjoy",
+                "category_7": "New",
+                "category_8": "Listen",
+                "category_9": "Christian",
+                "category_10": "Music"
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 414
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "XC6S1GXNHgdp0bF_E0kH3Otk7eI",
+            "id": "PL5A22594FD127DC3F",
+            "snippet": {
+                "publishedAt": "2010-05-07T03:47:55Z",
+                "channelId": "UCM_jWSldtJzS0-8ZgU7Vtcw",
+                "title": "women of southern gospel music",
+                "description": "Janet pascal, Candy Hemphill",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/or9ok5RBmww/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/or9ok5RBmww/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/or9ok5RBmww/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/or9ok5RBmww/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/or9ok5RBmww/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ronda Stahlheber",
+                "localized": {
+                    "title": "women of southern gospel music",
+                    "description": "Janet pascal, Candy Hemphill"
+                },
+                "image": {
+                    "url": "https://i.ytimg.com/vi/or9ok5RBmww/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3nCy-JWqeWLL8wT4kwcVvctBfoFnA"
+                },
+                "category_1": "Women",
+                "category_2": "Southern",
+                "category_3": "Gospel",
+                "category_4": "Music",
                 "category_5": "",
                 "category_6": "",
                 "category_7": "",
@@ -644,42 +1604,171 @@
         },
         {
             "kind": "youtube#playlist",
-            "etag": "YZ_kvtOYHra-d9pWvUGTbeM3QI8",
-            "id": "RDCLAK5uy_nDmSmcwTjSTpR8chUADFyQS4t9t_aspSQ",
+            "etag": "CFsfZWWWNsUTBIsuklXWYup95cU",
+            "id": "PL9hRY3bl-kEtgnVajlH3fwuF3HsSP85p_",
             "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Presenting Nucleya",
-                "description": "The most played hits and essential tracks.",
+                "publishedAt": "2022-03-26T08:22:18Z",
+                "channelId": "UCdNxwx9qIoe2fDydzhY7ZIA",
+                "title": "Favorite Gospel Worship Music - Best Songs Of Favorite Worship Songs",
+                "description": "Favorite Gospel Worship Music - Best Songs Of Favorite Worship Songs\nLink playlist: https://www.youtube.com/watch?v=ul8CJC0rAMU&list=PL9hRY3bl-kEtgnVajlH3fwuF3HsSP85p_\n\u25cf Thanks for watching my video\n\u25cf Share this song with your friends : \n\u25cf Subscribe to the channel here: https://www.youtube.com/channel/UCdNx....\n\u25cf Watch gospel music videos here : https://bit.ly/3kXsP0h\n#GospelMusic #GospelSongs #GospelMusicCollection\n------------ \u2605\u2605 \u2605\u2605 -------------\nThanks for watching!.. It's great to read your comment..We hope to make your days more beautiful with the music we share ! \n\ud83d\udd14 Please Share this Video on Social sites (Facebook, Google +, Twitter etc.) to more people could listen it! Have a nice day ! \n------------ \u2605\u2605 \u2605\u2605 -------------\n\u2714 Photos and music in their possession\n\u2714 My channel content is for promotion, fan service, not for monetization.\n------------ \u2605\u2605 \u2605\u2605 -------------\n2022 gospel mix,christian rb,gospel,gospel 2022,gospel 2022 mix,gospel hip hop,gospel mix,gospel mix 2022,gospel music,gospel music 2022,gospel r,gospel ru0026b,gospel ru0026b 2022,gospel ru0026b mix,gospel ru0026b mix 2022,gospel rnb 2022,gutter free hip hop,hip hop gospel,hip hop gospel mix,hip hop gospel mix 2022,ru0026b gospel,ru0026b gospel gospel rnb,ru0026b gospel mix,rnb 2022,rnb gospel,Gospel R&B Mix,R&B Gospel Music 2022greatest hits, best songs, playlist, full album, songs, worship songs, worship songs, worship songs 2022, gospel songs, mix, gospel songs, nigerian gospel music, 2022, songs 2022, album, music, nigerian gospel music 2022, mixtape, latest song 2022, worship, christian music, songs playlist, latest songs, song, all that matters, new gospel songs 2022, 2022 worship songs, gospel mix 2022, gospel music praise and worship, latest gospel songs 2022, nigerian music gospel songs, christian songs, gospel music, gospel music 2022, latest song, new songs, worship mix 2022, nigeria gospels songs, songs by @artist, worship 2022, worship music, gospel music mix, gospel worship songs, songs mix, nigeria gospel music 2022, nigerian worship songs, songs 2022, worship mix, worship songs nigerian, 2022 gospel song, god songs, gospel 2022, new song, new song 2022, worship songs 2022, instrumental gospel songs, gospel songs, nigerian worship songs 2022\n#praiseworshipsongs\u200b #praiseandworship\u200b #worship\u200b\n#worshipsongs\u200b #BestPraiseWorship\u200b #praiseandworshipsongswithlyrics\u200b\n\n#Praise\u200b\n#Christian\u200b \n#Gospel\u200b\n#worshipsongswithlyrics\u200b\n#worship\u200b songs of hillsong\n#worshipsongslyrics\u200b\n#worshipsongsever\u200b\n#worship\u200b songs collection\n#worshipsongsalltime\u200b\n#worshipsongs\u200b\n#worshipmusicchristian\u200b\n#worshipmusic2021\n#worshipmusic\u200b\n#worshipgospelmusic\u200b\n#worshipandpraisesongs\u200b\n#worship2021\u200b\n#worship\u200b\n#wepraiseyou\u200b\n#topworshipsongs\u200b\n#toppraiseandworshipsongs\u200b\n#top100praiseandworshipsongs2021\u200b\n#top100christianworshipsongs\u200b\n#top100bestchristiangospel\u200b\n#prayers\u200b\n#prayersongslyrics\u200b\n#prayersongs2021\n#prayersongs\u200b\n#praiseworshipsongs\u200b\n#praiseworshipmusic\u200b\n#praisethelord\u200b\n#Lordineedyou\u200b\n#praisesongs\u200b\n#praiselord\u200b\n#praiseandworshipsongs2021\u200b\n#praiseandworshipsongs\u200b\n#praiseandworshipmusic\u200b\n#praiseandworship\u200b\n#praiseandhymns\u200b\n#praise\u200b&worshipsongs2021\n#praise\u200b\n#powerfulpraiseandworshipsongs\u200b\n#nonstopworshipsongs\u200b\n#nonstopchristiansongs\u200b\n#nigeriangospelmusic\u200b\n#nigeriangospelmix\u200b\n#newworshipsongs\u200b\n#newpraiseandworshipsongs\u200b\n#newchristiansongs\u200b\n#newchristian\u200b\n#musicpraise\u200b\n#morningworshipsongs2021\u200b\n#morningworshipsongs\u200b\n#morningworship\u200b\n#morningpraiseandworshipsongs\u200b\n#morningworshipsongs\u200b\n#louvores\u200b de ador\n#laurendaigle\u200b\n#latestpraisesongs\u200b\n#latestgospelsongs2021\n#latestgospelsongs\u200b\n#latestgospelmusic\u200b\n#latestchristiansongs2021\u200b\n#latestchristiangospel\u200b\n#hymnssongspraise\u200b\n#hymnssongs\u200b\n#hymnsoffaith\u200b\n#hymns\u200b\n#hillsongspraiseandworshipsongsplaylist\u200b\n#hillsongworshiptoptracks\u200b\n#hillsongworshipsongs\u200b\n#hillsongworshiplyrics\u200b\n#hillsongworship2021\n#hillsongworship\u200b\n#hillsongunited\u200b\n#hillsongtoptracks\u200b\n#hillsongsongslyrics\u200b\n#hillsongsongs\u200b\n#hillsongpraiseandworshipsongs\u200b\n#hillsongplaylist\u200b\n#hillsongm\u00fasica\u200b\n#hillsongmusic2021\n#hillsongmusic\u200b\n#hillsonghits\u200b\n#hillsongfullalbum\u200b\n#hillsong2021\n#hillsong\u200b\n#highworshipsongs\u200b\n#greatestworshipmusic\u200b\n#gospelworshipsongs\u200b\n#gospeltopic\u200b\n#gospelsongswithlyrics\u200b\n#gospelsongs2021\u200b\n#gospelsongs\u200b\n#gospelmusicpraiseandworshipsongs\u200b\n#gospelmusicpraiseandworship\u200b\n#gospelmusicafrica\u200b\n#gospelmusic2021\u200b\n#gospelmusic\u200b\n#gospelcountrymusic\u200b\n#gospelchristiansongs\u200b\n#gospel2021\n#gospel\u200b\n#goodpraisesongs\u200b\n#globalgospelgroup\u200b\n#dunamischurch\u200b\n#countrygosspel\u200b\n#countrygospelsongs\u200b\n#christianworshipsongs2021\u200b\n#christianworshipsongs\u200b\n#christiansongswithlyrics\u200b\n#christiansongsnonstop\u200b\n#christiansongslyrics\u200b\n#christiansongsandpraise\u200b\n#christiansongs2021\n#christiansongs\u200b\n#christian\u200b music 2021\n#christian\u200b music\n#christian\u200b hyms\n#christian\u200b gospel\n#christian\u200b\n#bestworshipsongsever\u200b\n#bestworshipsongs\u200b\n#bestworshipmusic\u200b\n#bestpraiseworship\u200b\n#bestpopularworshipsongs2021\u200b\n#besthymns\u200b\n#bestchristiansongs2021\n#200praiseandworshipsongs\u200b\n#100praiseandworshipsongs\u200b",
                 "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/O5PhYEDPmy0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
                     "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nDmSmcwTjSTpR8chUADFyQS4t9t_aspSQ/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICPSqubYGEAE=&rs=AOn4CLA6RZwhoUXyLzfZ4jkD_IhW7qgDFw&v=1724798324",
-                        "width": 180,
+                        "url": "https://i.ytimg.com/vi/O5PhYEDPmy0/mqdefault.jpg",
+                        "width": 320,
                         "height": 180
                     },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/O5PhYEDPmy0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
                     "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nDmSmcwTjSTpR8chUADFyQS4t9t_aspSQ/sddefault.jpg?sqp=CLzQu7YGir7X7AMICPSqubYGEAE=&rs=AOn4CLCC4wPOmd-1-bzjrOZL2vBNbFLbKw&v=1724798324",
+                        "url": "https://i.ytimg.com/vi/O5PhYEDPmy0/sddefault.jpg",
                         "width": 640,
-                        "height": 640
+                        "height": 480
                     },
                     "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nDmSmcwTjSTpR8chUADFyQS4t9t_aspSQ/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICPSqubYGEAE=&rs=AOn4CLAB5XRuTGSjd_piDYpH0vq4XOiFug&v=1724798324",
-                        "width": 1200,
-                        "height": 1200
+                        "url": "https://i.ytimg.com/vi/O5PhYEDPmy0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
                     }
                 },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
+                "channelTitle": "Worship Library",
                 "localized": {
-                    "title": "Presenting Nucleya",
-                    "description": "The most played hits and essential tracks."
+                    "title": "Favorite Gospel Worship Music - Best Songs Of Favorite Worship Songs",
+                    "description": "Favorite Gospel Worship Music - Best Songs Of Favorite Worship Songs\nLink playlist: https://www.youtube.com/watch?v=ul8CJC0rAMU&list=PL9hRY3bl-kEtgnVajlH3fwuF3HsSP85p_\n\u25cf Thanks for watching my video\n\u25cf Share this song with your friends : \n\u25cf Subscribe to the channel here: https://www.youtube.com/channel/UCdNx....\n\u25cf Watch gospel music videos here : https://bit.ly/3kXsP0h\n#GospelMusic #GospelSongs #GospelMusicCollection\n------------ \u2605\u2605 \u2605\u2605 -------------\nThanks for watching!.. It's great to read your comment..We hope to make your days more beautiful with the music we share ! \n\ud83d\udd14 Please Share this Video on Social sites (Facebook, Google +, Twitter etc.) to more people could listen it! Have a nice day ! \n------------ \u2605\u2605 \u2605\u2605 -------------\n\u2714 Photos and music in their possession\n\u2714 My channel content is for promotion, fan service, not for monetization.\n------------ \u2605\u2605 \u2605\u2605 -------------\n2022 gospel mix,christian rb,gospel,gospel 2022,gospel 2022 mix,gospel hip hop,gospel mix,gospel mix 2022,gospel music,gospel music 2022,gospel r,gospel ru0026b,gospel ru0026b 2022,gospel ru0026b mix,gospel ru0026b mix 2022,gospel rnb 2022,gutter free hip hop,hip hop gospel,hip hop gospel mix,hip hop gospel mix 2022,ru0026b gospel,ru0026b gospel gospel rnb,ru0026b gospel mix,rnb 2022,rnb gospel,Gospel R&B Mix,R&B Gospel Music 2022greatest hits, best songs, playlist, full album, songs, worship songs, worship songs, worship songs 2022, gospel songs, mix, gospel songs, nigerian gospel music, 2022, songs 2022, album, music, nigerian gospel music 2022, mixtape, latest song 2022, worship, christian music, songs playlist, latest songs, song, all that matters, new gospel songs 2022, 2022 worship songs, gospel mix 2022, gospel music praise and worship, latest gospel songs 2022, nigerian music gospel songs, christian songs, gospel music, gospel music 2022, latest song, new songs, worship mix 2022, nigeria gospels songs, songs by @artist, worship 2022, worship music, gospel music mix, gospel worship songs, songs mix, nigeria gospel music 2022, nigerian worship songs, songs 2022, worship mix, worship songs nigerian, 2022 gospel song, god songs, gospel 2022, new song, new song 2022, worship songs 2022, instrumental gospel songs, gospel songs, nigerian worship songs 2022\n#praiseworshipsongs\u200b #praiseandworship\u200b #worship\u200b\n#worshipsongs\u200b #BestPraiseWorship\u200b #praiseandworshipsongswithlyrics\u200b\n\n#Praise\u200b\n#Christian\u200b \n#Gospel\u200b\n#worshipsongswithlyrics\u200b\n#worship\u200b songs of hillsong\n#worshipsongslyrics\u200b\n#worshipsongsever\u200b\n#worship\u200b songs collection\n#worshipsongsalltime\u200b\n#worshipsongs\u200b\n#worshipmusicchristian\u200b\n#worshipmusic2021\n#worshipmusic\u200b\n#worshipgospelmusic\u200b\n#worshipandpraisesongs\u200b\n#worship2021\u200b\n#worship\u200b\n#wepraiseyou\u200b\n#topworshipsongs\u200b\n#toppraiseandworshipsongs\u200b\n#top100praiseandworshipsongs2021\u200b\n#top100christianworshipsongs\u200b\n#top100bestchristiangospel\u200b\n#prayers\u200b\n#prayersongslyrics\u200b\n#prayersongs2021\n#prayersongs\u200b\n#praiseworshipsongs\u200b\n#praiseworshipmusic\u200b\n#praisethelord\u200b\n#Lordineedyou\u200b\n#praisesongs\u200b\n#praiselord\u200b\n#praiseandworshipsongs2021\u200b\n#praiseandworshipsongs\u200b\n#praiseandworshipmusic\u200b\n#praiseandworship\u200b\n#praiseandhymns\u200b\n#praise\u200b&worshipsongs2021\n#praise\u200b\n#powerfulpraiseandworshipsongs\u200b\n#nonstopworshipsongs\u200b\n#nonstopchristiansongs\u200b\n#nigeriangospelmusic\u200b\n#nigeriangospelmix\u200b\n#newworshipsongs\u200b\n#newpraiseandworshipsongs\u200b\n#newchristiansongs\u200b\n#newchristian\u200b\n#musicpraise\u200b\n#morningworshipsongs2021\u200b\n#morningworshipsongs\u200b\n#morningworship\u200b\n#morningpraiseandworshipsongs\u200b\n#morningworshipsongs\u200b\n#louvores\u200b de ador\n#laurendaigle\u200b\n#latestpraisesongs\u200b\n#latestgospelsongs2021\n#latestgospelsongs\u200b\n#latestgospelmusic\u200b\n#latestchristiansongs2021\u200b\n#latestchristiangospel\u200b\n#hymnssongspraise\u200b\n#hymnssongs\u200b\n#hymnsoffaith\u200b\n#hymns\u200b\n#hillsongspraiseandworshipsongsplaylist\u200b\n#hillsongworshiptoptracks\u200b\n#hillsongworshipsongs\u200b\n#hillsongworshiplyrics\u200b\n#hillsongworship2021\n#hillsongworship\u200b\n#hillsongunited\u200b\n#hillsongtoptracks\u200b\n#hillsongsongslyrics\u200b\n#hillsongsongs\u200b\n#hillsongpraiseandworshipsongs\u200b\n#hillsongplaylist\u200b\n#hillsongm\u00fasica\u200b\n#hillsongmusic2021\n#hillsongmusic\u200b\n#hillsonghits\u200b\n#hillsongfullalbum\u200b\n#hillsong2021\n#hillsong\u200b\n#highworshipsongs\u200b\n#greatestworshipmusic\u200b\n#gospelworshipsongs\u200b\n#gospeltopic\u200b\n#gospelsongswithlyrics\u200b\n#gospelsongs2021\u200b\n#gospelsongs\u200b\n#gospelmusicpraiseandworshipsongs\u200b\n#gospelmusicpraiseandworship\u200b\n#gospelmusicafrica\u200b\n#gospelmusic2021\u200b\n#gospelmusic\u200b\n#gospelcountrymusic\u200b\n#gospelchristiansongs\u200b\n#gospel2021\n#gospel\u200b\n#goodpraisesongs\u200b\n#globalgospelgroup\u200b\n#dunamischurch\u200b\n#countrygosspel\u200b\n#countrygospelsongs\u200b\n#christianworshipsongs2021\u200b\n#christianworshipsongs\u200b\n#christiansongswithlyrics\u200b\n#christiansongsnonstop\u200b\n#christiansongslyrics\u200b\n#christiansongsandpraise\u200b\n#christiansongs2021\n#christiansongs\u200b\n#christian\u200b music 2021\n#christian\u200b music\n#christian\u200b hyms\n#christian\u200b gospel\n#christian\u200b\n#bestworshipsongsever\u200b\n#bestworshipsongs\u200b\n#bestworshipmusic\u200b\n#bestpraiseworship\u200b\n#bestpopularworshipsongs2021\u200b\n#besthymns\u200b\n#bestchristiansongs2021\n#200praiseandworshipsongs\u200b\n#100praiseandworshipsongs\u200b"
                 },
                 "image": {
                     "url": ""
                 },
-                "category_1": "Hits",
-                "category_2": "Essential",
-                "category_3": "Tracks",
+                "category_1": "Gospel",
+                "category_2": "Worship",
+                "category_3": "Music",
+                "category_4": "Best",
+                "category_5": "Songs",
+                "category_6": "Playlist",
+                "category_7": "Video",
+                "category_8": "Friends",
+                "category_9": "Videos",
+                "category_10": "Collection"
+            },
+            "status": {
+                "privacyStatus": "public",
+                "podcastStatus": "enabled"
+            },
+            "contentDetails": {
+                "itemCount": 255
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "Jnh89GeKSM_x2h2lQkI_q9CC9nA",
+            "id": "PLvnD9N146WbUTBYGYwNqhbsn0vA9waeuD",
+            "snippet": {
+                "publishedAt": "2021-04-15T23:57:52Z",
+                "channelId": "UCiAxXLFApOuhAMcYg0ePxgw",
+                "title": "O melhor do Rap Gospel Crente - HipHop Gospel - Evang\u00e9lico",
+                "description": "Muito Rap de Qualidade de Artistas renomados e outros que provavelmente voc\u00ea ainda n\u00e3o conhece! Playlist atualizada com frequ\u00eancia...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/i5CO3OYlI9o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/i5CO3OYlI9o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/i5CO3OYlI9o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/i5CO3OYlI9o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/i5CO3OYlI9o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Minist\u00e9rio Estrat\u00e9gia",
+                "localized": {
+                    "title": "O melhor do Rap Gospel Crente - HipHop Gospel - Evang\u00e9lico",
+                    "description": "Muito Rap de Qualidade de Artistas renomados e outros que provavelmente voc\u00ea ainda n\u00e3o conhece! Playlist atualizada com frequ\u00eancia..."
+                },
+                "image": {
+                    "url": "https://yt3.ggpht.com/cf3MCBnX24eYPK86zLWAXWKEAbYEC8tykCMb-njN06In7rVoN6zWBbGFgMGDd2eLWUz01ozU3HM=s1200"
+                },
+                "category_1": "Rap",
+                "category_2": "Gospel",
+                "category_3": "Artist",
+                "category_4": "Playlist",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 17
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "paU6ZII-hl34tWnvQjlTGb-x13k",
+            "id": "PL3A45458B3AA5BAFD",
+            "snippet": {
+                "publishedAt": "2012-04-02T22:07:18Z",
+                "channelId": "UCqjYF9ygGVGVitK54amzoPQ",
+                "title": "My favourite Whitney Houston Gospel/Inspirational songs",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0hvCiJ6b8-o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0hvCiJ6b8-o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0hvCiJ6b8-o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0hvCiJ6b8-o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "loveTibette4ever",
+                "localized": {
+                    "title": "My favourite Whitney Houston Gospel/Inspirational songs",
+                    "description": ""
+                },
+                "image": {
+                    "url": "https://i.ytimg.com/vi/5Pze_mdbOK8/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3nDm5mq9wf5aW3eiF9Ko2Oz5YS1zw"
+                },
+                "category_1": "Gospel",
+                "category_2": "Inspiration",
+                "category_3": "Songs",
                 "category_4": "",
                 "category_5": "",
                 "category_6": "",
@@ -692,99 +1781,55 @@
                 "privacyStatus": "public"
             },
             "contentDetails": {
-                "itemCount": 50
+                "itemCount": 44
             }
         },
         {
             "kind": "youtube#playlist",
-            "etag": "xNFTq3M4D7bCThSOQlFamu2265Y",
-            "id": "RDCLAK5uy_nWFLXjO1mIJnP4wAmxjfDS40Zmu6nF9DU",
+            "etag": "D-g72QqvHKa7G0lyaN4tO3NmvOI",
+            "id": "PLaNQ4SSCJRcqZfWKdq2C-BBMT8zK_ToB-",
             "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Se Habla Pop",
-                "description": "Your go-to place for the biggest Latin Pop tunes.",
+                "publishedAt": "2016-05-24T06:20:39Z",
+                "channelId": "UCl7I677oe59sCA1zHBxGfyA",
+                "title": "Dinka gospel song",
+                "description": "",
                 "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1nqJkk4E95g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
                     "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nWFLXjO1mIJnP4wAmxjfDS40Zmu6nF9DU/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICJift7YGEAE=&rs=AOn4CLCIknS_ZCsynGdhJ4c-TVGXN7LLVQ&v=1724764056",
-                        "width": 180,
+                        "url": "https://i.ytimg.com/vi/1nqJkk4E95g/mqdefault.jpg",
+                        "width": 320,
                         "height": 180
                     },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nWFLXjO1mIJnP4wAmxjfDS40Zmu6nF9DU/sddefault.jpg?sqp=CLzQu7YGir7X7AMICJift7YGEAE=&rs=AOn4CLB2tl902iYWloLlVgkkzDzzhGqxBA&v=1724764056",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nWFLXjO1mIJnP4wAmxjfDS40Zmu6nF9DU/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICJift7YGEAE=&rs=AOn4CLBa1mEHtJ6NKcXhQunkWmh9QY0wSg&v=1724764056",
-                        "width": 1200,
-                        "height": 1200
-                    }
-                },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Se Habla Pop",
-                    "description": "Your go-to place for the biggest Latin Pop tunes."
-                },
-                "image": {
-                    "url": ""
-                },
-                "category_1": "Pop",
-                "category_2": "Biggest",
-                "category_3": "Latin",
-                "category_4": "Tune",
-                "category_5": "",
-                "category_6": "",
-                "category_7": "",
-                "category_8": "",
-                "category_9": "",
-                "category_10": ""
-            },
-            "status": {
-                "privacyStatus": "public"
-            },
-            "contentDetails": {
-                "itemCount": 50
-            }
-        },
-        {
-            "kind": "youtube#playlist",
-            "etag": "kE6pnYYj0uHaBHzEXirqlx3l0go",
-            "id": "RDCLAK5uy_mOGSCVBsZurORfvybL5lEwxKsNFlZ8cPY",
-            "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Bigroom Never Dies",
-                "description": "Mainstage EDM, Bigroom Techno, Future Rave - this energy is eternal",
-                "thumbnails": {
-                    "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mOGSCVBsZurORfvybL5lEwxKsNFlZ8cPY/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICPT3urYGEAE=&rs=AOn4CLA9tFulti4v9B_jxw3iPGdozRDufw&v=1724824564",
-                        "width": 180,
-                        "height": 180
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1nqJkk4E95g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
                     },
                     "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mOGSCVBsZurORfvybL5lEwxKsNFlZ8cPY/sddefault.jpg?sqp=CLzQu7YGir7X7AMICPT3urYGEAE=&rs=AOn4CLDRTKQne_gHOKK8SIbqdyQ2AZx-QQ&v=1724824564",
+                        "url": "https://i.ytimg.com/vi/1nqJkk4E95g/sddefault.jpg",
                         "width": 640,
-                        "height": 640
+                        "height": 480
                     },
                     "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mOGSCVBsZurORfvybL5lEwxKsNFlZ8cPY/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICPT3urYGEAE=&rs=AOn4CLBDDMCsVRuhg9J8i7dwioObkxL0HA&v=1724824564",
-                        "width": 1200,
-                        "height": 1200
+                        "url": "https://i.ytimg.com/vi/1nqJkk4E95g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
                     }
                 },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
+                "channelTitle": "Chol Deng",
                 "localized": {
-                    "title": "Bigroom Never Dies",
-                    "description": "Mainstage EDM, Bigroom Techno, Future Rave - this energy is eternal"
+                    "title": "Dinka gospel song",
+                    "description": ""
                 },
                 "image": {
-                    "url": ""
+                    "url": "https://i.ytimg.com/vi/1nqJkk4E95g/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kv0l4YUEfy1pMgSLbhaCx3ZGvQmg"
                 },
-                "category_1": "Techno",
-                "category_2": "Energy",
+                "category_1": "Gospel",
+                "category_2": "Songs",
                 "category_3": "",
                 "category_4": "",
                 "category_5": "",
@@ -798,101 +1843,57 @@
                 "privacyStatus": "public"
             },
             "contentDetails": {
-                "itemCount": 27
+                "itemCount": 112
             }
         },
         {
             "kind": "youtube#playlist",
-            "etag": "5P-gYd1OGastWuZRnsSrVMBOaNo",
-            "id": "RDCLAK5uy_kQBD3rFQ5BwWJpJGXQRPB-5AJA8Wp_XFM",
+            "etag": "PWPRj2kSAxsXBtISyY8tJqXbQJg",
+            "id": "PL8pi28WtG5ZBlWKbPAxDzsqMkl4DBeY6J",
             "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Presenting Jewel",
-                "description": "The most played hits and essential tracks.",
+                "publishedAt": "2020-09-23T20:28:33Z",
+                "channelId": "UC7N2sn0K0lUjlWyqJ-s3arg",
+                "title": "MPB-Gospel",
+                "description": "Playlist Created with https://www.tunemymusic.com?source=plcreated that lets you transfer your playlist to YouTube from any music platform such as Spotify, Deezer etc",
                 "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UrPe9H34t-4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
                     "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kQBD3rFQ5BwWJpJGXQRPB-5AJA8Wp_XFM/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICI6xuLYGEAE=&rs=AOn4CLAbUzbT4wSsL9gMZ-ZaFQy9HBfKmg&v=1724782734",
-                        "width": 180,
+                        "url": "https://i.ytimg.com/vi/UrPe9H34t-4/mqdefault.jpg",
+                        "width": 320,
                         "height": 180
                     },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kQBD3rFQ5BwWJpJGXQRPB-5AJA8Wp_XFM/sddefault.jpg?sqp=CLzQu7YGir7X7AMICI6xuLYGEAE=&rs=AOn4CLC15ejvLKj_tNsMKhlrE3-Cj0WY0w&v=1724782734",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kQBD3rFQ5BwWJpJGXQRPB-5AJA8Wp_XFM/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICI6xuLYGEAE=&rs=AOn4CLDTgBULtV8BLti4_yhGvI7-kp01oA&v=1724782734",
-                        "width": 1200,
-                        "height": 1200
-                    }
-                },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Presenting Jewel",
-                    "description": "The most played hits and essential tracks."
-                },
-                "image": {
-                    "url": ""
-                },
-                "category_1": "Hits",
-                "category_2": "Essential",
-                "category_3": "Tracks",
-                "category_4": "",
-                "category_5": "",
-                "category_6": "",
-                "category_7": "",
-                "category_8": "",
-                "category_9": "",
-                "category_10": ""
-            },
-            "status": {
-                "privacyStatus": "public"
-            },
-            "contentDetails": {
-                "itemCount": 25
-            }
-        },
-        {
-            "kind": "youtube#playlist",
-            "etag": "HsRlCERNcJAuJ701w1c3_vyOD2s",
-            "id": "RDCLAK5uy_m08wpXSZElSkZcJtFIQdVC9bnIx31GMw0",
-            "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Christian Dance Music",
-                "description": "Graceful dance and electronic music",
-                "thumbnails": {
-                    "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m08wpXSZElSkZcJtFIQdVC9bnIx31GMw0/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICI_Lt7YGEAE=&rs=AOn4CLCJQBM1QhQOduUBGexRlH4hgSfLlA&v=1724769679",
-                        "width": 180,
-                        "height": 180
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UrPe9H34t-4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
                     },
                     "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m08wpXSZElSkZcJtFIQdVC9bnIx31GMw0/sddefault.jpg?sqp=CLzQu7YGir7X7AMICI_Lt7YGEAE=&rs=AOn4CLC5zfPgstmNO99gSPgmaWAsTXV5pQ&v=1724769679",
+                        "url": "https://i.ytimg.com/vi/UrPe9H34t-4/sddefault.jpg",
                         "width": 640,
-                        "height": 640
+                        "height": 480
                     },
                     "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m08wpXSZElSkZcJtFIQdVC9bnIx31GMw0/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICI_Lt7YGEAE=&rs=AOn4CLCCeF7IuR2AiUCUmwZXtbmeTcCOsA&v=1724769679",
-                        "width": 1200,
-                        "height": 1200
+                        "url": "https://i.ytimg.com/vi/UrPe9H34t-4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
                     }
                 },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
+                "channelTitle": "Mateus Mozer",
                 "localized": {
-                    "title": "Christian Dance Music",
-                    "description": "Graceful dance and electronic music"
+                    "title": "MPB-Gospel",
+                    "description": "Playlist Created with https://www.tunemymusic.com?source=plcreated that lets you transfer your playlist to YouTube from any music platform such as Spotify, Deezer etc"
                 },
                 "image": {
-                    "url": ""
+                    "url": "https://yt3.ggpht.com/SGoFcqJg3VWdfiT01gaOi1ylmSesLI4o5vtJ4OaRiqu8bvSHJPGnSP02U_ZRV-xg87J9C7MJUQ=s1200"
                 },
-                "category_1": "Christian",
-                "category_2": "Dance",
+                "category_1": "Gospel",
+                "category_2": "Playlist",
                 "category_3": "Music",
-                "category_4": "Electronic",
+                "category_4": "Tune",
                 "category_5": "",
                 "category_6": "",
                 "category_7": "",
@@ -904,107 +1905,125 @@
                 "privacyStatus": "public"
             },
             "contentDetails": {
-                "itemCount": 47
+                "itemCount": 37
             }
         },
         {
             "kind": "youtube#playlist",
-            "etag": "v4tvSQrhYDKem4UZCF4aTGMT1uM",
-            "id": "RDCLAK5uy_lNxm8Rc4iPjaqlYqeZ1oHxrjAC0Oi7bso",
+            "etag": "6C_gPChka7pPea1ky6HvH433LOU",
+            "id": "PLrQ_9CjH0M3DrNKFiJwWMcXeunA0lU-NB",
             "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "New Music Bhojpuri",
-                "description": "The latest in Bhojpuri music, served up fresh every Friday.",
+                "publishedAt": "2015-09-16T14:22:04Z",
+                "channelId": "UCpLq38fB0yaYr2XGBC89zkg",
+                "title": "Gaither Homecoming \u2013 Greatest Hymns",
+                "description": "In this playlist, you can hear echoes of the old hymns as our Homecoming friends raise the rafters with musical hallelujahs. Watch for clips of those that we so dearly miss - Jake Hess, James Blackwood, Hovie Lister, and Howard and Vestal Goodman.",
                 "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/z9P5VdY9ZBk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
                     "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lNxm8Rc4iPjaqlYqeZ1oHxrjAC0Oi7bso/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICK7Iu7YGEAE=&rs=AOn4CLCRAtmfw0iJPRGwHb2V_BYuO-FCiA&v=1724834862",
-                        "width": 180,
+                        "url": "https://i.ytimg.com/vi/z9P5VdY9ZBk/mqdefault.jpg",
+                        "width": 320,
                         "height": 180
                     },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lNxm8Rc4iPjaqlYqeZ1oHxrjAC0Oi7bso/sddefault.jpg?sqp=CLzQu7YGir7X7AMICK7Iu7YGEAE=&rs=AOn4CLA6DQxbVEQmX7lCCaZmRNVz5gzkLw&v=1724834862",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lNxm8Rc4iPjaqlYqeZ1oHxrjAC0Oi7bso/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICK7Iu7YGEAE=&rs=AOn4CLAT6oWN4Inh6krQq9syDvRVfcDXGA&v=1724834862",
-                        "width": 1200,
-                        "height": 1200
-                    }
-                },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "New Music Bhojpuri",
-                    "description": "The latest in Bhojpuri music, served up fresh every Friday."
-                },
-                "image": {
-                    "url": ""
-                },
-                "category_1": "New",
-                "category_2": "Music",
-                "category_3": "Latest",
-                "category_4": "Fresh",
-                "category_5": "",
-                "category_6": "",
-                "category_7": "",
-                "category_8": "",
-                "category_9": "",
-                "category_10": ""
-            },
-            "status": {
-                "privacyStatus": "public"
-            },
-            "contentDetails": {
-                "itemCount": 85
-            }
-        },
-        {
-            "kind": "youtube#playlist",
-            "etag": "K0rPghsB9jpha8Y2pvJRJV40Uy0",
-            "id": "RDCLAK5uy_n9Fbdw7e6ap-98_A-8JYBmPv64v-Uaq1g",
-            "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Bollywood Hitlist",
-                "description": "Best of the best from the latest. 'Nuff said. #hindi #music #hits",
-                "thumbnails": {
-                    "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n9Fbdw7e6ap-98_A-8JYBmPv64v-Uaq1g/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICKzJu7YGEAE=&rs=AOn4CLBgTuQ3HA1Y9QBG5x44lR4feSn_3w&v=1724834988",
-                        "width": 180,
-                        "height": 180
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/z9P5VdY9ZBk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
                     },
                     "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n9Fbdw7e6ap-98_A-8JYBmPv64v-Uaq1g/sddefault.jpg?sqp=CLzQu7YGir7X7AMICKzJu7YGEAE=&rs=AOn4CLDLzIUSMS6oGqsXNm26cV68RLDfYQ&v=1724834988",
+                        "url": "https://i.ytimg.com/vi/z9P5VdY9ZBk/sddefault.jpg",
                         "width": 640,
-                        "height": 640
+                        "height": 480
                     },
                     "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n9Fbdw7e6ap-98_A-8JYBmPv64v-Uaq1g/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICKzJu7YGEAE=&rs=AOn4CLAh3VhN5CE2f0MKl-m-XZbKEnXnCg&v=1724834988",
-                        "width": 1200,
-                        "height": 1200
+                        "url": "https://i.ytimg.com/vi/z9P5VdY9ZBk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
                     }
                 },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
+                "channelTitle": "GaitherVEVO",
                 "localized": {
-                    "title": "Bollywood Hitlist",
-                    "description": "Best of the best from the latest. 'Nuff said. #hindi #music #hits"
+                    "title": "Gaither Homecoming \u2013 Greatest Hymns",
+                    "description": "In this playlist, you can hear echoes of the old hymns as our Homecoming friends raise the rafters with musical hallelujahs. Watch for clips of those that we so dearly miss - Jake Hess, James Blackwood, Hovie Lister, and Howard and Vestal Goodman."
                 },
                 "image": {
-                    "url": ""
+                    "url": "https://yt3.ggpht.com/AOfaXwQHwJpzzkJkZtsMTxq3RYgq4O8vvdz8S2ymq21YgabveuWomJppgBzLrRulT8vDtvCo7HM=s1200"
                 },
-                "category_1": "Bollywood",
-                "category_2": "Best",
-                "category_3": "Latest",
-                "category_4": "Hindi",
+                "category_1": "Greatest",
+                "category_2": "Hymns",
+                "category_3": "Playlist",
+                "category_4": "Friends",
                 "category_5": "Music",
-                "category_6": "Hits",
+                "category_6": "Jams",
                 "category_7": "",
                 "category_8": "",
                 "category_9": "",
                 "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 69
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "mKCyShFSawQTzJJMJsCyAx1wf4M",
+            "id": "PLD_uXMSPBmimEiwBekkRdS_0jyY2hDj0k",
+            "snippet": {
+                "publishedAt": "2020-08-03T16:04:11Z",
+                "channelId": "UCI6OXCd0cfudLT5wf2XTN_A",
+                "title": "Best Uptempo Gospel Songs 2024 - Top 50 Uplifting Gospel Music 2024 (Upbeat Gospel Hits Playlist)",
+                "description": "Best Uptempo Gospel Songs 2024 - Top 50 Uplifting Gospel Music 2024 (Upbeat Gospel Hits Playlist)\n\nIf you enjoyed listening to this playlist, we recommend you to check:\n\nModern Gospel Songs 2024 \u266b  Popular Praise & Worship Music 2024 - https://play.redlist.com/6030\n\nIn the next year, you will be able to find this playlist with the next title: Best Uptempo Gospel Songs 2025 - Top 50 Uplifting Gospel Music 2025 (Upbeat Gospel Hits Playlist)\n\n\nLast Year's Title: Best Uptempo Gospel Songs 2023 - Top 50 Uplifting Gospel Music 2023 (Upbeat Gospel Hits Playlist)\n\nShare your thoughts on our playlist: contact@red-music.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VrT-gM3PW64/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VrT-gM3PW64/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VrT-gM3PW64/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VrT-gM3PW64/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/VrT-gM3PW64/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Redlist - Christian",
+                "localized": {
+                    "title": "Best Uptempo Gospel Songs 2024 - Top 50 Uplifting Gospel Music 2024 (Upbeat Gospel Hits Playlist)",
+                    "description": "Best Uptempo Gospel Songs 2024 - Top 50 Uplifting Gospel Music 2024 (Upbeat Gospel Hits Playlist)\n\nIf you enjoyed listening to this playlist, we recommend you to check:\n\nModern Gospel Songs 2024 \u266b  Popular Praise & Worship Music 2024 - https://play.redlist.com/6030\n\nIn the next year, you will be able to find this playlist with the next title: Best Uptempo Gospel Songs 2025 - Top 50 Uplifting Gospel Music 2025 (Upbeat Gospel Hits Playlist)\n\n\nLast Year's Title: Best Uptempo Gospel Songs 2023 - Top 50 Uplifting Gospel Music 2023 (Upbeat Gospel Hits Playlist)\n\nShare your thoughts on our playlist: contact@red-music.com"
+                },
+                "image": {
+                    "url": "https://yt3.googleusercontent.com/8CwfQ5cUDJauB1wfghdpZoaspZBBlJEP5QKs484e7eQcA61iK_rWe6evWQwu-ViZyzZTTUcX7_w=s1200"
+                },
+                "category_1": "Best",
+                "category_2": "tempo",
+                "category_3": "Gospel",
+                "category_4": "Songs",
+                "category_5": "Top",
+                "category_6": "Uplifting",
+                "category_7": "Music",
+                "category_8": "Upbeat",
+                "category_9": "Beat",
+                "category_10": "Hits"
             },
             "status": {
                 "privacyStatus": "public"
@@ -1015,42 +2034,51 @@
         },
         {
             "kind": "youtube#playlist",
-            "etag": "0-bk185WdTHMRu9KsZJ6dc5B0Xc",
-            "id": "RDCLAK5uy_mV646-1PNIgW01WRQnoxd8Bmhra6f9qRI",
+            "etag": "pe0K-kNuj_O1hybACNew3VvQHes",
+            "id": "PLtWRDUkYvdCdVP2HidXAew9wxEzRLgjTL",
             "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "UK R&B Hits 2023",
-                "description": "Experience the sound of 2023 with some of the biggest UK R&B Hits of the year.",
+                "publishedAt": "2020-03-21T22:12:41Z",
+                "channelId": "UC1_Bxk4UdmXPhcOZU7zY_Mw",
+                "title": "Tradu\u00e7\u00f5es Gospel",
+                "description": "Tradu\u00e7\u00f5es Gospel do canal VJ Tradu\u00e7\u00f5es Gospel",
                 "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7xo2xtR0lcU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
                     "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mV646-1PNIgW01WRQnoxd8Bmhra6f9qRI/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICLyxu7YGEAE=&rs=AOn4CLBaGaiAybLATYdM0kyb0UU0MNmPPw&v=1724831932",
-                        "width": 180,
+                        "url": "https://i.ytimg.com/vi/7xo2xtR0lcU/mqdefault.jpg",
+                        "width": 320,
                         "height": 180
                     },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7xo2xtR0lcU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
                     "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mV646-1PNIgW01WRQnoxd8Bmhra6f9qRI/sddefault.jpg?sqp=CLzQu7YGir7X7AMICLyxu7YGEAE=&rs=AOn4CLD9cs3EiBk_mnDbogdFxRzWDnBwyQ&v=1724831932",
+                        "url": "https://i.ytimg.com/vi/7xo2xtR0lcU/sddefault.jpg",
                         "width": 640,
-                        "height": 640
+                        "height": 480
                     },
                     "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mV646-1PNIgW01WRQnoxd8Bmhra6f9qRI/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICLyxu7YGEAE=&rs=AOn4CLAyKmq3-htq4HyR3k6Dd3PygW0W0g&v=1724831932",
-                        "width": 1200,
-                        "height": 1200
+                        "url": "https://i.ytimg.com/vi/7xo2xtR0lcU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
                     }
                 },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
+                "channelTitle": "VJ Tradu\u00e7\u00f5es Gospel",
                 "localized": {
-                    "title": "UK R&B Hits 2023",
-                    "description": "Experience the sound of 2023 with some of the biggest UK R&B Hits of the year."
+                    "title": "Tradu\u00e7\u00f5es Gospel",
+                    "description": "Tradu\u00e7\u00f5es Gospel do canal VJ Tradu\u00e7\u00f5es Gospel"
                 },
                 "image": {
                     "url": ""
                 },
-                "category_1": "Hits",
-                "category_2": "Sound",
-                "category_3": "Biggest",
+                "category_1": "Gospel",
+                "category_2": "",
+                "category_3": "",
                 "category_4": "",
                 "category_5": "",
                 "category_6": "",
@@ -1060,46 +2088,56 @@
                 "category_10": ""
             },
             "status": {
-                "privacyStatus": "public"
+                "privacyStatus": "public",
+                "podcastStatus": "enabled"
             },
             "contentDetails": {
-                "itemCount": 50
+                "itemCount": 977
             }
         },
         {
             "kind": "youtube#playlist",
-            "etag": "jt_GTNFaUojXbP56BwEuBDHxFpM",
-            "id": "RDCLAK5uy_mxDsH4bpS_ZyW_Uy0g3K7rS8407IZEgFQ",
+            "etag": "44bWOX7dRXm6ESzGhA_Ahv6hqfA",
+            "id": "PL2Fq03UjZTjjVqbhGDTXoPBeLJpy6_dPy",
             "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Presenting Focalistic",
+                "publishedAt": "2022-08-03T15:42:44Z",
+                "channelId": "UC1GVT3DIkD32CibVRGpJd5g",
+                "title": "Louvorz\u00e3o 93 (Ao Vivo) - 2022",
                 "description": "",
                 "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/n9rGJYcv88I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
                     "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mxDsH4bpS_ZyW_Uy0g3K7rS8407IZEgFQ/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICNjot7YGEAE=&rs=AOn4CLBcslmPQ4b_DEDZxa3OSiA3A5dqZQ&v=1724773464",
-                        "width": 180,
+                        "url": "https://i.ytimg.com/vi/n9rGJYcv88I/mqdefault.jpg",
+                        "width": 320,
                         "height": 180
                     },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/n9rGJYcv88I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
                     "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mxDsH4bpS_ZyW_Uy0g3K7rS8407IZEgFQ/sddefault.jpg?sqp=CLzQu7YGir7X7AMICNjot7YGEAE=&rs=AOn4CLC9a_TTidXImxAKWelImrJxkHfEwQ&v=1724773464",
+                        "url": "https://i.ytimg.com/vi/n9rGJYcv88I/sddefault.jpg",
                         "width": 640,
-                        "height": 640
+                        "height": 480
                     },
                     "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mxDsH4bpS_ZyW_Uy0g3K7rS8407IZEgFQ/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICNjot7YGEAE=&rs=AOn4CLDXfHlvdCVTfG9ErCZ-ooJOmNno_w&v=1724773464",
-                        "width": 1200,
-                        "height": 1200
+                        "url": "https://i.ytimg.com/vi/n9rGJYcv88I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
                     }
                 },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
+                "channelTitle": "R\u00e1dio 93 - FM Gospel",
                 "localized": {
-                    "title": "Presenting Focalistic",
+                    "title": "Louvorz\u00e3o 93 (Ao Vivo) - 2022",
                     "description": ""
                 },
                 "image": {
-                    "url": ""
+                    "url": "https://yt3.ggpht.com/1jVxgbLQlxtgbGeGkVAljXFO1EFxNWGl4lKhWIdsefcsqe6ywNwQcSFHhQJQszqb01siaqr72cI=s1200"
                 },
                 "category_1": "",
                 "category_2": "",
@@ -1116,628 +2154,54 @@
                 "privacyStatus": "public"
             },
             "contentDetails": {
-                "itemCount": 20
+                "itemCount": 22
             }
         },
         {
             "kind": "youtube#playlist",
-            "etag": "wGSkiCMn-8BXlorAuL5n1p4OmmY",
-            "id": "RDCLAK5uy_lZZgGnig5IfTZNqR-Y9AF4izHcMm3AkHI",
+            "etag": "UhG5nwdSljkTC9WW2f58Hhq1tzs",
+            "id": "PLniacy4qopQznSE6iMJLVbS8VKl4xPfIN",
             "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Presenting Sal Priadi",
-                "description": "The most played hits and essential tracks.",
-                "thumbnails": {
-                    "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lZZgGnig5IfTZNqR-Y9AF4izHcMm3AkHI/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICIzpurYGEAE=&rs=AOn4CLCciZdy9j7fV6Jtj3IUixCXM6uqqQ&v=1724822668",
-                        "width": 180,
-                        "height": 180
-                    },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lZZgGnig5IfTZNqR-Y9AF4izHcMm3AkHI/sddefault.jpg?sqp=CLzQu7YGir7X7AMICIzpurYGEAE=&rs=AOn4CLC3dKz4iyyJRhFHtkJTgxL-mTQjng&v=1724822668",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lZZgGnig5IfTZNqR-Y9AF4izHcMm3AkHI/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICIzpurYGEAE=&rs=AOn4CLDCyhTw3f3ELLPwIdp-pjx6ApJyCA&v=1724822668",
-                        "width": 1200,
-                        "height": 1200
-                    }
-                },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Presenting Sal Priadi",
-                    "description": "The most played hits and essential tracks."
-                },
-                "image": {
-                    "url": ""
-                },
-                "category_1": "Hits",
-                "category_2": "Essential",
-                "category_3": "Tracks",
-                "category_4": "",
-                "category_5": "",
-                "category_6": "",
-                "category_7": "",
-                "category_8": "",
-                "category_9": "",
-                "category_10": ""
-            },
-            "status": {
-                "privacyStatus": "public"
-            },
-            "contentDetails": {
-                "itemCount": 20
-            }
-        },
-        {
-            "kind": "youtube#playlist",
-            "etag": "z0JyCREGsN9BTNLVKTN8-mXUfP0",
-            "id": "RDCLAK5uy_mknwc9CM60PJypevnZTvYjInAIv31un6o",
-            "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Dance & Electronic Hits 2023",
-                "description": "Experience the sound of 2023 with this collection of some of the biggest dance & electronic hits of the year. #ytmDance",
-                "thumbnails": {
-                    "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mknwc9CM60PJypevnZTvYjInAIv31un6o/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICJrlubYGEAE=&rs=AOn4CLABFrB_UMAYd_f-3VeJDyvV4yW9gw&v=1724805786",
-                        "width": 180,
-                        "height": 180
-                    },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mknwc9CM60PJypevnZTvYjInAIv31un6o/sddefault.jpg?sqp=CLzQu7YGir7X7AMICJrlubYGEAE=&rs=AOn4CLBxJjZJkhGgQCU2eOyumuMp-EuyJg&v=1724805786",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mknwc9CM60PJypevnZTvYjInAIv31un6o/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICJrlubYGEAE=&rs=AOn4CLDVNjUIUwf6Op70DqFHTn9oNOnE1g&v=1724805786",
-                        "width": 1200,
-                        "height": 1200
-                    }
-                },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Dance & Electronic Hits 2023",
-                    "description": "Experience the sound of 2023 with this collection of some of the biggest dance & electronic hits of the year. #ytmDance"
-                },
-                "image": {
-                    "url": ""
-                },
-                "category_1": "Dance",
-                "category_2": "Electronic",
-                "category_3": "Hits",
-                "category_4": "Sound",
-                "category_5": "Collection",
-                "category_6": "Biggest",
-                "category_7": "",
-                "category_8": "",
-                "category_9": "",
-                "category_10": ""
-            },
-            "status": {
-                "privacyStatus": "public"
-            },
-            "contentDetails": {
-                "itemCount": 59
-            }
-        },
-        {
-            "kind": "youtube#playlist",
-            "etag": "YZ_kvtOYHra-d9pWvUGTbeM3QI8",
-            "id": "RDCLAK5uy_nDmSmcwTjSTpR8chUADFyQS4t9t_aspSQ",
-            "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Presenting Nucleya",
-                "description": "The most played hits and essential tracks.",
-                "thumbnails": {
-                    "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nDmSmcwTjSTpR8chUADFyQS4t9t_aspSQ/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICPSqubYGEAE=&rs=AOn4CLA6RZwhoUXyLzfZ4jkD_IhW7qgDFw&v=1724798324",
-                        "width": 180,
-                        "height": 180
-                    },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nDmSmcwTjSTpR8chUADFyQS4t9t_aspSQ/sddefault.jpg?sqp=CLzQu7YGir7X7AMICPSqubYGEAE=&rs=AOn4CLCC4wPOmd-1-bzjrOZL2vBNbFLbKw&v=1724798324",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nDmSmcwTjSTpR8chUADFyQS4t9t_aspSQ/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICPSqubYGEAE=&rs=AOn4CLAB5XRuTGSjd_piDYpH0vq4XOiFug&v=1724798324",
-                        "width": 1200,
-                        "height": 1200
-                    }
-                },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Presenting Nucleya",
-                    "description": "The most played hits and essential tracks."
-                },
-                "image": {
-                    "url": ""
-                },
-                "category_1": "Hits",
-                "category_2": "Essential",
-                "category_3": "Tracks",
-                "category_4": "",
-                "category_5": "",
-                "category_6": "",
-                "category_7": "",
-                "category_8": "",
-                "category_9": "",
-                "category_10": ""
-            },
-            "status": {
-                "privacyStatus": "public"
-            },
-            "contentDetails": {
-                "itemCount": 50
-            }
-        },
-        {
-            "kind": "youtube#playlist",
-            "etag": "xNFTq3M4D7bCThSOQlFamu2265Y",
-            "id": "RDCLAK5uy_nWFLXjO1mIJnP4wAmxjfDS40Zmu6nF9DU",
-            "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Se Habla Pop",
-                "description": "Your go-to place for the biggest Latin Pop tunes.",
-                "thumbnails": {
-                    "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nWFLXjO1mIJnP4wAmxjfDS40Zmu6nF9DU/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICJift7YGEAE=&rs=AOn4CLCIknS_ZCsynGdhJ4c-TVGXN7LLVQ&v=1724764056",
-                        "width": 180,
-                        "height": 180
-                    },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nWFLXjO1mIJnP4wAmxjfDS40Zmu6nF9DU/sddefault.jpg?sqp=CLzQu7YGir7X7AMICJift7YGEAE=&rs=AOn4CLB2tl902iYWloLlVgkkzDzzhGqxBA&v=1724764056",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nWFLXjO1mIJnP4wAmxjfDS40Zmu6nF9DU/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICJift7YGEAE=&rs=AOn4CLBa1mEHtJ6NKcXhQunkWmh9QY0wSg&v=1724764056",
-                        "width": 1200,
-                        "height": 1200
-                    }
-                },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Se Habla Pop",
-                    "description": "Your go-to place for the biggest Latin Pop tunes."
-                },
-                "image": {
-                    "url": ""
-                },
-                "category_1": "Pop",
-                "category_2": "Biggest",
-                "category_3": "Latin",
-                "category_4": "Tune",
-                "category_5": "",
-                "category_6": "",
-                "category_7": "",
-                "category_8": "",
-                "category_9": "",
-                "category_10": ""
-            },
-            "status": {
-                "privacyStatus": "public"
-            },
-            "contentDetails": {
-                "itemCount": 50
-            }
-        },
-        {
-            "kind": "youtube#playlist",
-            "etag": "kE6pnYYj0uHaBHzEXirqlx3l0go",
-            "id": "RDCLAK5uy_mOGSCVBsZurORfvybL5lEwxKsNFlZ8cPY",
-            "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Bigroom Never Dies",
-                "description": "Mainstage EDM, Bigroom Techno, Future Rave - this energy is eternal",
-                "thumbnails": {
-                    "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mOGSCVBsZurORfvybL5lEwxKsNFlZ8cPY/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICPT3urYGEAE=&rs=AOn4CLA9tFulti4v9B_jxw3iPGdozRDufw&v=1724824564",
-                        "width": 180,
-                        "height": 180
-                    },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mOGSCVBsZurORfvybL5lEwxKsNFlZ8cPY/sddefault.jpg?sqp=CLzQu7YGir7X7AMICPT3urYGEAE=&rs=AOn4CLDRTKQne_gHOKK8SIbqdyQ2AZx-QQ&v=1724824564",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mOGSCVBsZurORfvybL5lEwxKsNFlZ8cPY/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICPT3urYGEAE=&rs=AOn4CLBDDMCsVRuhg9J8i7dwioObkxL0HA&v=1724824564",
-                        "width": 1200,
-                        "height": 1200
-                    }
-                },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Bigroom Never Dies",
-                    "description": "Mainstage EDM, Bigroom Techno, Future Rave - this energy is eternal"
-                },
-                "image": {
-                    "url": ""
-                },
-                "category_1": "Techno",
-                "category_2": "Energy",
-                "category_3": "",
-                "category_4": "",
-                "category_5": "",
-                "category_6": "",
-                "category_7": "",
-                "category_8": "",
-                "category_9": "",
-                "category_10": ""
-            },
-            "status": {
-                "privacyStatus": "public"
-            },
-            "contentDetails": {
-                "itemCount": 27
-            }
-        },
-        {
-            "kind": "youtube#playlist",
-            "etag": "5P-gYd1OGastWuZRnsSrVMBOaNo",
-            "id": "RDCLAK5uy_kQBD3rFQ5BwWJpJGXQRPB-5AJA8Wp_XFM",
-            "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Presenting Jewel",
-                "description": "The most played hits and essential tracks.",
-                "thumbnails": {
-                    "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kQBD3rFQ5BwWJpJGXQRPB-5AJA8Wp_XFM/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICI6xuLYGEAE=&rs=AOn4CLAbUzbT4wSsL9gMZ-ZaFQy9HBfKmg&v=1724782734",
-                        "width": 180,
-                        "height": 180
-                    },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kQBD3rFQ5BwWJpJGXQRPB-5AJA8Wp_XFM/sddefault.jpg?sqp=CLzQu7YGir7X7AMICI6xuLYGEAE=&rs=AOn4CLC15ejvLKj_tNsMKhlrE3-Cj0WY0w&v=1724782734",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kQBD3rFQ5BwWJpJGXQRPB-5AJA8Wp_XFM/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICI6xuLYGEAE=&rs=AOn4CLDTgBULtV8BLti4_yhGvI7-kp01oA&v=1724782734",
-                        "width": 1200,
-                        "height": 1200
-                    }
-                },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Presenting Jewel",
-                    "description": "The most played hits and essential tracks."
-                },
-                "image": {
-                    "url": ""
-                },
-                "category_1": "Hits",
-                "category_2": "Essential",
-                "category_3": "Tracks",
-                "category_4": "",
-                "category_5": "",
-                "category_6": "",
-                "category_7": "",
-                "category_8": "",
-                "category_9": "",
-                "category_10": ""
-            },
-            "status": {
-                "privacyStatus": "public"
-            },
-            "contentDetails": {
-                "itemCount": 25
-            }
-        },
-        {
-            "kind": "youtube#playlist",
-            "etag": "HsRlCERNcJAuJ701w1c3_vyOD2s",
-            "id": "RDCLAK5uy_m08wpXSZElSkZcJtFIQdVC9bnIx31GMw0",
-            "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Christian Dance Music",
-                "description": "Graceful dance and electronic music",
-                "thumbnails": {
-                    "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m08wpXSZElSkZcJtFIQdVC9bnIx31GMw0/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICI_Lt7YGEAE=&rs=AOn4CLCJQBM1QhQOduUBGexRlH4hgSfLlA&v=1724769679",
-                        "width": 180,
-                        "height": 180
-                    },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m08wpXSZElSkZcJtFIQdVC9bnIx31GMw0/sddefault.jpg?sqp=CLzQu7YGir7X7AMICI_Lt7YGEAE=&rs=AOn4CLC5zfPgstmNO99gSPgmaWAsTXV5pQ&v=1724769679",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m08wpXSZElSkZcJtFIQdVC9bnIx31GMw0/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICI_Lt7YGEAE=&rs=AOn4CLCCeF7IuR2AiUCUmwZXtbmeTcCOsA&v=1724769679",
-                        "width": 1200,
-                        "height": 1200
-                    }
-                },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Christian Dance Music",
-                    "description": "Graceful dance and electronic music"
-                },
-                "image": {
-                    "url": ""
-                },
-                "category_1": "Christian",
-                "category_2": "Dance",
-                "category_3": "Music",
-                "category_4": "Electronic",
-                "category_5": "",
-                "category_6": "",
-                "category_7": "",
-                "category_8": "",
-                "category_9": "",
-                "category_10": ""
-            },
-            "status": {
-                "privacyStatus": "public"
-            },
-            "contentDetails": {
-                "itemCount": 47
-            }
-        },
-        {
-            "kind": "youtube#playlist",
-            "etag": "v4tvSQrhYDKem4UZCF4aTGMT1uM",
-            "id": "RDCLAK5uy_lNxm8Rc4iPjaqlYqeZ1oHxrjAC0Oi7bso",
-            "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "New Music Bhojpuri",
-                "description": "The latest in Bhojpuri music, served up fresh every Friday.",
-                "thumbnails": {
-                    "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lNxm8Rc4iPjaqlYqeZ1oHxrjAC0Oi7bso/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICK7Iu7YGEAE=&rs=AOn4CLCRAtmfw0iJPRGwHb2V_BYuO-FCiA&v=1724834862",
-                        "width": 180,
-                        "height": 180
-                    },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lNxm8Rc4iPjaqlYqeZ1oHxrjAC0Oi7bso/sddefault.jpg?sqp=CLzQu7YGir7X7AMICK7Iu7YGEAE=&rs=AOn4CLA6DQxbVEQmX7lCCaZmRNVz5gzkLw&v=1724834862",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lNxm8Rc4iPjaqlYqeZ1oHxrjAC0Oi7bso/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICK7Iu7YGEAE=&rs=AOn4CLAT6oWN4Inh6krQq9syDvRVfcDXGA&v=1724834862",
-                        "width": 1200,
-                        "height": 1200
-                    }
-                },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "New Music Bhojpuri",
-                    "description": "The latest in Bhojpuri music, served up fresh every Friday."
-                },
-                "image": {
-                    "url": ""
-                },
-                "category_1": "New",
-                "category_2": "Music",
-                "category_3": "Latest",
-                "category_4": "Fresh",
-                "category_5": "",
-                "category_6": "",
-                "category_7": "",
-                "category_8": "",
-                "category_9": "",
-                "category_10": ""
-            },
-            "status": {
-                "privacyStatus": "public"
-            },
-            "contentDetails": {
-                "itemCount": 85
-            }
-        },
-        {
-            "kind": "youtube#playlist",
-            "etag": "9Uu5URrPyxgTBFAoVQDXV5oUn9k",
-            "id": "RDCLAK5uy_n3hBZmo5HH0i8ydRepwOqNNmqAiH55qUY",
-            "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Tokyo Revengers",
-                "description": "The most played hits and essential tracks.",
-                "thumbnails": {
-                    "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n3hBZmo5HH0i8ydRepwOqNNmqAiH55qUY/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICJa3ubYGEAE=&rs=AOn4CLB22ocvVppahyIiowfhICnYSkTRqg&v=1724799894",
-                        "width": 180,
-                        "height": 180
-                    },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n3hBZmo5HH0i8ydRepwOqNNmqAiH55qUY/sddefault.jpg?sqp=CLzQu7YGir7X7AMICJa3ubYGEAE=&rs=AOn4CLChUfncvrjNxfwgVzC50cL1tb9uNg&v=1724799894",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n3hBZmo5HH0i8ydRepwOqNNmqAiH55qUY/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICJa3ubYGEAE=&rs=AOn4CLD7KUx2oRw-K_PxXumTKL8y-VCPVA&v=1724799894",
-                        "width": 1200,
-                        "height": 1200
-                    }
-                },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Tokyo Revengers",
-                    "description": "The most played hits and essential tracks."
-                },
-                "image": {
-                    "url": ""
-                },
-                "category_1": "Hits",
-                "category_2": "Essential",
-                "category_3": "Tracks",
-                "category_4": "",
-                "category_5": "",
-                "category_6": "",
-                "category_7": "",
-                "category_8": "",
-                "category_9": "",
-                "category_10": ""
-            },
-            "status": {
-                "privacyStatus": "public"
-            },
-            "contentDetails": {
-                "itemCount": 28
-            }
-        },
-        {
-            "kind": "youtube#playlist",
-            "etag": "K0rPghsB9jpha8Y2pvJRJV40Uy0",
-            "id": "RDCLAK5uy_n9Fbdw7e6ap-98_A-8JYBmPv64v-Uaq1g",
-            "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Bollywood Hitlist",
-                "description": "Best of the best from the latest. 'Nuff said. #hindi #music #hits",
-                "thumbnails": {
-                    "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n9Fbdw7e6ap-98_A-8JYBmPv64v-Uaq1g/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICKzJu7YGEAE=&rs=AOn4CLBgTuQ3HA1Y9QBG5x44lR4feSn_3w&v=1724834988",
-                        "width": 180,
-                        "height": 180
-                    },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n9Fbdw7e6ap-98_A-8JYBmPv64v-Uaq1g/sddefault.jpg?sqp=CLzQu7YGir7X7AMICKzJu7YGEAE=&rs=AOn4CLDLzIUSMS6oGqsXNm26cV68RLDfYQ&v=1724834988",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n9Fbdw7e6ap-98_A-8JYBmPv64v-Uaq1g/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICKzJu7YGEAE=&rs=AOn4CLAh3VhN5CE2f0MKl-m-XZbKEnXnCg&v=1724834988",
-                        "width": 1200,
-                        "height": 1200
-                    }
-                },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "Bollywood Hitlist",
-                    "description": "Best of the best from the latest. 'Nuff said. #hindi #music #hits"
-                },
-                "image": {
-                    "url": ""
-                },
-                "category_1": "Bollywood",
-                "category_2": "Best",
-                "category_3": "Latest",
-                "category_4": "Hindi",
-                "category_5": "Music",
-                "category_6": "Hits",
-                "category_7": "",
-                "category_8": "",
-                "category_9": "",
-                "category_10": ""
-            },
-            "status": {
-                "privacyStatus": "public"
-            },
-            "contentDetails": {
-                "itemCount": 50
-            }
-        },
-        {
-            "kind": "youtube#playlist",
-            "etag": "0-bk185WdTHMRu9KsZJ6dc5B0Xc",
-            "id": "RDCLAK5uy_mV646-1PNIgW01WRQnoxd8Bmhra6f9qRI",
-            "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "UK R&B Hits 2023",
-                "description": "Experience the sound of 2023 with some of the biggest UK R&B Hits of the year.",
-                "thumbnails": {
-                    "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mV646-1PNIgW01WRQnoxd8Bmhra6f9qRI/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICLyxu7YGEAE=&rs=AOn4CLBaGaiAybLATYdM0kyb0UU0MNmPPw&v=1724831932",
-                        "width": 180,
-                        "height": 180
-                    },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mV646-1PNIgW01WRQnoxd8Bmhra6f9qRI/sddefault.jpg?sqp=CLzQu7YGir7X7AMICLyxu7YGEAE=&rs=AOn4CLD9cs3EiBk_mnDbogdFxRzWDnBwyQ&v=1724831932",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mV646-1PNIgW01WRQnoxd8Bmhra6f9qRI/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICLyxu7YGEAE=&rs=AOn4CLAyKmq3-htq4HyR3k6Dd3PygW0W0g&v=1724831932",
-                        "width": 1200,
-                        "height": 1200
-                    }
-                },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
-                "localized": {
-                    "title": "UK R&B Hits 2023",
-                    "description": "Experience the sound of 2023 with some of the biggest UK R&B Hits of the year."
-                },
-                "image": {
-                    "url": ""
-                },
-                "category_1": "Hits",
-                "category_2": "Sound",
-                "category_3": "Biggest",
-                "category_4": "",
-                "category_5": "",
-                "category_6": "",
-                "category_7": "",
-                "category_8": "",
-                "category_9": "",
-                "category_10": ""
-            },
-            "status": {
-                "privacyStatus": "public"
-            },
-            "contentDetails": {
-                "itemCount": 50
-            }
-        },
-        {
-            "kind": "youtube#playlist",
-            "etag": "jt_GTNFaUojXbP56BwEuBDHxFpM",
-            "id": "RDCLAK5uy_mxDsH4bpS_ZyW_Uy0g3K7rS8407IZEgFQ",
-            "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Presenting Focalistic",
+                "publishedAt": "2020-12-02T22:19:20Z",
+                "channelId": "UCOQr_k20a8Hegb4ZwEwukYQ",
+                "title": "Dumisani gospel",
                 "description": "",
                 "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7hxWx27u3Yo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
                     "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mxDsH4bpS_ZyW_Uy0g3K7rS8407IZEgFQ/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICNjot7YGEAE=&rs=AOn4CLBcslmPQ4b_DEDZxa3OSiA3A5dqZQ&v=1724773464",
-                        "width": 180,
+                        "url": "https://i.ytimg.com/vi/7hxWx27u3Yo/mqdefault.jpg",
+                        "width": 320,
                         "height": 180
                     },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7hxWx27u3Yo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
                     "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mxDsH4bpS_ZyW_Uy0g3K7rS8407IZEgFQ/sddefault.jpg?sqp=CLzQu7YGir7X7AMICNjot7YGEAE=&rs=AOn4CLC9a_TTidXImxAKWelImrJxkHfEwQ&v=1724773464",
+                        "url": "https://i.ytimg.com/vi/7hxWx27u3Yo/sddefault.jpg",
                         "width": 640,
-                        "height": 640
+                        "height": 480
                     },
                     "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mxDsH4bpS_ZyW_Uy0g3K7rS8407IZEgFQ/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICNjot7YGEAE=&rs=AOn4CLDXfHlvdCVTfG9ErCZ-ooJOmNno_w&v=1724773464",
-                        "width": 1200,
-                        "height": 1200
+                        "url": "https://i.ytimg.com/vi/7hxWx27u3Yo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
                     }
                 },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
+                "channelTitle": "Amanda Meyer",
                 "localized": {
-                    "title": "Presenting Focalistic",
+                    "title": "Dumisani gospel",
                     "description": ""
                 },
                 "image": {
-                    "url": ""
+                    "url": "https://i.ytimg.com/vi/7hxWx27u3Yo/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3lnQKDMYs_-imbqYqNY9fKadllQGg"
                 },
-                "category_1": "",
+                "category_1": "Gospel",
                 "category_2": "",
                 "category_3": "",
                 "category_4": "",
@@ -1752,48 +2216,47 @@
                 "privacyStatus": "public"
             },
             "contentDetails": {
-                "itemCount": 20
+                "itemCount": 358
             }
         },
         {
             "kind": "youtube#playlist",
-            "etag": "2T_2pwGO9BTxGLoyuz15GJJAVII",
-            "id": "RDCLAK5uy_lgR5GgxlqbDqKuZtLEn4HSpbGjDU7B4Dw",
+            "etag": "8YjztyivOwGBG4wORcvgJFYhwiA",
+            "id": "PLSlMkq0BbARYk9okRr6Doc1DHI4rWjhDp",
             "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Bhojpuri Hits 2023",
-                "description": "Experience the sound of 2023 with this collection of some of the biggest Bhojpuri hits of the year.",
+                "publishedAt": "2019-06-09T12:35:09Z",
+                "channelId": "UC-OIhSjIAOLJCUxUNuW9TiQ",
+                "title": "UPBEAT GOSPEL INSTRUMENTALS",
+                "description": "",
                 "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yM5u9zVyAXc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
                     "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lgR5GgxlqbDqKuZtLEn4HSpbGjDU7B4Dw/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICK7OubYGEAE=&rs=AOn4CLDzLFPO3Z2ganeIdrHm85gcglE4sQ&v=1724802862",
-                        "width": 180,
+                        "url": "https://i.ytimg.com/vi/yM5u9zVyAXc/mqdefault.jpg",
+                        "width": 320,
                         "height": 180
                     },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lgR5GgxlqbDqKuZtLEn4HSpbGjDU7B4Dw/sddefault.jpg?sqp=CLzQu7YGir7X7AMICK7OubYGEAE=&rs=AOn4CLAEt_iZCviBQhEq-sPNm6Qka_wPaQ&v=1724802862",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lgR5GgxlqbDqKuZtLEn4HSpbGjDU7B4Dw/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICK7OubYGEAE=&rs=AOn4CLAKRbBLx49eQ-SRcR_LSxrWJO-iFQ&v=1724802862",
-                        "width": 1200,
-                        "height": 1200
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yM5u9zVyAXc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
                     }
                 },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
+                "channelTitle": "Jay Dunn",
                 "localized": {
-                    "title": "Bhojpuri Hits 2023",
-                    "description": "Experience the sound of 2023 with this collection of some of the biggest Bhojpuri hits of the year."
+                    "title": "UPBEAT GOSPEL INSTRUMENTALS",
+                    "description": ""
                 },
                 "image": {
-                    "url": ""
+                    "url": "https://i.ytimg.com/vi/yM5u9zVyAXc/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs=AMzJL3lP1SaSGeNDMLW5Ylb9JTCfJpe8hA"
                 },
-                "category_1": "Hits",
-                "category_2": "Sound",
-                "category_3": "Collection",
-                "category_4": "Biggest",
+                "category_1": "Upbeat",
+                "category_2": "Beat",
+                "category_3": "Gospel",
+                "category_4": "Instrumentals",
                 "category_5": "",
                 "category_6": "",
                 "category_7": "",
@@ -1805,48 +2268,57 @@
                 "privacyStatus": "public"
             },
             "contentDetails": {
-                "itemCount": 50
+                "itemCount": 13
             }
         },
         {
             "kind": "youtube#playlist",
-            "etag": "_vXcgNXjwA2zIeLB79qMOkEJJeg",
-            "id": "RDCLAK5uy_mAXe0fDKq_0Bvfj8Z7NTakpR--Iq-3464",
+            "etag": "5tSsPbluArq11ENQwd0FCv-dwBI",
+            "id": "PLWd4PstKicoW-YwENJ83Z2Ql0iW1wa7rd",
             "snippet": {
-                "publishedAt": "1970-01-01T00:00:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Pop Hits 2023",
-                "description": "Experience the sound of 2023 with some of the biggest Pop hits of the year.",
+                "publishedAt": "2021-12-03T17:32:20Z",
+                "channelId": "UCp6CIXiC_l7fr7xECyuBTiA",
+                "title": "Sertanejo Gospel 2022 lan\u00e7amento",
+                "description": "",
                 "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6oxDdYqSXSs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
                     "medium": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mAXe0fDKq_0Bvfj8Z7NTakpR--Iq-3464/mqdefault.jpg?sqp=CLzQu7YGir7X7AMICK6FubYGEAE=&rs=AOn4CLDC20cV5uKY96qq4pThpY_4QxTpTA&v=1724793518",
-                        "width": 180,
+                        "url": "https://i.ytimg.com/vi/6oxDdYqSXSs/mqdefault.jpg",
+                        "width": 320,
                         "height": 180
                     },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6oxDdYqSXSs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
                     "standard": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mAXe0fDKq_0Bvfj8Z7NTakpR--Iq-3464/sddefault.jpg?sqp=CLzQu7YGir7X7AMICK6FubYGEAE=&rs=AOn4CLCrBbZnLlsQ4glYnP8c-n2AupK0Ig&v=1724793518",
+                        "url": "https://i.ytimg.com/vi/6oxDdYqSXSs/sddefault.jpg",
                         "width": 640,
-                        "height": 640
+                        "height": 480
                     },
                     "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mAXe0fDKq_0Bvfj8Z7NTakpR--Iq-3464/maxresdefault.jpg?sqp=CLzQu7YGir7X7AMICK6FubYGEAE=&rs=AOn4CLC0fJwiZNDeB_dekWq-vzVGx4T6nw&v=1724793518",
-                        "width": 1200,
-                        "height": 1200
+                        "url": "https://i.ytimg.com/vi/6oxDdYqSXSs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
                     }
                 },
-                "channelTitle": "YouTube",
-                "defaultLanguage": "en",
+                "channelTitle": "John e Luan",
                 "localized": {
-                    "title": "Pop Hits 2023",
-                    "description": "Experience the sound of 2023 with some of the biggest Pop hits of the year."
+                    "title": "Sertanejo Gospel 2022 lan\u00e7amento",
+                    "description": ""
                 },
                 "image": {
-                    "url": ""
+                    "url": "https://yt3.googleusercontent.com/Di6wT-fLE4ZAQDMtMCkbn_CadVa5_worpZaymByRkQKXDfv1Yi2JdmgvMuzvuHwzVhg1Cd6cFQc=s1200"
                 },
-                "category_1": "Pop",
-                "category_2": "Hits",
-                "category_3": "Sound",
-                "category_4": "Biggest",
+                "category_1": "Sertanejo",
+                "category_2": "Gospel",
+                "category_3": "",
+                "category_4": "",
                 "category_5": "",
                 "category_6": "",
                 "category_7": "",
@@ -1858,7 +2330,369 @@
                 "privacyStatus": "public"
             },
             "contentDetails": {
-                "itemCount": 50
+                "itemCount": 43
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "w1TzjUCXFNgsd3sYg_bYan6hHoQ",
+            "id": "PL3kzgC2AKkBOzP47I-UtU1M7-1wrP5Wjr",
+            "snippet": {
+                "publishedAt": "2021-04-24T18:14:33Z",
+                "channelId": "UC3F93vCWXOcW_A1Mn2Iu0Og",
+                "title": "\u25b6\ufe0f Bachata gospel 2021 \ud83c\udfa7",
+                "description": "\u25b6\ufe0f Bachata gospel 2021 \ud83c\udfa7\n\nOu\u00e7a tamb\u00e9m Spotify; https://bityli.com/pSfXh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WcamVHysbGE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WcamVHysbGE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WcamVHysbGE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WcamVHysbGE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WcamVHysbGE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "PLAY NA M\u00daSICA",
+                "localized": {
+                    "title": "\u25b6\ufe0f Bachata gospel 2021 \ud83c\udfa7",
+                    "description": "\u25b6\ufe0f Bachata gospel 2021 \ud83c\udfa7\n\nOu\u00e7a tamb\u00e9m Spotify; https://bityli.com/pSfXh"
+                },
+                "image": {
+                    "url": "https://yt3.ggpht.com/sSqmsRqHprzFBR-mNgYaGGZl4szLKS__Rwh32w3bxernmIW7F96ea2Yls2oEPgVUSJUMOJ7zatqt=s1200"
+                },
+                "category_1": "Bachata",
+                "category_2": "Gospel",
+                "category_3": "",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 14
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "NIu4pQ6YEx5pJzCq-PFSeu0IGQs",
+            "id": "PLPa5EV5buVkYJh23lVIXAMvGNGKCgunzV",
+            "snippet": {
+                "publishedAt": "2019-12-14T17:14:39Z",
+                "channelId": "UC-vkUJhWwJD6gYo0setSfTA",
+                "title": "Igala Gospel Music",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/P1j5lyZ7UoM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/P1j5lyZ7UoM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/P1j5lyZ7UoM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Igala Entertainment Hub",
+                "localized": {
+                    "title": "Igala Gospel Music",
+                    "description": ""
+                },
+                "image": {
+                    "url": "https://i.ytimg.com/vi/KO197UuTKsQ/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs=AMzJL3kAueV6sBHrxKOUSHLzJOW-vuE3dw"
+                },
+                "category_1": "Gospel",
+                "category_2": "Music",
+                "category_3": "",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "_nN8iofa9_cFEjWbP8oo6vXe4d4",
+            "id": "PLtyR71RY6iP2OjNqp6HelOt87X-9__lOU",
+            "snippet": {
+                "publishedAt": "2020-10-05T01:02:38Z",
+                "channelId": "UCemv6EomE4bR-HOqa62KSwg",
+                "title": "Gospel Mix",
+                "description": "All Jabez songs in 1 place.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dLHMLrAmBY8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dLHMLrAmBY8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dLHMLrAmBY8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dLHMLrAmBY8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dLHMLrAmBY8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Jabez",
+                "localized": {
+                    "title": "Gospel Mix",
+                    "description": "All Jabez songs in 1 place."
+                },
+                "image": {
+                    "url": "https://yt3.googleusercontent.com/nMPsan8XxM9w3s662jLhxKlmEslpisQNnq-buk7EiTP1FTqJj996t6R6B994a_I4SzqBS8nUzEY=s1200"
+                },
+                "category_1": "Gospel",
+                "category_2": "Mix",
+                "category_3": "Songs",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 8
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "TyBVMdY04XTUb4euSuxE9CcAzBY",
+            "id": "PLHf0Fk05pdATxC9pv_C8ADqLBhrDTafZn",
+            "snippet": {
+                "publishedAt": "2023-08-28T14:49:13Z",
+                "channelId": "UCmuiFQGhRADYtnfF0CaVRiA",
+                "title": "South African Gospel Instrumentals with lyrics",
+                "description": "Instrumentals With Lyrics of South African Gospel Songs",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/h27LJ1Ja7_w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/h27LJ1Ja7_w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/h27LJ1Ja7_w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/h27LJ1Ja7_w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/h27LJ1Ja7_w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Karaoke Kea Studios",
+                "localized": {
+                    "title": "South African Gospel Instrumentals with lyrics",
+                    "description": "Instrumentals With Lyrics of South African Gospel Songs"
+                },
+                "image": {
+                    "url": "https://i.ytimg.com/vi/h27LJ1Ja7_w/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3k9InaNWunZV-ugFGNG3OoMT2f4cA"
+                },
+                "category_1": "African",
+                "category_2": "Africa",
+                "category_3": "Gospel",
+                "category_4": "Instrumentals",
+                "category_5": "Lyrics",
+                "category_6": "Songs",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 36
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "13ij_5zzK34vAKgZ_O6LgZ6P_GY",
+            "id": "PL9tY0BWXOZFvam6XnMFI-ekK0uOuMB-CL",
+            "snippet": {
+                "publishedAt": "2022-08-12T17:56:54Z",
+                "channelId": "UC2pmfLm7iq6Ov1UwYrWYkZA",
+                "title": "Gospel Music Award Nominees 2022",
+                "description": "Nominees for the biggest awards in Gospel music, featuring Matthew West, Anne Wilson, and Phil Wickham.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fd24fpsF1Qw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fd24fpsF1Qw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fd24fpsF1Qw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fd24fpsF1Qw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fd24fpsF1Qw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Vevo",
+                "localized": {
+                    "title": "Gospel Music Award Nominees 2022",
+                    "description": "Nominees for the biggest awards in Gospel music, featuring Matthew West, Anne Wilson, and Phil Wickham."
+                },
+                "image": {
+                    "url": "https://yt3.ggpht.com/bjnjQvSbAzdgRv0SDGy1K6MhpRXKUoiR_pmOPqxxdMqBJ4vwjfbSMuffQY6onrySKncRl6Zhmqg=s1200"
+                },
+                "category_1": "Gospel",
+                "category_2": "Music",
+                "category_3": "Biggest",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 34
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "CIAm7CsKkm24Av0dGVtW3qnkk2U",
+            "id": "PLAVE9wx9kZH086UXcC2JQp-Tqegjcad8j",
+            "snippet": {
+                "publishedAt": "2018-06-17T14:49:01Z",
+                "channelId": "UC4dn241Sd3-MTL3dShHGWBQ",
+                "title": "Gospel Music Pandora",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Exrd1w_m6UU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Exrd1w_m6UU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Exrd1w_m6UU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Exrd1w_m6UU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Exrd1w_m6UU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Pk Kersey",
+                "localized": {
+                    "title": "Gospel Music Pandora",
+                    "description": ""
+                },
+                "image": {
+                    "url": "https://yt3.ggpht.com/mmRgWYzivKIgvMNtP1H4GjjRxzov8H-QrSXVAOfkoiOVwht9AKzigFs_Snd2oC-gN0bk5o-km0c=s1200"
+                },
+                "category_1": "Gospel",
+                "category_2": "Music",
+                "category_3": "",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 23
             }
         }
     ]

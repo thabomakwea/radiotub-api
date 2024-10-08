@@ -1,153 +1,33 @@
 {
   "kind": "youtube#playlistListResponse",
-  "etag": "9vwB5SKZ8BCVm2grxPFJAdEnAAU",
+  "etag": "qci8udGK-9Zqw5Weauu6by4uFSI",
   "pageInfo": {
-    "totalResults": 33,
+    "totalResults": 36,
     "resultsPerPage": 50
   },
   "items": [
     {
       "kind": "youtube#playlist",
-      "etag": "Uj3nwnPC12KeR46sTHXy4sQf-YQ",
-      "id": "RDCLAK5uy_kyynJJB9cOtVL1q2qcMR3te9qBWuHuEcs",
+      "etag": "eoNN5ihj59XIHXuivhi34BM17WY",
+      "id": "RDCLAK5uy_nAdML4UYXhWAv7wA9rtP7H9FECCmpApPo",
       "snippet": {
         "publishedAt": "1970-01-01T00:00:00Z",
         "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Late Night Blues",
-        "description": "From vintage acoustic Delta blues to swaggering modern electric blues rock, hear the blues after closing time.",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kyynJJB9cOtVL1q2qcMR3te9qBWuHuEcs/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICMeqtbYGEAE=&rs=AOn4CLDPIlvyIvihbALl9Fglba-Q-GZldw&v=1724732743",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kyynJJB9cOtVL1q2qcMR3te9qBWuHuEcs/sddefault.jpg?sqp=CMyUt7YGir7X7AMICMeqtbYGEAE=&rs=AOn4CLBeRL8spHq7bRYs_ORy744F_Np_Qw&v=1724732743",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kyynJJB9cOtVL1q2qcMR3te9qBWuHuEcs/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICMeqtbYGEAE=&rs=AOn4CLD6xAcVPOzla7UKQvg1VFTVU_nuyA&v=1724732743",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Late Night Blues",
-          "description": "From vintage acoustic Delta blues to swaggering modern electric blues rock, hear the blues after closing time."
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 90
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "9WKVU1L_x3x5eyL7DEmoN1wFXQA",
-      "id": "RDCLAK5uy_l_Bj8rMsjkhFMMs-eLrA17_zjr9r6g_Eg",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Bollywood Party",
-        "description": "Beats per minute just got hectic! Press play and dance the night away!",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l_Bj8rMsjkhFMMs-eLrA17_zjr9r6g_Eg/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICJaZs7YGEAE=&rs=AOn4CLCelxMblQLs72Lbo93FktKQrmV1Pw&v=1724697750",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l_Bj8rMsjkhFMMs-eLrA17_zjr9r6g_Eg/sddefault.jpg?sqp=CMyUt7YGir7X7AMICJaZs7YGEAE=&rs=AOn4CLAy2eaZ6FpAJB8XcpS023rbOK0Eog&v=1724697750",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l_Bj8rMsjkhFMMs-eLrA17_zjr9r6g_Eg/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICJaZs7YGEAE=&rs=AOn4CLD1EUF1r_eIF1yshGQQ1ASpDosKnA&v=1724697750",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Bollywood Party",
-          "description": "Beats per minute just got hectic! Press play and dance the night away!"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 70
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "1M-_sXHnjC3aDyHiOYl0z1DBdCU",
-      "id": "RDCLAK5uy_nCwpBIEzaxNFjFj4iWH5JzdwEuGUTCgFM",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Reggaeton Hits 2022",
-        "description": "Experience the sound of 2022 with this collection of the biggest Reggaeton hits of the year",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nCwpBIEzaxNFjFj4iWH5JzdwEuGUTCgFM/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICOWTsrYGEAE=&rs=AOn4CLD9w7rWEYu4pu3EYCmPA37l13SMPA&v=1724680677",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nCwpBIEzaxNFjFj4iWH5JzdwEuGUTCgFM/sddefault.jpg?sqp=CMyUt7YGir7X7AMICOWTsrYGEAE=&rs=AOn4CLBsKhcnhzX_wlNhXjOl4010SSgHVA&v=1724680677",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nCwpBIEzaxNFjFj4iWH5JzdwEuGUTCgFM/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICOWTsrYGEAE=&rs=AOn4CLDCPUrCQd75k-PUsC3kSr0ePLHuTg&v=1724680677",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Reggaeton Hits 2022",
-          "description": "Experience the sound of 2022 with this collection of the biggest Reggaeton hits of the year"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 65
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "q-oR6keVjznm6sPDptAi2GRp3Rc",
-      "id": "RDCLAK5uy_m6MFGsNPPT3ddoPEtUTLt--O6DuDvr-Y8",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Presenting Karthik (Telugu)",
+        "title": "Presenting Jay1",
         "description": "The most played hits and essential tracks.",
         "thumbnails": {
           "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m6MFGsNPPT3ddoPEtUTLt--O6DuDvr-Y8/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICNbgtLYGEAE=&rs=AOn4CLB1uZmuNLW-DjwXl9w3rjYZWfToyw&v=1724723286",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nAdML4UYXhWAv7wA9rtP7H9FECCmpApPo/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICPiIk7gGEAE=&rs=AOn4CLBSregl16YWjiPnWb9eT_Q5vP3V3A&v=1728365688",
             "width": 180,
             "height": 180
           },
           "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m6MFGsNPPT3ddoPEtUTLt--O6DuDvr-Y8/sddefault.jpg?sqp=CMyUt7YGir7X7AMICNbgtLYGEAE=&rs=AOn4CLB9PM_YvVb-3Tdm0AimqGWuakn_SQ&v=1724723286",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nAdML4UYXhWAv7wA9rtP7H9FECCmpApPo/sddefault.jpg?sqp=CIzDlbgGir7X7AMICPiIk7gGEAE=&rs=AOn4CLBWQtuDAF9tEvJl9VTjYYgR22eSUg&v=1728365688",
             "width": 640,
             "height": 640
           },
           "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m6MFGsNPPT3ddoPEtUTLt--O6DuDvr-Y8/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICNbgtLYGEAE=&rs=AOn4CLASgm1uO9IdQr0ZjSBo6Uejv_DkFw&v=1724723286",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nAdML4UYXhWAv7wA9rtP7H9FECCmpApPo/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICPiIk7gGEAE=&rs=AOn4CLBuM2R3RHyHKUhEZVtB9bZwwvvvdg&v=1728365688",
             "width": 1200,
             "height": 1200
           }
@@ -155,7 +35,7 @@
         "channelTitle": "YouTube",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Presenting Karthik (Telugu)",
+          "title": "Presenting Jay1",
           "description": "The most played hits and essential tracks."
         }
       },
@@ -163,151 +43,31 @@
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 40
+        "itemCount": 36
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "pG3CS4_uBk7TbUKGNwzt5ka4LQg",
-      "id": "RDCLAK5uy_kYUaBqUZxA0VpgN2xsHNUnVoLu8-JGXk8",
+      "etag": "X4e_AeetDxePzGsEe-a1tgcC4z0",
+      "id": "RDCLAK5uy_nnAgwbttSRMmWXK0yKRzI5cWaOCdnwfGk",
       "snippet": {
         "publishedAt": "1970-01-01T00:00:00Z",
         "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "OPM R&B Soul",
-        "description": "The best of OPM R&B/Soul",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kYUaBqUZxA0VpgN2xsHNUnVoLu8-JGXk8/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICLfFs7YGEAE=&rs=AOn4CLBQGPlCvTuf-xbMvo--3JNxQont0w&v=1724703415",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kYUaBqUZxA0VpgN2xsHNUnVoLu8-JGXk8/sddefault.jpg?sqp=CMyUt7YGir7X7AMICLfFs7YGEAE=&rs=AOn4CLDdaz_PyX7rEFEUcGOSbzTZvCgnGg&v=1724703415",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kYUaBqUZxA0VpgN2xsHNUnVoLu8-JGXk8/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICLfFs7YGEAE=&rs=AOn4CLCmzkoZ1UM4d_RDxZbAr6ZUljnZjA&v=1724703415",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "OPM R&B Soul",
-          "description": "The best of OPM R&B/Soul"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 50
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "hqWCsCZ5E0ErvudvZ27KuYXnt14",
-      "id": "RDCLAK5uy_moWU7LFrqNAVA27VvUM3Mqfs12exbf7jY",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "K-Pop Girl Group Essentials",
-        "description": "Meet the most popular and trendy K-Pop girl groups who are leading the K-Pop culture worldwide! #kpop #girlgroup #trending",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_moWU7LFrqNAVA27VvUM3Mqfs12exbf7jY/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICIyOtrYGEAE=&rs=AOn4CLBCWW-hgemv58pEVqEO3pUoLQsNDg&v=1724745484",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_moWU7LFrqNAVA27VvUM3Mqfs12exbf7jY/sddefault.jpg?sqp=CMyUt7YGir7X7AMICIyOtrYGEAE=&rs=AOn4CLCISv7bUtCp7E1gFFEqi-O2dZA9fA&v=1724745484",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_moWU7LFrqNAVA27VvUM3Mqfs12exbf7jY/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICIyOtrYGEAE=&rs=AOn4CLAb1IaHMTb8Mq_HOpEbnXYeAYQVog&v=1724745484",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "K-Pop Girl Group Essentials",
-          "description": "Meet the most popular and trendy K-Pop girl groups who are leading the K-Pop culture worldwide! #kpop #girlgroup #trending"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 115
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "BOE7oz_g680odXDMtDGnYiYLdaU",
-      "id": "RDCLAK5uy_nhLiD_PquxQnzA35YpoaaAUv2ikZuYFgw",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Haryanvi Hitlist",
-        "description": "Your one stop shop for today’s biggest Haryanvi hits! #haryanvi #top #music",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nhLiD_PquxQnzA35YpoaaAUv2ikZuYFgw/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICLKCs7YGEAE=&rs=AOn4CLD9U2OOKcfW7XisYvqq3rjEmpUuiQ&v=1724694834",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nhLiD_PquxQnzA35YpoaaAUv2ikZuYFgw/sddefault.jpg?sqp=CMyUt7YGir7X7AMICLKCs7YGEAE=&rs=AOn4CLCVK0qkYDMGPgUI2Yt25XIykE9WYA&v=1724694834",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nhLiD_PquxQnzA35YpoaaAUv2ikZuYFgw/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICLKCs7YGEAE=&rs=AOn4CLA-15dOSwns0cSbpDhHCBbKLNyM2Q&v=1724694834",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Haryanvi Hitlist",
-          "description": "Your one stop shop for today’s biggest Haryanvi hits! #haryanvi #top #music"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 60
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "H45IFtfknmxMMUH9733crx1ErAg",
-      "id": "RDCLAK5uy_nPN5nGhNWMuq-NC1COQ7_tMl2r5SxSgKE",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Presenting Pink Floyd",
+        "title": "Presenting Chip ",
         "description": "The most played hits and essential tracks.",
         "thumbnails": {
           "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nPN5nGhNWMuq-NC1COQ7_tMl2r5SxSgKE/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICNqUs7YGEAE=&rs=AOn4CLAv_pMijvmRcL141EqP5wimT9i9JQ&v=1724697178",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nnAgwbttSRMmWXK0yKRzI5cWaOCdnwfGk/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICLmCkrgGEAE=&rs=AOn4CLC3rkfMatYa055FNp0emKFOWCyDDw&v=1728348473",
             "width": 180,
             "height": 180
           },
           "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nPN5nGhNWMuq-NC1COQ7_tMl2r5SxSgKE/sddefault.jpg?sqp=CMyUt7YGir7X7AMICNqUs7YGEAE=&rs=AOn4CLD7HSu-K39l6DSyoZ-wSGKuMoMS3g&v=1724697178",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nnAgwbttSRMmWXK0yKRzI5cWaOCdnwfGk/sddefault.jpg?sqp=CIzDlbgGir7X7AMICLmCkrgGEAE=&rs=AOn4CLDSSBH-6aPe_BMSnQSHdDDNQLbq0w&v=1728348473",
             "width": 640,
             "height": 640
           },
           "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nPN5nGhNWMuq-NC1COQ7_tMl2r5SxSgKE/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICNqUs7YGEAE=&rs=AOn4CLB64IPd57USDDDB5quWGIQ-vhYR6g&v=1724697178",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nnAgwbttSRMmWXK0yKRzI5cWaOCdnwfGk/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICLmCkrgGEAE=&rs=AOn4CLAo6UabCUofEvdMExYRtf3m5mMCfA&v=1728348473",
             "width": 1200,
             "height": 1200
           }
@@ -315,7 +75,367 @@
         "channelTitle": "YouTube",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Presenting Pink Floyd",
+          "title": "Presenting Chip ",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 45
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "YfNedkSj617IDCdL70B4w3y_B_0",
+      "id": "RDCLAK5uy_nfRhf7K6kF3E6qfXeZ7dZ8tEKVkHw_jiQ",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting D Smoke",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nfRhf7K6kF3E6qfXeZ7dZ8tEKVkHw_jiQ/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICOLrlLgGEAE=&rs=AOn4CLDVytx6bx5biclnY_qNHY8kTE4ytg&v=1728394722",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nfRhf7K6kF3E6qfXeZ7dZ8tEKVkHw_jiQ/sddefault.jpg?sqp=CIzDlbgGir7X7AMICOLrlLgGEAE=&rs=AOn4CLDaSEgogk54P2izHc8tCfZ26nqC6A&v=1728394722",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nfRhf7K6kF3E6qfXeZ7dZ8tEKVkHw_jiQ/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICOLrlLgGEAE=&rs=AOn4CLDJl27bBdrL2XxDU4lPl8y4sqCAaA&v=1728394722",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting D Smoke",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 26
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "Ga6J59jhs4eJ0NcXBdtT7-mg2OQ",
+      "id": "RDCLAK5uy_msDdYwjmyvLi61NNe_TXscyka1-rfg0J4",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting NSG",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_msDdYwjmyvLi61NNe_TXscyka1-rfg0J4/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICMjOkLgGEAE=&rs=AOn4CLAgz7WUtGTpftXJMRxt9bp9Rosn5w&v=1728325448",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_msDdYwjmyvLi61NNe_TXscyka1-rfg0J4/sddefault.jpg?sqp=CIzDlbgGir7X7AMICMjOkLgGEAE=&rs=AOn4CLA0zL1271nsNc6jeRbh9hs_tjh4Uw&v=1728325448",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_msDdYwjmyvLi61NNe_TXscyka1-rfg0J4/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICMjOkLgGEAE=&rs=AOn4CLDMrj4qLAD_2SfOdCN4H7kPyMjq2A&v=1728325448",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting NSG",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 25
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "1a93zduCBfFVACaOux74E2OBPGM",
+      "id": "RDCLAK5uy_nNo2NUxQVc6ThNmSLNyRVPU2AYnLPs8K4",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting M.I Abaga",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nNo2NUxQVc6ThNmSLNyRVPU2AYnLPs8K4/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICM2dkrgGEAE=&rs=AOn4CLCoYIpXIrUg9bKSeYVrZtVLkiEYHA&v=1728351949",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nNo2NUxQVc6ThNmSLNyRVPU2AYnLPs8K4/sddefault.jpg?sqp=CIzDlbgGir7X7AMICM2dkrgGEAE=&rs=AOn4CLBphF_ImP9jI3DCpVq1NpBKsuCr8w&v=1728351949",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nNo2NUxQVc6ThNmSLNyRVPU2AYnLPs8K4/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICM2dkrgGEAE=&rs=AOn4CLBnielshEkmAyWipkR-kKMK4niZTQ&v=1728351949",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting M.I Abaga",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 27
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "-5wySlpci_tb9_JBlo5oQ6pBGLA",
+      "id": "RDCLAK5uy_nmXr8TKREzs7kZTidwbHp7NqwfDJ2BPgw",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Hardy Caprio",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nmXr8TKREzs7kZTidwbHp7NqwfDJ2BPgw/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICO66k7gGEAE=&rs=AOn4CLBJ3T7_jqC60o23e0dpizK-qo7KGg&v=1728372078",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nmXr8TKREzs7kZTidwbHp7NqwfDJ2BPgw/sddefault.jpg?sqp=CIzDlbgGir7X7AMICO66k7gGEAE=&rs=AOn4CLDDMqL8xsvq5Z22veOCEOOunvtOIA&v=1728372078",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nmXr8TKREzs7kZTidwbHp7NqwfDJ2BPgw/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICO66k7gGEAE=&rs=AOn4CLALFe8BT4sBuLTk4dFVZzjuU3oG6Q&v=1728372078",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Hardy Caprio",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 20
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "PGBzAEIEMWC-Rgqp4jqV9mDROw8",
+      "id": "RDCLAK5uy_lFnolCKpviuCyaMaI7OeRYyeMy2iwQclg",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Cardi B",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lFnolCKpviuCyaMaI7OeRYyeMy2iwQclg/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICLOKk7gGEAE=&rs=AOn4CLDyZlqGv9DrdVO3WNyO4zT4xpNOJw&v=1728365875",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lFnolCKpviuCyaMaI7OeRYyeMy2iwQclg/sddefault.jpg?sqp=CIzDlbgGir7X7AMICLOKk7gGEAE=&rs=AOn4CLDx016MH5l0fNZqCOgm7xgDuT7XKA&v=1728365875",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lFnolCKpviuCyaMaI7OeRYyeMy2iwQclg/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICLOKk7gGEAE=&rs=AOn4CLD16rkbZ4lTO97QhI4UYnYeN4iPWA&v=1728365875",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Cardi B",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 35
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "n9F73jNkaxH2eraIe-zZAIvne7g",
+      "id": "RDCLAK5uy_kLaw49GbGpGx5yro0YPLicBbbqIHgK51w",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Баста",
+        "description": " The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kLaw49GbGpGx5yro0YPLicBbbqIHgK51w/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICOnVkbgGEAE=&rs=AOn4CLAVsm_2Qb9GgDRkqJedYmNF6Z9biQ&v=1728342761",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kLaw49GbGpGx5yro0YPLicBbbqIHgK51w/sddefault.jpg?sqp=CIzDlbgGir7X7AMICOnVkbgGEAE=&rs=AOn4CLDmAMRkdi0Jx3usQ2pUONmoPZwwTA&v=1728342761",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kLaw49GbGpGx5yro0YPLicBbbqIHgK51w/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICOnVkbgGEAE=&rs=AOn4CLCWdb9I6WmhD86VOo6ryV_qLvi6EA&v=1728342761",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Баста",
+          "description": " The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 30
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "Biq9DxR8kOpptOvGU74uvg0LO3s",
+      "id": "RDCLAK5uy_mn6tD_6Np3G9e_JKSU1hbLDoPLSQUOcpU",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Deep Off In The Trap",
+        "description": "Diggin' through the crates of trap music -- albums, mixtapes and all. #hiphop #trap #pumpup",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mn6tD_6Np3G9e_JKSU1hbLDoPLSQUOcpU/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICLGJ97IGEAE=&rs=AOn4CLDmxVn9Ov3Nwq_UMFyfI9zIn0w9_g&v=1717421233",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mn6tD_6Np3G9e_JKSU1hbLDoPLSQUOcpU/sddefault.jpg?sqp=CIzDlbgGir7X7AMICLGJ97IGEAE=&rs=AOn4CLAgdVL1o_oAXJv5PZBN8USk2_-cfQ&v=1717421233",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mn6tD_6Np3G9e_JKSU1hbLDoPLSQUOcpU/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICLGJ97IGEAE=&rs=AOn4CLDAaO9Kyz_90RIENyrxgk0tCBzkKw&v=1717421233",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Deep Off In The Trap",
+          "description": "Diggin' through the crates of trap music -- albums, mixtapes and all. #hiphop #trap #pumpup"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 67
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "QSDM4vJnjd1eSLq6HQ6wvP0UIk4",
+      "id": "RDCLAK5uy_m5KmPD4jIhYP-hV8QfFBiiVb6sHKBO4UY",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Musiq Soulchild",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m5KmPD4jIhYP-hV8QfFBiiVb6sHKBO4UY/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICIWvlbgGEAE=&rs=AOn4CLCre76YWYOtrEz0Vi_5paV8uG2jYA&v=1728403333",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m5KmPD4jIhYP-hV8QfFBiiVb6sHKBO4UY/sddefault.jpg?sqp=CIzDlbgGir7X7AMICIWvlbgGEAE=&rs=AOn4CLDnPVaXUDEpkl7j3X93dHRfFvJTlw&v=1728403333",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m5KmPD4jIhYP-hV8QfFBiiVb6sHKBO4UY/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICIWvlbgGEAE=&rs=AOn4CLCaSaE76YHrTcCU3paY3EyU9J6o2Q&v=1728403333",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Musiq Soulchild",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 21
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "1R8VnlDH2IVP0YE71Bi00ihd7rE",
+      "id": "RDCLAK5uy_mk4TEUV1mx6_d6XfhRxmWdNW-SrJZX_so",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Davido",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mk4TEUV1mx6_d6XfhRxmWdNW-SrJZX_so/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICOv_k7gGEAE=&rs=AOn4CLD0Wy1QyGFT25Xkqe62tY6Q2sZYjw&v=1728380907",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mk4TEUV1mx6_d6XfhRxmWdNW-SrJZX_so/sddefault.jpg?sqp=CIzDlbgGir7X7AMICOv_k7gGEAE=&rs=AOn4CLBFqb66X9yHY1BVfyJvQS3vdzsgEg&v=1728380907",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mk4TEUV1mx6_d6XfhRxmWdNW-SrJZX_so/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICOv_k7gGEAE=&rs=AOn4CLAY-5hpa-WIlQx-_tVBW8-I_jTGRA&v=1728380907",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Davido",
           "description": "The most played hits and essential tracks."
         }
       },
@@ -328,426 +448,26 @@
     },
     {
       "kind": "youtube#playlist",
-      "etag": "CCz8hjz3w8JtusvVQZ_psW8OYlI",
-      "id": "RDCLAK5uy_n9KufLagQKUCDBLHzH0OQyKEIjYK1RuEM",
+      "etag": "ZFMonbyH8REFQGGQIYawH39kesA",
+      "id": "RDCLAK5uy_kK3djxcpKWqP8WsTdPXvR4TcSR-CP1IVg",
       "snippet": {
         "publishedAt": "1970-01-01T00:00:00Z",
         "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Brazilian Phonk",
-        "description": "",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n9KufLagQKUCDBLHzH0OQyKEIjYK1RuEM/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICMnftbYGEAE=&rs=AOn4CLD9Hzo6zAhk2-MDU5nqvQ-OSdHISw&v=1724739529",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n9KufLagQKUCDBLHzH0OQyKEIjYK1RuEM/sddefault.jpg?sqp=CMyUt7YGir7X7AMICMnftbYGEAE=&rs=AOn4CLDmp6H6CTgRhqgJg0vkZjnHrCgOBQ&v=1724739529",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n9KufLagQKUCDBLHzH0OQyKEIjYK1RuEM/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICMnftbYGEAE=&rs=AOn4CLCv0zuEabvLQSMo1hbTElnPz3G_3w&v=1724739529",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Brazilian Phonk",
-          "description": ""
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 73
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "G5v0EQrvTfU0rFoYtZWp5bKnLts",
-      "id": "RDCLAK5uy_nPjDiYpWfVTB0RlWL4isKWO4KBJXdvT1s",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Running Rhythm [120-130bpm]",
-        "description": " ",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nPjDiYpWfVTB0RlWL4isKWO4KBJXdvT1s/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICPXusrYGEAE=&rs=AOn4CLB0QuQgyczVA7kTVA80jRqQbrhROQ&v=1724692341",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nPjDiYpWfVTB0RlWL4isKWO4KBJXdvT1s/sddefault.jpg?sqp=CMyUt7YGir7X7AMICPXusrYGEAE=&rs=AOn4CLBLfXT2UOpUWO8sz-yff_9bX-1ixw&v=1724692341",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nPjDiYpWfVTB0RlWL4isKWO4KBJXdvT1s/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICPXusrYGEAE=&rs=AOn4CLDFGHiapAD_eyUy7EfbOoNtWih6MQ&v=1724692341",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Running Rhythm [120-130bpm]",
-          "description": " "
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 102
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "pZoKYPK_5ICLkWG3qQQw6zo62eY",
-      "id": "RDCLAK5uy_kuwISRPpQ0pWcFUwdd1gigwj4wGWbISII",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "#WCE",
-        "description": "Get introduced to these women who are rising in the ranks of hip hop. Feat. Maiya The Don",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kuwISRPpQ0pWcFUwdd1gigwj4wGWbISII/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICPeptrYGEAE=&rs=AOn4CLAyOxwVHcEU_NCBSxns0wGQPZcuvA&v=1724749047",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kuwISRPpQ0pWcFUwdd1gigwj4wGWbISII/sddefault.jpg?sqp=CMyUt7YGir7X7AMICPeptrYGEAE=&rs=AOn4CLBa-0C5X06ZUOzl5qtTwGf-WGYCYg&v=1724749047",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kuwISRPpQ0pWcFUwdd1gigwj4wGWbISII/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICPeptrYGEAE=&rs=AOn4CLDIcAuvRl7FVd2cftyO9U5ELMLkYA&v=1724749047",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "#WCE",
-          "description": "Get introduced to these women who are rising in the ranks of hip hop. Feat. Maiya The Don"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 272
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "CwOvQvqqjIT6p4wuxHaGjmUT5jg",
-      "id": "RDCLAK5uy_kdleYRgJfVdtXtDEkPne9S9UPQnNL_6K0",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Top Eurovision Hits",
-        "description": "The most memorable songs from the historical contest.",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kdleYRgJfVdtXtDEkPne9S9UPQnNL_6K0/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICPj2tLYGEAE=&rs=AOn4CLB1oxemc7uvCXD5EUyTuJYvjFFucA&v=1724726136",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kdleYRgJfVdtXtDEkPne9S9UPQnNL_6K0/sddefault.jpg?sqp=CMyUt7YGir7X7AMICPj2tLYGEAE=&rs=AOn4CLCqLhFZIlxokQyIf2oVBYvygIF-sQ&v=1724726136",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kdleYRgJfVdtXtDEkPne9S9UPQnNL_6K0/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICPj2tLYGEAE=&rs=AOn4CLDHkY6VZxEVnUTY4BR7cYMntctA7w&v=1724726136",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Top Eurovision Hits",
-          "description": "The most memorable songs from the historical contest."
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 66
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "ceXZ7AL84DOEmvHrnJQMKGgFINs",
-      "id": "RDCLAK5uy_mr2FpFARhYAmSTXUBXg4MDpzcbyR3zqRQ",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Carne Asada Mix",
-        "description": "A mix of Norteño, Banda and more, to enjoy with family and friends",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mr2FpFARhYAmSTXUBXg4MDpzcbyR3zqRQ/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICKv2sbYGEAE=&rs=AOn4CLAY3CBIBMr05cfoh4aq5mnHOysKrg&v=1724676907",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mr2FpFARhYAmSTXUBXg4MDpzcbyR3zqRQ/sddefault.jpg?sqp=CMyUt7YGir7X7AMICKv2sbYGEAE=&rs=AOn4CLBHGaGrLu0akpgs9pcOtfVOgxUP1g&v=1724676907",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mr2FpFARhYAmSTXUBXg4MDpzcbyR3zqRQ/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICKv2sbYGEAE=&rs=AOn4CLB2Q3apWz-et2GPfu5cpzMvQQSkGA&v=1724676907",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Carne Asada Mix",
-          "description": "A mix of Norteño, Banda and more, to enjoy with family and friends"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 90
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "Rr9dX4w_pBzW9oUmDB0UGwaHgXs",
-      "id": "RDCLAK5uy_kEr0flXHYLeFC8vz4_7E5rwLxvu1AhH9Q",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "The Quiet Storm",
-        "description": "When Smokey Robinson released 'A Quiet Storm' in 1975, he redefined make-out music. These are the R&B slow jams from and inspired-by that era. #rnb #soul #sexy",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kEr0flXHYLeFC8vz4_7E5rwLxvu1AhH9Q/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICO6ps7YGEAE=&rs=AOn4CLBrEtd4i5pwQcpRkhzv5ZHqCOMQ2Q&v=1724699886",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kEr0flXHYLeFC8vz4_7E5rwLxvu1AhH9Q/sddefault.jpg?sqp=CMyUt7YGir7X7AMICO6ps7YGEAE=&rs=AOn4CLD1a2W9PjRKOyDTu5Aer2SwCEUxXQ&v=1724699886",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kEr0flXHYLeFC8vz4_7E5rwLxvu1AhH9Q/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICO6ps7YGEAE=&rs=AOn4CLCdZIUrbObeadBY8_-vfGc4oX3cUg&v=1724699886",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "The Quiet Storm",
-          "description": "When Smokey Robinson released 'A Quiet Storm' in 1975, he redefined make-out music. These are the R&B slow jams from and inspired-by that era. #rnb #soul #sexy"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 97
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "WLagY30yXVdHehW6-VbWrZZs8vY",
-      "id": "RDCLAK5uy_nIDyjgkxsuKb6uQlT3q9eR5tNsW_mKqA8",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "phonk drift",
-        "description": "driving phonk",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nIDyjgkxsuKb6uQlT3q9eR5tNsW_mKqA8/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICITYsrYGEAE=&rs=AOn4CLCc01FF_WITXImk_yg7-ZF7dCvLXw&v=1724689412",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nIDyjgkxsuKb6uQlT3q9eR5tNsW_mKqA8/sddefault.jpg?sqp=CMyUt7YGir7X7AMICITYsrYGEAE=&rs=AOn4CLAIgbpqT4Xm6UdaurRPRiRvCz436g&v=1724689412",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nIDyjgkxsuKb6uQlT3q9eR5tNsW_mKqA8/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICITYsrYGEAE=&rs=AOn4CLCUsqF7zsdM3OpEwmzwVW4juKRwfw&v=1724689412",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "phonk drift",
-          "description": "driving phonk"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 43
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "9mrA9Oj_5r9ILFvhoSYWC1jCLbU",
-      "id": "RDCLAK5uy_lSogQlOWorqTv0Laig4R-tTCu1AY27Iv8",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Íconos: Rock en Español",
-        "description": "The biggest hits from the world of Latin Rock",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lSogQlOWorqTv0Laig4R-tTCu1AY27Iv8/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICOXNtrYGEAE=&rs=AOn4CLD_i1qk6MYafKmpmAfCNKUMB8fB4w&v=1724753637",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lSogQlOWorqTv0Laig4R-tTCu1AY27Iv8/sddefault.jpg?sqp=CMyUt7YGir7X7AMICOXNtrYGEAE=&rs=AOn4CLCzmlGQHuq2HAn0aOAAA9OEwA_BQA&v=1724753637",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lSogQlOWorqTv0Laig4R-tTCu1AY27Iv8/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICOXNtrYGEAE=&rs=AOn4CLABAU5r8jr1qXFoxaRjqNAPIfz4ow&v=1724753637",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Íconos: Rock en Español",
-          "description": "The biggest hits from the world of Latin Rock"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 50
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "sKdtABIYjQAvyOoa5f9h4an6Ouo",
-      "id": "RDCLAK5uy_kOzMBBJdj2fDNgE-wnHOiQVOQtI1n26PI",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "'10s Indie + Alternative ",
-        "description": "Relive the definitive indie tracks of the 2010s.",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kOzMBBJdj2fDNgE-wnHOiQVOQtI1n26PI/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICOjtsbYGEAE=&rs=AOn4CLC9Qon7ijiUgaFes35dt0Vd9O2jXA&v=1724675816",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kOzMBBJdj2fDNgE-wnHOiQVOQtI1n26PI/sddefault.jpg?sqp=CMyUt7YGir7X7AMICOjtsbYGEAE=&rs=AOn4CLChC4LkItt32sdF7v6wUdAcHxZi0w&v=1724675816",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kOzMBBJdj2fDNgE-wnHOiQVOQtI1n26PI/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICOjtsbYGEAE=&rs=AOn4CLA0Wwz-0VaWGzWMXXI19X1x4--r-w&v=1724675816",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "'10s Indie + Alternative ",
-          "description": "Relive the definitive indie tracks of the 2010s."
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 97
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "A0t0ANU_tDndHR1cjXjz5SYPbwM",
-      "id": "RDCLAK5uy_kvB-Tek1AZcCVmlbyA8iDfBgD4hPxgec8",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Bollywood Love Aaj Kal",
-        "description": "It's hard to not think about the person you're in love with while listening to these love songs. #hindi #romance #lovesongs",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kvB-Tek1AZcCVmlbyA8iDfBgD4hPxgec8/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICNXptLYGEAE=&rs=AOn4CLC2v4nMmTQST2lvhpc3_v2-07tpDQ&v=1724724437",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kvB-Tek1AZcCVmlbyA8iDfBgD4hPxgec8/sddefault.jpg?sqp=CMyUt7YGir7X7AMICNXptLYGEAE=&rs=AOn4CLDTrgLEIBxhnuJNPqM8eDSc3VCHCQ&v=1724724437",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kvB-Tek1AZcCVmlbyA8iDfBgD4hPxgec8/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICNXptLYGEAE=&rs=AOn4CLBmQ-DybX4nCV4L21oUsazrbbb9Qg&v=1724724437",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Bollywood Love Aaj Kal",
-          "description": "It's hard to not think about the person you're in love with while listening to these love songs. #hindi #romance #lovesongs"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 76
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "IwZ56SFy97tTz0ifiQOX735KlJM",
-      "id": "RDCLAK5uy_lgqDyTPZXxvt2A4LtJ2b8EUw8YrbrjJIU",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Presenting Central Cee",
+        "title": "Presenting Loredana",
         "description": "The most played hits and essential tracks.",
         "thumbnails": {
           "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lgqDyTPZXxvt2A4LtJ2b8EUw8YrbrjJIU/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICMadtLYGEAE=&rs=AOn4CLCXIDHpWobngYnOal88WQAg3mJ8tw&v=1724714694",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kK3djxcpKWqP8WsTdPXvR4TcSR-CP1IVg/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICLGgkrgGEAE=&rs=AOn4CLAl4jZDnJbrQ5NNng54TlEGxXLXIQ&v=1728352305",
             "width": 180,
             "height": 180
           },
           "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lgqDyTPZXxvt2A4LtJ2b8EUw8YrbrjJIU/sddefault.jpg?sqp=CMyUt7YGir7X7AMICMadtLYGEAE=&rs=AOn4CLDHY81bkIb1zlqQm0-RmPoedMYVGw&v=1724714694",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kK3djxcpKWqP8WsTdPXvR4TcSR-CP1IVg/sddefault.jpg?sqp=CIzDlbgGir7X7AMICLGgkrgGEAE=&rs=AOn4CLDjzptn8tKqfcUU9gKhLIDR7Na-yQ&v=1728352305",
             "width": 640,
             "height": 640
           },
           "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lgqDyTPZXxvt2A4LtJ2b8EUw8YrbrjJIU/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICMadtLYGEAE=&rs=AOn4CLANGxs9so04iabQM3M9a7GOw0SAWg&v=1724714694",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kK3djxcpKWqP8WsTdPXvR4TcSR-CP1IVg/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICLGgkrgGEAE=&rs=AOn4CLCXRS6wZQnWCz41MjqcAYx64SGmZg&v=1728352305",
             "width": 1200,
             "height": 1200
           }
@@ -755,7 +475,7 @@
         "channelTitle": "YouTube",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Presenting Central Cee",
+          "title": "Presenting Loredana",
           "description": "The most played hits and essential tracks."
         }
       },
@@ -763,71 +483,31 @@
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 18
+        "itemCount": 35
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "QPxIsJYwcbqaLZgenOD142zxp9Y",
-      "id": "RDCLAK5uy_lysW1jKAEassYxVOmLnd_nVwY5M8ObX0Y",
+      "etag": "uYY5WYWudWn9wKsgog2RqCLYP-A",
+      "id": "RDCLAK5uy_nX9R8koujT6GdiVx0rYy-f9_PsizErKdg",
       "snippet": {
         "publishedAt": "1970-01-01T00:00:00Z",
         "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Running to Metal",
-        "description": "A selection of metal and hard-rock to get you in the mood for a blistering run.",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lysW1jKAEassYxVOmLnd_nVwY5M8ObX0Y/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICLCEt7YGEAE=&rs=AOn4CLAVUZyeWLqTroWHPIqsjuGMtLAPBg&v=1724760624",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lysW1jKAEassYxVOmLnd_nVwY5M8ObX0Y/sddefault.jpg?sqp=CMyUt7YGir7X7AMICLCEt7YGEAE=&rs=AOn4CLD8-T1POYt8AWRLIKj-ERUMYUw1pQ&v=1724760624",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lysW1jKAEassYxVOmLnd_nVwY5M8ObX0Y/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICLCEt7YGEAE=&rs=AOn4CLBcS0bvWOdTThWXmilp8-226b69Ug&v=1724760624",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Running to Metal",
-          "description": "A selection of metal and hard-rock to get you in the mood for a blistering run."
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 73
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "U0HJqXgo376pVI7rBMgroUoOpts",
-      "id": "RDCLAK5uy_kR9LfKUvN1zUM9YM_muAoVt-XMRnVXHtY",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Presenting Shubh",
+        "title": "Presenting Planet Hemp",
         "description": "The most played hits and essential tracks.",
         "thumbnails": {
           "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kR9LfKUvN1zUM9YM_muAoVt-XMRnVXHtY/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICL2zs7YGEAE=&rs=AOn4CLBHHldXhtELWNlG7kS6FZFRAK5UNw&v=1724701117",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nX9R8koujT6GdiVx0rYy-f9_PsizErKdg/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICOGMlLgGEAE=&rs=AOn4CLCQxhFQ2V2KG6ceHwqgjRTlIMRuvA&v=1728382561",
             "width": 180,
             "height": 180
           },
           "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kR9LfKUvN1zUM9YM_muAoVt-XMRnVXHtY/sddefault.jpg?sqp=CMyUt7YGir7X7AMICL2zs7YGEAE=&rs=AOn4CLA1JjizF5AUovWut_Pw5Dow3KdgEg&v=1724701117",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nX9R8koujT6GdiVx0rYy-f9_PsizErKdg/sddefault.jpg?sqp=CIzDlbgGir7X7AMICOGMlLgGEAE=&rs=AOn4CLBG1I4elUFqZc6wgcCvjJJ87wsTzQ&v=1728382561",
             "width": 640,
             "height": 640
           },
           "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kR9LfKUvN1zUM9YM_muAoVt-XMRnVXHtY/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICL2zs7YGEAE=&rs=AOn4CLA-FZGIlg2SvXdBhKqEqfbvLwe_fQ&v=1724701117",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nX9R8koujT6GdiVx0rYy-f9_PsizErKdg/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICOGMlLgGEAE=&rs=AOn4CLAwXZExwc5Qk9owH5ZtjTtqz6Gz8g&v=1728382561",
             "width": 1200,
             "height": 1200
           }
@@ -835,127 +515,7 @@
         "channelTitle": "YouTube",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Presenting Shubh",
-          "description": "The most played hits and essential tracks."
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 16
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "OnGtR1apH6yX_oAdOZZtcPhUJCk",
-      "id": "RDCLAK5uy_lZaY4jD8BiVlfqbYHgMjTLJHU1fR6jW3s",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "'10s SA Hip Hop",
-        "description": "Relive the biggest South African Hip Hop hits from the 2010s.",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lZaY4jD8BiVlfqbYHgMjTLJHU1fR6jW3s/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICN_jtrYGEAE=&rs=AOn4CLBm6hbsMtlQLpwu-6D1DPrABmDwUA&v=1724756447",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lZaY4jD8BiVlfqbYHgMjTLJHU1fR6jW3s/sddefault.jpg?sqp=CMyUt7YGir7X7AMICN_jtrYGEAE=&rs=AOn4CLCxuJaTQF5LzE1DnzqW70s9KUcVIA&v=1724756447",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lZaY4jD8BiVlfqbYHgMjTLJHU1fR6jW3s/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICN_jtrYGEAE=&rs=AOn4CLDylfON2J6H69mjjNC6xBnuq21TBQ&v=1724756447",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "'10s SA Hip Hop",
-          "description": "Relive the biggest South African Hip Hop hits from the 2010s."
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 69
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "camCB_h-Ivb5OE-Zi1dhDdZceKM",
-      "id": "RDCLAK5uy_lTjDDzh1MkIGt5wTNVTecCLpbyGr9akmA",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Presenting The Tragically Hip",
-        "description": "The most played hits and essential tracks.",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lTjDDzh1MkIGt5wTNVTecCLpbyGr9akmA/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICMavtrYGEAE=&rs=AOn4CLAjBPrMHIT_G4SeotJ52AA98Mklaw&v=1724749766",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lTjDDzh1MkIGt5wTNVTecCLpbyGr9akmA/sddefault.jpg?sqp=CMyUt7YGir7X7AMICMavtrYGEAE=&rs=AOn4CLAGn-_5h5-6vkSqXQdJpTO2HZif2A&v=1724749766",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lTjDDzh1MkIGt5wTNVTecCLpbyGr9akmA/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICMavtrYGEAE=&rs=AOn4CLCjA0aPgX2C5MpDw7NOD37IaiUnVw&v=1724749766",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Presenting The Tragically Hip",
-          "description": "The most played hits and essential tracks."
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 50
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "eeRcCy9lf5dlcIZ1z5GQwIzLZuE",
-      "id": "RDCLAK5uy_n5czxzaAsaCl41UKdozzmqTVLQz3AJOCU",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Presenting bbno$",
-        "description": "The most played hits and essential tracks.",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n5czxzaAsaCl41UKdozzmqTVLQz3AJOCU/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICI7Ys7YGEAE=&rs=AOn4CLCPyHVfqDIZ2aULiTgNCFyD0t9RYg&v=1724705806",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n5czxzaAsaCl41UKdozzmqTVLQz3AJOCU/sddefault.jpg?sqp=CMyUt7YGir7X7AMICI7Ys7YGEAE=&rs=AOn4CLADE8sIcsuVfXTb4uDiBdy_emh5BQ&v=1724705806",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n5czxzaAsaCl41UKdozzmqTVLQz3AJOCU/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICI7Ys7YGEAE=&rs=AOn4CLCtJdQso1Hqw44aUaM_ZigdGf0Fgw&v=1724705806",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Presenting bbno$",
+          "title": "Presenting Planet Hemp",
           "description": "The most played hits and essential tracks."
         }
       },
@@ -968,26 +528,26 @@
     },
     {
       "kind": "youtube#playlist",
-      "etag": "4NR-gkWu3NysIFIyTtGu71MJzvA",
-      "id": "RDCLAK5uy_kkSEbWjmSGOW0iy_ZcmGaII-BwHHxm1Dg",
+      "etag": "AfApzcMiHzpxy6sM3jDCMrj4FV0",
+      "id": "RDCLAK5uy_l0xXkvMawsC7IKIBg34GK8nhEEutjg6MA",
       "snippet": {
         "publishedAt": "1970-01-01T00:00:00Z",
         "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Presenting Diljit Dosanjh",
-        "description": "The most played hits and essential tracks",
+        "title": "Presenting Lady Leshurr",
+        "description": "The most played hits and essential tracks.",
         "thumbnails": {
           "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kkSEbWjmSGOW0iy_ZcmGaII-BwHHxm1Dg/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICJHgtrYGEAE=&rs=AOn4CLB1m2S84RumCQBvSjz8wbsVx6vlHg&v=1724755985",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l0xXkvMawsC7IKIBg34GK8nhEEutjg6MA/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICLGOkbgGEAE=&rs=AOn4CLBa8EIdPAF2ICAMdDzv-29J9eh6qQ&v=1728333617",
             "width": 180,
             "height": 180
           },
           "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kkSEbWjmSGOW0iy_ZcmGaII-BwHHxm1Dg/sddefault.jpg?sqp=CMyUt7YGir7X7AMICJHgtrYGEAE=&rs=AOn4CLDyKaYODRuNh95DmAKi7CZ5b5y6RA&v=1724755985",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l0xXkvMawsC7IKIBg34GK8nhEEutjg6MA/sddefault.jpg?sqp=CIzDlbgGir7X7AMICLGOkbgGEAE=&rs=AOn4CLARyrWYA6_82-vQuZeDcGZXoOtB2g&v=1728333617",
             "width": 640,
             "height": 640
           },
           "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kkSEbWjmSGOW0iy_ZcmGaII-BwHHxm1Dg/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICJHgtrYGEAE=&rs=AOn4CLCm5apXMw0x8TctPJjc92I83TNSJQ&v=1724755985",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l0xXkvMawsC7IKIBg34GK8nhEEutjg6MA/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICLGOkbgGEAE=&rs=AOn4CLAjzRt4LrGy1mF2e8THvm4kDKPd3Q&v=1728333617",
             "width": 1200,
             "height": 1200
           }
@@ -995,8 +555,328 @@
         "channelTitle": "YouTube",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Presenting Diljit Dosanjh",
-          "description": "The most played hits and essential tracks"
+          "title": "Presenting Lady Leshurr",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 20
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "9o5KfLZCndiA8sUsU-4uWtHkT2Q",
+      "id": "RDCLAK5uy_kZ10sBFRXFx4DcNTLoGS-5MYMhpiljy44",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "That NOLA Bounce",
+        "description": "Immerse yourself in New Orleans' bounce scene. Featuring Big Freedia.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kZ10sBFRXFx4DcNTLoGS-5MYMhpiljy44/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICLuUk7gGEAE=&rs=AOn4CLAbz1cPHqnaL23qZYcnWbfYdnYPeA&v=1728367163",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kZ10sBFRXFx4DcNTLoGS-5MYMhpiljy44/sddefault.jpg?sqp=CIzDlbgGir7X7AMICLuUk7gGEAE=&rs=AOn4CLCBGh_Fmr07m5J6Zgeg8JIqCJJsPg&v=1728367163",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kZ10sBFRXFx4DcNTLoGS-5MYMhpiljy44/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICLuUk7gGEAE=&rs=AOn4CLD17YL-0tPUyywalroSZEJJ4MjsUw&v=1728367163",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "That NOLA Bounce",
+          "description": "Immerse yourself in New Orleans' bounce scene. Featuring Big Freedia."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 37
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "cer8sSyk65LyyvtKaSks8ARa_3A",
+      "id": "RDCLAK5uy_n7GkJDIK4WiQ_6Vx8naPrJMg9HdzxJEao",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Lethal Bizzle",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n7GkJDIK4WiQ_6Vx8naPrJMg9HdzxJEao/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICOzlkrgGEAE=&rs=AOn4CLDNH6OxViJHmGmQ66M9hfGFFmsqkQ&v=1728361196",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n7GkJDIK4WiQ_6Vx8naPrJMg9HdzxJEao/sddefault.jpg?sqp=CIzDlbgGir7X7AMICOzlkrgGEAE=&rs=AOn4CLA2pXH-NaZNgC_F34OVztd1i5r8Aw&v=1728361196",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n7GkJDIK4WiQ_6Vx8naPrJMg9HdzxJEao/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICOzlkrgGEAE=&rs=AOn4CLBpHzXRXE1do83TnSfyAFaoOjnKNA&v=1728361196",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Lethal Bizzle",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 22
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "NHP60jb49_WGqm2_1nuuIiIS0ss",
+      "id": "RDCLAK5uy_nFxjQOtm-Ub-89Jrtr86AFYA4uP6OyEQw",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Falz",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nFxjQOtm-Ub-89Jrtr86AFYA4uP6OyEQw/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICIKdkbgGEAE=&rs=AOn4CLDBl4CYFAMvIBCJYQoOl40MU6CPog&v=1728335490",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nFxjQOtm-Ub-89Jrtr86AFYA4uP6OyEQw/sddefault.jpg?sqp=CIzDlbgGir7X7AMICIKdkbgGEAE=&rs=AOn4CLAuMWMZ3xX2Y4dmLvPqF8WLbL3Gaw&v=1728335490",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nFxjQOtm-Ub-89Jrtr86AFYA4uP6OyEQw/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICIKdkbgGEAE=&rs=AOn4CLBUbBNIx-t1CTszVS0RFk9-PJ1-lw&v=1728335490",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Falz",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 22
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "OnFJ_0eluB-zZoKGEWoz0HYvPJQ",
+      "id": "RDCLAK5uy_n4_dUgEnc28lzzr4Ek81d9ltqxLskit54",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Naezy",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n4_dUgEnc28lzzr4Ek81d9ltqxLskit54/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICMrokbgGEAE=&rs=AOn4CLACGmvectfVuCuLKyuJuX-WWh0tug&v=1728345162",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n4_dUgEnc28lzzr4Ek81d9ltqxLskit54/sddefault.jpg?sqp=CIzDlbgGir7X7AMICMrokbgGEAE=&rs=AOn4CLABzKTD1Dk2oehvB9BzpJpURWoHZw&v=1728345162",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n4_dUgEnc28lzzr4Ek81d9ltqxLskit54/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICMrokbgGEAE=&rs=AOn4CLACW1CDn6QwmsziNMrdzqWQcSPbyg&v=1728345162",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Naezy",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 43
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "LJrzSZpyBmRQBTGx9w7Cew2Pm7w",
+      "id": "RDCLAK5uy_n0bLlLjOIJPNxeWW97JnSo7th5vYlNR8w",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Burna Boy",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n0bLlLjOIJPNxeWW97JnSo7th5vYlNR8w/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICMmQk7gGEAE=&rs=AOn4CLCN4azirQnsj_oMGSOrn4mRtwVIFQ&v=1728366665",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n0bLlLjOIJPNxeWW97JnSo7th5vYlNR8w/sddefault.jpg?sqp=CIzDlbgGir7X7AMICMmQk7gGEAE=&rs=AOn4CLBbfHofsd4peD4y8O_KGPe9LGRxRg&v=1728366665",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n0bLlLjOIJPNxeWW97JnSo7th5vYlNR8w/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICMmQk7gGEAE=&rs=AOn4CLBi79G7kumW30NS9vChRJ3Vm0cHwg&v=1728366665",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Burna Boy",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 61
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "2l84EMZmReNHTOwf05p1_hzvRYY",
+      "id": "RDCLAK5uy_kCQrNfXxFS08bPpFszlMByVTz3Yd21lTA",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Homemade & Heavy",
+        "description": "A fine mix of throwback & contemporary but banging Nigerian, African Hip Hop to boost your energy!",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kCQrNfXxFS08bPpFszlMByVTz3Yd21lTA/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICIvykbgGEAE=&rs=AOn4CLBhwIUqtCIvs-2fnL7mFMyZ8giZNg&v=1728346379",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kCQrNfXxFS08bPpFszlMByVTz3Yd21lTA/sddefault.jpg?sqp=CIzDlbgGir7X7AMICIvykbgGEAE=&rs=AOn4CLA3_iuvSDrGck1AJhXDMvfi2WdJNw&v=1728346379",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kCQrNfXxFS08bPpFszlMByVTz3Yd21lTA/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICIvykbgGEAE=&rs=AOn4CLBgcCbtqpR1vNTMJCDo3goSjNTh1w&v=1728346379",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Homemade & Heavy",
+          "description": "A fine mix of throwback & contemporary but banging Nigerian, African Hip Hop to boost your energy!"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 29
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "1SXEU2L8A8i2uJjGJU3x-IJ9sBs",
+      "id": "RDCLAK5uy_mDFq4tPWEC-Bka5UCUJKCgQ37KUKw4XVU",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Flavour",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mDFq4tPWEC-Bka5UCUJKCgQ37KUKw4XVU/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICL-Ok7gGEAE=&rs=AOn4CLBiB2RzTeQQU7AJvAOvwOyfruvtMQ&v=1728366399",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mDFq4tPWEC-Bka5UCUJKCgQ37KUKw4XVU/sddefault.jpg?sqp=CIzDlbgGir7X7AMICL-Ok7gGEAE=&rs=AOn4CLCm5Q_wf7kmiawyRAAYHhRnwS4WJQ&v=1728366399",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mDFq4tPWEC-Bka5UCUJKCgQ37KUKw4XVU/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICL-Ok7gGEAE=&rs=AOn4CLAHncL8XbynqrV23Zrs17S0erLoeg&v=1728366399",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Flavour",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 34
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "6oDkAxUa_OgudyEFWdp4PTHU6MA",
+      "id": "RDCLAK5uy_lLk2AeL5llZsaE9e1qtXuTHiyrFGaZDfw",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Top Dembow 2020",
+        "description": "Check out the biggest dembow songs of the year.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lLk2AeL5llZsaE9e1qtXuTHiyrFGaZDfw/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICMSIk7gGEAE=&rs=AOn4CLCwUxRrElFtrB0kDBcZtof8UKOqGg&v=1728365636",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lLk2AeL5llZsaE9e1qtXuTHiyrFGaZDfw/sddefault.jpg?sqp=CIzDlbgGir7X7AMICMSIk7gGEAE=&rs=AOn4CLDoBdynmD8zWAxMfFtQPFcVjt0xPA&v=1728365636",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lLk2AeL5llZsaE9e1qtXuTHiyrFGaZDfw/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICMSIk7gGEAE=&rs=AOn4CLA-h6cE1xKkg0MloI9fooDAHH5-TQ&v=1728365636",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Top Dembow 2020",
+          "description": "Check out the biggest dembow songs of the year."
         }
       },
       "status": {
@@ -1008,26 +888,26 @@
     },
     {
       "kind": "youtube#playlist",
-      "etag": "071R_1HRo-0jMiT9fakK7k1Aq-k",
-      "id": "RDCLAK5uy_m8-hn_Dh2IINzL4vpN_vnafTZflvH30pM",
+      "etag": "hbKuMGis48V3Xdl1wB_SNPV4xFc",
+      "id": "RDCLAK5uy_lM94XXowHJpx6zExfintoS34TTV321rdI",
       "snippet": {
         "publishedAt": "1970-01-01T00:00:00Z",
         "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Malayalam Hits 2023",
-        "description": "Experience the sound of 2023 with this collection of some of the biggest Malayalam hits of the year.",
+        "title": "Calentura",
+        "description": "Let the temperature rise with this mix of Hot Hits",
         "thumbnails": {
           "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m8-hn_Dh2IINzL4vpN_vnafTZflvH30pM/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICPKis7YGEAE=&rs=AOn4CLDqp6T3PKLx2WZQfisH6a7-_sBeVA&v=1724698994",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lM94XXowHJpx6zExfintoS34TTV321rdI/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICIjBkLgGEAE=&rs=AOn4CLCnozF7os2cMldpq-LcV-mcAMMBqA&v=1728323720",
             "width": 180,
             "height": 180
           },
           "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m8-hn_Dh2IINzL4vpN_vnafTZflvH30pM/sddefault.jpg?sqp=CMyUt7YGir7X7AMICPKis7YGEAE=&rs=AOn4CLBngo8hf69Rdj32bxs-Ld-HS-Ag9Q&v=1724698994",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lM94XXowHJpx6zExfintoS34TTV321rdI/sddefault.jpg?sqp=CIzDlbgGir7X7AMICIjBkLgGEAE=&rs=AOn4CLBBSAmbz6ZeBKijd7q2Z46wNdv7Rw&v=1728323720",
             "width": 640,
             "height": 640
           },
           "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m8-hn_Dh2IINzL4vpN_vnafTZflvH30pM/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICPKis7YGEAE=&rs=AOn4CLAf8Lbp9ax0xYUAIiMkmAyFlYG4gg&v=1724698994",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lM94XXowHJpx6zExfintoS34TTV321rdI/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICIjBkLgGEAE=&rs=AOn4CLD24sNkwMw4K0NVZ5lXA1Whf0BOiQ&v=1728323720",
             "width": 1200,
             "height": 1200
           }
@@ -1035,39 +915,39 @@
         "channelTitle": "YouTube",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Malayalam Hits 2023",
-          "description": "Experience the sound of 2023 with this collection of some of the biggest Malayalam hits of the year."
+          "title": "Calentura",
+          "description": "Let the temperature rise with this mix of Hot Hits"
         }
       },
       "status": {
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 40
+        "itemCount": 95
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "sUZXWmDnKt-rbXBuW1QJIoeVGyk",
-      "id": "RDCLAK5uy_lbaON5vTnDCPGnahZeo6in4FOVu-PF9Rk",
+      "etag": "pAE8TaWndyDNisH2udl25QfZyms",
+      "id": "RDCLAK5uy_nfFpW0kcdCmKFGMvORFMSqQG4QAXB2YXE",
       "snippet": {
         "publishedAt": "1970-01-01T00:00:00Z",
         "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Tomorrowland 2024 Lineup",
-        "description": "Tomorrowland is this weekend in Boom Belgium!",
+        "title": " عربي RAP",
+        "description": "The home to the realest rhymes from the top Middle Eastern rappers.",
         "thumbnails": {
           "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lbaON5vTnDCPGnahZeo6in4FOVu-PF9Rk/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICP3ptLYGEAE=&rs=AOn4CLDqNlCBH38taYrHW-uFLrqFfjNOxg&v=1724724477",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nfFpW0kcdCmKFGMvORFMSqQG4QAXB2YXE/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICLH7lLgGEAE=&rs=AOn4CLDE3D40CiB7uMJliMDrQKD6zArBkg&v=1728396721",
             "width": 180,
             "height": 180
           },
           "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lbaON5vTnDCPGnahZeo6in4FOVu-PF9Rk/sddefault.jpg?sqp=CMyUt7YGir7X7AMICP3ptLYGEAE=&rs=AOn4CLBOdhPB7Y-QuiDBZkHkVGWGI2uEXQ&v=1724724477",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nfFpW0kcdCmKFGMvORFMSqQG4QAXB2YXE/sddefault.jpg?sqp=CIzDlbgGir7X7AMICLH7lLgGEAE=&rs=AOn4CLDKZvMDMI-5Qw2uvqMKX3Iww8fsQA&v=1728396721",
             "width": 640,
             "height": 640
           },
           "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lbaON5vTnDCPGnahZeo6in4FOVu-PF9Rk/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICP3ptLYGEAE=&rs=AOn4CLBzpATB8KQmxHkwUqRUhoR_zV9q_A&v=1724724477",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nfFpW0kcdCmKFGMvORFMSqQG4QAXB2YXE/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICLH7lLgGEAE=&rs=AOn4CLBQcGtLW6v9bVanUsHNgmSU6G1NJA&v=1728396721",
             "width": 1200,
             "height": 1200
           }
@@ -1075,79 +955,39 @@
         "channelTitle": "YouTube",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Tomorrowland 2024 Lineup",
-          "description": "Tomorrowland is this weekend in Boom Belgium!"
+          "title": " عربي RAP",
+          "description": "The home to the realest rhymes from the top Middle Eastern rappers."
         }
       },
       "status": {
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 73
+        "itemCount": 51
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "l3vnyU9E3aHK9sUuV64l3M_inRw",
-      "id": "RDCLAK5uy_m1SfwuulEBVcweY5bCV8jJ6ZCn8M2gKGM",
+      "etag": "gX1IbILry4cdKWdWp5xNVCAcHvA",
+      "id": "RDCLAK5uy_m3Wx1Ooh7duJJbBZeYr3AtrhZ1gg49qqE",
       "snippet": {
         "publishedAt": "1970-01-01T00:00:00Z",
         "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Bollywood Dance Essentials",
-        "description": "Biggest hits to crowd favorites, enjoy the best of Bollywood Dance.",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m1SfwuulEBVcweY5bCV8jJ6ZCn8M2gKGM/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICIras7YGEAE=&rs=AOn4CLCDoxKbGiwP0bIfwmD70o5aiSueKA&v=1724706058",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m1SfwuulEBVcweY5bCV8jJ6ZCn8M2gKGM/sddefault.jpg?sqp=CMyUt7YGir7X7AMICIras7YGEAE=&rs=AOn4CLB19xS85aC9NJNiysi418546umPUA&v=1724706058",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m1SfwuulEBVcweY5bCV8jJ6ZCn8M2gKGM/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICIras7YGEAE=&rs=AOn4CLC10i3LiDbDwLG6ebFl3JXt9oDNig&v=1724706058",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Bollywood Dance Essentials",
-          "description": "Biggest hits to crowd favorites, enjoy the best of Bollywood Dance."
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 65
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "u8dt_jKXAgWc8yKEzdy5zqT-CDA",
-      "id": "RDCLAK5uy_msOHxJkT5rb8kh557m2fzrsz10wWF8Kpc",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Presenting Maria Becerra",
+        "title": "Presenting Sez on the Beat ",
         "description": "The most played hits and essential tracks.",
         "thumbnails": {
           "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_msOHxJkT5rb8kh557m2fzrsz10wWF8Kpc/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICILNsbYGEAE=&rs=AOn4CLA6LzoAoM9hvKbrOknEg-PHAN_KZQ&v=1724671618",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m3Wx1Ooh7duJJbBZeYr3AtrhZ1gg49qqE/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICNarkLgGEAE=&rs=AOn4CLB06qF_rCeMsdSY9LDAA_IELloy4Q&v=1728320982",
             "width": 180,
             "height": 180
           },
           "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_msOHxJkT5rb8kh557m2fzrsz10wWF8Kpc/sddefault.jpg?sqp=CMyUt7YGir7X7AMICILNsbYGEAE=&rs=AOn4CLBF1LW0w1Koj3aGV4ZIZ9NXjHuPLg&v=1724671618",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m3Wx1Ooh7duJJbBZeYr3AtrhZ1gg49qqE/sddefault.jpg?sqp=CIzDlbgGir7X7AMICNarkLgGEAE=&rs=AOn4CLDsFsEqZLI1daACN0fENj9YtUC-Wg&v=1728320982",
             "width": 640,
             "height": 640
           },
           "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_msOHxJkT5rb8kh557m2fzrsz10wWF8Kpc/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICILNsbYGEAE=&rs=AOn4CLC44P4t5WyuB_Z_BkVnkR3prTkotw&v=1724671618",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m3Wx1Ooh7duJJbBZeYr3AtrhZ1gg49qqE/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICNarkLgGEAE=&rs=AOn4CLB9q3H6uMdbD4Z1kF2p3xPj4WceGg&v=1728320982",
             "width": 1200,
             "height": 1200
           }
@@ -1155,7 +995,47 @@
         "channelTitle": "YouTube",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Presenting Maria Becerra",
+          "title": "Presenting Sez on the Beat ",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 50
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "1pIrypcbPX5_51E0GmHpJKTppjE",
+      "id": "RDCLAK5uy_lSUa8AKOFDc3plJKwTlNwwKsBEL58FLGM",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting ØZI",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lSUa8AKOFDc3plJKwTlNwwKsBEL58FLGM/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICO_wkrgGEAE=&rs=AOn4CLAstt14FbGOo2Y5hVaMfKhSwKWIfg&v=1728362607",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lSUa8AKOFDc3plJKwTlNwwKsBEL58FLGM/sddefault.jpg?sqp=CIzDlbgGir7X7AMICO_wkrgGEAE=&rs=AOn4CLCgG4IdRfnE2X8irfQipdqs2J718A&v=1728362607",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lSUa8AKOFDc3plJKwTlNwwKsBEL58FLGM/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICO_wkrgGEAE=&rs=AOn4CLCKSyohu8Lc0Ay3YJiedwgnbDr1Fg&v=1728362607",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting ØZI",
           "description": "The most played hits and essential tracks."
         }
       },
@@ -1168,26 +1048,26 @@
     },
     {
       "kind": "youtube#playlist",
-      "etag": "9CleZzVZFvWASrvehS8XvzR79Wc",
-      "id": "RDCLAK5uy_kSRez2j51cPlJqX2cPs9E-q-3Ap9YA-pU",
+      "etag": "tQwTWCYCFha6DUYaJtpFUd1Q0ZQ",
+      "id": "RDCLAK5uy_knn2hQ9qFxPZwn57lL_bNaiPhzXoh_WYQ",
       "snippet": {
         "publishedAt": "1970-01-01T00:00:00Z",
         "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Presenting Fujii Kaze",
+        "title": "Presenting Soprano",
         "description": "The most played hits and essential tracks.",
         "thumbnails": {
           "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kSRez2j51cPlJqX2cPs9E-q-3Ap9YA-pU/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICNeLtbYGEAE=&rs=AOn4CLA-6oJkVWa1dSeE49sG1m-6SF5XRQ&v=1724728791",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_knn2hQ9qFxPZwn57lL_bNaiPhzXoh_WYQ/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICLPzlLgGEAE=&rs=AOn4CLAnddGDHFA55m5-nmMKLD6LcGwlsw&v=1728395699",
             "width": 180,
             "height": 180
           },
           "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kSRez2j51cPlJqX2cPs9E-q-3Ap9YA-pU/sddefault.jpg?sqp=CMyUt7YGir7X7AMICNeLtbYGEAE=&rs=AOn4CLB4gDMvP1Sy6ncBJ3W_C-3_1k257Q&v=1724728791",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_knn2hQ9qFxPZwn57lL_bNaiPhzXoh_WYQ/sddefault.jpg?sqp=CIzDlbgGir7X7AMICLPzlLgGEAE=&rs=AOn4CLAlKS1tb7_brxEQ8nwA9exW0vlHQg&v=1728395699",
             "width": 640,
             "height": 640
           },
           "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kSRez2j51cPlJqX2cPs9E-q-3Ap9YA-pU/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICNeLtbYGEAE=&rs=AOn4CLAyqfTWTskWszz6SXR2R9ogqjEDJQ&v=1724728791",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_knn2hQ9qFxPZwn57lL_bNaiPhzXoh_WYQ/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICLPzlLgGEAE=&rs=AOn4CLAEcptJUyQd_6mEhWT_nyr1eylIXw&v=1728395699",
             "width": 1200,
             "height": 1200
           }
@@ -1195,7 +1075,7 @@
         "channelTitle": "YouTube",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Presenting Fujii Kaze",
+          "title": "Presenting Soprano",
           "description": "The most played hits and essential tracks."
         }
       },
@@ -1203,31 +1083,31 @@
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 23
+        "itemCount": 44
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "KweNGy_LWbiMQquLHy0JqMg6CDQ",
-      "id": "RDCLAK5uy_lOxR6qHIJtKDTce2u1BERkYEVuQyqGK1I",
+      "etag": "BotJ-btpUPxhVf58KVMKS-EFpdc",
+      "id": "RDCLAK5uy_mZHoYp8rDHOUlQ99tzJsjSGcEvqf3_WLU",
       "snippet": {
         "publishedAt": "1970-01-01T00:00:00Z",
         "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Presenting XG",
+        "title": "Presenting Jay Park",
         "description": "The most played hits and essential tracks.",
         "thumbnails": {
           "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lOxR6qHIJtKDTce2u1BERkYEVuQyqGK1I/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICMqHtLYGEAE=&rs=AOn4CLBSca4HdttUKFC7FgBEHuEdRFQChQ&v=1724711882",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mZHoYp8rDHOUlQ99tzJsjSGcEvqf3_WLU/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICJzpk7gGEAE=&rs=AOn4CLBdfSP0QpNbP4OyzZTj3FkbvwTxpw&v=1728378012",
             "width": 180,
             "height": 180
           },
           "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lOxR6qHIJtKDTce2u1BERkYEVuQyqGK1I/sddefault.jpg?sqp=CMyUt7YGir7X7AMICMqHtLYGEAE=&rs=AOn4CLDkaP0nh5aJnQxeMV5VN-MBGwrSAA&v=1724711882",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mZHoYp8rDHOUlQ99tzJsjSGcEvqf3_WLU/sddefault.jpg?sqp=CIzDlbgGir7X7AMICJzpk7gGEAE=&rs=AOn4CLCapX1tX1li5Aanl5ATLlwnFJwzOg&v=1728378012",
             "width": 640,
             "height": 640
           },
           "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lOxR6qHIJtKDTce2u1BERkYEVuQyqGK1I/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICMqHtLYGEAE=&rs=AOn4CLALZ1bXN_3u7y1f4QvQel4fXQUwuQ&v=1724711882",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mZHoYp8rDHOUlQ99tzJsjSGcEvqf3_WLU/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICJzpk7gGEAE=&rs=AOn4CLCEARcOSSrJd8o1VNzeoG3OU54nEA&v=1728378012",
             "width": 1200,
             "height": 1200
           }
@@ -1235,7 +1115,167 @@
         "channelTitle": "YouTube",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Presenting XG",
+          "title": "Presenting Jay Park",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 77
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "7vvz6LAygVFXhEXiONScZeWJhj0",
+      "id": "RDCLAK5uy_kUFCSc-grF3m-L_49W6p1QyGsMbueEbog",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Caribbean Pulse",
+        "description": "Featuring today's reggae and dancehall hits, listen to the freshest sounds from across the Caribbean spectrum. #reggae #dancehall #hits",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kUFCSc-grF3m-L_49W6p1QyGsMbueEbog/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICJChk7gGEAE=&rs=AOn4CLCLGBu-zqJW8YT4BMHYLewt3tFIGQ&v=1728368784",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kUFCSc-grF3m-L_49W6p1QyGsMbueEbog/sddefault.jpg?sqp=CIzDlbgGir7X7AMICJChk7gGEAE=&rs=AOn4CLBvNk8StduMThlKuKLb-6whfcrQ1Q&v=1728368784",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kUFCSc-grF3m-L_49W6p1QyGsMbueEbog/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICJChk7gGEAE=&rs=AOn4CLARKADi8I3PNgZ4IZNLZIhUms67Qw&v=1728368784",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Caribbean Pulse",
+          "description": "Featuring today's reggae and dancehall hits, listen to the freshest sounds from across the Caribbean spectrum. #reggae #dancehall #hits"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 70
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "0AqDVGLt8Kz0IvN9Dl5asoP9M_E",
+      "id": "RDCLAK5uy_mrFf8MOdXpsgjmDPmy9UrarANZUJv4IOw",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Trending in Funk",
+        "description": "Today's biggest Brazilian funk tracks. #funkbrasileiro #hits #top",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mrFf8MOdXpsgjmDPmy9UrarANZUJv4IOw/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICPHCkLgGEAE=&rs=AOn4CLDznZOMPX8zhvifQa5wbAvuSK8AVg&v=1728323953",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mrFf8MOdXpsgjmDPmy9UrarANZUJv4IOw/sddefault.jpg?sqp=CIzDlbgGir7X7AMICPHCkLgGEAE=&rs=AOn4CLDSs5C_lxQMILELrTc9PID5hTgXrw&v=1728323953",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mrFf8MOdXpsgjmDPmy9UrarANZUJv4IOw/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICPHCkLgGEAE=&rs=AOn4CLCqOdJNzg_AyHVnedvZndPSrPAzEA&v=1728323953",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Trending in Funk",
+          "description": "Today's biggest Brazilian funk tracks. #funkbrasileiro #hits #top"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 50
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "IXuZ_5fCisA8aGvVEvQUPz9_BR0",
+      "id": "RDCLAK5uy_kGRf9GknOVotuoWNZRGEByTjZO5e8DXKo",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "The Hit List",
+        "description": "The home of today's biggest and hottest hits.\n#top #hits #music",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kGRf9GknOVotuoWNZRGEByTjZO5e8DXKo/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICOPLk7gGEAE=&rs=AOn4CLC2Bqm3Xwtg52XvUcoGThwGjmMfFw&v=1728374243",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kGRf9GknOVotuoWNZRGEByTjZO5e8DXKo/sddefault.jpg?sqp=CIzDlbgGir7X7AMICOPLk7gGEAE=&rs=AOn4CLCyopQ26aIgalCa9YpvioXTl8Eibg&v=1728374243",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kGRf9GknOVotuoWNZRGEByTjZO5e8DXKo/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICOPLk7gGEAE=&rs=AOn4CLBnrroKQjoCvL3o4aj0idodXBZ79A&v=1728374243",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "The Hit List",
+          "description": "The home of today's biggest and hottest hits.\n#top #hits #music"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 42
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "36kb0JgVje6AtIJqvi-_YHi_c2M",
+      "id": "RDCLAK5uy_mY9fmYLHWr4jId_XFsCSWn5NZPHkBPFL4",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Sound Sultan",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mY9fmYLHWr4jId_XFsCSWn5NZPHkBPFL4/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICIWBlbgGEAE=&rs=AOn4CLD11Y6UUMzT4bfZ9SABDcjxAlHIjQ&v=1728397445",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mY9fmYLHWr4jId_XFsCSWn5NZPHkBPFL4/sddefault.jpg?sqp=CIzDlbgGir7X7AMICIWBlbgGEAE=&rs=AOn4CLCohCYjm06M-wGy1w7p3KZZx7OhXw&v=1728397445",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mY9fmYLHWr4jId_XFsCSWn5NZPHkBPFL4/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICIWBlbgGEAE=&rs=AOn4CLD_vbLb97Z9pSTWxRpz5GH-Viz4rw&v=1728397445",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Sound Sultan",
           "description": "The most played hits and essential tracks."
         }
       },
@@ -1248,26 +1288,26 @@
     },
     {
       "kind": "youtube#playlist",
-      "etag": "95y0F8Umad3l9cgdjACfq0Pcu8k",
-      "id": "RDCLAK5uy_nkcRVm-uQ2bgDkcRnM6IS28MxFb7xUHDs",
+      "etag": "DGDdU57VJBsrVGmmBvH2E89UMVA",
+      "id": "RDCLAK5uy_nZJzoZEBYRptA2XXskbxGTvKkevapT_F4",
       "snippet": {
         "publishedAt": "1970-01-01T00:00:00Z",
         "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Cuarteto from Argentina",
-        "description": "From Cordoba to the world: Cuarteto.",
+        "title": "Lofi Flow State",
+        "description": "Find your late night study flow",
         "thumbnails": {
           "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nkcRVm-uQ2bgDkcRnM6IS28MxFb7xUHDs/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICOSptrYGEAE=&rs=AOn4CLAmR7g_CLNoP-5Z7aa8TXNt8XyGwQ&v=1724749028",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nZJzoZEBYRptA2XXskbxGTvKkevapT_F4/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICKGWk7gGEAE=&rs=AOn4CLCyLlXOI278IzzOK2Tis5hZbpsvmg&v=1728367393",
             "width": 180,
             "height": 180
           },
           "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nkcRVm-uQ2bgDkcRnM6IS28MxFb7xUHDs/sddefault.jpg?sqp=CMyUt7YGir7X7AMICOSptrYGEAE=&rs=AOn4CLA-ridI347sLpvoHW8NSNzPoCE61A&v=1724749028",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nZJzoZEBYRptA2XXskbxGTvKkevapT_F4/sddefault.jpg?sqp=CIzDlbgGir7X7AMICKGWk7gGEAE=&rs=AOn4CLBvVcTEWCgMqK1platuxhw4Wt73iw&v=1728367393",
             "width": 640,
             "height": 640
           },
           "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nkcRVm-uQ2bgDkcRnM6IS28MxFb7xUHDs/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICOSptrYGEAE=&rs=AOn4CLBfX-uAQh2Oz8jJxh_Ia27DckWFxQ&v=1724749028",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nZJzoZEBYRptA2XXskbxGTvKkevapT_F4/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICKGWk7gGEAE=&rs=AOn4CLDjtW1ZWvtVSqzhI8M1wWS34FwHYQ&v=1728367393",
             "width": 1200,
             "height": 1200
           }
@@ -1275,39 +1315,39 @@
         "channelTitle": "YouTube",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Cuarteto from Argentina",
-          "description": "From Cordoba to the world: Cuarteto."
+          "title": "Lofi Flow State",
+          "description": "Find your late night study flow"
         }
       },
       "status": {
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 71
+        "itemCount": 95
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "SoDnr9HyEb_IWv_E8T3pG3ElLpw",
-      "id": "RDCLAK5uy_lb6CVU6S4uVugLVNTU9WhqfaomWAgnho4",
+      "etag": "UOJ8W8bfQwkmqUeuZsnksPtpW_w",
+      "id": "RDCLAK5uy_le8WHLiZrGg4zDOXacSqAp-Po0CnBstQs",
       "snippet": {
         "publishedAt": "1970-01-01T00:00:00Z",
         "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Shout-Out Pop Hits",
-        "description": "Put your vocals to the test with this shout-along collection of powerful pop anthems.",
+        "title": "Presenting CHANMINA",
+        "description": "The most played hits and essential tracks.",
         "thumbnails": {
           "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lb6CVU6S4uVugLVNTU9WhqfaomWAgnho4/mqdefault.jpg?sqp=CMyUt7YGir7X7AMICLqOs7YGEAE=&rs=AOn4CLDD_BRngjglQ0clmR4Ui9fvXrWZHA&v=1724696378",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_le8WHLiZrGg4zDOXacSqAp-Po0CnBstQs/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICOjHkrgGEAE=&rs=AOn4CLCqPEeGsz8m8AybVfd3cY9dL-F2Xw&v=1728357352",
             "width": 180,
             "height": 180
           },
           "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lb6CVU6S4uVugLVNTU9WhqfaomWAgnho4/sddefault.jpg?sqp=CMyUt7YGir7X7AMICLqOs7YGEAE=&rs=AOn4CLD04BFMS03lo8JffTKUXWUCQkduxA&v=1724696378",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_le8WHLiZrGg4zDOXacSqAp-Po0CnBstQs/sddefault.jpg?sqp=CIzDlbgGir7X7AMICOjHkrgGEAE=&rs=AOn4CLAtbSmJn9nWEzq1zL9LedQRQ4TNpQ&v=1728357352",
             "width": 640,
             "height": 640
           },
           "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lb6CVU6S4uVugLVNTU9WhqfaomWAgnho4/maxresdefault.jpg?sqp=CMyUt7YGir7X7AMICLqOs7YGEAE=&rs=AOn4CLAGljC3_zQ0L6J2gcGcGOzZSgq27A&v=1724696378",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_le8WHLiZrGg4zDOXacSqAp-Po0CnBstQs/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICOjHkrgGEAE=&rs=AOn4CLAC6yE1WKo1DdwgM1jUW_HiJLT5PQ&v=1728357352",
             "width": 1200,
             "height": 1200
           }
@@ -1315,15 +1355,95 @@
         "channelTitle": "YouTube",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Shout-Out Pop Hits",
-          "description": "Put your vocals to the test with this shout-along collection of powerful pop anthems."
+          "title": "Presenting CHANMINA",
+          "description": "The most played hits and essential tracks."
         }
       },
       "status": {
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 50
+        "itemCount": 37
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "n1zXgP9v-Ql6axNQ1iEAf2T_VvY",
+      "id": "RDCLAK5uy_lMwBjENMJMM9eXjmiOTIFo-cD3hAQIEAM",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Brent Faiyaz",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lMwBjENMJMM9eXjmiOTIFo-cD3hAQIEAM/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICIDCkrgGEAE=&rs=AOn4CLAOq64K-8GgsWBZ_THDv3iSBx75VQ&v=1728356608",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lMwBjENMJMM9eXjmiOTIFo-cD3hAQIEAM/sddefault.jpg?sqp=CIzDlbgGir7X7AMICIDCkrgGEAE=&rs=AOn4CLAtvEUoPYpMI8Kjk1WEcFmsFKUcEQ&v=1728356608",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lMwBjENMJMM9eXjmiOTIFo-cD3hAQIEAM/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICIDCkrgGEAE=&rs=AOn4CLBVuiWrEd-Q1ExuKa9gMvPofND5jw&v=1728356608",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Brent Faiyaz",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 14
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "Y-Wla680y2wC2ehFL7EFpseu98A",
+      "id": "RDCLAK5uy_l-3H3QtckQK3imr8ZpEiErouiqnTWnzG8",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Omah Lay",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l-3H3QtckQK3imr8ZpEiErouiqnTWnzG8/mqdefault.jpg?sqp=CIzDlbgGir7X7AMICKWYk7gGEAE=&rs=AOn4CLCK-ykx4QD5ahaV2V4d0uJ8m3ekAA&v=1728367653",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l-3H3QtckQK3imr8ZpEiErouiqnTWnzG8/sddefault.jpg?sqp=CIzDlbgGir7X7AMICKWYk7gGEAE=&rs=AOn4CLBP8dwPTGSst0D7G6BgRIeaRjszTg&v=1728367653",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l-3H3QtckQK3imr8ZpEiErouiqnTWnzG8/maxresdefault.jpg?sqp=CIzDlbgGir7X7AMICKWYk7gGEAE=&rs=AOn4CLDJ367Wt-JUWJjCogofogU-qN4Y2g&v=1728367653",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Omah Lay",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 34
       }
     }
   ]

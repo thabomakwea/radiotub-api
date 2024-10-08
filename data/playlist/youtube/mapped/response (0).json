@@ -1,47 +1,48 @@
 {
     "kind": "youtube#playlistListResponse",
-    "etag": "sDvJnHGPgX3Ob-nnAeDciISBDn0",
+    "etag": "NTxYNf3LJOS7crL0ZYvp01NEzS0",
     "pageInfo": {
-        "totalResults": 22,
+        "totalResults": 41,
         "resultsPerPage": 50
     },
     "items": [
         {
             "kind": "youtube#playlist",
-            "etag": "XVmHlyWZJLatQZcomjFT2G9iV-0",
-            "id": "OLAK5uy_luk90R9D3hE57R9ZQpGHgEpg43-o1W7xc",
+            "etag": "trRq3rHJ22EB21sk0oPmGfCPdSk",
+            "id": "RDCLAK5uy_nUYyVbOpSSt7KMST3NamWI_zTjZqmGn2o",
             "snippet": {
-                "publishedAt": "2024-09-30T18:46:08Z",
+                "publishedAt": "1970-01-01T00:00:00Z",
                 "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Album - Tiempo (Original Album)",
-                "description": "",
+                "title": "OPM Urban",
+                "description": "Favorite tracks in the Filipino Hip-Hop",
                 "thumbnails": {
                     "medium": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_luk90R9D3hE57R9ZQpGHgEpg43-o1W7xc/mqdefault.jpg?sqp=COD_gLgGir7X7AMICKjo7rcGEAE=&rs=AOn4CLCz3ccdhcY6FzkywyYjm19Ko1VEuw&v=1727771688",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nUYyVbOpSSt7KMST3NamWI_zTjZqmGn2o/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICJankrgGEAE=&rs=AOn4CLB07K5XVEcC2NKily0zqSiCcmUNnQ&v=1728353174",
                         "width": 180,
                         "height": 180
                     },
                     "standard": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_luk90R9D3hE57R9ZQpGHgEpg43-o1W7xc/sddefault.jpg?sqp=COD_gLgGir7X7AMICKjo7rcGEAE=&rs=AOn4CLDRbGCjfpHWseGSHPV6XzvxxNi8mg&v=1727771688",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nUYyVbOpSSt7KMST3NamWI_zTjZqmGn2o/sddefault.jpg?sqp=CLS-lbgGir7X7AMICJankrgGEAE=&rs=AOn4CLD43wmtqwsE3nj75uvhv6g_kWHDpQ&v=1728353174",
                         "width": 640,
                         "height": 640
                     },
                     "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_luk90R9D3hE57R9ZQpGHgEpg43-o1W7xc/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICKjo7rcGEAE=&rs=AOn4CLCcp5cjAeiA3_KA3psQmgZG3jeY_g&v=1727771688",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nUYyVbOpSSt7KMST3NamWI_zTjZqmGn2o/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICJankrgGEAE=&rs=AOn4CLBIqBLljuypPXUX4WrIH2XxGmQ7ew&v=1728353174",
                         "width": 1200,
                         "height": 1200
                     }
                 },
                 "channelTitle": "YouTube",
+                "defaultLanguage": "en",
                 "localized": {
-                    "title": "Album - Tiempo (Original Album)",
-                    "description": ""
+                    "title": "OPM Urban",
+                    "description": "Favorite tracks in the Filipino Hip-Hop"
                 },
                 "image": {
-                    "url": "https://lh3.googleusercontent.com/HDoO4SsNbdRC2a3qLfnGc7bGMcONI9QYknjys0H0N8bHDmY_9NwmhRR_vnfxu6xMHDm8MRtFbd9Mzvo=w544-h544-l90-rj"
+                    "url": "https://lh3.googleusercontent.com/op5PATilENzcdOeEXWqdS83DJ1IygqfXPtOdDSSdLnOAiZd0f-s42yqjnU7vLsKL_7w5Su18fTBr7BgZ=w544-h544-l90-rj"
                 },
-                "category_1": "Album",
-                "category_2": "Original",
+                "category_1": "Tracks",
+                "category_2": "Filipino",
                 "category_3": "",
                 "category_4": "",
                 "category_5": "",
@@ -52,48 +53,102 @@
                 "category_10": ""
             },
             "status": {
-                "privacyStatus": "unlisted"
+                "privacyStatus": "public"
             },
             "contentDetails": {
-                "itemCount": 14
+                "itemCount": 65
             }
         },
         {
             "kind": "youtube#playlist",
-            "etag": "uFncfAo4sTrK5I31Ha62blXwEW4",
-            "id": "OLAK5uy_mW0i__vgngnUrMI3WplNM5CDebwsZuE4Y",
+            "etag": "mW0oc1Hy18OItB02lb4o4JNY8rY",
+            "id": "RDCLAK5uy_mNI4xGDvO3hANTfAnMpgMRuFyxmhcRPoA",
             "snippet": {
-                "publishedAt": "2023-11-26T09:33:28Z",
+                "publishedAt": "1970-01-01T00:00:00Z",
                 "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Album - Chabo",
-                "description": "",
+                "title": "Feel-Good German Rap",
+                "description": "Put on some German Hip-Hop and kill the bad mood! Cover: CRO",
                 "thumbnails": {
                     "medium": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_mW0i__vgngnUrMI3WplNM5CDebwsZuE4Y/mqdefault.jpg?sqp=COD_gLgGir7X7AMICMOt-rcGEAE=&rs=AOn4CLBOJ49ExvBf6BIptTRnPu4iqhOeYg&v=1727960771",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mNI4xGDvO3hANTfAnMpgMRuFyxmhcRPoA/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICJbokbgGEAE=&rs=AOn4CLCFmT5BxEuz4WASpF0aNHAUiSnU2w&v=1728345110",
                         "width": 180,
                         "height": 180
                     },
                     "standard": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_mW0i__vgngnUrMI3WplNM5CDebwsZuE4Y/sddefault.jpg?sqp=COD_gLgGir7X7AMICMOt-rcGEAE=&rs=AOn4CLAUYMdhwWL6Nj-gklv0f4Tjn8oMiA&v=1727960771",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mNI4xGDvO3hANTfAnMpgMRuFyxmhcRPoA/sddefault.jpg?sqp=CLS-lbgGir7X7AMICJbokbgGEAE=&rs=AOn4CLCmoI7gdYS0HQ4wBel2zb2a2mqbVA&v=1728345110",
                         "width": 640,
                         "height": 640
                     },
                     "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_mW0i__vgngnUrMI3WplNM5CDebwsZuE4Y/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICMOt-rcGEAE=&rs=AOn4CLBgudKW3RMoMjn2xdDBrqelh7YyVA&v=1727960771",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mNI4xGDvO3hANTfAnMpgMRuFyxmhcRPoA/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICJbokbgGEAE=&rs=AOn4CLCexh2v0mt9CW2ZIOhT-BMVfLTovA&v=1728345110",
                         "width": 1200,
                         "height": 1200
                     }
                 },
                 "channelTitle": "YouTube",
+                "defaultLanguage": "en",
                 "localized": {
-                    "title": "Album - Chabo",
-                    "description": ""
+                    "title": "Feel-Good German Rap",
+                    "description": "Put on some German Hip-Hop and kill the bad mood! Cover: CRO"
                 },
                 "image": {
-                    "url": "https://lh3.googleusercontent.com/hao7TT2o2p6bxr6z_KYnleSyZFK10G3dvEtZZ0DH2RETOsS7-qx8FD1FoLP2OpmOYgE6lXqP2yLj2K7j=w544-h544-l90-rj"
+                    "url": "https://lh3.googleusercontent.com/KnNS5S5j6qc-LOIMESvdit7mfWIASfCnFTd3CtIuDWwMfHaA0TSjBWoSWB_sRvVn7k8vSgt33aX-RnU=w544-h544-l90-rj"
                 },
-                "category_1": "Album",
-                "category_2": "",
+                "category_1": "German",
+                "category_2": "Rap",
+                "category_3": "Mood",
+                "category_4": "Covers",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 79
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "DZSfgVYYZw4ZulH2TEDZYNRU3PM",
+            "id": "RDCLAK5uy_mJmSiXouZgK8vArHMJaZeftLWkW58z6ho",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "West Coast Rap Renaissance",
+                "description": "Check out the multi-faceted faces of West Coast rap with this playlist of today's superstar and rookie MCs.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mJmSiXouZgK8vArHMJaZeftLWkW58z6ho/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICPLdkrgGEAE=&rs=AOn4CLB4rblVZUq3W2Gu8I1wwLoQ7l9Fbg&v=1728360178",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mJmSiXouZgK8vArHMJaZeftLWkW58z6ho/sddefault.jpg?sqp=CLS-lbgGir7X7AMICPLdkrgGEAE=&rs=AOn4CLBQugdnwJUDTp_gVxl8137SB_SBkw&v=1728360178",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mJmSiXouZgK8vArHMJaZeftLWkW58z6ho/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICPLdkrgGEAE=&rs=AOn4CLD9vvYuLjYUxAAupunNm07xN-zDVQ&v=1728360178",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "West Coast Rap Renaissance",
+                    "description": "Check out the multi-faceted faces of West Coast rap with this playlist of today's superstar and rookie MCs."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/bbgo1q7djEU_I6U_jfrzoJqonF1y6HqZ4C_FNvoZxNcM2QikHCUNkivFQdEkbuFsTN6PpvbsfDvUpw=w544-h544-l90-rj"
+                },
+                "category_1": "Rap",
+                "category_2": "Playlist",
                 "category_3": "",
                 "category_4": "",
                 "category_5": "",
@@ -104,48 +159,208 @@
                 "category_10": ""
             },
             "status": {
-                "privacyStatus": "unlisted"
+                "privacyStatus": "public"
             },
             "contentDetails": {
-                "itemCount": 14
+                "itemCount": 139
             }
         },
         {
             "kind": "youtube#playlist",
-            "etag": "clY7hF_zOkRh7nrMKM4zrKPgO1I",
-            "id": "OLAK5uy_lSCBWyNTIZJcrmG8v5QWIP-c8kBFeDphE",
+            "etag": "BrAfMmpbxz95gI-PQ1I1Bonk-1Y",
+            "id": "RDCLAK5uy_kGgoKYMbZN3uiYZL0dtWaDkLrVPvrxwPg",
             "snippet": {
-                "publishedAt": "2024-09-12T19:47:23Z",
+                "publishedAt": "1970-01-01T00:00:00Z",
                 "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Album - N.A.I.F. Live Album",
-                "description": "",
+                "title": "Afro Hip Hop Hotlist",
+                "description": "Housing the hottest Hip Hop hits out of Nigeria, Africa.",
                 "thumbnails": {
                     "medium": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_lSCBWyNTIZJcrmG8v5QWIP-c8kBFeDphE/mqdefault.jpg?sqp=COD_gLgGir7X7AMICOu86bcGEAE=&rs=AOn4CLCKlxU0-LH3j1daLN-zTJxjASyXCA&v=1727684203",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kGgoKYMbZN3uiYZL0dtWaDkLrVPvrxwPg/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICMOqlbgGEAE=&rs=AOn4CLBWBqgGhrEzq1pJPW31luAYeWT5xg&v=1728402755",
                         "width": 180,
                         "height": 180
                     },
                     "standard": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_lSCBWyNTIZJcrmG8v5QWIP-c8kBFeDphE/sddefault.jpg?sqp=COD_gLgGir7X7AMICOu86bcGEAE=&rs=AOn4CLDCV9sdWWLThDghl4JVVC2DMMADwA&v=1727684203",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kGgoKYMbZN3uiYZL0dtWaDkLrVPvrxwPg/sddefault.jpg?sqp=CLS-lbgGir7X7AMICMOqlbgGEAE=&rs=AOn4CLDmFGGkfq2SyFtURFjZAbVsABv4AA&v=1728402755",
                         "width": 640,
                         "height": 640
                     },
                     "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_lSCBWyNTIZJcrmG8v5QWIP-c8kBFeDphE/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICOu86bcGEAE=&rs=AOn4CLAAAO0izYgc8T_wcZwj3Mh8HSwgiA&v=1727684203",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kGgoKYMbZN3uiYZL0dtWaDkLrVPvrxwPg/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICMOqlbgGEAE=&rs=AOn4CLCWVq9vWPqBVyCnumvtI77bmtYn5Q&v=1728402755",
                         "width": 1200,
                         "height": 1200
                     }
                 },
                 "channelTitle": "YouTube",
+                "defaultLanguage": "en",
                 "localized": {
-                    "title": "Album - N.A.I.F. Live Album",
-                    "description": ""
+                    "title": "Afro Hip Hop Hotlist",
+                    "description": "Housing the hottest Hip Hop hits out of Nigeria, Africa."
                 },
                 "image": {
-                    "url": "https://lh3.googleusercontent.com/rVfZy1qAELmMwoVwXeeMs1jYEjmqJj6qvQNVEyW-CUCNc6mZUlXjcqEUn3DqxGrwzp36mV9yVgzjiDGeKA=w544-h544-l90-rj"
+                    "url": "https://lh3.googleusercontent.com/AAT1jKFV4huZPeglagZlPFN_3bYbJAyMFaqC4G9fclqAKQh3pwjxkOI23_fmPgqC0b0FQvai1ATqvdc=w544-h544-l90-rj"
                 },
-                "category_1": "Album",
-                "category_2": "Live",
+                "category_1": "Afro",
+                "category_2": "Hottest",
+                "category_3": "Hits",
+                "category_4": "Nigeria",
+                "category_5": "Africa",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 50
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "aUV9Z2gbzw-BS_qakp940BqXpKo",
+            "id": "RDCLAK5uy_lnUHokP0KoSlL-ZliOoUWhsKfU5id-b2E",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Queens Speak",
+                "description": "The new generation of female artists reshaping rap.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lnUHokP0KoSlL-ZliOoUWhsKfU5id-b2E/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICN_JkrgGEAE=&rs=AOn4CLB2cmLuvsqoXZk0CgUUHImpPgVYiQ&v=1728357599",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lnUHokP0KoSlL-ZliOoUWhsKfU5id-b2E/sddefault.jpg?sqp=CLS-lbgGir7X7AMICN_JkrgGEAE=&rs=AOn4CLCAO9u4_YOm6Ufzip-9RzRxaFveuA&v=1728357599",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lnUHokP0KoSlL-ZliOoUWhsKfU5id-b2E/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICN_JkrgGEAE=&rs=AOn4CLAotgShtVh9E3xox6y-6yuwYrR7dg&v=1728357599",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Queens Speak",
+                    "description": "The new generation of female artists reshaping rap."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/Zg531Gs5oYtKdO1FMepbfy-_Ir1W6M6VgxNvHUDrlGSdfZNpI5CeUH98t3EEGoJHvUTeL9lga6omftg=w544-h544-l90-rj"
+                },
+                "category_1": "Queens",
+                "category_2": "New",
+                "category_3": "Artist",
+                "category_4": "Rap",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 95
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "yDNXRaNQsEr97v5W8NXyFjS4MZI",
+            "id": "RDCLAK5uy_kSBA4QYRS3z-HZyp9P8Kp1_egtDFqzaG4",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Desi Hip Hop X",
+                "description": "What happens when Desi Hip Hop collides with other genres? Check these artists mold their music through a new lens.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kSBA4QYRS3z-HZyp9P8Kp1_egtDFqzaG4/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICO2XkbgGEAE=&rs=AOn4CLDiIjXjNecfoKdAM6o-aRj4FxApRQ&v=1728334829",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kSBA4QYRS3z-HZyp9P8Kp1_egtDFqzaG4/sddefault.jpg?sqp=CLS-lbgGir7X7AMICO2XkbgGEAE=&rs=AOn4CLCgRc5VsTXFuFsZ3e9ljOYXWq5wig&v=1728334829",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kSBA4QYRS3z-HZyp9P8Kp1_egtDFqzaG4/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICO2XkbgGEAE=&rs=AOn4CLDk6PM4TKC3Jl0XlQDtYfYwzgsWdA&v=1728334829",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Desi Hip Hop X",
+                    "description": "What happens when Desi Hip Hop collides with other genres? Check these artists mold their music through a new lens."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/uvRiswpTP6nrAJ_Svp3APhvb8vbahKNnqLSw-AsyOhmR89rysf1wO0TdTcRyDsIP-liXdMeXNafDAQ0=w544-h544-l90-rj"
+                },
+                "category_1": "Artist",
+                "category_2": "Music",
+                "category_3": "New",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 89
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "dtKjdWUME5ME2cxbqZzwrxTx9L4",
+            "id": "RDCLAK5uy_n7QjhERM2Q4Ha5B6t6ZmzyhOtRYjQtxKk",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Flow Superior",
+                "description": "For the real hip-hop heads: From the vets to the emerging stars, these are today's most gifted lyricists.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n7QjhERM2Q4Ha5B6t6ZmzyhOtRYjQtxKk/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICNGzlbgGEAE=&rs=AOn4CLDQ-CZ1P2HbXtRs1y3XVvfFOL8Z4w&v=1728403921",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n7QjhERM2Q4Ha5B6t6ZmzyhOtRYjQtxKk/sddefault.jpg?sqp=CLS-lbgGir7X7AMICNGzlbgGEAE=&rs=AOn4CLArKkA1AKPiDr1wjW03MqFBLnXSsg&v=1728403921",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n7QjhERM2Q4Ha5B6t6ZmzyhOtRYjQtxKk/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICNGzlbgGEAE=&rs=AOn4CLDv9cHzSpAr-bgmqMtsBBo97HeNgA&v=1728403921",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Flow Superior",
+                    "description": "For the real hip-hop heads: From the vets to the emerging stars, these are today's most gifted lyricists."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/JpxwVHyxuex7C7NZE3OGcTFH3ZANJv8t4g35QFlgiiaaShvAQxJMMZjoY7R6zWNPJhk-d0jo_1-Lxg=w544-h544-l90-rj"
+                },
+                "category_1": "Stars",
+                "category_2": "Lyrics",
                 "category_3": "",
                 "category_4": "",
                 "category_5": "",
@@ -156,48 +371,526 @@
                 "category_10": ""
             },
             "status": {
-                "privacyStatus": "unlisted"
+                "privacyStatus": "public"
             },
             "contentDetails": {
-                "itemCount": 9
+                "itemCount": 151
             }
         },
         {
             "kind": "youtube#playlist",
-            "etag": "VgbSkkeBF5wBU-hAmTewlZSd7Ew",
-            "id": "OLAK5uy_n2cHMsjrRUA8CkcBhsxIGQidXCHdIq8Mw",
+            "etag": "zdLW_QN-b4Uv4Z4McY5xm16afLc",
+            "id": "RDCLAK5uy_ne3DJMol0EVIfwcuZnx2hQak0q6EbeBlY",
             "snippet": {
-                "publishedAt": "2024-04-12T13:04:51Z",
+                "publishedAt": "1970-01-01T00:00:00Z",
                 "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Album - Isibuko (Deluxe)",
-                "description": "",
+                "title": "Essential '90s R&B",
+                "description": "R&B defined American mainstream music throughout the '90s. Here are key tracks from R&B's most vital decade.\n#rnb #90s #essentials",
                 "thumbnails": {
                     "medium": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_n2cHMsjrRUA8CkcBhsxIGQidXCHdIq8Mw/mqdefault.jpg?sqp=COD_gLgGir7X7AMICJnE_LcGEAE=&rs=AOn4CLBS1iP3xkatBXL6ezdsCglhToCuhA&v=1727996441",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ne3DJMol0EVIfwcuZnx2hQak0q6EbeBlY/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICM-7krgGEAE=&rs=AOn4CLDyAfVAB_R81_164z-eBAklu34fgQ&v=1728355791",
                         "width": 180,
                         "height": 180
                     },
                     "standard": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_n2cHMsjrRUA8CkcBhsxIGQidXCHdIq8Mw/sddefault.jpg?sqp=COD_gLgGir7X7AMICJnE_LcGEAE=&rs=AOn4CLCw9ruZGb0TShmWxW-uLJDZjPgisw&v=1727996441",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ne3DJMol0EVIfwcuZnx2hQak0q6EbeBlY/sddefault.jpg?sqp=CLS-lbgGir7X7AMICM-7krgGEAE=&rs=AOn4CLC0W6V9fUyEUg_lgUwvwqJEtZLouA&v=1728355791",
                         "width": 640,
                         "height": 640
                     },
                     "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_n2cHMsjrRUA8CkcBhsxIGQidXCHdIq8Mw/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICJnE_LcGEAE=&rs=AOn4CLA2E4brybvnNRxC0NX9C43iujJLJw&v=1727996441",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ne3DJMol0EVIfwcuZnx2hQak0q6EbeBlY/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICM-7krgGEAE=&rs=AOn4CLAvpV_XOT0ADNLLSsUu6vV_9rERrA&v=1728355791",
                         "width": 1200,
                         "height": 1200
                     }
                 },
                 "channelTitle": "YouTube",
+                "defaultLanguage": "en",
                 "localized": {
-                    "title": "Album - Isibuko (Deluxe)",
-                    "description": ""
+                    "title": "Essential '90s R&B",
+                    "description": "R&B defined American mainstream music throughout the '90s. Here are key tracks from R&B's most vital decade.\n#rnb #90s #essentials"
                 },
                 "image": {
-                    "url": "https://lh3.googleusercontent.com/ZZBAVNGirFl1XYIZNhgU67VeTN8Uj1g5j_br0_Z2KheH3xbewgp3CrFQeNgFqanOh8kIyjo8OXvYWEeswg=w544-h544-l90-rj"
+                    "url": "https://lh3.googleusercontent.com/Beq7mpALcMGAWemarWEzm7ioSss5YH5Ha3qDa_GqolA9aVICKCTnLXcrJgUClF-ROTglrgv9dPSIxvM=w544-h544-l90-rj"
                 },
-                "category_1": "Album",
-                "category_2": "",
+                "category_1": "Essential",
+                "category_2": "American",
+                "category_3": "Mainstream",
+                "category_4": "Music",
+                "category_5": "Tracks",
+                "category_6": "RnB",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 129
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "uXWV2EKcpYllrxcK-e7GedtoHhM",
+            "id": "RDCLAK5uy_nrntHMUHoSURHHzmSLOwWf12j80nsdSao",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Hip Hop Library ('12-'22)",
+                "description": "Celebrate fifty years of hip-hop with classic tracks and landmark hits from \u201812-22.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nrntHMUHoSURHHzmSLOwWf12j80nsdSao/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICLOklbgGEAE=&rs=AOn4CLAKw31uMOLHHX54vxCXgmyPDp89LQ&v=1728401971",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nrntHMUHoSURHHzmSLOwWf12j80nsdSao/sddefault.jpg?sqp=CLS-lbgGir7X7AMICLOklbgGEAE=&rs=AOn4CLAUzBRa-l0rA6i4ANf2ArXHJ0b2lg&v=1728401971",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nrntHMUHoSURHHzmSLOwWf12j80nsdSao/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICLOklbgGEAE=&rs=AOn4CLBB8T-J3Tl5KOLTFVlIhh1CDJfCVQ&v=1728401971",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Hip Hop Library ('12-'22)",
+                    "description": "Celebrate fifty years of hip-hop with classic tracks and landmark hits from \u201812-22."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/DIMRlBD38_Rwf3vDAetP8UwIUF1cSvT0JR3PiKxQ4dnZbgot-R_8XASv9GxkuqrhUCSjFtsVCycLJw=w544-h544-l90-rj"
+                },
+                "category_1": "Classic",
+                "category_2": "Tracks",
+                "category_3": "Hits",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 53
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "nO8czVOEkvMx9qfSFocYt_hQCm0",
+            "id": "RDCLAK5uy_lXabfA5_p-tyMqBnoqkzAuz2diR8OallA",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Essential Turkish Rap",
+                "description": "The most popular Turkish Rap tracks from the last 5 years.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lXabfA5_p-tyMqBnoqkzAuz2diR8OallA/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICIinlLgGEAE=&rs=AOn4CLCIGLplVRqntVLkHJxUaXaHJCc6EQ&v=1728385928",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lXabfA5_p-tyMqBnoqkzAuz2diR8OallA/sddefault.jpg?sqp=CLS-lbgGir7X7AMICIinlLgGEAE=&rs=AOn4CLBQ90GYEU35UFYODsf3DRSUZVl9uA&v=1728385928",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lXabfA5_p-tyMqBnoqkzAuz2diR8OallA/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICIinlLgGEAE=&rs=AOn4CLC6Hid8GPUR0arGkThqBAJKqpYQhA&v=1728385928",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Essential Turkish Rap",
+                    "description": "The most popular Turkish Rap tracks from the last 5 years."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/Y7_t9STrugYXXYPaMB-G3irHF9Xgleh3MdIAEux1uVwvYkkqi99VEm5GbHlZgl61RTHCdsGiGJbUGRU=w544-h544-l90-rj"
+                },
+                "category_1": "Essential",
+                "category_2": "Turkish",
+                "category_3": "Rap",
+                "category_4": "Pop",
+                "category_5": "Tracks",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 61
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "7Y7rxwMEKzFdzovLlh8EGXo7gUg",
+            "id": "RDCLAK5uy_lW5Ba7hNPuQjGabDvy4cUZgj-FeONdfsM",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Presenting Hungria Hip Hop",
+                "description": "The most played hits and essential tracks.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lW5Ba7hNPuQjGabDvy4cUZgj-FeONdfsM/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICNLNlLgGEAE=&rs=AOn4CLAlQIXtBrSCfCH_C6NXcEAg7k2ZeA&v=1728390866",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lW5Ba7hNPuQjGabDvy4cUZgj-FeONdfsM/sddefault.jpg?sqp=CLS-lbgGir7X7AMICNLNlLgGEAE=&rs=AOn4CLAB9ceqk-0B9fOvKZnc-raej-L02w&v=1728390866",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lW5Ba7hNPuQjGabDvy4cUZgj-FeONdfsM/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICNLNlLgGEAE=&rs=AOn4CLCiEtmdDqi1hpFadSpe0RR1pUEUzQ&v=1728390866",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Presenting Hungria Hip Hop",
+                    "description": "The most played hits and essential tracks."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/OTY_HPcDfUULPiqDewk_g4iseAkvr9hkFxZyyC0g-Fl_g96ofFUEYNEJHWKpgQJpqa6pG9zAtp_i2Rk=w544-h544-l90-rj"
+                },
+                "category_1": "Hits",
+                "category_2": "Essential",
+                "category_3": "Tracks",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 35
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "W9JI6lqxPpvYlUkVMNrp-1rnuuk",
+            "id": "RDCLAK5uy_mkEwQuegHYB8_aAzBO8Q__6gGoaFblISw",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Feel-Good Hip Hop and R&B",
+                "description": "Have the best day ever with these feel-good hip hop and R&B jams. #rnb #hiphop #happy",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mkEwQuegHYB8_aAzBO8Q__6gGoaFblISw/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICODUlLgGEAE=&rs=AOn4CLAW4T6Ppc8EQ0eWzOCcecVHvdPiww&v=1728391776",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mkEwQuegHYB8_aAzBO8Q__6gGoaFblISw/sddefault.jpg?sqp=CLS-lbgGir7X7AMICODUlLgGEAE=&rs=AOn4CLAa6B-TZRQod88PDRE4RGdNGLT7VQ&v=1728391776",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mkEwQuegHYB8_aAzBO8Q__6gGoaFblISw/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICODUlLgGEAE=&rs=AOn4CLCs5nHZ5vTFU33sgHO_KbF-MJC_lw&v=1728391776",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Feel-Good Hip Hop and R&B",
+                    "description": "Have the best day ever with these feel-good hip hop and R&B jams. #rnb #hiphop #happy"
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/sxfcEW5vxt2XlnGJUwPwjDGlGkv1ehE3jJVM1HGTdcXcpQj3TD7ihirLESD5E1ga-Z9GQIdZSbvuxenl=w544-h544-l90-rj"
+                },
+                "category_1": "Best",
+                "category_2": "Jams",
+                "category_3": "RnB",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 165
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "1RosyMMwLJlWmbZMXz_Wg5kbzXY",
+            "id": "RDCLAK5uy_nrMVBKHLSuEn3y7wPb1H3fRSV8S0MMazA",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Country Rap",
+                "description": "Hear southern rhymes new and old with this marriage of Country and Hip Hop. #country #rap #beats",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nrMVBKHLSuEn3y7wPb1H3fRSV8S0MMazA/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICLaElLgGEAE=&rs=AOn4CLCj6pXzHiMxNccqhIy48GZ_FIWFfA&v=1728381494",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nrMVBKHLSuEn3y7wPb1H3fRSV8S0MMazA/sddefault.jpg?sqp=CLS-lbgGir7X7AMICLaElLgGEAE=&rs=AOn4CLAdD4nW_qNfni8l5VxmCMG4ABxKRg&v=1728381494",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nrMVBKHLSuEn3y7wPb1H3fRSV8S0MMazA/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICLaElLgGEAE=&rs=AOn4CLA4QQz_xa7lZ1Q3YphZB0SeTDP63Q&v=1728381494",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Country Rap",
+                    "description": "Hear southern rhymes new and old with this marriage of Country and Hip Hop. #country #rap #beats"
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/ZRbhIU4zzlSoe27b_4iEp0m-iuinVdJCBHGCEVLvgAgoJzqUlC7u1eqhX1S0Hh-BdjfrP_IepP1MXj8=w544-h544-l90-rj"
+                },
+                "category_1": "Country",
+                "category_2": "Rap",
+                "category_3": "Southern",
+                "category_4": "Rhymes",
+                "category_5": "New",
+                "category_6": "Beats",
+                "category_7": "Beat",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 110
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "mWHLfPDmh6oeZpm7R5BIqCaQIP4",
+            "id": "RDCLAK5uy_mBaPfGKJ4A4o0Y1cNfLM4eCt4wvzmwqiE",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "German Rap Elite",
+                "description": "The best german rap of recent years. Cover: Bonez MC",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mBaPfGKJ4A4o0Y1cNfLM4eCt4wvzmwqiE/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICPLak7gGEAE=&rs=AOn4CLDJCKQnRB-8NlaS5WOfvZJ_h8biWQ&v=1728376178",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mBaPfGKJ4A4o0Y1cNfLM4eCt4wvzmwqiE/sddefault.jpg?sqp=CLS-lbgGir7X7AMICPLak7gGEAE=&rs=AOn4CLAinOwuM5rn6bNfuuWwh14V_bFvWw&v=1728376178",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mBaPfGKJ4A4o0Y1cNfLM4eCt4wvzmwqiE/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICPLak7gGEAE=&rs=AOn4CLCznQnWNkyPFsmpU_RcMiTDMWtDUw&v=1728376178",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "German Rap Elite",
+                    "description": "The best german rap of recent years. Cover: Bonez MC"
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/5M-m2dJ4907ic2CWptZwNxuT4LyGmzBHn58izHtxWVCNrRlBYtfYO-MMWiMry2HknrDUUPicuwD8mAw=w544-h544-l90-rj"
+                },
+                "category_1": "German",
+                "category_2": "Rap",
+                "category_3": "Best",
+                "category_4": "Covers",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 51
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "-jVDwktteAzZmiBVRxhnPs2GPmA",
+            "id": "RDCLAK5uy_kaBTIn7SlHfzvu4nCvUZemSzFpBpfZGfw",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Trip Hop Instrumentals",
+                "description": "We dug deep into the crates to give you the ultimate instrumental trip-hop mix. No vocals, no samples, no distractions.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kaBTIn7SlHfzvu4nCvUZemSzFpBpfZGfw/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICO__krgGEAE=&rs=AOn4CLC9ztQzPmlj8lthCYMdH-PH_3N2OQ&v=1728364527",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kaBTIn7SlHfzvu4nCvUZemSzFpBpfZGfw/sddefault.jpg?sqp=CLS-lbgGir7X7AMICO__krgGEAE=&rs=AOn4CLCzHhWpeihyiU3Aybd3SFHwVTlmVw&v=1728364527",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kaBTIn7SlHfzvu4nCvUZemSzFpBpfZGfw/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICO__krgGEAE=&rs=AOn4CLBW6g4AtVagNx4rM87X6-U1bZTbVw&v=1728364527",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Trip Hop Instrumentals",
+                    "description": "We dug deep into the crates to give you the ultimate instrumental trip-hop mix. No vocals, no samples, no distractions."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/lTld2VnzA4YNZ-fePABSiNT9hbz4vj91nqk-9sn5fOQQ5m5eCrQ1-6HnXC0aFeAp02CIeo2z5m-aoQ=w544-h544-l90-rj"
+                },
+                "category_1": "Instrumentals",
+                "category_2": "Deep",
+                "category_3": "Mix",
+                "category_4": "Vocal",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 50
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "IskSsTRcmf2B5ZR8LTlvuOlxja4",
+            "id": "RDCLAK5uy_kL5Yv8hjIfJpJYjkhb1IkFH28NJ0e81HA",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Hip Hop Hits 2021",
+                "description": "Experience the sound of 2021 with this collection of some of the biggest hip hop hits of the year.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kL5Yv8hjIfJpJYjkhb1IkFH28NJ0e81HA/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICM6hkbgGEAE=&rs=AOn4CLCmMosPdLmfZywktT0L2ZmnY5Wnaw&v=1728336078",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kL5Yv8hjIfJpJYjkhb1IkFH28NJ0e81HA/sddefault.jpg?sqp=CLS-lbgGir7X7AMICM6hkbgGEAE=&rs=AOn4CLAuGHERf45vZe07AmyDwmIg-AnjYg&v=1728336078",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kL5Yv8hjIfJpJYjkhb1IkFH28NJ0e81HA/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICM6hkbgGEAE=&rs=AOn4CLALAKWVr3q0r0Vs6W5-BqBnB32r8Q&v=1728336078",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Hip Hop Hits 2021",
+                    "description": "Experience the sound of 2021 with this collection of some of the biggest hip hop hits of the year."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/YtjKnd8XY70EolctOfjqJH3Kmw6dDLVJ4J7SzdnpCBoDS4q5lbP8uKa6nNfDRDUO_v_J9OfpCc2-Qx8=w544-h544-l90-rj"
+                },
+                "category_1": "Hits",
+                "category_2": "Sound",
+                "category_3": "Collection",
+                "category_4": "Biggest",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 50
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "Mf-OGvon5gZ1IK0r6PYBqqeL6w4",
+            "id": "RDCLAK5uy_lvUeByxLQXnaTEVOLg-uWJTKe0Kx50z4E",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Bring Da Ruckus",
+                "description": "Take a sonic trip down memory lane with this non-stop playlist of Big Apple hip-hop pride.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lvUeByxLQXnaTEVOLg-uWJTKe0Kx50z4E/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICPfqkbgGEAE=&rs=AOn4CLBZMMIffWLob2hBpX2IIZAy1fd8jg&v=1728345463",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lvUeByxLQXnaTEVOLg-uWJTKe0Kx50z4E/sddefault.jpg?sqp=CLS-lbgGir7X7AMICPfqkbgGEAE=&rs=AOn4CLAqI1VUkGBAWD9Xh8qjIVHyEHclcQ&v=1728345463",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lvUeByxLQXnaTEVOLg-uWJTKe0Kx50z4E/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICPfqkbgGEAE=&rs=AOn4CLDuwyecA31Ymst9XlDMIf_OTi6bVQ&v=1728345463",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Bring Da Ruckus",
+                    "description": "Take a sonic trip down memory lane with this non-stop playlist of Big Apple hip-hop pride."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/pqvC8UfSA8A7xXGL03PerESk8N-6TuULLvjlZ3MMh5-FKDl1bePv4-FcCc-TWS-GRwq-ebvUyiZSIhA=w544-h544-l90-rj"
+                },
+                "category_1": "Top",
+                "category_2": "Playlist",
                 "category_3": "",
                 "category_4": "",
                 "category_5": "",
@@ -208,48 +901,208 @@
                 "category_10": ""
             },
             "status": {
-                "privacyStatus": "unlisted"
+                "privacyStatus": "public"
             },
             "contentDetails": {
-                "itemCount": 22
+                "itemCount": 139
             }
         },
         {
             "kind": "youtube#playlist",
-            "etag": "f8DgH7XG90a1r0nAI9i9SwCqRnM",
-            "id": "OLAK5uy_nAn-wKh2bwSqEkRHXMnktFr6_vre7WlfQ",
+            "etag": "5mBZM7TVmQsp_zD9fAFbeFBsznE",
+            "id": "RDCLAK5uy_mOvRWCE7v4C98UgkSVh5FTlD3osGjolas",
             "snippet": {
-                "publishedAt": "2023-08-09T16:50:41Z",
+                "publishedAt": "1970-01-01T00:00:00Z",
                 "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Album - Amukelani",
-                "description": "",
+                "title": "EKDUM",
+                "description": "Your one-stop shop for India's biggest Desi hip hop hits. #hiphop #rap #hits",
                 "thumbnails": {
                     "medium": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_nAn-wKh2bwSqEkRHXMnktFr6_vre7WlfQ/mqdefault.jpg?sqp=COD_gLgGir7X7AMICMSw-LcGEAE=&rs=AOn4CLDtJiUahp1T8H8GHQlu5iMuTyLZng&v=1727928388",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mOvRWCE7v4C98UgkSVh5FTlD3osGjolas/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICPK6k7gGEAE=&rs=AOn4CLDwu89v3dO5Dh7FxbJ-5R38asRGPw&v=1728372082",
                         "width": 180,
                         "height": 180
                     },
                     "standard": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_nAn-wKh2bwSqEkRHXMnktFr6_vre7WlfQ/sddefault.jpg?sqp=COD_gLgGir7X7AMICMSw-LcGEAE=&rs=AOn4CLCFsBw5FMWusLHW6g8NhWQ1Sq682A&v=1727928388",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mOvRWCE7v4C98UgkSVh5FTlD3osGjolas/sddefault.jpg?sqp=CLS-lbgGir7X7AMICPK6k7gGEAE=&rs=AOn4CLAh3vU20a6FXpjpEaFKEkco2y-t9g&v=1728372082",
                         "width": 640,
                         "height": 640
                     },
                     "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_nAn-wKh2bwSqEkRHXMnktFr6_vre7WlfQ/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICMSw-LcGEAE=&rs=AOn4CLDJoHkmoTLKfg5PU7Ew6vi1rm_4xg&v=1727928388",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mOvRWCE7v4C98UgkSVh5FTlD3osGjolas/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICPK6k7gGEAE=&rs=AOn4CLBSVUc5TbkOzk1F9_2quVhKUeGf0w&v=1728372082",
                         "width": 1200,
                         "height": 1200
                     }
                 },
                 "channelTitle": "YouTube",
+                "defaultLanguage": "en",
                 "localized": {
-                    "title": "Album - Amukelani",
-                    "description": ""
+                    "title": "EKDUM",
+                    "description": "Your one-stop shop for India's biggest Desi hip hop hits. #hiphop #rap #hits"
                 },
                 "image": {
-                    "url": "https://lh3.googleusercontent.com/jrrK4zknDY4vQCYth-mzeaJ4DPdV7EIzCiJTSvN66N-EijxXQ1794plU_YEVt9BW91qEe5ag-S0QYWyc=w544-h544-l90-rj"
+                    "url": "https://lh3.googleusercontent.com/ToqF9s0zOCFiCbrVUKzYLbbdssibsINxQ7QJQys7WOFLeDTEabLxIvnaYa0CNC4uJ6ynZXzQ4CU1eA=w544-h544-l90-rj"
                 },
-                "category_1": "Album",
-                "category_2": "",
+                "category_1": "Top",
+                "category_2": "Biggest",
+                "category_3": "Hits",
+                "category_4": "Rap",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 60
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "gnAYekKD-njsWC0Y6ICz3epjsz4",
+            "id": "RDCLAK5uy_nhJ_iS9KWleMpultxuv6VayYPBDEPL9iU",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Left-Field Hip Hop",
+                "description": "From Tyler, The Creator to A Tribe Called Quest, these alternative rap songs march to the beat of their own drum",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nhJ_iS9KWleMpultxuv6VayYPBDEPL9iU/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICJablLgGEAE=&rs=AOn4CLB6OnaGQRzgZGiKi36jT4F3nH00Jw&v=1728384406",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nhJ_iS9KWleMpultxuv6VayYPBDEPL9iU/sddefault.jpg?sqp=CLS-lbgGir7X7AMICJablLgGEAE=&rs=AOn4CLAxbO-j4mPNWPhibDCOjJ1Fip2Yfg&v=1728384406",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nhJ_iS9KWleMpultxuv6VayYPBDEPL9iU/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICJablLgGEAE=&rs=AOn4CLDaSVQqv-ZeL2Fv67EAjXEwKJPT6g&v=1728384406",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Left-Field Hip Hop",
+                    "description": "From Tyler, The Creator to A Tribe Called Quest, these alternative rap songs march to the beat of their own drum"
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/WgYWFKRq6A3OeR0H0_vkcrX0XArRM8QKLK_5HqHVYBNZ-8f1LV5Og13K0UaI3bIPiucPrdSxVtzNZfA=w544-h544-l90-rj"
+                },
+                "category_1": "Alternative",
+                "category_2": "Rap",
+                "category_3": "Songs",
+                "category_4": "Beat",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 60
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "x1bBuEJsc_l8t0RVKkmn3Y552aI",
+            "id": "RDCLAK5uy_mblD2aesRRR789N1DUxbiXPiL7KdUP7lA",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Egyptian Rap Workout",
+                "description": "Fire bars from Egypt's elite rappers to get you pumping that iron.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mblD2aesRRR789N1DUxbiXPiL7KdUP7lA/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICNOfk7gGEAE=&rs=AOn4CLAmvVdh-J7ye12tvnyLH_XGgPdCBQ&v=1728368595",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mblD2aesRRR789N1DUxbiXPiL7KdUP7lA/sddefault.jpg?sqp=CLS-lbgGir7X7AMICNOfk7gGEAE=&rs=AOn4CLAVzNF16CelEe0ovCdIaim1W2b1fA&v=1728368595",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mblD2aesRRR789N1DUxbiXPiL7KdUP7lA/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICNOfk7gGEAE=&rs=AOn4CLATAVPLITSIgEaw2Jv6fIzi6OKToQ&v=1728368595",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Egyptian Rap Workout",
+                    "description": "Fire bars from Egypt's elite rappers to get you pumping that iron."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/o7PIxjks0F_SQYRxmXpG2wxoha7Q7x2Gox_desJZFvByOe1yHadxqJQWLMMvLUyNUMW3b5dEzFctTA=w544-h544-l90-rj"
+                },
+                "category_1": "Rap",
+                "category_2": "Workout",
+                "category_3": "Rappers",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 75
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "25ppL4wVozU9r4_S5Wf-goX6ddE",
+            "id": "RDCLAK5uy_nOraQS0DsAIt0F62Go-ztE9P4ssuIiL8c",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Energy Boost Mandopop Hip-Hop",
+                "description": "Boost your energy with Mandopop Hip-Hop",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nOraQS0DsAIt0F62Go-ztE9P4ssuIiL8c/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICP-ZlbgGEAE=&rs=AOn4CLCwh9ElVlOgzKYMbYSG8FQ5XiZZRg&v=1728400639",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nOraQS0DsAIt0F62Go-ztE9P4ssuIiL8c/sddefault.jpg?sqp=CLS-lbgGir7X7AMICP-ZlbgGEAE=&rs=AOn4CLDPKC4osDDHKzsi2ZYdocHrxP5BkA&v=1728400639",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nOraQS0DsAIt0F62Go-ztE9P4ssuIiL8c/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICP-ZlbgGEAE=&rs=AOn4CLCJvmA4RWTlcn0E87Z5YmgGgsB8rA&v=1728400639",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Energy Boost Mandopop Hip-Hop",
+                    "description": "Boost your energy with Mandopop Hip-Hop"
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/Vyut1lHgEEfRrKVbfm2TUu6s1HXKH1IDkcg5J8U51VS5yenBbx-BZWMCD1-r607UZYn-GnJiUh-QW2c=w544-h544-l90-rj"
+                },
+                "category_1": "Energy",
+                "category_2": "Pop",
                 "category_3": "",
                 "category_4": "",
                 "category_5": "",
@@ -260,51 +1113,52 @@
                 "category_10": ""
             },
             "status": {
-                "privacyStatus": "unlisted"
+                "privacyStatus": "public"
             },
             "contentDetails": {
-                "itemCount": 26
+                "itemCount": 50
             }
         },
         {
             "kind": "youtube#playlist",
-            "etag": "JxNVJncH4MuHmrNXQeyd11sMapQ",
-            "id": "OLAK5uy_nXHfUFSC-9-n6_n5ILYLrx1jB4rfkHTxc",
+            "etag": "rRCCU9GORUOkVkBlLdwaHMCp8Ew",
+            "id": "RDCLAK5uy_mlZxK41b9W2tgD4_TnQ9yVjHp6JcQcYaQ",
             "snippet": {
-                "publishedAt": "2024-09-11T14:16:56Z",
+                "publishedAt": "1970-01-01T00:00:00Z",
                 "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Album - COLOURS",
-                "description": "",
+                "title": "Revoluci\u00f3n Rap",
+                "description": "The best rhythms and flows from the Latin Rap & Hip-Hop scene.",
                 "thumbnails": {
                     "medium": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_nXHfUFSC-9-n6_n5ILYLrx1jB4rfkHTxc/mqdefault.jpg?sqp=COD_gLgGir7X7AMICNva9LcGEAE=&rs=AOn4CLD1eweWITfADA0a2qVNEWRKNqjjAg&v=1727868251",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mlZxK41b9W2tgD4_TnQ9yVjHp6JcQcYaQ/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICOjqkbgGEAE=&rs=AOn4CLA5QjyCEfRoT5VcN2Tbe4Pn-D4IlQ&v=1728345448",
                         "width": 180,
                         "height": 180
                     },
                     "standard": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_nXHfUFSC-9-n6_n5ILYLrx1jB4rfkHTxc/sddefault.jpg?sqp=COD_gLgGir7X7AMICNva9LcGEAE=&rs=AOn4CLAkvIO2tR57CcxiiaxOhs9qfksgxw&v=1727868251",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mlZxK41b9W2tgD4_TnQ9yVjHp6JcQcYaQ/sddefault.jpg?sqp=CLS-lbgGir7X7AMICOjqkbgGEAE=&rs=AOn4CLAlRlIDej-mbeSEcHHKx6PYo_Gx9Q&v=1728345448",
                         "width": 640,
                         "height": 640
                     },
                     "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_nXHfUFSC-9-n6_n5ILYLrx1jB4rfkHTxc/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICNva9LcGEAE=&rs=AOn4CLA2PIutAjUpVPY4lVTNyXVIjyYCiA&v=1727868251",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mlZxK41b9W2tgD4_TnQ9yVjHp6JcQcYaQ/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICOjqkbgGEAE=&rs=AOn4CLDa3oPhxW_3MVhnEbsMvtsOrbrpCA&v=1728345448",
                         "width": 1200,
                         "height": 1200
                     }
                 },
                 "channelTitle": "YouTube",
+                "defaultLanguage": "en",
                 "localized": {
-                    "title": "Album - COLOURS",
-                    "description": ""
+                    "title": "Revoluci\u00f3n Rap",
+                    "description": "The best rhythms and flows from the Latin Rap & Hip-Hop scene."
                 },
                 "image": {
-                    "url": "https://lh3.googleusercontent.com/qo8sKRlLSluZMPYYGoYFEo8kn6R5tPrKkTeJ-j468Iu0FDBUMVGfYezHwD7UYZmxj8x-95gPiP1z95tJew=w544-h544-l90-rj"
+                    "url": "https://lh3.googleusercontent.com/LMArFlJ657cuPkvM8zvOuL0eJunmIfwVZUqmvSy3WZmdnPIV8mhGewss1BGvkfX0eYq2qxXQteLjRp8=w544-h544-l90-rj"
                 },
-                "category_1": "Album",
-                "category_2": "",
-                "category_3": "",
-                "category_4": "",
-                "category_5": "",
+                "category_1": "Rap",
+                "category_2": "Best",
+                "category_3": "Rhythms",
+                "category_4": "Rhythm",
+                "category_5": "Latin",
                 "category_6": "",
                 "category_7": "",
                 "category_8": "",
@@ -312,620 +1166,155 @@
                 "category_10": ""
             },
             "status": {
-                "privacyStatus": "unlisted"
+                "privacyStatus": "public"
             },
             "contentDetails": {
-                "itemCount": 14
+                "itemCount": 73
             }
         },
         {
             "kind": "youtube#playlist",
-            "etag": "FKhyFXAZBepnOTufUDIdnvrj6uM",
-            "id": "OLAK5uy_mqhvscx9mUZj3uBrpcFWFBtMDqPaPDk90",
+            "etag": "otiHxCOmV7spbiB3drEtfaijEBk",
+            "id": "RDCLAK5uy_kALCBm3tpg2jxGslk0EAtH6iujrEupNEc",
             "snippet": {
-                "publishedAt": "2024-01-25T16:16:33Z",
+                "publishedAt": "1970-01-01T00:00:00Z",
                 "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Album - Kurhula",
-                "description": "",
+                "title": "German Rap Party",
+                "description": "Your party needs massive beats, tight lyrics and a hook you won't forget? Here you go. Cover: RAF Camora",
                 "thumbnails": {
                     "medium": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_mqhvscx9mUZj3uBrpcFWFBtMDqPaPDk90/mqdefault.jpg?sqp=COD_gLgGir7X7AMICI6g8rcGEAE=&rs=AOn4CLBot0kP4NfJ_zcrGPTITfZsFCmXmQ&v=1727827982",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kALCBm3tpg2jxGslk0EAtH6iujrEupNEc/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICOO5lLgGEAE=&rs=AOn4CLCokB6Kiyq4WZ3_xi4pagvLIuGJ2g&v=1728388323",
                         "width": 180,
                         "height": 180
                     },
                     "standard": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_mqhvscx9mUZj3uBrpcFWFBtMDqPaPDk90/sddefault.jpg?sqp=COD_gLgGir7X7AMICI6g8rcGEAE=&rs=AOn4CLBl-yh2vW0bnV6GiPcNJutURJ4T_A&v=1727827982",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kALCBm3tpg2jxGslk0EAtH6iujrEupNEc/sddefault.jpg?sqp=CLS-lbgGir7X7AMICOO5lLgGEAE=&rs=AOn4CLCI08U8L38k8Wj80iQFeSSFsWaw9w&v=1728388323",
                         "width": 640,
                         "height": 640
                     },
                     "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_mqhvscx9mUZj3uBrpcFWFBtMDqPaPDk90/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICI6g8rcGEAE=&rs=AOn4CLD10DE_BPFGXpM3RKibqFXyO3812A&v=1727827982",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kALCBm3tpg2jxGslk0EAtH6iujrEupNEc/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICOO5lLgGEAE=&rs=AOn4CLCYg17S5VEtJ301NYNmkwrdhX3qfg&v=1728388323",
                         "width": 1200,
                         "height": 1200
                     }
                 },
                 "channelTitle": "YouTube",
+                "defaultLanguage": "en",
                 "localized": {
-                    "title": "Album - Kurhula",
-                    "description": ""
+                    "title": "German Rap Party",
+                    "description": "Your party needs massive beats, tight lyrics and a hook you won't forget? Here you go. Cover: RAF Camora"
                 },
                 "image": {
-                    "url": "https://lh3.googleusercontent.com/jstO2utDosZXEmfZC9SWc4MbQCNyICFghrnzcADyLKCFA2OSo-RTXwGkNcr4JjBtmROLwj2S-BwjcvKV=w544-h544-l90-rj"
+                    "url": "https://lh3.googleusercontent.com/pKbpbbt2xuC-oRr5cKwC8TZ_fp48yTXCbM6qFhKEsJJ4pEw-Qsmeu3xRGkcaPTbIW_8g0ulHf-W3n2A=w544-h544-l90-rj"
                 },
-                "category_1": "Album",
-                "category_2": "",
-                "category_3": "",
-                "category_4": "",
-                "category_5": "",
-                "category_6": "",
-                "category_7": "",
+                "category_1": "German",
+                "category_2": "Rap",
+                "category_3": "Party",
+                "category_4": "Beats",
+                "category_5": "Beat",
+                "category_6": "Lyrics",
+                "category_7": "Covers",
                 "category_8": "",
                 "category_9": "",
                 "category_10": ""
             },
             "status": {
-                "privacyStatus": "unlisted"
+                "privacyStatus": "public"
             },
             "contentDetails": {
-                "itemCount": 27
+                "itemCount": 62
             }
         },
         {
             "kind": "youtube#playlist",
-            "etag": "xKzY8ihmeNfWKTiD_K-HV4WyLB8",
-            "id": "OLAK5uy_mMwPBtecNoxJ3O8pXYfuoyh6RajoKpGJQ",
+            "etag": "pXAEzjAM9qbODxJ362dFmqgEzFY",
+            "id": "RDCLAK5uy_mLZI96gbpD5NB5uDygrSrcxuM400KQAII",
             "snippet": {
-                "publishedAt": "2024-09-12T23:42:05Z",
+                "publishedAt": "1970-01-01T00:00:00Z",
                 "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Album - Dream Chaser Album",
-                "description": "",
+                "title": "Top SA Hip Hop 2020",
+                "description": "The most played South African Hip Hop songs of the year.",
                 "thumbnails": {
                     "medium": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_mMwPBtecNoxJ3O8pXYfuoyh6RajoKpGJQ/mqdefault.jpg?sqp=COD_gLgGir7X7AMICIvH5LcGEAE=&rs=AOn4CLAYcC-USkzCgRRO5wlRtCrNKO-vMw&v=1727603595",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mLZI96gbpD5NB5uDygrSrcxuM400KQAII/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICN6OkrgGEAE=&rs=AOn4CLCp19wld8ZPJNYZVnieiUH1rV9jWg&v=1728350046",
                         "width": 180,
                         "height": 180
                     },
                     "standard": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_mMwPBtecNoxJ3O8pXYfuoyh6RajoKpGJQ/sddefault.jpg?sqp=COD_gLgGir7X7AMICIvH5LcGEAE=&rs=AOn4CLAA2-sTEr7UmD4dMeDQzOzNFW78fQ&v=1727603595",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mLZI96gbpD5NB5uDygrSrcxuM400KQAII/sddefault.jpg?sqp=CLS-lbgGir7X7AMICN6OkrgGEAE=&rs=AOn4CLCAustXLlU6nhW0T32lWWFk99kcaA&v=1728350046",
                         "width": 640,
                         "height": 640
                     },
                     "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_mMwPBtecNoxJ3O8pXYfuoyh6RajoKpGJQ/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICIvH5LcGEAE=&rs=AOn4CLBgtUInu3WwNTYpEPojZ7JSoFDhDg&v=1727603595",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mLZI96gbpD5NB5uDygrSrcxuM400KQAII/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICN6OkrgGEAE=&rs=AOn4CLDndSCiM05t6dhn4ciUUuyBsqV2JA&v=1728350046",
                         "width": 1200,
                         "height": 1200
                     }
                 },
                 "channelTitle": "YouTube",
+                "defaultLanguage": "en",
                 "localized": {
-                    "title": "Album - Dream Chaser Album",
-                    "description": ""
+                    "title": "Top SA Hip Hop 2020",
+                    "description": "The most played South African Hip Hop songs of the year."
                 },
                 "image": {
-                    "url": "https://lh3.googleusercontent.com/uYzUjZl3K3V6Ql_VyvaVuA8_HckMm8Vobj0hAkJITycBdLsY9W0gGECP1DIHdz5AO7C6Ox14kZ886pO4=w544-h544-l90-rj"
+                    "url": "https://lh3.googleusercontent.com/jE4vegTPJCRjgIVJSXN-iPP76B5q8qSU9KYni1L953YdTJB0LlnCrhY2LGQ9YBlJ2mnNQmlFiBkZOsY=w544-h544-l90-rj"
                 },
-                "category_1": "Album",
-                "category_2": "",
-                "category_3": "",
-                "category_4": "",
-                "category_5": "",
-                "category_6": "",
-                "category_7": "",
-                "category_8": "",
-                "category_9": "",
-                "category_10": ""
-            },
-            "status": {
-                "privacyStatus": "unlisted"
-            },
-            "contentDetails": {
-                "itemCount": 10
-            }
-        },
-        {
-            "kind": "youtube#playlist",
-            "etag": "Zb-idI7-DFAuBHaCs108vCfi-lg",
-            "id": "OLAK5uy_mgplOTkCF-KD2BHaarBAh5XMZiHavk2x0",
-            "snippet": {
-                "publishedAt": "2024-09-20T14:40:43Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Album - NO ALBUM",
-                "description": "",
-                "thumbnails": {
-                    "medium": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_mgplOTkCF-KD2BHaarBAh5XMZiHavk2x0/mqdefault.jpg?sqp=COD_gLgGir7X7AMICI2J4bcGEAE=&rs=AOn4CLBLmWXNuiFA5hK7lGxwRd33dv0FTw&v=1727546509",
-                        "width": 180,
-                        "height": 180
-                    },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_mgplOTkCF-KD2BHaarBAh5XMZiHavk2x0/sddefault.jpg?sqp=COD_gLgGir7X7AMICI2J4bcGEAE=&rs=AOn4CLCsnRkEhlTwx3xsO8V_RldHT27e8g&v=1727546509",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_mgplOTkCF-KD2BHaarBAh5XMZiHavk2x0/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICI2J4bcGEAE=&rs=AOn4CLC6gG8_fyFkfrdIK8WFECq6HH1RiQ&v=1727546509",
-                        "width": 1200,
-                        "height": 1200
-                    }
-                },
-                "channelTitle": "YouTube",
-                "localized": {
-                    "title": "Album - NO ALBUM",
-                    "description": ""
-                },
-                "image": {
-                    "url": "https://lh3.googleusercontent.com/GPboMafRjD54_ewdwopW7lMsOAOqXcG3SDI9cY910AYiB9SQTxAmcxieCWUJjj6CpCR2Y1NY5Rj9v_j6=w544-h544-l90-rj"
-                },
-                "category_1": "Album",
-                "category_2": "",
-                "category_3": "",
-                "category_4": "",
-                "category_5": "",
-                "category_6": "",
-                "category_7": "",
-                "category_8": "",
-                "category_9": "",
-                "category_10": ""
-            },
-            "status": {
-                "privacyStatus": "unlisted"
-            },
-            "contentDetails": {
-                "itemCount": 5
-            }
-        },
-        {
-            "kind": "youtube#playlist",
-            "etag": "yR4hDjGE-Kpy2fq4qfMlF9-lRBU",
-            "id": "OLAK5uy_mwBkuyHZe0nUpHeosTMcDb9ES7F75ZiZI",
-            "snippet": {
-                "publishedAt": "2022-06-13T17:40:36Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Album - Umqhele",
-                "description": "",
-                "thumbnails": {
-                    "medium": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_mwBkuyHZe0nUpHeosTMcDb9ES7F75ZiZI/mqdefault.jpg?sqp=COD_gLgGir7X7AMICLTx6bcGEAE=&rs=AOn4CLAMOpw7JOPpHaI-EcVeBphgKZ6SAg&v=1727690932",
-                        "width": 180,
-                        "height": 180
-                    },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_mwBkuyHZe0nUpHeosTMcDb9ES7F75ZiZI/sddefault.jpg?sqp=COD_gLgGir7X7AMICLTx6bcGEAE=&rs=AOn4CLBsK0UxT2wWnE6udA_O1k60tMEM_g&v=1727690932",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_mwBkuyHZe0nUpHeosTMcDb9ES7F75ZiZI/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICLTx6bcGEAE=&rs=AOn4CLDIXIjGWDkZTUCDpAro1F4ORrIR3Q&v=1727690932",
-                        "width": 1200,
-                        "height": 1200
-                    }
-                },
-                "channelTitle": "YouTube",
-                "localized": {
-                    "title": "Album - Umqhele",
-                    "description": ""
-                },
-                "image": {
-                    "url": "https://lh3.googleusercontent.com/wCot2b5iqToPJkVTLfepRF1e8hlcUDiwf_VlRgH6H3393TtPbhaNzr8-Z3HoklOAGGKoaopZ8m2RSTOt=w544-h544-l90-rj"
-                },
-                "category_1": "Album",
-                "category_2": "",
-                "category_3": "",
-                "category_4": "",
-                "category_5": "",
-                "category_6": "",
-                "category_7": "",
-                "category_8": "",
-                "category_9": "",
-                "category_10": ""
-            },
-            "status": {
-                "privacyStatus": "unlisted"
-            },
-            "contentDetails": {
-                "itemCount": 18
-            }
-        },
-        {
-            "kind": "youtube#playlist",
-            "etag": "mpLv8MfwYAujSt-ePMpZLFX-Ujs",
-            "id": "OLAK5uy_moAdBH6dLZTwtURPZP8IIrr4v_3sSWXH8",
-            "snippet": {
-                "publishedAt": "2024-02-23T01:41:08Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Album - Isibuko",
-                "description": "",
-                "thumbnails": {
-                    "medium": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_moAdBH6dLZTwtURPZP8IIrr4v_3sSWXH8/mqdefault.jpg?sqp=COD_gLgGir7X7AMICMmp6rcGEAE=&rs=AOn4CLDNkCJqaEjZ90W3KGhOF8lTWI0GtA&v=1727698121",
-                        "width": 180,
-                        "height": 180
-                    },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_moAdBH6dLZTwtURPZP8IIrr4v_3sSWXH8/sddefault.jpg?sqp=COD_gLgGir7X7AMICMmp6rcGEAE=&rs=AOn4CLD4U1hdYkwkK2NFb6LT7qC3HAEQ0Q&v=1727698121",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_moAdBH6dLZTwtURPZP8IIrr4v_3sSWXH8/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICMmp6rcGEAE=&rs=AOn4CLDzMVhu5qvrQ_W3LDP_UiXadxTI9g&v=1727698121",
-                        "width": 1200,
-                        "height": 1200
-                    }
-                },
-                "channelTitle": "YouTube",
-                "localized": {
-                    "title": "Album - Isibuko",
-                    "description": ""
-                },
-                "image": {
-                    "url": "https://lh3.googleusercontent.com/6aXT782wsAWStVX-pDjKfcgLJfbetoXDuUMxkKtPEGan961C_YhtWE578CBzpqkKBQkO1DnKLfJrMY8=w544-h544-l90-rj"
-                },
-                "category_1": "Album",
-                "category_2": "",
-                "category_3": "",
-                "category_4": "",
-                "category_5": "",
-                "category_6": "",
-                "category_7": "",
-                "category_8": "",
-                "category_9": "",
-                "category_10": ""
-            },
-            "status": {
-                "privacyStatus": "unlisted"
-            },
-            "contentDetails": {
-                "itemCount": 18
-            }
-        },
-        {
-            "kind": "youtube#playlist",
-            "etag": "Zcl97tZXb_L5ykWOVDMQqVXa-I0",
-            "id": "OLAK5uy_lYcMyat04JNsFIUu1wuF8bClGuBcfGV4o",
-            "snippet": {
-                "publishedAt": "2024-08-08T06:38:01Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Album - Sewe",
-                "description": "",
-                "thumbnails": {
-                    "medium": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_lYcMyat04JNsFIUu1wuF8bClGuBcfGV4o/mqdefault.jpg?sqp=COD_gLgGir7X7AMICILv9rcGEAE=&rs=AOn4CLCY73QTy6ilqTw1Blr-tKzqx4m3AQ&v=1727903618",
-                        "width": 180,
-                        "height": 180
-                    },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_lYcMyat04JNsFIUu1wuF8bClGuBcfGV4o/sddefault.jpg?sqp=COD_gLgGir7X7AMICILv9rcGEAE=&rs=AOn4CLBgGB28zVfAkQTCPOhAOlnLvlyKDg&v=1727903618",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_lYcMyat04JNsFIUu1wuF8bClGuBcfGV4o/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICILv9rcGEAE=&rs=AOn4CLBocHA7_81PycGvPhRNbSj7Fv0TPA&v=1727903618",
-                        "width": 1200,
-                        "height": 1200
-                    }
-                },
-                "channelTitle": "YouTube",
-                "localized": {
-                    "title": "Album - Sewe",
-                    "description": ""
-                },
-                "image": {
-                    "url": "https://lh3.googleusercontent.com/-tM7rGnzVCDuJ_6AM39XdVLlqRpnOaCn0es4BSVPDojp7KaHoFC3-RauEl7MPXJr8hBG3hj2nQ07Z5nb=w544-h544-l90-rj"
-                },
-                "category_1": "Album",
-                "category_2": "",
-                "category_3": "",
-                "category_4": "",
-                "category_5": "",
-                "category_6": "",
-                "category_7": "",
-                "category_8": "",
-                "category_9": "",
-                "category_10": ""
-            },
-            "status": {
-                "privacyStatus": "unlisted"
-            },
-            "contentDetails": {
-                "itemCount": 30
-            }
-        },
-        {
-            "kind": "youtube#playlist",
-            "etag": "zRJwoN2UFwP1aIAdOJmdzFQEF9s",
-            "id": "OLAK5uy_mCJLX-iJrjtt0qElP7W0SBWOfUp_gaUE0",
-            "snippet": {
-                "publishedAt": "2023-12-07T05:04:28Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Album - Ijuba",
-                "description": "",
-                "thumbnails": {
-                    "medium": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_mCJLX-iJrjtt0qElP7W0SBWOfUp_gaUE0/mqdefault.jpg?sqp=COD_gLgGir7X7AMICOHO5bcGEAE=&rs=AOn4CLD0aRnj5Qdp5F5ait8j6fEqTlRxgQ&v=1727620961",
-                        "width": 180,
-                        "height": 180
-                    },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_mCJLX-iJrjtt0qElP7W0SBWOfUp_gaUE0/sddefault.jpg?sqp=COD_gLgGir7X7AMICOHO5bcGEAE=&rs=AOn4CLDNIjDXKePH59DBzJZqje-z3u4Kxw&v=1727620961",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_mCJLX-iJrjtt0qElP7W0SBWOfUp_gaUE0/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICOHO5bcGEAE=&rs=AOn4CLCyNetphyAWBiRuLOTmPYwVQAwUZw&v=1727620961",
-                        "width": 1200,
-                        "height": 1200
-                    }
-                },
-                "channelTitle": "YouTube",
-                "localized": {
-                    "title": "Album - Ijuba",
-                    "description": ""
-                },
-                "image": {
-                    "url": "https://lh3.googleusercontent.com/XCZ_-msAKWHbsom6R66dy-zKnaSyykP5BTNN8BsTYHvaZ8LxI92gclRL9Iab2bcbRIxHVcL352bUtyk=w544-h544-l90-rj"
-                },
-                "category_1": "Album",
-                "category_2": "",
-                "category_3": "",
-                "category_4": "",
-                "category_5": "",
-                "category_6": "",
-                "category_7": "",
-                "category_8": "",
-                "category_9": "",
-                "category_10": ""
-            },
-            "status": {
-                "privacyStatus": "unlisted"
-            },
-            "contentDetails": {
-                "itemCount": 15
-            }
-        },
-        {
-            "kind": "youtube#playlist",
-            "etag": "_i5RJpDB7titGN7Q6C6N0VdqS1I",
-            "id": "OLAK5uy_kaXyrpxfImdHpuFkMxh1JwlQGjw5nMVeA",
-            "snippet": {
-                "publishedAt": "2024-09-25T16:12:42Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Album - The Lost 1979 Album",
-                "description": "",
-                "thumbnails": {
-                    "medium": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_kaXyrpxfImdHpuFkMxh1JwlQGjw5nMVeA/mqdefault.jpg?sqp=COD_gLgGir7X7AMICOuc4bcGEAE=&rs=AOn4CLAQfdoDZYb6tgQonXpUoxz4AOHp6Q&v=1727549035",
-                        "width": 180,
-                        "height": 180
-                    },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_kaXyrpxfImdHpuFkMxh1JwlQGjw5nMVeA/sddefault.jpg?sqp=COD_gLgGir7X7AMICOuc4bcGEAE=&rs=AOn4CLA7PBCxsmzuTgCau1hvHuO-EG2bCg&v=1727549035",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_kaXyrpxfImdHpuFkMxh1JwlQGjw5nMVeA/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICOuc4bcGEAE=&rs=AOn4CLCUtczGSm_pSOWOips8wGrxmlRNyg&v=1727549035",
-                        "width": 1200,
-                        "height": 1200
-                    }
-                },
-                "channelTitle": "YouTube",
-                "localized": {
-                    "title": "Album - The Lost 1979 Album",
-                    "description": ""
-                },
-                "image": {
-                    "url": "https://lh3.googleusercontent.com/dSDMwGECkEuehFuVqSdqg2CJGO0hG16OsUoZWGeN_8VfG-JZ1H3GA8y-eS67WXWoBQmwZ5E30yQUG3LC=w544-h544-l90-rj"
-                },
-                "category_1": "Album",
-                "category_2": "",
-                "category_3": "",
-                "category_4": "",
-                "category_5": "",
-                "category_6": "",
-                "category_7": "",
-                "category_8": "",
-                "category_9": "",
-                "category_10": ""
-            },
-            "status": {
-                "privacyStatus": "unlisted"
-            },
-            "contentDetails": {
-                "itemCount": 18
-            }
-        },
-        {
-            "kind": "youtube#playlist",
-            "etag": "sAHFXCJBB0Cmg5LoxuTJYcyRJsw",
-            "id": "OLAK5uy_nLtTc7rSNjtfN6vZIU9j4MnUfZYWcFweY",
-            "snippet": {
-                "publishedAt": "2023-09-07T00:06:56Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Album - Nostalgia",
-                "description": "",
-                "thumbnails": {
-                    "medium": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_nLtTc7rSNjtfN6vZIU9j4MnUfZYWcFweY/mqdefault.jpg?sqp=COD_gLgGir7X7AMICLbT97cGEAE=&rs=AOn4CLCXAdmbZ9Fd-qalwSYJOssa4rUwlw&v=1727916470",
-                        "width": 180,
-                        "height": 180
-                    },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_nLtTc7rSNjtfN6vZIU9j4MnUfZYWcFweY/sddefault.jpg?sqp=COD_gLgGir7X7AMICLbT97cGEAE=&rs=AOn4CLDfoa6IAXjXLyWle1WvLCkavOIvXQ&v=1727916470",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_nLtTc7rSNjtfN6vZIU9j4MnUfZYWcFweY/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICLbT97cGEAE=&rs=AOn4CLA7yU35pZpuC092D6dal4hHV_eQxQ&v=1727916470",
-                        "width": 1200,
-                        "height": 1200
-                    }
-                },
-                "channelTitle": "YouTube",
-                "localized": {
-                    "title": "Album - Nostalgia",
-                    "description": ""
-                },
-                "image": {
-                    "url": "https://lh3.googleusercontent.com/4tVkY3ZQh_6EhqGqCorTlN7XSAPxvmLo4rlZZvC1zRqAZqPIwvPwePvPYpaW5eHrw11JscnroEpAsV9S5Q=w544-h544-l90-rj"
-                },
-                "category_1": "Album",
-                "category_2": "",
-                "category_3": "",
-                "category_4": "",
-                "category_5": "",
-                "category_6": "",
-                "category_7": "",
-                "category_8": "",
-                "category_9": "",
-                "category_10": ""
-            },
-            "status": {
-                "privacyStatus": "unlisted"
-            },
-            "contentDetails": {
-                "itemCount": 18
-            }
-        },
-        {
-            "kind": "youtube#playlist",
-            "etag": "89MeCCRYNyQusW9WhRKlo3xGHoU",
-            "id": "OLAK5uy_mPpt4yO9pro1RqgYOPlorLib_gWUPVftA",
-            "snippet": {
-                "publishedAt": "2024-06-20T10:25:29Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Album - Immortal",
-                "description": "",
-                "thumbnails": {
-                    "medium": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_mPpt4yO9pro1RqgYOPlorLib_gWUPVftA/mqdefault.jpg?sqp=COD_gLgGir7X7AMICM79-bcGEAE=&rs=AOn4CLBF0pktlMpQC3B5HyWBtsM3hvsBdA&v=1727954638",
-                        "width": 180,
-                        "height": 180
-                    },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_mPpt4yO9pro1RqgYOPlorLib_gWUPVftA/sddefault.jpg?sqp=COD_gLgGir7X7AMICM79-bcGEAE=&rs=AOn4CLDtt5MaPndtPRfqsfEKs7hULEmZSg&v=1727954638",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_mPpt4yO9pro1RqgYOPlorLib_gWUPVftA/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICM79-bcGEAE=&rs=AOn4CLDSHHhVJti0IQOrP2v0nCv1umL3Mw&v=1727954638",
-                        "width": 1200,
-                        "height": 1200
-                    }
-                },
-                "channelTitle": "YouTube",
-                "localized": {
-                    "title": "Album - Immortal",
-                    "description": ""
-                },
-                "image": {
-                    "url": "https://lh3.googleusercontent.com/ffK2ndj_5tgQ77Pg3oLF99wJxAtJI0CIez4ZBdowXhj83yj3g9StTllL7jwFFKGxyZEe4A43Iw1vbQ9aYg=w544-h544-l90-rj"
-                },
-                "category_1": "Album",
-                "category_2": "",
-                "category_3": "",
-                "category_4": "",
-                "category_5": "",
-                "category_6": "",
-                "category_7": "",
-                "category_8": "",
-                "category_9": "",
-                "category_10": ""
-            },
-            "status": {
-                "privacyStatus": "unlisted"
-            },
-            "contentDetails": {
-                "itemCount": 10
-            }
-        },
-        {
-            "kind": "youtube#playlist",
-            "etag": "_TvhqKcygFeHa7OvGJedXPVGNPM",
-            "id": "OLAK5uy_kjAzmw2b8vckZPEX-pAPhBXxZKuYF_cF0",
-            "snippet": {
-                "publishedAt": "2023-10-27T04:33:11Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Album - Tronics Land Series 2",
-                "description": "",
-                "thumbnails": {
-                    "medium": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_kjAzmw2b8vckZPEX-pAPhBXxZKuYF_cF0/mqdefault.jpg?sqp=COD_gLgGir7X7AMICJDN3LcGEAE=&rs=AOn4CLDXa86a1Lth1C2vteMEMLAmyemgvw&v=1727473296",
-                        "width": 180,
-                        "height": 180
-                    },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_kjAzmw2b8vckZPEX-pAPhBXxZKuYF_cF0/sddefault.jpg?sqp=COD_gLgGir7X7AMICJDN3LcGEAE=&rs=AOn4CLD1gM1NmdyB3BBoZFfEJiFo2Ec9qg&v=1727473296",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_kjAzmw2b8vckZPEX-pAPhBXxZKuYF_cF0/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICJDN3LcGEAE=&rs=AOn4CLCbK6WghDkiphbmMbKOZWBjNxkBng&v=1727473296",
-                        "width": 1200,
-                        "height": 1200
-                    }
-                },
-                "channelTitle": "YouTube",
-                "localized": {
-                    "title": "Album - Tronics Land Series 2",
-                    "description": ""
-                },
-                "image": {
-                    "url": "https://lh3.googleusercontent.com/43ggF6_zgcdVKQsOALmDZY8IzvX874fu4Tt3pEyArztbYlNHqGMwQjX82lXx8A7VLIrGjuCMgobbRbmO=w544-h544-l90-rj"
-                },
-                "category_1": "Album",
-                "category_2": "Series",
-                "category_3": "",
-                "category_4": "",
-                "category_5": "",
-                "category_6": "",
-                "category_7": "",
-                "category_8": "",
-                "category_9": "",
-                "category_10": ""
-            },
-            "status": {
-                "privacyStatus": "unlisted"
-            },
-            "contentDetails": {
-                "itemCount": 16
-            }
-        },
-        {
-            "kind": "youtube#playlist",
-            "etag": "RU7BsEkia41FDJGKiigVCF9On4o",
-            "id": "OLAK5uy_m7io0OAMeRi4iBNTQl7g6wWpR7Em4YV-s",
-            "snippet": {
-                "publishedAt": "2024-02-26T16:52:05Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Album - African Queen 2.0",
-                "description": "",
-                "thumbnails": {
-                    "medium": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_m7io0OAMeRi4iBNTQl7g6wWpR7Em4YV-s/mqdefault.jpg?sqp=COD_gLgGir7X7AMICPv037cGEAE=&rs=AOn4CLCA66mJrfeNxKZAqgLLYhLDtV-0Qw&v=1727527547",
-                        "width": 180,
-                        "height": 180
-                    },
-                    "standard": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_m7io0OAMeRi4iBNTQl7g6wWpR7Em4YV-s/sddefault.jpg?sqp=COD_gLgGir7X7AMICPv037cGEAE=&rs=AOn4CLAkCCTsByk9_-Pt7DnIiYP5-pPlzw&v=1727527547",
-                        "width": 640,
-                        "height": 640
-                    },
-                    "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_m7io0OAMeRi4iBNTQl7g6wWpR7Em4YV-s/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICPv037cGEAE=&rs=AOn4CLA4mUD1yyvcESKLN-C1x1LqYh8D-g&v=1727527547",
-                        "width": 1200,
-                        "height": 1200
-                    }
-                },
-                "channelTitle": "YouTube",
-                "localized": {
-                    "title": "Album - African Queen 2.0",
-                    "description": ""
-                },
-                "image": {
-                    "url": "https://lh3.googleusercontent.com/OcRDIB9whWNcYjyvt1iO2SQArDl1xiWScVeGaFyQ5yrp-mp4CnAOBALgAyo9eg1YMNe26x27_OA3nQWF=w544-h544-l90-rj"
-                },
-                "category_1": "Album",
+                "category_1": "Top",
                 "category_2": "African",
+                "category_3": "Africa",
+                "category_4": "Songs",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 50
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "hPKB293SkRRcqUmYnnM_EtjD9K8",
+            "id": "RDCLAK5uy_lMkuiZIfVzR8ZjOrLXDJZGrL_zHxPRE3Y",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Recent Trendy Korean Hip-Hop",
+                "description": " ",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lMkuiZIfVzR8ZjOrLXDJZGrL_zHxPRE3Y/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICIXilLgGEAE=&rs=AOn4CLAOXkr5IaKHeco3AXFNjOoe-Ry1kQ&v=1728393477",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lMkuiZIfVzR8ZjOrLXDJZGrL_zHxPRE3Y/sddefault.jpg?sqp=CLS-lbgGir7X7AMICIXilLgGEAE=&rs=AOn4CLDBVr2kGnkvavWkmCdydMvhznQi1A&v=1728393477",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lMkuiZIfVzR8ZjOrLXDJZGrL_zHxPRE3Y/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICIXilLgGEAE=&rs=AOn4CLAfk9h1vh6YoQBbgBqXg143DV48hw&v=1728393477",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Recent Trendy Korean Hip-Hop",
+                    "description": " "
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/oIKodIZfjPVGnQ3WeIbrCpLdF_xIzZikFnWFHz2v4tnkdbC-2m2kFHBlCAzexKdmbwYKZtHm_TYW4Q=w544-h544-l90-rj"
+                },
+                "category_1": "Trendy",
+                "category_2": "Korean",
                 "category_3": "",
                 "category_4": "",
                 "category_5": "",
@@ -936,49 +1325,50 @@
                 "category_10": ""
             },
             "status": {
-                "privacyStatus": "unlisted"
+                "privacyStatus": "public"
             },
             "contentDetails": {
-                "itemCount": 22
+                "itemCount": 82
             }
         },
         {
             "kind": "youtube#playlist",
-            "etag": "7T9ToMWtiQEGuQW9_ZGcRpgeMO4",
-            "id": "OLAK5uy_kheo4kIdeoFpyC8fNaMJ-suQpkTl87qHE",
+            "etag": "g4AyEg3wQiU8JyuWjmdziu6h6_g",
+            "id": "RDCLAK5uy_mIHeXvh9ZsOy7GtRZsPc0yVKaQZT5iegE",
             "snippet": {
-                "publishedAt": "2023-11-28T20:12:43Z",
+                "publishedAt": "1970-01-01T00:00:00Z",
                 "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Album - NATIONAL ANTHEM",
-                "description": "",
+                "title": "Detroit's Finest",
+                "description": "A playlist for the most resilient rappers coming out of Detroit and surrounding areas. ",
                 "thumbnails": {
                     "medium": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_kheo4kIdeoFpyC8fNaMJ-suQpkTl87qHE/mqdefault.jpg?sqp=COD_gLgGir7X7AMICL3z9rcGEAE=&rs=AOn4CLCUK56nQaM5T7iJjtVLCpsBjrD70A&v=1727904189",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mIHeXvh9ZsOy7GtRZsPc0yVKaQZT5iegE/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICLflkLgGEAE=&rs=AOn4CLAV8a0zshx19Czxtrz4aPiQs32Q9A&v=1728328375",
                         "width": 180,
                         "height": 180
                     },
                     "standard": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_kheo4kIdeoFpyC8fNaMJ-suQpkTl87qHE/sddefault.jpg?sqp=COD_gLgGir7X7AMICL3z9rcGEAE=&rs=AOn4CLB3QgYx3TgXbeUVeT622cN_YtFIlQ&v=1727904189",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mIHeXvh9ZsOy7GtRZsPc0yVKaQZT5iegE/sddefault.jpg?sqp=CLS-lbgGir7X7AMICLflkLgGEAE=&rs=AOn4CLApd1W6e-9GgMy64icMJsRc6dpsCA&v=1728328375",
                         "width": 640,
                         "height": 640
                     },
                     "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_kheo4kIdeoFpyC8fNaMJ-suQpkTl87qHE/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICL3z9rcGEAE=&rs=AOn4CLDkq8WODQtQoMe7irFfuH-BP4idjg&v=1727904189",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mIHeXvh9ZsOy7GtRZsPc0yVKaQZT5iegE/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICLflkLgGEAE=&rs=AOn4CLC3Ltk7lPwwR4xGYVEDgDjaA3ZnZw&v=1728328375",
                         "width": 1200,
                         "height": 1200
                     }
                 },
                 "channelTitle": "YouTube",
+                "defaultLanguage": "en",
                 "localized": {
-                    "title": "Album - NATIONAL ANTHEM",
-                    "description": ""
+                    "title": "Detroit's Finest",
+                    "description": "A playlist for the most resilient rappers coming out of Detroit and surrounding areas. "
                 },
                 "image": {
-                    "url": "https://lh3.googleusercontent.com/TNRWMH06gBOJ1BwAJHSeXhd0fbbE3fWkdrOGwf7staZSoY_pYNCaTrM6kD_6JvjtVCDXCvbe2MJb7oQk=w544-h544-l90-rj"
+                    "url": "https://lh3.googleusercontent.com/P2Es0xO-U2-vU6YC3_6z0AJoptPlV0ukAiEgceRB0SMFOvpNk6VvGjpmkecuz8O4llLqbFgVj3DIcY8=w544-h544-l90-rj"
                 },
-                "category_1": "Album",
-                "category_2": "National",
-                "category_3": "Anthem",
+                "category_1": "Playlist",
+                "category_2": "Rap",
+                "category_3": "Rappers",
                 "category_4": "",
                 "category_5": "",
                 "category_6": "",
@@ -988,47 +1378,313 @@
                 "category_10": ""
             },
             "status": {
-                "privacyStatus": "unlisted"
+                "privacyStatus": "public"
             },
             "contentDetails": {
-                "itemCount": 15
+                "itemCount": 124
             }
         },
         {
             "kind": "youtube#playlist",
-            "etag": "EsWOF_-xgWXhlZGXVG76Jln_XmM",
-            "id": "OLAK5uy_kcQMvdtj7BBtl2Tc-fS5IRgWiVsdImO58",
+            "etag": "EmQUHa8Vwb6RTcWKf7ychxNJcgU",
+            "id": "RDCLAK5uy_loGN38gYTHJPqQKWHQvD71V4zB6JiSOhY",
             "snippet": {
-                "publishedAt": "2024-10-04T12:52:55Z",
+                "publishedAt": "1970-01-01T00:00:00Z",
                 "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Album - Sweetin Album (Speed Up)",
-                "description": "",
+                "title": "Fashion Killas",
+                "description": "Dive in, but don't drown in these iconic fashion rap songs from A$AP Rocky and more ",
                 "thumbnails": {
                     "medium": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_kcQMvdtj7BBtl2Tc-fS5IRgWiVsdImO58/mqdefault.jpg?sqp=COD_gLgGir7X7AMICNGPgLgGEAE=&rs=AOn4CLCxR1sYzAqwgPTNdi4cNqtsRlhb3A&v=1728055249",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_loGN38gYTHJPqQKWHQvD71V4zB6JiSOhY/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICNHjk7gGEAE=&rs=AOn4CLDx5gu1Dsu4N7ipd1XM0RFH2w4mXg&v=1728377297",
                         "width": 180,
                         "height": 180
                     },
                     "standard": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_kcQMvdtj7BBtl2Tc-fS5IRgWiVsdImO58/sddefault.jpg?sqp=COD_gLgGir7X7AMICNGPgLgGEAE=&rs=AOn4CLD2L8IcQWuj0kM2S_ox5-wZasXGnA&v=1728055249",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_loGN38gYTHJPqQKWHQvD71V4zB6JiSOhY/sddefault.jpg?sqp=CLS-lbgGir7X7AMICNHjk7gGEAE=&rs=AOn4CLBB6pB6g0vY090d-YP2l64PpwIccw&v=1728377297",
                         "width": 640,
                         "height": 640
                     },
                     "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_kcQMvdtj7BBtl2Tc-fS5IRgWiVsdImO58/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICNGPgLgGEAE=&rs=AOn4CLA6BJLf6ALSIzhMyFd50NyvHazgfA&v=1728055249",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_loGN38gYTHJPqQKWHQvD71V4zB6JiSOhY/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICNHjk7gGEAE=&rs=AOn4CLBsSRqNANFgGiSzTMZ44pU0CarWkA&v=1728377297",
                         "width": 1200,
                         "height": 1200
                     }
                 },
                 "channelTitle": "YouTube",
+                "defaultLanguage": "en",
                 "localized": {
-                    "title": "Album - Sweetin Album (Speed Up)",
-                    "description": ""
+                    "title": "Fashion Killas",
+                    "description": "Dive in, but don't drown in these iconic fashion rap songs from A$AP Rocky and more "
                 },
                 "image": {
-                    "url": "https://lh3.googleusercontent.com/U6vgrZxa2wpwi2khg5jd-pzHGoPcvcUfX50du9POBNYW7AunLy4NHPZIMi6VM6uP2FbkaniXVPNOBj7W=w544-h544-l90-rj"
+                    "url": "https://lh3.googleusercontent.com/-t-ltj857ZTMKG-zcwfp_iaTnWY0dgDbQnDQVOovVFiLp-gdRQbEyhkZrZAhtj14CjumkjdkQ2zurQ=w544-h544-l90-rj"
                 },
-                "category_1": "Album",
+                "category_1": "Iconic",
+                "category_2": "Rap",
+                "category_3": "Songs",
+                "category_4": "Rock",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 60
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "87-kBmf7kyKH2pXdWbFKYiYojeE",
+            "id": "RDCLAK5uy_nN9WdsPpNl84-9vgYCnNssJyZ_Pgt25fU",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "New York State of Mind",
+                "description": "From the newcomers to the legends, get to know the newest and latest music coming out of New York.  ",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nN9WdsPpNl84-9vgYCnNssJyZ_Pgt25fU/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICInEkbgGEAE=&rs=AOn4CLCjzy0iqfv2KCVWWG-rY-V3HOkZtw&v=1728340489",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nN9WdsPpNl84-9vgYCnNssJyZ_Pgt25fU/sddefault.jpg?sqp=CLS-lbgGir7X7AMICInEkbgGEAE=&rs=AOn4CLCJcipcKPJDzpkBjPN2oRFZ_Px1yA&v=1728340489",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nN9WdsPpNl84-9vgYCnNssJyZ_Pgt25fU/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICInEkbgGEAE=&rs=AOn4CLBOeLdCrywhFSi_CZgIHtaNY5ultA&v=1728340489",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "New York State of Mind",
+                    "description": "From the newcomers to the legends, get to know the newest and latest music coming out of New York.  "
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/5FWAB06MsNfDOtEEtZ_Jcv5oIKYwmIeh-YqzBGihgNj2RugpHUZQpzxPcVJGh9hrn_6WjRHA7sZe8A=w544-h544-l90-rj"
+                },
+                "category_1": "New",
+                "category_2": "Latest",
+                "category_3": "Music",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 205
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "s9l6vbUj9Q8MEDar05cSf2uvq6w",
+            "id": "RDCLAK5uy_mxV9eKF23-5CnY31srg0QORG20_J8CaYU",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Pega a Vis\u00e3o",
+                "description": "Brazilian Rap Hotlist now is Pega a Vis\u00e3o: today\u2019s biggest Brazilian hip-hop tracks. #hiphop #hits #top",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mxV9eKF23-5CnY31srg0QORG20_J8CaYU/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICP6okrgGEAE=&rs=AOn4CLBCd2TVQCZN5I_lRW1FN0yCngwGxQ&v=1728353406",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mxV9eKF23-5CnY31srg0QORG20_J8CaYU/sddefault.jpg?sqp=CLS-lbgGir7X7AMICP6okrgGEAE=&rs=AOn4CLBFGQKHsKsrGRYr8CBY1QDOLfq4SQ&v=1728353406",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mxV9eKF23-5CnY31srg0QORG20_J8CaYU/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICP6okrgGEAE=&rs=AOn4CLAAKy7KSlZNsfkidfHWxhwqeafdVQ&v=1728353406",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Pega a Vis\u00e3o",
+                    "description": "Brazilian Rap Hotlist now is Pega a Vis\u00e3o: today\u2019s biggest Brazilian hip-hop tracks. #hiphop #hits #top"
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/RQ4cmYa1qOd4FwILAfU1PFFXkbI0TY7k3suExytYJ6H1iD2K5p6IUYpsv7FHbXLZGfvGtmLeapxdLiI=w544-h544-l90-rj"
+                },
+                "category_1": "Rap",
+                "category_2": "Biggest",
+                "category_3": "Tracks",
+                "category_4": "Hits",
+                "category_5": "Top",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 53
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "ajv80uVHQ1giPlz1Rsftb1B447c",
+            "id": "RDCLAK5uy_n_0oxNdu51kEhJd9zfZCJlaJhwMaOCwWI",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "J-Rap Replay",
+                "description": "Notable J-Rap hits from the last few years",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n_0oxNdu51kEhJd9zfZCJlaJhwMaOCwWI/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICKLklLgGEAE=&rs=AOn4CLCTz3ShAyOMEX4JNw3UwIPJC1OfPA&v=1728393762",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n_0oxNdu51kEhJd9zfZCJlaJhwMaOCwWI/sddefault.jpg?sqp=CLS-lbgGir7X7AMICKLklLgGEAE=&rs=AOn4CLCwvZgHl8Ol4CKSvPeF7T6SGRvdaA&v=1728393762",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n_0oxNdu51kEhJd9zfZCJlaJhwMaOCwWI/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICKLklLgGEAE=&rs=AOn4CLDXh7zlam_qf2EGWuGj9crA0T95Fg&v=1728393762",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "J-Rap Replay",
+                    "description": "Notable J-Rap hits from the last few years"
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/11o8hBaxugXceMypAhRj0jN89onXIJKziOFynA6QK44nDVDjNSYG7ezKdIQUPTTNUKX1Y5pjDlUyH90=w544-h544-l90-rj"
+                },
+                "category_1": "Rap",
+                "category_2": "Hits",
+                "category_3": "",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 50
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "uGLBfPd8M0CdrzgojqRo-IFZNbk",
+            "id": "RDCLAK5uy_nop3Tuox6usw3lploMNSliVcytOQnokbQ",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Korean Boom Bap Hip-Hop",
+                "description": " Experience Korean Boom Bap hip-hop: old-school beats with Seoul's modern twist.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nop3Tuox6usw3lploMNSliVcytOQnokbQ/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICNialbgGEAE=&rs=AOn4CLCeCGK2ClsdVeELV0WveR_6MF_hWg&v=1728400728",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nop3Tuox6usw3lploMNSliVcytOQnokbQ/sddefault.jpg?sqp=CLS-lbgGir7X7AMICNialbgGEAE=&rs=AOn4CLCMOGkQsyspL-LVa6KTnkarmALRng&v=1728400728",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nop3Tuox6usw3lploMNSliVcytOQnokbQ/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICNialbgGEAE=&rs=AOn4CLCQ1Bx0jEaHZNe60nw--QRkSP3OjA&v=1728400728",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Korean Boom Bap Hip-Hop",
+                    "description": " Experience Korean Boom Bap hip-hop: old-school beats with Seoul's modern twist."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/LbQL3xjZtfqZW5OHG32nLCKEqQWrq9ZbPi5D1K8tAPXO7pgm1jp2VPb6AEvFLWugnMy2iV9GY8FkOwg=w544-h544-l90-rj"
+                },
+                "category_1": "Korean",
+                "category_2": "Beats",
+                "category_3": "Beat",
+                "category_4": "Modern",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 61
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "Bw39m3Kug7NammSLiyItpVD_jfU",
+            "id": "RDCLAK5uy_nQ2lfLMUqjfWhJmIbTIGYGk-DsRajn_bg",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Turn Up! Hong Kong Hip-Hop",
+                "description": "Favorite tracks in the Hong Kong Hip-Hop",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nQ2lfLMUqjfWhJmIbTIGYGk-DsRajn_bg/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICIq_k7gGEAE=&rs=AOn4CLB9_BOqcOMqRfkFiAlZrtd1LSercA&v=1728372618",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nQ2lfLMUqjfWhJmIbTIGYGk-DsRajn_bg/sddefault.jpg?sqp=CLS-lbgGir7X7AMICIq_k7gGEAE=&rs=AOn4CLBdEHdEymuTBczyANztkBd5DOedNg&v=1728372618",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nQ2lfLMUqjfWhJmIbTIGYGk-DsRajn_bg/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICIq_k7gGEAE=&rs=AOn4CLAaLZrC525nNNljeo_OSMshBFzbvw&v=1728372618",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Turn Up! Hong Kong Hip-Hop",
+                    "description": "Favorite tracks in the Hong Kong Hip-Hop"
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/2uhaeGV2PwngVxeGA101o6_qUyhoAwwmuFfeQHc-RB_0j4LASjuynXp9GeTFiNKKWsu5TGGV3rANFws9=w544-h544-l90-rj"
+                },
+                "category_1": "Tracks",
                 "category_2": "",
                 "category_3": "",
                 "category_4": "",
@@ -1040,47 +1696,154 @@
                 "category_10": ""
             },
             "status": {
-                "privacyStatus": "unlisted"
+                "privacyStatus": "public"
             },
             "contentDetails": {
-                "itemCount": 7
+                "itemCount": 50
             }
         },
         {
             "kind": "youtube#playlist",
-            "etag": "Qvw1ddrBn95UlgL4qVX6BMwVxDU",
-            "id": "OLAK5uy_kpXbMBTdv2-2Li8VqvvJpdgQbL-NTA9sc",
+            "etag": "N5WHT-9T6GNAR54hgUbU4dU-1Y4",
+            "id": "RDCLAK5uy_n0f4tLAkNM233wO0yiTEI7467ovnaGbR8",
             "snippet": {
-                "publishedAt": "2024-03-14T17:22:20Z",
+                "publishedAt": "1970-01-01T00:00:00Z",
                 "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Album - Ngises'Congweni",
-                "description": "",
+                "title": "Brand New Korean Hip-Hop",
+                "description": "Listen to brand new Korean Hip-Hop.",
                 "thumbnails": {
                     "medium": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_kpXbMBTdv2-2Li8VqvvJpdgQbL-NTA9sc/mqdefault.jpg?sqp=COD_gLgGir7X7AMICOXw9LcGEAE=&rs=AOn4CLDdExxN8XBm3l5ssuxAUtBS9eHs3A&v=1727871077",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n0f4tLAkNM233wO0yiTEI7467ovnaGbR8/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICLOVk7gGEAE=&rs=AOn4CLDj1bBpdb5-vsXxcRkxNbqkp400pA&v=1728367283",
                         "width": 180,
                         "height": 180
                     },
                     "standard": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_kpXbMBTdv2-2Li8VqvvJpdgQbL-NTA9sc/sddefault.jpg?sqp=COD_gLgGir7X7AMICOXw9LcGEAE=&rs=AOn4CLB6qwGcPKPLVheaRdyB07ASeVNh1Q&v=1727871077",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n0f4tLAkNM233wO0yiTEI7467ovnaGbR8/sddefault.jpg?sqp=CLS-lbgGir7X7AMICLOVk7gGEAE=&rs=AOn4CLDJKP5C7Gd-qX2qZOWdaC6_HEJu_A&v=1728367283",
                         "width": 640,
                         "height": 640
                     },
                     "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_kpXbMBTdv2-2Li8VqvvJpdgQbL-NTA9sc/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICOXw9LcGEAE=&rs=AOn4CLAZTf8AILb5r5QwLcF350UBxPlUZg&v=1727871077",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n0f4tLAkNM233wO0yiTEI7467ovnaGbR8/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICLOVk7gGEAE=&rs=AOn4CLDpEdeIsls2RrXjCxNkzbltA7lDoQ&v=1728367283",
                         "width": 1200,
                         "height": 1200
                     }
                 },
                 "channelTitle": "YouTube",
+                "defaultLanguage": "en",
                 "localized": {
-                    "title": "Album - Ngises'Congweni",
-                    "description": ""
+                    "title": "Brand New Korean Hip-Hop",
+                    "description": "Listen to brand new Korean Hip-Hop."
                 },
                 "image": {
-                    "url": "https://lh3.googleusercontent.com/8zQKSRis2JEA7zZ-rmqyPJ7TVjKTmwGVObhlNymkzu_UBlsmrmSEMFhWntue_83DhRgfnaX2hkNOioHA=w544-h544-l90-rj"
+                    "url": "https://lh3.googleusercontent.com/gLj6pq2AVrh_EyAVewI6G1JCEMqJYv5CVyb690XXgZzGslxQO1YEX0pl6bm9p_ffJBIdSBqwQ95U9ms=w544-h544-l90-rj"
                 },
-                "category_1": "Album",
+                "category_1": "New",
+                "category_2": "Korean",
+                "category_3": "Listen",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 80
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "bmlnh0-zGLbdivl8htxrrAW2-EI",
+            "id": "RDCLAK5uy_nINUkCrIfiuPLhBRLX9AvBv34W8Bbat3A",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Bad Gal Pregame",
+                "description": "Get the vibes going with this party-ready playlist. ",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nINUkCrIfiuPLhBRLX9AvBv34W8Bbat3A/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICPHbkbgGEAE=&rs=AOn4CLBsFHZSb7Qpn7J64L0slcDmujrqvQ&v=1728343537",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nINUkCrIfiuPLhBRLX9AvBv34W8Bbat3A/sddefault.jpg?sqp=CLS-lbgGir7X7AMICPHbkbgGEAE=&rs=AOn4CLBXWAyjqkn9vKu88_go74ZnKbghDA&v=1728343537",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nINUkCrIfiuPLhBRLX9AvBv34W8Bbat3A/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICPHbkbgGEAE=&rs=AOn4CLByUcmX8AQqU2-GTy6Z9D3UcTN9WA&v=1728343537",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Bad Gal Pregame",
+                    "description": "Get the vibes going with this party-ready playlist. "
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/bprNgREIjD6A3_YV0BplWlNQfJA2rEQ_pP65iEvQtqP1aqbVGlqSIc0fxF9ae2tREgkmYXaia-5rQfc=w544-h544-l90-rj"
+                },
+                "category_1": "Vibe",
+                "category_2": "Party",
+                "category_3": "Playlist",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 48
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "pbKfjiLTq7HT7SMEpaHAz7Y5sRw",
+            "id": "RDCLAK5uy_kuwISRPpQ0pWcFUwdd1gigwj4wGWbISII",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "#WCE",
+                "description": "Get introduced to these women who are rising in the ranks of hip hop. Feat. Maiya The Don",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kuwISRPpQ0pWcFUwdd1gigwj4wGWbISII/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICPbnk7gGEAE=&rs=AOn4CLDB6XmI6N6M6yhMsMxQ7xoEucyVHA&v=1728377846",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kuwISRPpQ0pWcFUwdd1gigwj4wGWbISII/sddefault.jpg?sqp=CLS-lbgGir7X7AMICPbnk7gGEAE=&rs=AOn4CLAEbsTE7O8Cq3mg-zIYhG37Cj4Xrg&v=1728377846",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kuwISRPpQ0pWcFUwdd1gigwj4wGWbISII/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICPbnk7gGEAE=&rs=AOn4CLCb9giif5JusDh4fhCZAtpUTg5kfA&v=1728377846",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "#WCE",
+                    "description": "Get introduced to these women who are rising in the ranks of hip hop. Feat. Maiya The Don"
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/BfT_k_pWA30stxaAPNb3CFj8oTo-n2qVn07lLEBeoYBXIkq9gLNZTtHoYV8ZNqYSLv8jEacOHWzRsVs=w544-h544-l90-rj"
+                },
+                "category_1": "Women",
                 "category_2": "",
                 "category_3": "",
                 "category_4": "",
@@ -1092,47 +1855,207 @@
                 "category_10": ""
             },
             "status": {
-                "privacyStatus": "unlisted"
+                "privacyStatus": "public"
             },
             "contentDetails": {
-                "itemCount": 14
+                "itemCount": 284
             }
         },
         {
             "kind": "youtube#playlist",
-            "etag": "b4W3NY0d0E_6DBoeg1x--YruuFg",
-            "id": "OLAK5uy_nltyItLmiz6Tld4ld2Yu9aM_LRVjhMVcU",
+            "etag": "pC9lU7KJQZwvaQhS940Manw5avY",
+            "id": "RDCLAK5uy_kOXsvZ4T6fkCUI0c2SzeW0attMxbnPSsQ",
             "snippet": {
-                "publishedAt": "2023-12-08T23:12:57Z",
+                "publishedAt": "1970-01-01T00:00:00Z",
                 "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Album - Uyihlo nonyoko",
-                "description": "",
+                "title": "German Hip-Hop: Allstars",
+                "description": "German Rap Gold is now German Hip-Hop: Allstars. Deutschrap forever! This is where you'll find the all-time hits of German Rap. Cover: Peter Fox",
                 "thumbnails": {
                     "medium": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_nltyItLmiz6Tld4ld2Yu9aM_LRVjhMVcU/mqdefault.jpg?sqp=COD_gLgGir7X7AMICKSq4rcGEAE=&rs=AOn4CLA8h6otSOdGGQKfR9LrReFglmdilg&v=1727567140",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kOXsvZ4T6fkCUI0c2SzeW0attMxbnPSsQ/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICK2Rk7gGEAE=&rs=AOn4CLDmc4YZc3rlwzW7IalFiXXtCylIKQ&v=1728366765",
                         "width": 180,
                         "height": 180
                     },
                     "standard": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_nltyItLmiz6Tld4ld2Yu9aM_LRVjhMVcU/sddefault.jpg?sqp=COD_gLgGir7X7AMICKSq4rcGEAE=&rs=AOn4CLAW2o13Ra2VOzak1i6ph9WRxgXx_A&v=1727567140",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kOXsvZ4T6fkCUI0c2SzeW0attMxbnPSsQ/sddefault.jpg?sqp=CLS-lbgGir7X7AMICK2Rk7gGEAE=&rs=AOn4CLAOchofvtLVuzY-neQIB-SMWcnvOA&v=1728366765",
                         "width": 640,
                         "height": 640
                     },
                     "maxres": {
-                        "url": "https://i9.ytimg.com/s_p/OLAK5uy_nltyItLmiz6Tld4ld2Yu9aM_LRVjhMVcU/maxresdefault.jpg?sqp=COD_gLgGir7X7AMICKSq4rcGEAE=&rs=AOn4CLBHwFmpb5lGd6ze0Vr04ZaMEsswHA&v=1727567140",
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kOXsvZ4T6fkCUI0c2SzeW0attMxbnPSsQ/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICK2Rk7gGEAE=&rs=AOn4CLAupzYYlO4MpSr7BaH83D95uP0Rhw&v=1728366765",
                         "width": 1200,
                         "height": 1200
                     }
                 },
                 "channelTitle": "YouTube",
+                "defaultLanguage": "en",
                 "localized": {
-                    "title": "Album - Uyihlo nonyoko",
-                    "description": ""
+                    "title": "German Hip-Hop: Allstars",
+                    "description": "German Rap Gold is now German Hip-Hop: Allstars. Deutschrap forever! This is where you'll find the all-time hits of German Rap. Cover: Peter Fox"
                 },
                 "image": {
-                    "url": "https://lh3.googleusercontent.com/pBTDCvnsW9asOKX5G4lZuRQqkgVP89ThPQxWG8kY8hqks5Siv9qia1p-zbctjQsad3OHDthNF3wikb-6ag=w544-h544-l90-rj"
+                    "url": "https://lh3.googleusercontent.com/KibDDA965_ife79jadGtVWM5uJ7VaWgOC5TpHKS07JG88xTal5vUDvG1WsaovTLtLUeXIzvfehvIiFg=w544-h544-l90-rj"
                 },
-                "category_1": "Album",
+                "category_1": "German",
+                "category_2": "Stars",
+                "category_3": "Rap",
+                "category_4": "Hits",
+                "category_5": "Covers",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 50
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "-PoXnvVRBXrW2a4c2DHJncx7Y0g",
+            "id": "RDCLAK5uy_k4ayZY3wXipmOhFthBkx_tww1whwQxWyM",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Rap Indo",
+                "description": "Your one-stop shop for today's biggest Indonesian Hip-Hop Rap hits.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k4ayZY3wXipmOhFthBkx_tww1whwQxWyM/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICKColLgGEAE=&rs=AOn4CLCA9eNhOZYMSod7DHgJ9dSUD1DJnA&v=1728386080",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k4ayZY3wXipmOhFthBkx_tww1whwQxWyM/sddefault.jpg?sqp=CLS-lbgGir7X7AMICKColLgGEAE=&rs=AOn4CLBifT6yKaY2hT6x6p7UWsiVMJLduQ&v=1728386080",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k4ayZY3wXipmOhFthBkx_tww1whwQxWyM/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICKColLgGEAE=&rs=AOn4CLAnaeMW5O5sOtNua2-lPMVsGXyADA&v=1728386080",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Rap Indo",
+                    "description": "Your one-stop shop for today's biggest Indonesian Hip-Hop Rap hits."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/aApt2pyrIHds1IkRtmUUrD83TaNl_Ru8vyx1tET_R6vHeai1aKOWaLjBAjFWSB17USMBqdo6GK_adXQt=w544-h544-l90-rj"
+                },
+                "category_1": "Rap",
+                "category_2": "Top",
+                "category_3": "Biggest",
+                "category_4": "Hits",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 67
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "NC39soGtBFn4PtC6A_sT3qAmups",
+            "id": "RDCLAK5uy_msL3-7KY0LeHykE9eC_-evOsnQ6uc2ky0",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "UK Rap Lovers",
+                "description": "Representing the loved up bars of UK Rap.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_msL3-7KY0LeHykE9eC_-evOsnQ6uc2ky0/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICO3KkbgGEAE=&rs=AOn4CLD3K_gWpr3km3dm8iDC8Zkt3aDEHQ&v=1728341357",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_msL3-7KY0LeHykE9eC_-evOsnQ6uc2ky0/sddefault.jpg?sqp=CLS-lbgGir7X7AMICO3KkbgGEAE=&rs=AOn4CLCsLaCPk9QTAbz7qmEmVJxF90ssxQ&v=1728341357",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_msL3-7KY0LeHykE9eC_-evOsnQ6uc2ky0/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICO3KkbgGEAE=&rs=AOn4CLDGimHvmBs6_DYxwchQaj_wszl-VA&v=1728341357",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "UK Rap Lovers",
+                    "description": "Representing the loved up bars of UK Rap."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/o8_dlTtsOENeCJmKDeKXqk3cwp4DrlteDBnqYOnBnT7MzCuHll_6ADVoNSGOv5NwuLsjPSPoRZqLHcQ=w544-h544-l90-rj"
+                },
+                "category_1": "Rap",
+                "category_2": "Love",
+                "category_3": "",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 62
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "54PxrkHYn985HcSfRZF1U9SQht4",
+            "id": "RDCLAK5uy_mmOxWtrtNxDL8Xa7tGkhIgoEIp3lsI75s",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Desi Hip Hop Floor Test",
+                "description": "Huddle up, ready those #GunFingers & shrug that last beat off.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mmOxWtrtNxDL8Xa7tGkhIgoEIp3lsI75s/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICMTJlLgGEAE=&rs=AOn4CLCNr1YyI7_qL2GtKBdmE6TQJAE8Yw&v=1728390340",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mmOxWtrtNxDL8Xa7tGkhIgoEIp3lsI75s/sddefault.jpg?sqp=CLS-lbgGir7X7AMICMTJlLgGEAE=&rs=AOn4CLCXrwL0VAPaX4ED5HANLLBX-uMs6A&v=1728390340",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mmOxWtrtNxDL8Xa7tGkhIgoEIp3lsI75s/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICMTJlLgGEAE=&rs=AOn4CLCGUSAsWSeKuDqC4uYtE--J_LNYXg&v=1728390340",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Desi Hip Hop Floor Test",
+                    "description": "Huddle up, ready those #GunFingers & shrug that last beat off."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/ga0RiBLKRLvt5nqecU2m59d0Nc5zciIg0m4z5VscKJ7BgpueM5ZUXX7ocw9zeRvNgrVZMX-NbD3PVR0=w544-h544-l90-rj"
+                },
+                "category_1": "Beat",
                 "category_2": "",
                 "category_3": "",
                 "category_4": "",
@@ -1144,10 +2067,116 @@
                 "category_10": ""
             },
             "status": {
-                "privacyStatus": "unlisted"
+                "privacyStatus": "public"
             },
             "contentDetails": {
-                "itemCount": 16
+                "itemCount": 65
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "rVAh9mqYnCD0NHgaazUzxiZRL2Y",
+            "id": "RDCLAK5uy_lrsxrTeAmw1oporS8NGMMUikYSno3WReo",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Raperos Mexa",
+                "description": "The top MC's of the Hip-Hop scene in MX.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lrsxrTeAmw1oporS8NGMMUikYSno3WReo/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICPH4lLgGEAE=&rs=AOn4CLAzbdDx9ww2TRQAlnQ4ykoYL0DhPg&v=1728396401",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lrsxrTeAmw1oporS8NGMMUikYSno3WReo/sddefault.jpg?sqp=CLS-lbgGir7X7AMICPH4lLgGEAE=&rs=AOn4CLCwixlfwZLj3U6i28z8fJ6X87oOoA&v=1728396401",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lrsxrTeAmw1oporS8NGMMUikYSno3WReo/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICPH4lLgGEAE=&rs=AOn4CLBMFfy8F9IQz49T1x-AQ2Anvimshw&v=1728396401",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Raperos Mexa",
+                    "description": "The top MC's of the Hip-Hop scene in MX."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/r0sc0pVd7slYeomfNHacK3PXRgy-4C1LcyZmZ0gUIHnxUqezjkWhpbssPe_YXa-nSZKQCFgRcO2KjCE=w544-h544-l90-rj"
+                },
+                "category_1": "Rap",
+                "category_2": "Top",
+                "category_3": "",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 55
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "UcP6PGNcd7p_ojHFt1qS_BhiGq4",
+            "id": "RDCLAK5uy_lE2BDByFc1O8IBYlSEdRMlJecYPZDmbPg",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "00s German Rap Essentials",
+                "description": "The biggest German rap classics from the first boom phase, which happened around the turn of the millennium!",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lE2BDByFc1O8IBYlSEdRMlJecYPZDmbPg/mqdefault.jpg?sqp=CLS-lbgGir7X7AMICKWEk7gGEAE=&rs=AOn4CLDEF89_MGXFE4ucAyXhwNG2SKsLLA&v=1728365093",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lE2BDByFc1O8IBYlSEdRMlJecYPZDmbPg/sddefault.jpg?sqp=CLS-lbgGir7X7AMICKWEk7gGEAE=&rs=AOn4CLBM1vh19FHihtmsEIYflWPuS8I81g&v=1728365093",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lE2BDByFc1O8IBYlSEdRMlJecYPZDmbPg/maxresdefault.jpg?sqp=CLS-lbgGir7X7AMICKWEk7gGEAE=&rs=AOn4CLCfELbX61qCbLxCdI2KtBFC-Ir52g&v=1728365093",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "00s German Rap Essentials",
+                    "description": "The biggest German rap classics from the first boom phase, which happened around the turn of the millennium!"
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/yhJPGFhxFN2NO_JIJeYOt3OhKtGFilMCRZ7PvHdd-fNvSsFuvfzhO_HcIDS1AkPlujhrwhyxZHWTMg=w544-h544-l90-rj"
+                },
+                "category_1": "German",
+                "category_2": "Rap",
+                "category_3": "Essential",
+                "category_4": "Biggest",
+                "category_5": "Classic",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 89
             }
         }
     ]

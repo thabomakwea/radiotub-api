@@ -1,33 +1,33 @@
 {
   "kind": "youtube#playlistListResponse",
-  "etag": "mmicne1DMozdgNWvmCRJhS6DDO4",
+  "etag": "zZzQDBofeRTl2PuT-Clcn8jRm0s",
   "pageInfo": {
-    "totalResults": 40,
+    "totalResults": 43,
     "resultsPerPage": 50
   },
   "items": [
     {
       "kind": "youtube#playlist",
-      "etag": "5Ucj_3kNCyEEi7Hp1yjuNTJOpmk",
-      "id": "RDCLAK5uy_ltlS29HmNHZb3oCsEjfXmZhIGaWpaDZck",
+      "etag": "5gkVvfzvrGPKqZuevPvMMgFyub0",
+      "id": "RDCLAK5uy_lMIa2RXpS0QQmHggPpe-4fRcBrzb3xUIc",
       "snippet": {
         "publishedAt": "1970-01-01T00:00:00Z",
         "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": " '90s Dance",
-        "description": "Everything from cheesy floorfillers to big beat bangers. ",
+        "title": "Presenting Orelsan",
+        "description": "The most played hits and essential tracks.",
         "thumbnails": {
           "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ltlS29HmNHZb3oCsEjfXmZhIGaWpaDZck/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICKyatLYGEAE=&rs=AOn4CLDYSHD1QaiZJe2EKcfnc0qBmnf-Ew&v=1724714284",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lMIa2RXpS0QQmHggPpe-4fRcBrzb3xUIc/mqdefault.jpg?sqp=CODAlbgGir7X7AMICP-qkrgGEAE=&rs=AOn4CLCiRs6JuXmt0uSoYYuinHWu1Unqhg&v=1728353663",
             "width": 180,
             "height": 180
           },
           "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ltlS29HmNHZb3oCsEjfXmZhIGaWpaDZck/sddefault.jpg?sqp=CKCSt7YGir7X7AMICKyatLYGEAE=&rs=AOn4CLCjK_xeorWjn45BIwWPBNFAFB-NoA&v=1724714284",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lMIa2RXpS0QQmHggPpe-4fRcBrzb3xUIc/sddefault.jpg?sqp=CODAlbgGir7X7AMICP-qkrgGEAE=&rs=AOn4CLBAUk6KcyYfgbNueUR_IVszyMazKg&v=1728353663",
             "width": 640,
             "height": 640
           },
           "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ltlS29HmNHZb3oCsEjfXmZhIGaWpaDZck/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICKyatLYGEAE=&rs=AOn4CLBTmcvDgNJZBKEc1VjASUM1gQq1vg&v=1724714284",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lMIa2RXpS0QQmHggPpe-4fRcBrzb3xUIc/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICP-qkrgGEAE=&rs=AOn4CLAKVFljluYE8NDn9cFhWjqsIk_JlA&v=1728353663",
             "width": 1200,
             "height": 1200
           }
@@ -35,39 +35,39 @@
         "channelTitle": "YouTube",
         "defaultLanguage": "en",
         "localized": {
-          "title": " '90s Dance",
-          "description": "Everything from cheesy floorfillers to big beat bangers. "
+          "title": "Presenting Orelsan",
+          "description": "The most played hits and essential tracks."
         }
       },
       "status": {
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 102
+        "itemCount": 26
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "StK_Ai_l0Cnnf-TpX347ahLoEzI",
-      "id": "RDCLAK5uy_mQnC7q6sK82AjQTN1zxjGAFfdd67K_ddc",
+      "etag": "WE8YcR1Exx05WVMYWT6EuB9peCI",
+      "id": "RDCLAK5uy_mc3lIpGPj8ehoQl4fEMvEmC-4jDuNtHIw",
       "snippet": {
         "publishedAt": "1970-01-01T00:00:00Z",
         "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "K-Pop Hits 2023",
-        "description": "Experience the sound of 2023 with this collection of some of the biggest K-Pop hits of the year.",
+        "title": "Presenting Jah Khalib",
+        "description": "The most played hits and essential tracks.",
         "thumbnails": {
           "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mQnC7q6sK82AjQTN1zxjGAFfdd67K_ddc/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICNWWtLYGEAE=&rs=AOn4CLAcWQsIerkxnYJkeNto528UtUqZwQ&v=1724713813",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mc3lIpGPj8ehoQl4fEMvEmC-4jDuNtHIw/mqdefault.jpg?sqp=CODAlbgGir7X7AMICO-FkbgGEAE=&rs=AOn4CLDa9lio7MtQyyaOQIqU7ovSliYLig&v=1728332527",
             "width": 180,
             "height": 180
           },
           "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mQnC7q6sK82AjQTN1zxjGAFfdd67K_ddc/sddefault.jpg?sqp=CKCSt7YGir7X7AMICNWWtLYGEAE=&rs=AOn4CLBY_MtnDpDkh0odW9q0Ie9chKT-ZQ&v=1724713813",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mc3lIpGPj8ehoQl4fEMvEmC-4jDuNtHIw/sddefault.jpg?sqp=CODAlbgGir7X7AMICO-FkbgGEAE=&rs=AOn4CLA_Xm0ghWsnzEeaMx9G1IGwQN6MNg&v=1728332527",
             "width": 640,
             "height": 640
           },
           "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mQnC7q6sK82AjQTN1zxjGAFfdd67K_ddc/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICNWWtLYGEAE=&rs=AOn4CLD9RlEjhqYjZJt2J1GODpfWunT_jQ&v=1724713813",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mc3lIpGPj8ehoQl4fEMvEmC-4jDuNtHIw/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICO-FkbgGEAE=&rs=AOn4CLCD-z0xTIFZcGcAEO08OmNFTyzw0g&v=1728332527",
             "width": 1200,
             "height": 1200
           }
@@ -75,39 +75,39 @@
         "channelTitle": "YouTube",
         "defaultLanguage": "en",
         "localized": {
-          "title": "K-Pop Hits 2023",
-          "description": "Experience the sound of 2023 with this collection of some of the biggest K-Pop hits of the year."
+          "title": "Presenting Jah Khalib",
+          "description": "The most played hits and essential tracks."
         }
       },
       "status": {
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 57
+        "itemCount": 26
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "ktdr4C3RA7Pk-M_oxo2bebV22ks",
-      "id": "RDCLAK5uy_nw_HsAh4RUoqLazzpalfWycO3BItUjEmY",
+      "etag": "n9XO0VXzSQfJvKPzB2RlMNt_th0",
+      "id": "RDCLAK5uy_kin0MAUvYbTliP37UbusA-bB2UhVu56nE",
       "snippet": {
         "publishedAt": "1970-01-01T00:00:00Z",
         "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Queens of Rap",
-        "description": "Listen to this collection of the fiercest tracks from hip hop's most talented women",
+        "title": "Presenting Djonga",
+        "description": "The most played hits and essential tracks.",
         "thumbnails": {
           "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nw_HsAh4RUoqLazzpalfWycO3BItUjEmY/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICL-mtrYGEAE=&rs=AOn4CLDcciWoHVxFVwU7e877NxcWo_Os7w&v=1724748607",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kin0MAUvYbTliP37UbusA-bB2UhVu56nE/mqdefault.jpg?sqp=CODAlbgGir7X7AMICO2wk7gGEAE=&rs=AOn4CLB_JSrw_JmcR2YRKpGh3oD3-YSzag&v=1728370797",
             "width": 180,
             "height": 180
           },
           "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nw_HsAh4RUoqLazzpalfWycO3BItUjEmY/sddefault.jpg?sqp=CKCSt7YGir7X7AMICL-mtrYGEAE=&rs=AOn4CLAtdIuBnl4Y0kXfoNRblvqKqsBt0w&v=1724748607",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kin0MAUvYbTliP37UbusA-bB2UhVu56nE/sddefault.jpg?sqp=CODAlbgGir7X7AMICO2wk7gGEAE=&rs=AOn4CLBaWZR7fZ2dokaSEVvdeIrPJXIicw&v=1728370797",
             "width": 640,
             "height": 640
           },
           "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nw_HsAh4RUoqLazzpalfWycO3BItUjEmY/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICL-mtrYGEAE=&rs=AOn4CLDGsjzRXhbe1L8rIoMR0RhOswAXMw&v=1724748607",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kin0MAUvYbTliP37UbusA-bB2UhVu56nE/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICO2wk7gGEAE=&rs=AOn4CLBlvq7hOyNgiMuQPE1SUBX4jbwjcg&v=1728370797",
             "width": 1200,
             "height": 1200
           }
@@ -115,8 +115,8 @@
         "channelTitle": "YouTube",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Queens of Rap",
-          "description": "Listen to this collection of the fiercest tracks from hip hop's most talented women"
+          "title": "Presenting Djonga",
+          "description": "The most played hits and essential tracks."
         }
       },
       "status": {
@@ -128,26 +128,26 @@
     },
     {
       "kind": "youtube#playlist",
-      "etag": "4DeQW4ne9Rnph0vqrXZw5Bem-50",
-      "id": "RDCLAK5uy_k11GoMSHmAEG5KtL-lsQPf_8hZoUnH0JE",
+      "etag": "zMwyzeIKNhA301DeySkgl-AzkF0",
+      "id": "RDCLAK5uy_kaEQWGbmX46KNJgmRsp87bJ57kRh4CBTQ",
       "snippet": {
         "publishedAt": "1970-01-01T00:00:00Z",
         "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Mood: Beach",
-        "description": "Feel like you are at the beach, enjoying the sun and having a great time with your friends",
+        "title": "Produced By: Dr. Dre",
+        "description": "N.W.A., 2pac, Snoop Dogg, Jay-Z, G-Unit, Eminem: Dr. Dre's production resume speaks for itself. Listen to the greatest beats from hip hop's most influential producer.",
         "thumbnails": {
           "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k11GoMSHmAEG5KtL-lsQPf_8hZoUnH0JE/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICOaSsrYGEAE=&rs=AOn4CLBfvukj9aLS6X0DN5vt1yTGNX3rDg&v=1724680550",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kaEQWGbmX46KNJgmRsp87bJ57kRh4CBTQ/mqdefault.jpg?sqp=CODAlbgGir7X7AMICPK_kbgGEAE=&rs=AOn4CLC7u76_mGAIIrxbocGZIVwKFwLkgA&v=1728339954",
             "width": 180,
             "height": 180
           },
           "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k11GoMSHmAEG5KtL-lsQPf_8hZoUnH0JE/sddefault.jpg?sqp=CKCSt7YGir7X7AMICOaSsrYGEAE=&rs=AOn4CLDIkivBRc8TjO2ian9idX5te-koCg&v=1724680550",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kaEQWGbmX46KNJgmRsp87bJ57kRh4CBTQ/sddefault.jpg?sqp=CODAlbgGir7X7AMICPK_kbgGEAE=&rs=AOn4CLBeaO_FGlSPeuQnYrkZc3qSnVn2Jg&v=1728339954",
             "width": 640,
             "height": 640
           },
           "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k11GoMSHmAEG5KtL-lsQPf_8hZoUnH0JE/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICOaSsrYGEAE=&rs=AOn4CLAYjGqB04SSE6PsTEl42GhtjpHECg&v=1724680550",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kaEQWGbmX46KNJgmRsp87bJ57kRh4CBTQ/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICPK_kbgGEAE=&rs=AOn4CLD7YQrl_3Xu8F0F7wBe1Ad8NdOZog&v=1728339954",
             "width": 1200,
             "height": 1200
           }
@@ -155,39 +155,39 @@
         "channelTitle": "YouTube",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Mood: Beach",
-          "description": "Feel like you are at the beach, enjoying the sun and having a great time with your friends"
+          "title": "Produced By: Dr. Dre",
+          "description": "N.W.A., 2pac, Snoop Dogg, Jay-Z, G-Unit, Eminem: Dr. Dre's production resume speaks for itself. Listen to the greatest beats from hip hop's most influential producer."
         }
       },
       "status": {
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 85
+        "itemCount": 83
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "k0v4Wpt2yV3zE7csDMqucvYzrFE",
-      "id": "RDCLAK5uy_nBQm8_YpP--R6zU8p3dypKm1QKqzWY6qU",
+      "etag": "ccgWcXnBo5kLvVnF7rTrBonaxDM",
+      "id": "RDCLAK5uy_krjFmKbzWzkGvhqkYvvNnUbdrHy0QN1S8",
       "snippet": {
         "publishedAt": "1970-01-01T00:00:00Z",
         "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Feeling Epic EDM",
-        "description": "Get yourself moving with these high energy Dance anthems!",
+        "title": "Sentimental Night-over Hip-Hop/R&B",
+        "description": "Feel the mellow-urban vibe with Korean Hip-Hop/R&B for a moody day. #hiphop #rnb #sad",
         "thumbnails": {
           "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nBQm8_YpP--R6zU8p3dypKm1QKqzWY6qU/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICNDPtrYGEAE=&rs=AOn4CLC0ixxyjnopsbnlvAAVVOfoHryd9g&v=1724753872",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_krjFmKbzWzkGvhqkYvvNnUbdrHy0QN1S8/mqdefault.jpg?sqp=CODAlbgGir7X7AMICKrmk7gGEAE=&rs=AOn4CLC0-t13yxQDF03ZsqV0V0oOgmWvEQ&v=1728377642",
             "width": 180,
             "height": 180
           },
           "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nBQm8_YpP--R6zU8p3dypKm1QKqzWY6qU/sddefault.jpg?sqp=CKCSt7YGir7X7AMICNDPtrYGEAE=&rs=AOn4CLCpKIPwJ_kLNdEbDuD0gEqe6UUvbg&v=1724753872",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_krjFmKbzWzkGvhqkYvvNnUbdrHy0QN1S8/sddefault.jpg?sqp=CODAlbgGir7X7AMICKrmk7gGEAE=&rs=AOn4CLDTE6J5bqmnzSScKRG_W0jUC6ahxw&v=1728377642",
             "width": 640,
             "height": 640
           },
           "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nBQm8_YpP--R6zU8p3dypKm1QKqzWY6qU/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICNDPtrYGEAE=&rs=AOn4CLDE7CagpEc2K8m0V7BipZloWhkH2w&v=1724753872",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_krjFmKbzWzkGvhqkYvvNnUbdrHy0QN1S8/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICKrmk7gGEAE=&rs=AOn4CLDqg8iLe-FszNH35IDubM6U0XYZ1A&v=1728377642",
             "width": 1200,
             "height": 1200
           }
@@ -195,408 +195,8 @@
         "channelTitle": "YouTube",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Feeling Epic EDM",
-          "description": "Get yourself moving with these high energy Dance anthems!"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 114
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "bTCYIa6NAV1ABiZ0l1mNCPnFKPk",
-      "id": "RDCLAK5uy_noA_LBnBbj0hdkOq1UGHUSscifZ2C5iQE",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Country Rock ",
-        "description": "Ignite your day with this mix of country hits and rock classics. #country #rock #hits",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_noA_LBnBbj0hdkOq1UGHUSscifZ2C5iQE/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICMXDsrYGEAE=&rs=AOn4CLBHTyMYg1Cp1m6dwgaBWEwrBIOtKw&v=1724686789",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_noA_LBnBbj0hdkOq1UGHUSscifZ2C5iQE/sddefault.jpg?sqp=CKCSt7YGir7X7AMICMXDsrYGEAE=&rs=AOn4CLAO4M17kwsbbZgtTtUrbZ_8SWWt7A&v=1724686789",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_noA_LBnBbj0hdkOq1UGHUSscifZ2C5iQE/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICMXDsrYGEAE=&rs=AOn4CLB6E6L2qMVuA6sOV0oexNRO1t4LSA&v=1724686789",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Country Rock ",
-          "description": "Ignite your day with this mix of country hits and rock classics. #country #rock #hits"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 79
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "HWXBC-ypoNmyjE3q_8pYp3XlO5A",
-      "id": "RDCLAK5uy_mPqT1su7A0jeg2kTWdhj7I6JyDfwD4O-4",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Rage Rock",
-        "description": "Tap into your angst with aggressive alt-metal and hard rock anthems.",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mPqT1su7A0jeg2kTWdhj7I6JyDfwD4O-4/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICN-ttbYGEAE=&rs=AOn4CLCxV3S4zHv-QC2-4NtTiWj1GXeqNA&v=1724733151",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mPqT1su7A0jeg2kTWdhj7I6JyDfwD4O-4/sddefault.jpg?sqp=CKCSt7YGir7X7AMICN-ttbYGEAE=&rs=AOn4CLBCiiiqERCboIdYMbCRwkS4asMhqw&v=1724733151",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mPqT1su7A0jeg2kTWdhj7I6JyDfwD4O-4/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICN-ttbYGEAE=&rs=AOn4CLA5FCxoBhhVRxY-Uyo20YMkdiK_oA&v=1724733151",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Rage Rock",
-          "description": "Tap into your angst with aggressive alt-metal and hard rock anthems."
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 67
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "k-ZhbJ0RHy6Mcix1ZQGQUTnHHxs",
-      "id": "RDCLAK5uy_mpx6f-Md6iPbWSaizatzQIHfcF33fmT7E",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Essential '90s Hip Hop",
-        "description": "Relive boom bap, the Jiggy era and the rise of gangsta rap with these timeless hip hop classics from the 1990s.\n#hiphop #90s #essentials",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mpx6f-Md6iPbWSaizatzQIHfcF33fmT7E/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICKGksrYGEAE=&rs=AOn4CLDXb_U5kFvhrHWxLiQaBx8BmNupCA&v=1724682785",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mpx6f-Md6iPbWSaizatzQIHfcF33fmT7E/sddefault.jpg?sqp=CKCSt7YGir7X7AMICKGksrYGEAE=&rs=AOn4CLDsfCBguLzvJT4QCj7I4jWK0SgNRQ&v=1724682785",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mpx6f-Md6iPbWSaizatzQIHfcF33fmT7E/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICKGksrYGEAE=&rs=AOn4CLDuG7l1Q-Jy6HPi7QjPWVlRXxYN-g&v=1724682785",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Essential '90s Hip Hop",
-          "description": "Relive boom bap, the Jiggy era and the rise of gangsta rap with these timeless hip hop classics from the 1990s.\n#hiphop #90s #essentials"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 121
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "WR981-d6MRlcGU2fon_1BC0IgRw",
-      "id": "RDCLAK5uy_l70bSMa3aOX5oPp8j7Of_22VHbSDRGyYE",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "00's OPM",
-        "description": "Original Pilipino Music hits of the 00s",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l70bSMa3aOX5oPp8j7Of_22VHbSDRGyYE/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICNGatrYGEAE=&rs=AOn4CLAtgMasysm9o9o3dqKKSqOWiNR3gQ&v=1724747089",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l70bSMa3aOX5oPp8j7Of_22VHbSDRGyYE/sddefault.jpg?sqp=CKCSt7YGir7X7AMICNGatrYGEAE=&rs=AOn4CLDERklSJjIKX49vu-UiygWmVKfKmA&v=1724747089",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l70bSMa3aOX5oPp8j7Of_22VHbSDRGyYE/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICNGatrYGEAE=&rs=AOn4CLCMlNTEJj1yfe2-2kTrVM5XgTmjcg&v=1724747089",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "00's OPM",
-          "description": "Original Pilipino Music hits of the 00s"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 60
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "N1CqNZbo2wKPlUUkYc4I5uYK00E",
-      "id": "RDCLAK5uy_lxz1SeC-dOdPiaFdndgqIrhnAfwv1DohM",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "K-Pop Boy Band Essentials",
-        "description": "Meet the most popular and trendy K-Pop boy bands who are leading the K-Pop culture worldwide!",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lxz1SeC-dOdPiaFdndgqIrhnAfwv1DohM/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICN6OtrYGEAE=&rs=AOn4CLA5qecYqpRcUJGX6s6iadnoEX-6Cw&v=1724745566",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lxz1SeC-dOdPiaFdndgqIrhnAfwv1DohM/sddefault.jpg?sqp=CKCSt7YGir7X7AMICN6OtrYGEAE=&rs=AOn4CLC4oV-HdpdXEiHesJ7fvSiuX4aeKQ&v=1724745566",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lxz1SeC-dOdPiaFdndgqIrhnAfwv1DohM/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICN6OtrYGEAE=&rs=AOn4CLClQCJCiRDWhEo1-PUm4kkzPM94MA&v=1724745566",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "K-Pop Boy Band Essentials",
-          "description": "Meet the most popular and trendy K-Pop boy bands who are leading the K-Pop culture worldwide!"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 134
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "JwHGr_Bda2URZxzxZPNcyNIZ6Ps",
-      "id": "RDCLAK5uy_kP2172rQNb3KFXz880xp6M98R_ME5CIKA",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Hip-Hop Classics",
-        "description": "hip-hop's biggest anthems.",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kP2172rQNb3KFXz880xp6M98R_ME5CIKA/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICK2Et7YGEAE=&rs=AOn4CLB2cmGTBYqgBqSEBjvXc3nwF0VdxQ&v=1724760621",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kP2172rQNb3KFXz880xp6M98R_ME5CIKA/sddefault.jpg?sqp=CKCSt7YGir7X7AMICK2Et7YGEAE=&rs=AOn4CLDjY6andEDdGC5whLfsdYYpaaGh0Q&v=1724760621",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kP2172rQNb3KFXz880xp6M98R_ME5CIKA/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICK2Et7YGEAE=&rs=AOn4CLBypfkJq53r4zPn2Yt7YdLvOhCMYg&v=1724760621",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Hip-Hop Classics",
-          "description": "hip-hop's biggest anthems."
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 92
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "ANrtbisRRTdXCnqJqpJs1M1QbXI",
-      "id": "RDCLAK5uy_nINUkCrIfiuPLhBRLX9AvBv34W8Bbat3A",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Bad Gal Pregame",
-        "description": "Get the vibes going with this party-ready playlist. ",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nINUkCrIfiuPLhBRLX9AvBv34W8Bbat3A/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICPGdtLYGEAE=&rs=AOn4CLAeuak8gQHQx-Oj_ubhNX6LADzY1w&v=1724714737",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nINUkCrIfiuPLhBRLX9AvBv34W8Bbat3A/sddefault.jpg?sqp=CKCSt7YGir7X7AMICPGdtLYGEAE=&rs=AOn4CLAU3-Gp7e61dWiypBEkK5QkXlibzw&v=1724714737",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nINUkCrIfiuPLhBRLX9AvBv34W8Bbat3A/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICPGdtLYGEAE=&rs=AOn4CLBKMf7-gJsm8W-Nu7qT2K6EfJLezA&v=1724714737",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Bad Gal Pregame",
-          "description": "Get the vibes going with this party-ready playlist. "
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 48
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "ULSRdeE3p4q1nDscwltpYiqaSl0",
-      "id": "RDCLAK5uy_l_2hw6aZpjgIxEsMFWku27S5_WJDv9m1E",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Dinner Party Jazz",
-        "description": "Set a sophisticated mood for your soirée.",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l_2hw6aZpjgIxEsMFWku27S5_WJDv9m1E/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICMmgsrYGEAE=&rs=AOn4CLAgjIkY_u4YO1WR13fSRmFy1AszVA&v=1724682313",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l_2hw6aZpjgIxEsMFWku27S5_WJDv9m1E/sddefault.jpg?sqp=CKCSt7YGir7X7AMICMmgsrYGEAE=&rs=AOn4CLAp0C9ZjAwYZZFMlknAdMG37uTsBg&v=1724682313",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l_2hw6aZpjgIxEsMFWku27S5_WJDv9m1E/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICMmgsrYGEAE=&rs=AOn4CLB41jZ4IAMU_oiXq9O5jW2x1iPYpQ&v=1724682313",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Dinner Party Jazz",
-          "description": "Set a sophisticated mood for your soirée."
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 100
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "dNfqvIUIChNgANMnjd7zbMLzI8w",
-      "id": "RDCLAK5uy_l_55_sN_r4EK6rLXumYGyCsrwzNjFKTuA",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Spring Korean Indie Music ",
-        "description": "Enjoy your days of Spring with the sounds of Korean Indie Music.  ",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l_55_sN_r4EK6rLXumYGyCsrwzNjFKTuA/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICPrBtbYGEAE=&rs=AOn4CLCE_Xf3TnzbNhJPmFfKaKiUg-1hMQ&v=1724735738",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l_55_sN_r4EK6rLXumYGyCsrwzNjFKTuA/sddefault.jpg?sqp=CKCSt7YGir7X7AMICPrBtbYGEAE=&rs=AOn4CLDV1QYu6WSHRHwBOZeHyAgcYlRNbA&v=1724735738",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l_55_sN_r4EK6rLXumYGyCsrwzNjFKTuA/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICPrBtbYGEAE=&rs=AOn4CLDJK3Tf9fU-khA-Ch7Erm3YJRN-TQ&v=1724735738",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Spring Korean Indie Music ",
-          "description": "Enjoy your days of Spring with the sounds of Korean Indie Music.  "
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 110
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "L7hTKTt1dLHs4Rd5xNScKBNPvRc",
-      "id": "RDCLAK5uy_n2hLtXIqBZjb4u1CHzgz4MPjlxhKbrQf0",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Amapiano Hits of 2023\n",
-        "description": "Experience the sound of 2023 with this collection of some of the biggest Aamapiano hits of the year",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n2hLtXIqBZjb4u1CHzgz4MPjlxhKbrQf0/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICPGts7YGEAE=&rs=AOn4CLBkI3fUj5mEwNqfu2VGYcecRxekdQ&v=1724700401",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n2hLtXIqBZjb4u1CHzgz4MPjlxhKbrQf0/sddefault.jpg?sqp=CKCSt7YGir7X7AMICPGts7YGEAE=&rs=AOn4CLBtxXwQdpVn19Rye3hbRb8SjWgyJQ&v=1724700401",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n2hLtXIqBZjb4u1CHzgz4MPjlxhKbrQf0/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICPGts7YGEAE=&rs=AOn4CLAuoYHa8rvOBR2tPngrpDwdiGoHsw&v=1724700401",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Amapiano Hits of 2023\n",
-          "description": "Experience the sound of 2023 with this collection of some of the biggest Aamapiano hits of the year"
+          "title": "Sentimental Night-over Hip-Hop/R&B",
+          "description": "Feel the mellow-urban vibe with Korean Hip-Hop/R&B for a moody day. #hiphop #rnb #sad"
         }
       },
       "status": {
@@ -608,26 +208,26 @@
     },
     {
       "kind": "youtube#playlist",
-      "etag": "cbFXTdkfhR6AgDV-p2Ss4yGuvWg",
-      "id": "RDCLAK5uy_nPxXg1gYFA4ZfQ0ke7N8ONHUPg5Ovr7AU",
+      "etag": "u2NzOquXb1ypX0oGwwUvaef-GC4",
+      "id": "RDCLAK5uy_lz9sz8QrlhkrIzEXKrEQV-ulusmaZ00gM",
       "snippet": {
         "publishedAt": "1970-01-01T00:00:00Z",
         "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Anime's Biggest Hits",
-        "description": "Generation-spanning Anime hits that are familiar to millions.  #anime #hit #anison",
+        "title": "Electrojazz",
+        "description": "Contemporary compositions from musicians and producers who mix jazz, hip hop and electronica into a groovy new sound.",
         "thumbnails": {
           "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nPxXg1gYFA4ZfQ0ke7N8ONHUPg5Ovr7AU/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICPCgtLYGEAE=&rs=AOn4CLA44NHR9cR3Vi7LLAcnK_q1gw1btQ&v=1724715120",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lz9sz8QrlhkrIzEXKrEQV-ulusmaZ00gM/mqdefault.jpg?sqp=CODAlbgGir7X7AMICJa_k7gGEAE=&rs=AOn4CLCsJrsIZKXttlgmm81YrHwQqyX2-w&v=1728372630",
             "width": 180,
             "height": 180
           },
           "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nPxXg1gYFA4ZfQ0ke7N8ONHUPg5Ovr7AU/sddefault.jpg?sqp=CKCSt7YGir7X7AMICPCgtLYGEAE=&rs=AOn4CLBFfOT7fYEHloXtthGaM53SPfRWCQ&v=1724715120",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lz9sz8QrlhkrIzEXKrEQV-ulusmaZ00gM/sddefault.jpg?sqp=CODAlbgGir7X7AMICJa_k7gGEAE=&rs=AOn4CLAC70YZN-CkVaOGX-9M0w1U6vEcDw&v=1728372630",
             "width": 640,
             "height": 640
           },
           "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nPxXg1gYFA4ZfQ0ke7N8ONHUPg5Ovr7AU/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICPCgtLYGEAE=&rs=AOn4CLD5EFkBQrDfBWOeIjKn4w3uEtIlXQ&v=1724715120",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lz9sz8QrlhkrIzEXKrEQV-ulusmaZ00gM/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICJa_k7gGEAE=&rs=AOn4CLDzR4kRY85jmUzO74-ctxlD9vQtHQ&v=1728372630",
             "width": 1200,
             "height": 1200
           }
@@ -635,48 +235,8 @@
         "channelTitle": "YouTube",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Anime's Biggest Hits",
-          "description": "Generation-spanning Anime hits that are familiar to millions.  #anime #hit #anison"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 82
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "nP8KEAYL2udQwXNGGK5J0GUo8gE",
-      "id": "RDCLAK5uy_k5vcGRXixxemtzK1eKDS7BeHys7mvYOdk",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Maximum Decibels: Today's Rock Hits",
-        "description": "The best rock tracks from up-and-coming acts as well as the hottest new music from today's biggest stars.",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k5vcGRXixxemtzK1eKDS7BeHys7mvYOdk/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICNGOt7YGEAE=&rs=AOn4CLAwQ5ItF9CvQ2BbcmUVRQ7Dn_n0tg&v=1724761937",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k5vcGRXixxemtzK1eKDS7BeHys7mvYOdk/sddefault.jpg?sqp=CKCSt7YGir7X7AMICNGOt7YGEAE=&rs=AOn4CLDjnAr_enCjDeZFgpM4sWeVnTcsrw&v=1724761937",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k5vcGRXixxemtzK1eKDS7BeHys7mvYOdk/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICNGOt7YGEAE=&rs=AOn4CLDihogZ-YX6I95HaTw-7siDhVeMWA&v=1724761937",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Maximum Decibels: Today's Rock Hits",
-          "description": "The best rock tracks from up-and-coming acts as well as the hottest new music from today's biggest stars."
+          "title": "Electrojazz",
+          "description": "Contemporary compositions from musicians and producers who mix jazz, hip hop and electronica into a groovy new sound."
         }
       },
       "status": {
@@ -688,26 +248,26 @@
     },
     {
       "kind": "youtube#playlist",
-      "etag": "YgrOY81_O1Se634lyJjZNoiIUOk",
-      "id": "RDCLAK5uy_ltNvIv9bI3NisdMjr-mGJBNQ1gf58Y52k",
+      "etag": "03yClFvEx0rRCVZV2a142830gGo",
+      "id": "RDCLAK5uy_lRC7pRs5rDCrqgUKul8Dz3GAez1MPfsM0",
       "snippet": {
         "publishedAt": "1970-01-01T00:00:00Z",
         "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Presenting Slipknot",
+        "title": "Presenting Nio García",
         "description": "The most played hits and essential tracks.",
         "thumbnails": {
           "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ltNvIv9bI3NisdMjr-mGJBNQ1gf58Y52k/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICJnTtbYGEAE=&rs=AOn4CLD3vgGN_szv58WKpMSB8NK80H5bgg&v=1724737945",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lRC7pRs5rDCrqgUKul8Dz3GAez1MPfsM0/mqdefault.jpg?sqp=CODAlbgGir7X7AMICI_kk7gGEAE=&rs=AOn4CLC3Xa6x4ZLAEZKueAle1FEeuDyMqQ&v=1728377359",
             "width": 180,
             "height": 180
           },
           "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ltNvIv9bI3NisdMjr-mGJBNQ1gf58Y52k/sddefault.jpg?sqp=CKCSt7YGir7X7AMICJnTtbYGEAE=&rs=AOn4CLCYinXSHZUhJJB_f_X5cM0ogbsTZg&v=1724737945",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lRC7pRs5rDCrqgUKul8Dz3GAez1MPfsM0/sddefault.jpg?sqp=CODAlbgGir7X7AMICI_kk7gGEAE=&rs=AOn4CLDmtdKbs30obNb_dN-PxniMLHdCkg&v=1728377359",
             "width": 640,
             "height": 640
           },
           "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ltNvIv9bI3NisdMjr-mGJBNQ1gf58Y52k/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICJnTtbYGEAE=&rs=AOn4CLBkCtj4wNM3o8Nlvbm9E4_Id9mh8g&v=1724737945",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lRC7pRs5rDCrqgUKul8Dz3GAez1MPfsM0/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICI_kk7gGEAE=&rs=AOn4CLAVDHnfKO9hY8D_JiEepA5oqkUs4g&v=1728377359",
             "width": 1200,
             "height": 1200
           }
@@ -715,7 +275,7 @@
         "channelTitle": "YouTube",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Presenting Slipknot",
+          "title": "Presenting Nio García",
           "description": "The most played hits and essential tracks."
         }
       },
@@ -723,111 +283,31 @@
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 27
+        "itemCount": 42
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "TCZmS2k8erLwhrml0-yExiN3-Bc",
-      "id": "RDCLAK5uy_kPjcoqujX4nTKs3YhCKNIZtS67cICOsYc",
+      "etag": "hAesMfXaPXSe1wSTcbJVZZKExLw",
+      "id": "RDCLAK5uy_m890C-DqbRDCiDlweM6cgUu04laY9YGjk",
       "snippet": {
         "publishedAt": "1970-01-01T00:00:00Z",
         "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "'90s Pop-Punk",
-        "description": "Tap into your teenage angst with classic songs from the '90s era of pop punk.",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kPjcoqujX4nTKs3YhCKNIZtS67cICOsYc/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICMHHtbYGEAE=&rs=AOn4CLBkG1fc4tXlWGKCZ25raj-7MYJKpA&v=1724736449",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kPjcoqujX4nTKs3YhCKNIZtS67cICOsYc/sddefault.jpg?sqp=CKCSt7YGir7X7AMICMHHtbYGEAE=&rs=AOn4CLCNuIaj8vWPfhzG7TSxW1RAkxMFoQ&v=1724736449",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kPjcoqujX4nTKs3YhCKNIZtS67cICOsYc/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICMHHtbYGEAE=&rs=AOn4CLBqt_ioIHvFvL531zNCRS9hK_93wA&v=1724736449",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "'90s Pop-Punk",
-          "description": "Tap into your teenage angst with classic songs from the '90s era of pop punk."
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 85
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "a2ckr0GXysp9WwxvMzTbiUKW5mA",
-      "id": "RDCLAK5uy_mHW5bcduhjB-PkTePAe6EoRMj1xNT8gzY",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "K-Pop Girl Crush",
-        "description": "Only the strong sound and charismatic performance from the leading K-Pop girl group. #kpop #girlgroup #pumpup",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mHW5bcduhjB-PkTePAe6EoRMj1xNT8gzY/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICKqSs7YGEAE=&rs=AOn4CLBSdUEDjC55fL7PU6HouOjv9mYhfg&v=1724696874",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mHW5bcduhjB-PkTePAe6EoRMj1xNT8gzY/sddefault.jpg?sqp=CKCSt7YGir7X7AMICKqSs7YGEAE=&rs=AOn4CLAqhISlasUzKx0DdFB8oKbZ2aBZJg&v=1724696874",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mHW5bcduhjB-PkTePAe6EoRMj1xNT8gzY/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICKqSs7YGEAE=&rs=AOn4CLCFsCwb6EkhuSlXfpASZByKhwZclA&v=1724696874",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "K-Pop Girl Crush",
-          "description": "Only the strong sound and charismatic performance from the leading K-Pop girl group. #kpop #girlgroup #pumpup"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 89
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "YgrOY81_O1Se634lyJjZNoiIUOk",
-      "id": "RDCLAK5uy_ltNvIv9bI3NisdMjr-mGJBNQ1gf58Y52k",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Presenting Slipknot",
+        "title": "Presenting Young Thug",
         "description": "The most played hits and essential tracks.",
         "thumbnails": {
           "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ltNvIv9bI3NisdMjr-mGJBNQ1gf58Y52k/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICJnTtbYGEAE=&rs=AOn4CLD3vgGN_szv58WKpMSB8NK80H5bgg&v=1724737945",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m890C-DqbRDCiDlweM6cgUu04laY9YGjk/mqdefault.jpg?sqp=CODAlbgGir7X7AMICIHekbgGEAE=&rs=AOn4CLB5LCAcrZIZkVXsFvTVesD089GoUw&v=1728343809",
             "width": 180,
             "height": 180
           },
           "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ltNvIv9bI3NisdMjr-mGJBNQ1gf58Y52k/sddefault.jpg?sqp=CKCSt7YGir7X7AMICJnTtbYGEAE=&rs=AOn4CLCYinXSHZUhJJB_f_X5cM0ogbsTZg&v=1724737945",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m890C-DqbRDCiDlweM6cgUu04laY9YGjk/sddefault.jpg?sqp=CODAlbgGir7X7AMICIHekbgGEAE=&rs=AOn4CLC74Qw2OacVKN14A0IqFkPdxSUwuA&v=1728343809",
             "width": 640,
             "height": 640
           },
           "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ltNvIv9bI3NisdMjr-mGJBNQ1gf58Y52k/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICJnTtbYGEAE=&rs=AOn4CLBkCtj4wNM3o8Nlvbm9E4_Id9mh8g&v=1724737945",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m890C-DqbRDCiDlweM6cgUu04laY9YGjk/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICIHekbgGEAE=&rs=AOn4CLCSdEyx3G8-HOEdHQQeHE69NTQu9g&v=1728343809",
             "width": 1200,
             "height": 1200
           }
@@ -835,7 +315,7 @@
         "channelTitle": "YouTube",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Presenting Slipknot",
+          "title": "Presenting Young Thug",
           "description": "The most played hits and essential tracks."
         }
       },
@@ -843,151 +323,31 @@
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 27
+        "itemCount": 54
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "TCZmS2k8erLwhrml0-yExiN3-Bc",
-      "id": "RDCLAK5uy_kPjcoqujX4nTKs3YhCKNIZtS67cICOsYc",
+      "etag": "0JSn8IiTqAA9DaCpSgATsbJQoZk",
+      "id": "RDCLAK5uy_lzTUGzLvTt-Av85wBra4epLXZ67L9FXEk",
       "snippet": {
         "publishedAt": "1970-01-01T00:00:00Z",
         "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "'90s Pop-Punk",
-        "description": "Tap into your teenage angst with classic songs from the '90s era of pop punk.",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kPjcoqujX4nTKs3YhCKNIZtS67cICOsYc/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICMHHtbYGEAE=&rs=AOn4CLBkG1fc4tXlWGKCZ25raj-7MYJKpA&v=1724736449",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kPjcoqujX4nTKs3YhCKNIZtS67cICOsYc/sddefault.jpg?sqp=CKCSt7YGir7X7AMICMHHtbYGEAE=&rs=AOn4CLCNuIaj8vWPfhzG7TSxW1RAkxMFoQ&v=1724736449",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kPjcoqujX4nTKs3YhCKNIZtS67cICOsYc/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICMHHtbYGEAE=&rs=AOn4CLBqt_ioIHvFvL531zNCRS9hK_93wA&v=1724736449",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "'90s Pop-Punk",
-          "description": "Tap into your teenage angst with classic songs from the '90s era of pop punk."
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 85
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "9U452GrxaHl7iP2ZW1HCQNjq9uo",
-      "id": "RDCLAK5uy_nQ7zJT5SkLuI4COHNLXeDYvjY8XQpz--U",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Heartbroken",
-        "description": "The ultimate playlist to accompany your broken heart. #pop #love #sad",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nQ7zJT5SkLuI4COHNLXeDYvjY8XQpz--U/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICNj7trYGEAE=&rs=AOn4CLBlYdudki9gnWULud4RG_r1KfmI8Q&v=1724759512",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nQ7zJT5SkLuI4COHNLXeDYvjY8XQpz--U/sddefault.jpg?sqp=CKCSt7YGir7X7AMICNj7trYGEAE=&rs=AOn4CLACYq675HDI6_gjjb3PmmshjtJRSQ&v=1724759512",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nQ7zJT5SkLuI4COHNLXeDYvjY8XQpz--U/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICNj7trYGEAE=&rs=AOn4CLC4mecr_xD--dFZsYON5v8yzN14jQ&v=1724759512",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Heartbroken",
-          "description": "The ultimate playlist to accompany your broken heart. #pop #love #sad"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 100
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "a2ckr0GXysp9WwxvMzTbiUKW5mA",
-      "id": "RDCLAK5uy_mHW5bcduhjB-PkTePAe6EoRMj1xNT8gzY",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "K-Pop Girl Crush",
-        "description": "Only the strong sound and charismatic performance from the leading K-Pop girl group. #kpop #girlgroup #pumpup",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mHW5bcduhjB-PkTePAe6EoRMj1xNT8gzY/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICKqSs7YGEAE=&rs=AOn4CLBSdUEDjC55fL7PU6HouOjv9mYhfg&v=1724696874",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mHW5bcduhjB-PkTePAe6EoRMj1xNT8gzY/sddefault.jpg?sqp=CKCSt7YGir7X7AMICKqSs7YGEAE=&rs=AOn4CLAqhISlasUzKx0DdFB8oKbZ2aBZJg&v=1724696874",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mHW5bcduhjB-PkTePAe6EoRMj1xNT8gzY/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICKqSs7YGEAE=&rs=AOn4CLCFsCwb6EkhuSlXfpASZByKhwZclA&v=1724696874",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "K-Pop Girl Crush",
-          "description": "Only the strong sound and charismatic performance from the leading K-Pop girl group. #kpop #girlgroup #pumpup"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 89
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "NdFJ1382J3I1h1JKSVxC4xjHcVM",
-      "id": "RDCLAK5uy_nP1U38z5TIWBgTTiXDBgO_3DaHSaotjbc",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Presenting Rammstein",
+        "title": "Presenting Lil Durk",
         "description": "The most played hits and essential tracks.",
         "thumbnails": {
           "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nP1U38z5TIWBgTTiXDBgO_3DaHSaotjbc/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICN79sbYGEAE=&rs=AOn4CLCiKQgXxlKoV43sFQRoGLlNNUi91w&v=1724677854",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lzTUGzLvTt-Av85wBra4epLXZ67L9FXEk/mqdefault.jpg?sqp=CODAlbgGir7X7AMICMX8k7gGEAE=&rs=AOn4CLDQOvDrUwpF_zV26YCqdHHxqDTcJg&v=1728380485",
             "width": 180,
             "height": 180
           },
           "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nP1U38z5TIWBgTTiXDBgO_3DaHSaotjbc/sddefault.jpg?sqp=CKCSt7YGir7X7AMICN79sbYGEAE=&rs=AOn4CLAdsv-5UxQEZ7XYXNExPNHUURSgow&v=1724677854",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lzTUGzLvTt-Av85wBra4epLXZ67L9FXEk/sddefault.jpg?sqp=CODAlbgGir7X7AMICMX8k7gGEAE=&rs=AOn4CLCr2Pj8lPr1E-tHhbuzdbiKrCUvLw&v=1728380485",
             "width": 640,
             "height": 640
           },
           "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nP1U38z5TIWBgTTiXDBgO_3DaHSaotjbc/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICN79sbYGEAE=&rs=AOn4CLCKC_rmUQVdKXY-BVdLOdnitD6zxQ&v=1724677854",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lzTUGzLvTt-Av85wBra4epLXZ67L9FXEk/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICMX8k7gGEAE=&rs=AOn4CLAgj_w4_JPm5_IPF9iAV58GNVxOrw&v=1728380485",
             "width": 1200,
             "height": 1200
           }
@@ -995,128 +355,8 @@
         "channelTitle": "YouTube",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Presenting Rammstein",
+          "title": "Presenting Lil Durk",
           "description": "The most played hits and essential tracks."
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 46
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "dYFtNDMxkZmvm1warA_0V5Ja7rY",
-      "id": "RDCLAK5uy_lNVY90Z_CDsPEj_MFppWUlkpp_WB50mSo",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Best of Indonesian Pop",
-        "description": "Collection of the best Indonesian Pop songs of all time. #pop #essentials #hits",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lNVY90Z_CDsPEj_MFppWUlkpp_WB50mSo/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICOyltrYGEAE=&rs=AOn4CLBSZxy0iRPymUKJqVwsgSH2lxql1g&v=1724748524",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lNVY90Z_CDsPEj_MFppWUlkpp_WB50mSo/sddefault.jpg?sqp=CKCSt7YGir7X7AMICOyltrYGEAE=&rs=AOn4CLDE3YRt9G85YpFSdXPTJNNWnxmDoQ&v=1724748524",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lNVY90Z_CDsPEj_MFppWUlkpp_WB50mSo/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICOyltrYGEAE=&rs=AOn4CLBTNn7AlQl-F1x3CGwaosD5cZRb6w&v=1724748524",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Best of Indonesian Pop",
-          "description": "Collection of the best Indonesian Pop songs of all time. #pop #essentials #hits"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 99
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "UA9PX7Q5YalAPJlXeyb3ADhH_nA",
-      "id": "RDCLAK5uy_k3XMatQZ2XwY8GnzFyVl9gFAcCxHGVWRw",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Latin Hits 2023",
-        "description": "Experience the sound of 2023 with this collection of some of the biggest Latin hits of the year.",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k3XMatQZ2XwY8GnzFyVl9gFAcCxHGVWRw/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICIvdtrYGEAE=&rs=AOn4CLC87A08WF0VA6hsY79CAhGhpknHkw&v=1724755595",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k3XMatQZ2XwY8GnzFyVl9gFAcCxHGVWRw/sddefault.jpg?sqp=CKCSt7YGir7X7AMICIvdtrYGEAE=&rs=AOn4CLDlMW3QTyo0Z8U0MH8TdqNwOsezfg&v=1724755595",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k3XMatQZ2XwY8GnzFyVl9gFAcCxHGVWRw/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICIvdtrYGEAE=&rs=AOn4CLAgzVqpervIRw0EPpdTiw9hqnulGw&v=1724755595",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Latin Hits 2023",
-          "description": "Experience the sound of 2023 with this collection of some of the biggest Latin hits of the year."
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 50
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "_hHn0tDVgSpwgTvu-Rrq-9adfgA",
-      "id": "RDCLAK5uy_kWm5me-X3IbEMBOWHd2fI7d4aQoauMcbI",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Laid-Back Hip Hop",
-        "description": "Kick it with your friends or get into the zone with this laid-back, heady hip hop. #hiphop #relax #focus",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kWm5me-X3IbEMBOWHd2fI7d4aQoauMcbI/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICLv3srYGEAE=&rs=AOn4CLBYR4aH7sX_Wy56l09dX5VxerfR-w&v=1724693435",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kWm5me-X3IbEMBOWHd2fI7d4aQoauMcbI/sddefault.jpg?sqp=CKCSt7YGir7X7AMICLv3srYGEAE=&rs=AOn4CLD1Vw9K89g7b9aMwVoYgPug84wtmQ&v=1724693435",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kWm5me-X3IbEMBOWHd2fI7d4aQoauMcbI/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICLv3srYGEAE=&rs=AOn4CLB-wgTx5XzEbAluFx3n3mnav3AdiA&v=1724693435",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Laid-Back Hip Hop",
-          "description": "Kick it with your friends or get into the zone with this laid-back, heady hip hop. #hiphop #relax #focus"
         }
       },
       "status": {
@@ -1128,7 +368,207 @@
     },
     {
       "kind": "youtube#playlist",
-      "etag": "5C0BOvcSKKEribYJjmlxZ6mmJ2k",
+      "etag": "PCJVsu0MEL8FpKoxZtmozJSaHKY",
+      "id": "RDCLAK5uy_mt6C7iY_Me8o1YVP04pPQSrixjp5jYBmY",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Miyagi & Andy Panda",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mt6C7iY_Me8o1YVP04pPQSrixjp5jYBmY/mqdefault.jpg?sqp=CODAlbgGir7X7AMICKLnkLgGEAE=&rs=AOn4CLAXO3n1CefvWXQM3MjMx-JVNicjKw&v=1728328610",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mt6C7iY_Me8o1YVP04pPQSrixjp5jYBmY/sddefault.jpg?sqp=CODAlbgGir7X7AMICKLnkLgGEAE=&rs=AOn4CLDm2O61k3fdRYzXbETpXaw21UQp8g&v=1728328610",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mt6C7iY_Me8o1YVP04pPQSrixjp5jYBmY/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICKLnkLgGEAE=&rs=AOn4CLBo0oQMv5MoDmdtmVZtagKL3178wQ&v=1728328610",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Miyagi & Andy Panda",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 33
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "CKJ0HiXouIxA5_KICYssO-gGrLc",
+      "id": "RDCLAK5uy_nOX0tkC6ftsZYVjnR1bzb7bK3VMtJSl6k",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Pitbull",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nOX0tkC6ftsZYVjnR1bzb7bK3VMtJSl6k/mqdefault.jpg?sqp=CODAlbgGir7X7AMICLHEk7gGEAE=&rs=AOn4CLBwLfNaIE8ONLsA9vNmWpO7_V2aFA&v=1728373297",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nOX0tkC6ftsZYVjnR1bzb7bK3VMtJSl6k/sddefault.jpg?sqp=CODAlbgGir7X7AMICLHEk7gGEAE=&rs=AOn4CLCIk5YoL4zhGb7-DELHerqkwQ7kiQ&v=1728373297",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nOX0tkC6ftsZYVjnR1bzb7bK3VMtJSl6k/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICLHEk7gGEAE=&rs=AOn4CLA0nssc1yAtAD74B7mnmIIwgNmYIw&v=1728373297",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Pitbull",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 48
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "tU_3bZN_x4tNuLyMe2O6tgpCkjA",
+      "id": "RDCLAK5uy_l8kJfTElp2zFMop7IboOXetbbKU3a9VeQ",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "REST Turkish Rap",
+        "description": "Today's most popular Turkish Rap songs are on REST.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l8kJfTElp2zFMop7IboOXetbbKU3a9VeQ/mqdefault.jpg?sqp=CODAlbgGir7X7AMICOK7krgGEAE=&rs=AOn4CLBrj5zttCXKP7vfD8xUVW1EpdWL0A&v=1728355810",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l8kJfTElp2zFMop7IboOXetbbKU3a9VeQ/sddefault.jpg?sqp=CODAlbgGir7X7AMICOK7krgGEAE=&rs=AOn4CLAcg2ps17BkfX8rEzMLEdnuneH6rg&v=1728355810",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l8kJfTElp2zFMop7IboOXetbbKU3a9VeQ/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICOK7krgGEAE=&rs=AOn4CLDROffZwEz1HhTnbjjZNHj7KZWkiQ&v=1728355810",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "REST Turkish Rap",
+          "description": "Today's most popular Turkish Rap songs are on REST."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 53
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "sRSU7ztPe6Kc5g6hOTQMdBTgdjM",
+      "id": "RDCLAK5uy_nLUMOygwJOsoDb_WlEj8EyihlVJ0d-XNw",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Bashment Party",
+        "description": "Mash up the dance with these dancehall party-starters",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nLUMOygwJOsoDb_WlEj8EyihlVJ0d-XNw/mqdefault.jpg?sqp=CODAlbgGir7X7AMICPmmlbgGEAE=&rs=AOn4CLDwNEQsrUrRz8X7FA01zdAUu_P2fQ&v=1728402297",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nLUMOygwJOsoDb_WlEj8EyihlVJ0d-XNw/sddefault.jpg?sqp=CODAlbgGir7X7AMICPmmlbgGEAE=&rs=AOn4CLAMsn4EjqJJ61im9inVpbkj4W-8RQ&v=1728402297",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nLUMOygwJOsoDb_WlEj8EyihlVJ0d-XNw/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICPmmlbgGEAE=&rs=AOn4CLDprHXvEND2AMXEZ6WqNR6kCsrFUw&v=1728402297",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Bashment Party",
+          "description": "Mash up the dance with these dancehall party-starters"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 88
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "-37x0YwRNaK9LAjcssAxjMSFjUI",
+      "id": "RDCLAK5uy_lNSrdguAN1Q5dTJDd_Lu9d7irfBdZjfRY",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Roddy Ricch",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lNSrdguAN1Q5dTJDd_Lu9d7irfBdZjfRY/mqdefault.jpg?sqp=CODAlbgGir7X7AMICJGklLgGEAE=&rs=AOn4CLAXJ-hkGx7sKgD3vEciY5bMXB7PiA&v=1728385553",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lNSrdguAN1Q5dTJDd_Lu9d7irfBdZjfRY/sddefault.jpg?sqp=CODAlbgGir7X7AMICJGklLgGEAE=&rs=AOn4CLA0c3omO9yeAsoYNWLB0Nuu1R-kog&v=1728385553",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lNSrdguAN1Q5dTJDd_Lu9d7irfBdZjfRY/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICJGklLgGEAE=&rs=AOn4CLAUzztzlAIbLBmZri0ru3T7f7ne4w&v=1728385553",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Roddy Ricch",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 35
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "WQdEnxu2O4xZbWKUs83GLWpAy9w",
       "id": "RDCLAK5uy_m8Kuhr-3ym1_WOojk6HaaYAx5IR8GYDMQ",
       "snippet": {
         "publishedAt": "1970-01-01T00:00:00Z",
@@ -1137,17 +577,17 @@
         "description": "Listen to the newest music movement dripped in muddy melodies, emotions and the alt-rap experience.",
         "thumbnails": {
           "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m8Kuhr-3ym1_WOojk6HaaYAx5IR8GYDMQ/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICM2wsrYGEAE=&rs=AOn4CLCQwSlnXTz5Q0kJBzIguQya46EvVw&v=1724684365",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m8Kuhr-3ym1_WOojk6HaaYAx5IR8GYDMQ/mqdefault.jpg?sqp=CODAlbgGir7X7AMICMyRlbgGEAE=&rs=AOn4CLBvyzQ5ntE-GwyEN-Lwh4lv2Ig08A&v=1728399564",
             "width": 180,
             "height": 180
           },
           "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m8Kuhr-3ym1_WOojk6HaaYAx5IR8GYDMQ/sddefault.jpg?sqp=CKCSt7YGir7X7AMICM2wsrYGEAE=&rs=AOn4CLDp0F-Nwg-n7WJkGhJUmExliWA5LQ&v=1724684365",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m8Kuhr-3ym1_WOojk6HaaYAx5IR8GYDMQ/sddefault.jpg?sqp=CODAlbgGir7X7AMICMyRlbgGEAE=&rs=AOn4CLAInlAwnk7G_ECJErZcug6kRcCZTw&v=1728399564",
             "width": 640,
             "height": 640
           },
           "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m8Kuhr-3ym1_WOojk6HaaYAx5IR8GYDMQ/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICM2wsrYGEAE=&rs=AOn4CLDt2KHUaytunz1ENuO02N6kcsPmZw&v=1724684365",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m8Kuhr-3ym1_WOojk6HaaYAx5IR8GYDMQ/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICMyRlbgGEAE=&rs=AOn4CLA8ZLsa2cnCryvE-3DvRz-xBjYUsA&v=1728399564",
             "width": 1200,
             "height": 1200
           }
@@ -1168,26 +608,26 @@
     },
     {
       "kind": "youtube#playlist",
-      "etag": "MGdw9l75l3UaoEld4yKR3DmNzek",
-      "id": "RDCLAK5uy_kLwgLlrxA4-_EchctXgTyHR4rwRaRv1wk",
+      "etag": "Vx7qlGdmAezHbv255tHn1Epx9LY",
+      "id": "RDCLAK5uy_mIFwoqSyZ46_qGCht9_nL8e8TnMQwsHVw",
       "snippet": {
         "publishedAt": "1970-01-01T00:00:00Z",
         "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "House Music 2024",
-        "description": "Slappin' House tracks buzzin' on YouTube",
+        "title": "I'm a Flirt",
+        "description": "Turn after-work drinks into an all-night thing with this mix of seductive and fun rap and R&B. #rnb #hiphop #love",
         "thumbnails": {
           "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kLwgLlrxA4-_EchctXgTyHR4rwRaRv1wk/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICMOOsrYGEAE=&rs=AOn4CLA7Y-Yfs4y56dERKWxmc3FfMAI9aQ&v=1724680003",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mIFwoqSyZ46_qGCht9_nL8e8TnMQwsHVw/mqdefault.jpg?sqp=CODAlbgGir7X7AMICIP7k7gGEAE=&rs=AOn4CLDY9JZSgDixy6j_rAmVoWiEc5t7wQ&v=1728380291",
             "width": 180,
             "height": 180
           },
           "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kLwgLlrxA4-_EchctXgTyHR4rwRaRv1wk/sddefault.jpg?sqp=CKCSt7YGir7X7AMICMOOsrYGEAE=&rs=AOn4CLDpRpE4KRAA12zjk9U2iuS58H5Maw&v=1724680003",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mIFwoqSyZ46_qGCht9_nL8e8TnMQwsHVw/sddefault.jpg?sqp=CODAlbgGir7X7AMICIP7k7gGEAE=&rs=AOn4CLBC_a6fj_w9ogbiaMxZb-RUmjFjfA&v=1728380291",
             "width": 640,
             "height": 640
           },
           "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kLwgLlrxA4-_EchctXgTyHR4rwRaRv1wk/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICMOOsrYGEAE=&rs=AOn4CLAT5nQo_8BUVWYDAOBeLduY80i_Iw&v=1724680003",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mIFwoqSyZ46_qGCht9_nL8e8TnMQwsHVw/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICIP7k7gGEAE=&rs=AOn4CLBWgS_gG_zTRRLqQgr8U6ogmFU4Ow&v=1728380291",
             "width": 1200,
             "height": 1200
           }
@@ -1195,39 +635,39 @@
         "channelTitle": "YouTube",
         "defaultLanguage": "en",
         "localized": {
-          "title": "House Music 2024",
-          "description": "Slappin' House tracks buzzin' on YouTube"
+          "title": "I'm a Flirt",
+          "description": "Turn after-work drinks into an all-night thing with this mix of seductive and fun rap and R&B. #rnb #hiphop #love"
         }
       },
       "status": {
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 224
+        "itemCount": 187
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "lZq6Vt2gdqbnN5wMqYkrjbnYwUg",
-      "id": "RDCLAK5uy_khFJzdpmtk0_MaUuWNgqYbNamuGV623kk",
+      "etag": "QO-C1vvRL5_QlbIFMjPXgcWV8vg",
+      "id": "RDCLAK5uy_lE4Fbjb8nOw2qxSeZds9mfpTTS37k9Pxs",
       "snippet": {
         "publishedAt": "1970-01-01T00:00:00Z",
         "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Techno Room",
-        "description": "New techno and trending thumpers. #ytmdance #ytmtechno",
+        "title": "Lagos Streets",
+        "description": "Lagos doesn't sleep, neither does the music. Its streets are always at the forefront of Afrobeats culture. ",
         "thumbnails": {
           "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_khFJzdpmtk0_MaUuWNgqYbNamuGV623kk/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICPrpsrYGEAE=&rs=AOn4CLBNsSa3Jz8gTZ3XEEcQc1o_VQjdxw&v=1724691706",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lE4Fbjb8nOw2qxSeZds9mfpTTS37k9Pxs/mqdefault.jpg?sqp=CODAlbgGir7X7AMICKjFlLgGEAE=&rs=AOn4CLCPuetPJ4pzC7KU1NvvdzRfzBZ1wA&v=1728389800",
             "width": 180,
             "height": 180
           },
           "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_khFJzdpmtk0_MaUuWNgqYbNamuGV623kk/sddefault.jpg?sqp=CKCSt7YGir7X7AMICPrpsrYGEAE=&rs=AOn4CLD34YaTtu5vJ1tGOu6AM8Lr0vGG4A&v=1724691706",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lE4Fbjb8nOw2qxSeZds9mfpTTS37k9Pxs/sddefault.jpg?sqp=CODAlbgGir7X7AMICKjFlLgGEAE=&rs=AOn4CLCxLGy-mVDbcQ7FFbfgLkkEf4NO8A&v=1728389800",
             "width": 640,
             "height": 640
           },
           "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_khFJzdpmtk0_MaUuWNgqYbNamuGV623kk/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICPrpsrYGEAE=&rs=AOn4CLBMqr4CZXjMsiDXv7_YqCxKwSmlaA&v=1724691706",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lE4Fbjb8nOw2qxSeZds9mfpTTS37k9Pxs/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICKjFlLgGEAE=&rs=AOn4CLDMPRd4HzNgAcNIRYiF2vbCZc5L5A&v=1728389800",
             "width": 1200,
             "height": 1200
           }
@@ -1235,39 +675,79 @@
         "channelTitle": "YouTube",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Techno Room",
-          "description": "New techno and trending thumpers. #ytmdance #ytmtechno"
+          "title": "Lagos Streets",
+          "description": "Lagos doesn't sleep, neither does the music. Its streets are always at the forefront of Afrobeats culture. "
         }
       },
       "status": {
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 106
+        "itemCount": 40
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "Z4qb8NwV4q6hB6vqGwVbXJw9ocM",
-      "id": "RDCLAK5uy_knjwpQgu2c2Jmn8zcYGUUhPxvbuPORYqw",
+      "etag": "LRFyrE6YODYdLIxMGC05jMFeeO0",
+      "id": "RDCLAK5uy_m2CD7Wsnmral18rjsRroiIrScpHb9b1wE",
       "snippet": {
         "publishedAt": "1970-01-01T00:00:00Z",
         "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Presenting Jelly Roll",
+        "title": "Cinematic Rap",
+        "description": "Revisit the hip-hop songs that soundtracked these iconic films in the culture",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m2CD7Wsnmral18rjsRroiIrScpHb9b1wE/mqdefault.jpg?sqp=CODAlbgGir7X7AMICJ6jkLgGEAE=&rs=AOn4CLAP0E4RLJY51-C6qqMskYNfMULq1A&v=1728319902",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m2CD7Wsnmral18rjsRroiIrScpHb9b1wE/sddefault.jpg?sqp=CODAlbgGir7X7AMICJ6jkLgGEAE=&rs=AOn4CLC8aQTT8FF0feT8KG_nKytTnzLQ4Q&v=1728319902",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m2CD7Wsnmral18rjsRroiIrScpHb9b1wE/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICJ6jkLgGEAE=&rs=AOn4CLABtT96DhE8xYa7JVc6obFRv9YMjw&v=1728319902",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Cinematic Rap",
+          "description": "Revisit the hip-hop songs that soundtracked these iconic films in the culture"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 51
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "-RzQiULGEXJScZ6EJbaOtPzz8x8",
+      "id": "RDCLAK5uy_k33hYBV3YznYjFPclHuxaNeQhjnPzm2pg",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting MJ116 (頑童)",
         "description": "The most played hits and essential tracks.",
         "thumbnails": {
           "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_knjwpQgu2c2Jmn8zcYGUUhPxvbuPORYqw/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICKz0tbYGEAE=&rs=AOn4CLBt2vpzxhnS7WJbcacFX8lFnjjSmA&v=1724742188",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k33hYBV3YznYjFPclHuxaNeQhjnPzm2pg/mqdefault.jpg?sqp=CODAlbgGir7X7AMICOfckbgGEAE=&rs=AOn4CLDUViugj9czQB9L2MdB3WxZEQ8MjA&v=1728343655",
             "width": 180,
             "height": 180
           },
           "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_knjwpQgu2c2Jmn8zcYGUUhPxvbuPORYqw/sddefault.jpg?sqp=CKCSt7YGir7X7AMICKz0tbYGEAE=&rs=AOn4CLAWdw2Fdzj66Akb5dAZETwKsWs5nw&v=1724742188",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k33hYBV3YznYjFPclHuxaNeQhjnPzm2pg/sddefault.jpg?sqp=CODAlbgGir7X7AMICOfckbgGEAE=&rs=AOn4CLBPN9iQNZ99rtc5ALgb612hVGrAxg&v=1728343655",
             "width": 640,
             "height": 640
           },
           "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_knjwpQgu2c2Jmn8zcYGUUhPxvbuPORYqw/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICKz0tbYGEAE=&rs=AOn4CLDF_45-oO7V-nNBmmJD1lHKdZQoyw&v=1724742188",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k33hYBV3YznYjFPclHuxaNeQhjnPzm2pg/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICOfckbgGEAE=&rs=AOn4CLAZ0Dbqk4HtdN-gq1r5lgIhnsKeNA&v=1728343655",
             "width": 1200,
             "height": 1200
           }
@@ -1275,7 +755,287 @@
         "channelTitle": "YouTube",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Presenting Jelly Roll",
+          "title": "Presenting MJ116 (頑童)",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 44
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "zEbjEGKkvD78YCwo6QbSFrNWrTo",
+      "id": "RDCLAK5uy_ljdExjsU2bwlhBJp34ObF_Irf6xgIwvE8",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Ceza",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ljdExjsU2bwlhBJp34ObF_Irf6xgIwvE8/mqdefault.jpg?sqp=CODAlbgGir7X7AMICOyAkbgGEAE=&rs=AOn4CLAyG2rEASK2Ycye-jV8Aoo8mQlh_Q&v=1728331884",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ljdExjsU2bwlhBJp34ObF_Irf6xgIwvE8/sddefault.jpg?sqp=CODAlbgGir7X7AMICOyAkbgGEAE=&rs=AOn4CLDWnFQIsugqkww8Xlev_On_hmm_hw&v=1728331884",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ljdExjsU2bwlhBJp34ObF_Irf6xgIwvE8/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICOyAkbgGEAE=&rs=AOn4CLAIN9g8ZVyfUWtONsQoJo3TQKXPcw&v=1728331884",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Ceza",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 22
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "pYan0FDzC5V8bUe8qXYCwtfwJXc",
+      "id": "RDCLAK5uy_nChBVgXy64NLLJ53YCQCWj1tG-LXLC8b8",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Old school French vibes",
+        "description": "Classic French Rap and R&B to turn up just like the good old days.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nChBVgXy64NLLJ53YCQCWj1tG-LXLC8b8/mqdefault.jpg?sqp=CODAlbgGir7X7AMICLnqkbgGEAE=&rs=AOn4CLCGP7HJWfVwDpnhTSAiPYMuDbB8pw&v=1728345401",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nChBVgXy64NLLJ53YCQCWj1tG-LXLC8b8/sddefault.jpg?sqp=CODAlbgGir7X7AMICLnqkbgGEAE=&rs=AOn4CLBs3_AycnXOHoIAcECNQzGCA-imoQ&v=1728345401",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nChBVgXy64NLLJ53YCQCWj1tG-LXLC8b8/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICLnqkbgGEAE=&rs=AOn4CLAefxkgpeTUYXaJNzGi-Tadxtxq4g&v=1728345401",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Old school French vibes",
+          "description": "Classic French Rap and R&B to turn up just like the good old days."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 50
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "LByTrMq-snySlRx6WPK6Emg2igc",
+      "id": "RDCLAK5uy_mZZvoXLDCXUnLejCC2JhgF9qXrgWv8RxY",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Tribo da Periferia",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mZZvoXLDCXUnLejCC2JhgF9qXrgWv8RxY/mqdefault.jpg?sqp=CODAlbgGir7X7AMICPf6lLgGEAE=&rs=AOn4CLB0YGrs2ZSSZYa2rB4HoZQe65ixkw&v=1728396663",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mZZvoXLDCXUnLejCC2JhgF9qXrgWv8RxY/sddefault.jpg?sqp=CODAlbgGir7X7AMICPf6lLgGEAE=&rs=AOn4CLC-47eUubUAWCtcnFX0UAKw2rBHNA&v=1728396663",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mZZvoXLDCXUnLejCC2JhgF9qXrgWv8RxY/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICPf6lLgGEAE=&rs=AOn4CLBGPxkB5zt2AARRXshgtXkwep5nCA&v=1728396663",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Tribo da Periferia",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 50
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "6ZUkCNvbG9JsygmBI_zP87wBl3s",
+      "id": "RDCLAK5uy_mig_aBtP7kXlKZuFhQ4qi85hJOYR26NdA",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Duki",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mig_aBtP7kXlKZuFhQ4qi85hJOYR26NdA/mqdefault.jpg?sqp=CODAlbgGir7X7AMICNKYlLgGEAE=&rs=AOn4CLCb1b7njO3pIysZ2Fg8dM-5T8xptA&v=1728384082",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mig_aBtP7kXlKZuFhQ4qi85hJOYR26NdA/sddefault.jpg?sqp=CODAlbgGir7X7AMICNKYlLgGEAE=&rs=AOn4CLDZ_o5fKPz1siEq7ux658Waejq7nQ&v=1728384082",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mig_aBtP7kXlKZuFhQ4qi85hJOYR26NdA/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICNKYlLgGEAE=&rs=AOn4CLC2P8Kx6XZ-79gjuAeOc-JrfxIPNA&v=1728384082",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Duki",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 24
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "SB0bTSUBQOunLgTgSKT88kmDAV4",
+      "id": "RDCLAK5uy_kIjq4ZKak8qRjMRATD_veiI9Cc_8f8y-E",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Arcángel",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kIjq4ZKak8qRjMRATD_veiI9Cc_8f8y-E/mqdefault.jpg?sqp=CODAlbgGir7X7AMICIz0kLgGEAE=&rs=AOn4CLAZar3XmTdjQKsbjexxHBk7EZHNlQ&v=1728330252",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kIjq4ZKak8qRjMRATD_veiI9Cc_8f8y-E/sddefault.jpg?sqp=CODAlbgGir7X7AMICIz0kLgGEAE=&rs=AOn4CLAZwXO8vQny8D9qDP3A6qZuOlgANw&v=1728330252",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kIjq4ZKak8qRjMRATD_veiI9Cc_8f8y-E/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICIz0kLgGEAE=&rs=AOn4CLD--csHulRMkhyJvJXVYSh0EPRiUg&v=1728330252",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Arcángel",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 44
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "UsvzvdC4Z0ZPSQ6kB8GOWw7ksQ8",
+      "id": "RDCLAK5uy_n7TBD7OyJBbU9VnPuvrCbgpU5AXRY2lYg",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Drake",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n7TBD7OyJBbU9VnPuvrCbgpU5AXRY2lYg/mqdefault.jpg?sqp=CODAlbgGir7X7AMICI_Lk7gGEAE=&rs=AOn4CLDWplJ-0BzXDahHuZhgtX-oNCCDRg&v=1728374159",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n7TBD7OyJBbU9VnPuvrCbgpU5AXRY2lYg/sddefault.jpg?sqp=CODAlbgGir7X7AMICI_Lk7gGEAE=&rs=AOn4CLDi_xsXtrhECm3fFiIQZAhoiee-pA&v=1728374159",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n7TBD7OyJBbU9VnPuvrCbgpU5AXRY2lYg/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICI_Lk7gGEAE=&rs=AOn4CLCsXmp1f-fXZEuTCE1_fQ4DWQYLTg&v=1728374159",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Drake",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 89
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "bVXrDoY6Rl4MMwSBtL8YjjfcHCo",
+      "id": "RDCLAK5uy_m5s1zb1YErWIfrN9RSMgn0Uf-la2mramI",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Dave",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m5s1zb1YErWIfrN9RSMgn0Uf-la2mramI/mqdefault.jpg?sqp=CODAlbgGir7X7AMICIqvlbgGEAE=&rs=AOn4CLD_u1vfkCrF16uf-9duU0YDjkz0QA&v=1728403338",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m5s1zb1YErWIfrN9RSMgn0Uf-la2mramI/sddefault.jpg?sqp=CODAlbgGir7X7AMICIqvlbgGEAE=&rs=AOn4CLClDBEABk_Dr0ZEpnmVjhAPIca7Cw&v=1728403338",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m5s1zb1YErWIfrN9RSMgn0Uf-la2mramI/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICIqvlbgGEAE=&rs=AOn4CLCsYrtwe_fx0DpOJn1vmqR2Uw1EEQ&v=1728403338",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Dave",
           "description": "The most played hits and essential tracks."
         }
       },
@@ -1288,26 +1048,26 @@
     },
     {
       "kind": "youtube#playlist",
-      "etag": "9CYD2FKcZieoACRj8OB6aPVPlR0",
-      "id": "RDCLAK5uy_lnm4v4arFrmL63NUzIdoXJe-E7G4_sriU",
+      "etag": "xw_v8yNX3eQte9KHGYgqS4gV0Js",
+      "id": "RDCLAK5uy_my9C3l0i6VYdrLut633z5fnETXIn_5Gqw",
       "snippet": {
         "publishedAt": "1970-01-01T00:00:00Z",
         "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "90s Bollywood Romance",
-        "description": "Re-live the '90s with this beautiful collection of romantic Bollywood songs. #hindi #lovesongs #90s",
+        "title": "Presenting RAF Camora",
+        "description": "The most played hits and essential tracks.",
         "thumbnails": {
           "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lnm4v4arFrmL63NUzIdoXJe-E7G4_sriU/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICMnbs7YGEAE=&rs=AOn4CLDNPtYkhAaCgFBO0jdunAFqwUbLqQ&v=1724706249",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_my9C3l0i6VYdrLut633z5fnETXIn_5Gqw/mqdefault.jpg?sqp=CODAlbgGir7X7AMICMztkbgGEAE=&rs=AOn4CLAluBkTzue_NOM6BHHNOMSOKdMjYw&v=1728345804",
             "width": 180,
             "height": 180
           },
           "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lnm4v4arFrmL63NUzIdoXJe-E7G4_sriU/sddefault.jpg?sqp=CKCSt7YGir7X7AMICMnbs7YGEAE=&rs=AOn4CLCYaGi5kwwwK7LXXVclYRxbZgh1UA&v=1724706249",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_my9C3l0i6VYdrLut633z5fnETXIn_5Gqw/sddefault.jpg?sqp=CODAlbgGir7X7AMICMztkbgGEAE=&rs=AOn4CLBfOP8YaVK9Z4P7eqc5k3e-i7XZCA&v=1728345804",
             "width": 640,
             "height": 640
           },
           "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lnm4v4arFrmL63NUzIdoXJe-E7G4_sriU/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICMnbs7YGEAE=&rs=AOn4CLBVFAqSj_3Ru2FyOKHOrEYYN22J5A&v=1724706249",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_my9C3l0i6VYdrLut633z5fnETXIn_5Gqw/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICMztkbgGEAE=&rs=AOn4CLCgLCKs1Q2lbc9mjIGZyuYLP8RtCQ&v=1728345804",
             "width": 1200,
             "height": 1200
           }
@@ -1315,39 +1075,39 @@
         "channelTitle": "YouTube",
         "defaultLanguage": "en",
         "localized": {
-          "title": "90s Bollywood Romance",
-          "description": "Re-live the '90s with this beautiful collection of romantic Bollywood songs. #hindi #lovesongs #90s"
+          "title": "Presenting RAF Camora",
+          "description": "The most played hits and essential tracks."
         }
       },
       "status": {
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 60
+        "itemCount": 49
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "nTxAyLhNIuEfRnVPIVFjtmhhivE",
-      "id": "RDCLAK5uy_nvRGXHpFzon8qbPTZhuoSq3WO4ccYvmHM",
+      "etag": "OF9HY5_MpyxQxU9-JmqzRy3PM10",
+      "id": "RDCLAK5uy_m_wBg3DrsuiNjdA80-7ut26g9smHFXRXs",
       "snippet": {
         "publishedAt": "1970-01-01T00:00:00Z",
         "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Electronic Focus",
-        "description": "Get in the zone with these cerebral electronic instrumentals.",
+        "title": "Street Code",
+        "description": "These hip-hop songs gave us the language that reached the mainstream",
         "thumbnails": {
           "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nvRGXHpFzon8qbPTZhuoSq3WO4ccYvmHM/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICNfYtrYGEAE=&rs=AOn4CLBKTbWM6uC7PFEeL2y2-G9EHArkXg&v=1724755031",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m_wBg3DrsuiNjdA80-7ut26g9smHFXRXs/mqdefault.jpg?sqp=CODAlbgGir7X7AMICOTPkLgGEAE=&rs=AOn4CLCrqA-soRouJkGrzqzWyvJrBS9zqA&v=1728325604",
             "width": 180,
             "height": 180
           },
           "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nvRGXHpFzon8qbPTZhuoSq3WO4ccYvmHM/sddefault.jpg?sqp=CKCSt7YGir7X7AMICNfYtrYGEAE=&rs=AOn4CLAqXC0BbgYjF0Eb9E08a31J3h0JuA&v=1724755031",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m_wBg3DrsuiNjdA80-7ut26g9smHFXRXs/sddefault.jpg?sqp=CODAlbgGir7X7AMICOTPkLgGEAE=&rs=AOn4CLAXTnimRz1tWweH44KxaVXCsJuEEA&v=1728325604",
             "width": 640,
             "height": 640
           },
           "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nvRGXHpFzon8qbPTZhuoSq3WO4ccYvmHM/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICNfYtrYGEAE=&rs=AOn4CLAljzhoipCOFP96Hclg1-ni8Bo7Ng&v=1724755031",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m_wBg3DrsuiNjdA80-7ut26g9smHFXRXs/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICOTPkLgGEAE=&rs=AOn4CLBrmuq6XtfH9UFqcaV4shnjbEfFDQ&v=1728325604",
             "width": 1200,
             "height": 1200
           }
@@ -1355,88 +1115,8 @@
         "channelTitle": "YouTube",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Electronic Focus",
-          "description": "Get in the zone with these cerebral electronic instrumentals."
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 136
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "zfPGiUt-Up_-7wWX5bjxgCz3YEw",
-      "id": "RDCLAK5uy_kkpBwv_1TI0ymnmeo_ZHqpjC44ndCUNTk",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "K-Pop Dance for Exercise",
-        "description": "#dance #pumpup #workout",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kkpBwv_1TI0ymnmeo_ZHqpjC44ndCUNTk/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICOK4srYGEAE=&rs=AOn4CLCL_qsGRV7eVRjtddhlZkN6VuDaeg&v=1724685410",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kkpBwv_1TI0ymnmeo_ZHqpjC44ndCUNTk/sddefault.jpg?sqp=CKCSt7YGir7X7AMICOK4srYGEAE=&rs=AOn4CLBlFDiJWoge54HePHMtNXB2L3f4ig&v=1724685410",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kkpBwv_1TI0ymnmeo_ZHqpjC44ndCUNTk/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICOK4srYGEAE=&rs=AOn4CLDLMyD8jrK6Pr7ANMRifrBDbubaLA&v=1724685410",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "K-Pop Dance for Exercise",
-          "description": "#dance #pumpup #workout"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 106
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "3VJ98kJB6kS_CfIUP_78mWlnoII",
-      "id": "RDCLAK5uy_kjNBBWqyQ_Cy14B0P4xrcKgd39CRjXXKk",
-      "snippet": {
-        "publishedAt": "1970-01-01T00:00:00Z",
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Bollywood Dance Hitlist",
-        "description": "The choicest of recent Bollywood dance tracks to set the tone of every party. DJ, the console is all yours. #hindi #dancemusic #party",
-        "thumbnails": {
-          "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kjNBBWqyQ_Cy14B0P4xrcKgd39CRjXXKk/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICNGKsrYGEAE=&rs=AOn4CLAaUTjmLpajPI5naiJziSlIVegiHg&v=1724679505",
-            "width": 180,
-            "height": 180
-          },
-          "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kjNBBWqyQ_Cy14B0P4xrcKgd39CRjXXKk/sddefault.jpg?sqp=CKCSt7YGir7X7AMICNGKsrYGEAE=&rs=AOn4CLBX3bkTJ3EaaWZTY-ngerLkVA5zlQ&v=1724679505",
-            "width": 640,
-            "height": 640
-          },
-          "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kjNBBWqyQ_Cy14B0P4xrcKgd39CRjXXKk/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICNGKsrYGEAE=&rs=AOn4CLAY_KUuE90Tox-IzqYReKM3hettXQ&v=1724679505",
-            "width": 1200,
-            "height": 1200
-          }
-        },
-        "channelTitle": "YouTube",
-        "defaultLanguage": "en",
-        "localized": {
-          "title": "Bollywood Dance Hitlist",
-          "description": "The choicest of recent Bollywood dance tracks to set the tone of every party. DJ, the console is all yours. #hindi #dancemusic #party"
+          "title": "Street Code",
+          "description": "These hip-hop songs gave us the language that reached the mainstream"
         }
       },
       "status": {
@@ -1448,26 +1128,26 @@
     },
     {
       "kind": "youtube#playlist",
-      "etag": "YFPwYUGFwP4sKFxietCLNBpo9Wk",
-      "id": "RDCLAK5uy_kZFOUXnpa_oJMql3vYc-jq6yVxwqhdkrM",
+      "etag": "yaNvxLeVWftc-GzAZb3EaU32hAM",
+      "id": "RDCLAK5uy_lSgOjC7iTwXkkssyTnz6WM8cHJiIv17dw",
       "snippet": {
         "publishedAt": "1970-01-01T00:00:00Z",
         "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Timeless Gospel Hits",
-        "description": "Gospel music's formidable classics.",
+        "title": "Presenting Mac Miller",
+        "description": " The latest and greatest from Mac Miller",
         "thumbnails": {
           "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kZFOUXnpa_oJMql3vYc-jq6yVxwqhdkrM/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICMLctbYGEAE=&rs=AOn4CLBdlnXi0dPz3Cu76fuy1PqGjugjPA&v=1724739138",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lSgOjC7iTwXkkssyTnz6WM8cHJiIv17dw/mqdefault.jpg?sqp=CODAlbgGir7X7AMICN3_kbgGEAE=&rs=AOn4CLAYzNnpvynCXMok2dTBvY0qqrMz0g&v=1728348125",
             "width": 180,
             "height": 180
           },
           "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kZFOUXnpa_oJMql3vYc-jq6yVxwqhdkrM/sddefault.jpg?sqp=CKCSt7YGir7X7AMICMLctbYGEAE=&rs=AOn4CLA-hsBlNFKmwhEiNhiOsJTY9ScYQg&v=1724739138",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lSgOjC7iTwXkkssyTnz6WM8cHJiIv17dw/sddefault.jpg?sqp=CODAlbgGir7X7AMICN3_kbgGEAE=&rs=AOn4CLDkCeegqpwvWDNUDbL-9Je4foSRJg&v=1728348125",
             "width": 640,
             "height": 640
           },
           "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kZFOUXnpa_oJMql3vYc-jq6yVxwqhdkrM/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICMLctbYGEAE=&rs=AOn4CLBLO1fmQTOCF33ylYcAieWT4uhCZA&v=1724739138",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lSgOjC7iTwXkkssyTnz6WM8cHJiIv17dw/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICN3_kbgGEAE=&rs=AOn4CLA6-zWaBYME-zxA2W7Ovsa_6DEvzA&v=1728348125",
             "width": 1200,
             "height": 1200
           }
@@ -1475,39 +1155,39 @@
         "channelTitle": "YouTube",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Timeless Gospel Hits",
-          "description": "Gospel music's formidable classics."
+          "title": "Presenting Mac Miller",
+          "description": " The latest and greatest from Mac Miller"
         }
       },
       "status": {
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 40
+        "itemCount": 53
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "o2RhuYEc2Z2ZG6Yo4FR0LPveFt0",
-      "id": "RDCLAK5uy_nJIH9Mrb-eRty60BaNZKiXq3VzldvD5ww",
+      "etag": "c5niFd7ZFZGXgN90ZyDb6AFbyj8",
+      "id": "RDCLAK5uy_kUr9mvncHI36MJFUD6VO5XHcWoU7o9if0",
       "snippet": {
         "publishedAt": "1970-01-01T00:00:00Z",
         "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Bollywood Workout",
-        "description": "A mix of dance, club, fusion and EDM influenced Bollywood numbers to help you workout!",
+        "title": "Presenting AP Dhillon",
+        "description": "The most played hits and essential tracks.",
         "thumbnails": {
           "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nJIH9Mrb-eRty60BaNZKiXq3VzldvD5ww/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICKDPtbYGEAE=&rs=AOn4CLB4cgRSJwUCt55FTClYBnslfZHymA&v=1724737440",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kUr9mvncHI36MJFUD6VO5XHcWoU7o9if0/mqdefault.jpg?sqp=CODAlbgGir7X7AMICP78kbgGEAE=&rs=AOn4CLCwi0g3pKoY1twAxbhBfO9tmJ2xBw&v=1728347774",
             "width": 180,
             "height": 180
           },
           "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nJIH9Mrb-eRty60BaNZKiXq3VzldvD5ww/sddefault.jpg?sqp=CKCSt7YGir7X7AMICKDPtbYGEAE=&rs=AOn4CLAjMQIUf9po2ORIrV1q4WS2UF0mYg&v=1724737440",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kUr9mvncHI36MJFUD6VO5XHcWoU7o9if0/sddefault.jpg?sqp=CODAlbgGir7X7AMICP78kbgGEAE=&rs=AOn4CLDLMH_l2FKwsr-aKA8Uy25GBh2_WA&v=1728347774",
             "width": 640,
             "height": 640
           },
           "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nJIH9Mrb-eRty60BaNZKiXq3VzldvD5ww/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICKDPtbYGEAE=&rs=AOn4CLBQWetmrqxTJ5U9L3mzPb4cbv_pzw&v=1724737440",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kUr9mvncHI36MJFUD6VO5XHcWoU7o9if0/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICP78kbgGEAE=&rs=AOn4CLDoiU-gLqdYQvvSAj4VjxJ7hW-vHA&v=1728347774",
             "width": 1200,
             "height": 1200
           }
@@ -1515,39 +1195,39 @@
         "channelTitle": "YouTube",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Bollywood Workout",
-          "description": "A mix of dance, club, fusion and EDM influenced Bollywood numbers to help you workout!"
+          "title": "Presenting AP Dhillon",
+          "description": "The most played hits and essential tracks."
         }
       },
       "status": {
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 70
+        "itemCount": 41
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "Uq8ckjZVxb9E1OmD2KRejD4Z--Y",
-      "id": "RDCLAK5uy_n9hGvSNdO2TpX8jJuiThvnfrfIi1qNRnY",
+      "etag": "-5E_TdgdPP4NUXXDS1tmncmnXgA",
+      "id": "RDCLAK5uy_lMXERBY0Uw6-9ZW1DVmMu8cicbwkkg15Q",
       "snippet": {
         "publishedAt": "1970-01-01T00:00:00Z",
         "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Classical Focus",
-        "description": "Whatever the task, these classical pieces provide the perfect soundtrack to help you get the job done. #classical #focus #study",
+        "title": "SAY NO MORE: Rap + R&B Hits",
+        "description": "The best in Rap, Grime, Drill, Afropop and R&B.",
         "thumbnails": {
           "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n9hGvSNdO2TpX8jJuiThvnfrfIi1qNRnY/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICPjotLYGEAE=&rs=AOn4CLCjmyVU1xzzY0ECitYjrkzvq92oig&v=1724724344",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lMXERBY0Uw6-9ZW1DVmMu8cicbwkkg15Q/mqdefault.jpg?sqp=CODAlbgGir7X7AMICNfklLgGEAE=&rs=AOn4CLBgvxkVJtAj57lqQuUWysY_WvtaTg&v=1728393815",
             "width": 180,
             "height": 180
           },
           "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n9hGvSNdO2TpX8jJuiThvnfrfIi1qNRnY/sddefault.jpg?sqp=CKCSt7YGir7X7AMICPjotLYGEAE=&rs=AOn4CLBO9IZYboyoxWgCRug7PYqMR0nmAw&v=1724724344",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lMXERBY0Uw6-9ZW1DVmMu8cicbwkkg15Q/sddefault.jpg?sqp=CODAlbgGir7X7AMICNfklLgGEAE=&rs=AOn4CLA1WsncxNUPS7OK_rH2armifZE-3Q&v=1728393815",
             "width": 640,
             "height": 640
           },
           "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n9hGvSNdO2TpX8jJuiThvnfrfIi1qNRnY/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICPjotLYGEAE=&rs=AOn4CLB9yZoQs6P4oO3kCsNnWK99ADLMBQ&v=1724724344",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lMXERBY0Uw6-9ZW1DVmMu8cicbwkkg15Q/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICNfklLgGEAE=&rs=AOn4CLBeQ4r-C5DckIO6XQOPka9RFVHByw&v=1728393815",
             "width": 1200,
             "height": 1200
           }
@@ -1555,39 +1235,39 @@
         "channelTitle": "YouTube",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Classical Focus",
-          "description": "Whatever the task, these classical pieces provide the perfect soundtrack to help you get the job done. #classical #focus #study"
+          "title": "SAY NO MORE: Rap + R&B Hits",
+          "description": "The best in Rap, Grime, Drill, Afropop and R&B."
         }
       },
       "status": {
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 82
+        "itemCount": 51
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "5UtE2Y6OPnSkqj2_y4zWYWIFPyI",
-      "id": "RDCLAK5uy_mqA2AiD9kyYkF5RRz736wnMY_bCnYl19g",
+      "etag": "DvUYbshlRnpPdbilXFSY4NNMhns",
+      "id": "RDCLAK5uy_n2YZ2tg_cPKwwuyYdZJwHHRG6pjc6DpTA",
       "snippet": {
         "publishedAt": "1970-01-01T00:00:00Z",
         "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-        "title": "Speed Gaming",
-        "description": "Faster than you remember oO",
+        "title": "New Turkish Rap",
+        "description": "Fresh tracks of Turkish Rap are here. ",
         "thumbnails": {
           "medium": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mqA2AiD9kyYkF5RRz736wnMY_bCnYl19g/mqdefault.jpg?sqp=CKCSt7YGir7X7AMICJ-atLYGEAE=&rs=AOn4CLDiRXVsjp_wZWFm3zHgB0V0wdPCRg&v=1724714271",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n2YZ2tg_cPKwwuyYdZJwHHRG6pjc6DpTA/mqdefault.jpg?sqp=CODAlbgGir7X7AMICLTClLgGEAE=&rs=AOn4CLDzfsg0OXZxjA8e7hrr4LvMjVEA_A&v=1728389428",
             "width": 180,
             "height": 180
           },
           "standard": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mqA2AiD9kyYkF5RRz736wnMY_bCnYl19g/sddefault.jpg?sqp=CKCSt7YGir7X7AMICJ-atLYGEAE=&rs=AOn4CLDaK6pr1AYIwvSIoXGCsl3Dt0Wm6g&v=1724714271",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n2YZ2tg_cPKwwuyYdZJwHHRG6pjc6DpTA/sddefault.jpg?sqp=CODAlbgGir7X7AMICLTClLgGEAE=&rs=AOn4CLBfIYc1eyZ7yslLKz0WKM3lFtq3Mg&v=1728389428",
             "width": 640,
             "height": 640
           },
           "maxres": {
-            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mqA2AiD9kyYkF5RRz736wnMY_bCnYl19g/maxresdefault.jpg?sqp=CKCSt7YGir7X7AMICJ-atLYGEAE=&rs=AOn4CLDuriYc10VSWUR9ZkYTXprS5Ywx7A&v=1724714271",
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n2YZ2tg_cPKwwuyYdZJwHHRG6pjc6DpTA/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICLTClLgGEAE=&rs=AOn4CLAcKv10OVbuDsnaRyWn27utkTKGCw&v=1728389428",
             "width": 1200,
             "height": 1200
           }
@@ -1595,15 +1275,455 @@
         "channelTitle": "YouTube",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Speed Gaming",
-          "description": "Faster than you remember oO"
+          "title": "New Turkish Rap",
+          "description": "Fresh tracks of Turkish Rap are here. "
         }
       },
       "status": {
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 150
+        "itemCount": 57
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "xktH5y-dvM2y5yl58kIKxjVdJFI",
+      "id": "RDCLAK5uy_mEXMsobutX4itJVd6YaCodxMgUV-mMtNo",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Bizarrap",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mEXMsobutX4itJVd6YaCodxMgUV-mMtNo/mqdefault.jpg?sqp=CODAlbgGir7X7AMICIi3k7gGEAE=&rs=AOn4CLDU5_kIe8MfMCbahYPRxuAsB3CFCA&v=1728371592",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mEXMsobutX4itJVd6YaCodxMgUV-mMtNo/sddefault.jpg?sqp=CODAlbgGir7X7AMICIi3k7gGEAE=&rs=AOn4CLBG7pb0Dng7YHq8phTvP46CQ1jhfA&v=1728371592",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mEXMsobutX4itJVd6YaCodxMgUV-mMtNo/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICIi3k7gGEAE=&rs=AOn4CLBZJaGaiH-YU86GNuwoegZj7LzKLg&v=1728371592",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Bizarrap",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 35
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "ecEF0raaC6UODmsRvmwT-ufgRzk",
+      "id": "RDCLAK5uy_m6wYdDLXT0HjxEx2gea9cpsjc4l3P-cVc",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Urban Pop Hits",
+        "description": "All the hits from your favorite French Urban Pop stars.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m6wYdDLXT0HjxEx2gea9cpsjc4l3P-cVc/mqdefault.jpg?sqp=CODAlbgGir7X7AMICMKVkrgGEAE=&rs=AOn4CLDe8iJmcqO_CwvDLArn-Xp3UfXGww&v=1728350914",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m6wYdDLXT0HjxEx2gea9cpsjc4l3P-cVc/sddefault.jpg?sqp=CODAlbgGir7X7AMICMKVkrgGEAE=&rs=AOn4CLADxqgBgSzKFN91AHajlUYncElMww&v=1728350914",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m6wYdDLXT0HjxEx2gea9cpsjc4l3P-cVc/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICMKVkrgGEAE=&rs=AOn4CLCJI2AdTiwAsw79cuJeeqPYFvYkhw&v=1728350914",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Urban Pop Hits",
+          "description": "All the hits from your favorite French Urban Pop stars."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 50
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "csiiulmLDtxFpamfPqMtHMOjebA",
+      "id": "RDCLAK5uy_n7poJAWUbPHDF_-Q5a0I2T8gVpd4B5-bk",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting City Girls",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n7poJAWUbPHDF_-Q5a0I2T8gVpd4B5-bk/mqdefault.jpg?sqp=CODAlbgGir7X7AMICO_xlLgGEAE=&rs=AOn4CLD0iGFBsK_xFshbpMQg2ekny8nN4A&v=1728395503",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n7poJAWUbPHDF_-Q5a0I2T8gVpd4B5-bk/sddefault.jpg?sqp=CODAlbgGir7X7AMICO_xlLgGEAE=&rs=AOn4CLBluStR-Ob0K4JaeS8q1B87iVU2fA&v=1728395503",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n7poJAWUbPHDF_-Q5a0I2T8gVpd4B5-bk/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICO_xlLgGEAE=&rs=AOn4CLBaOy2v8J-LJVZUILQWnDwApgIFxg&v=1728395503",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting City Girls",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 29
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "u3ml6G_EZaIjppcaUWt6fAIDews",
+      "id": "RDCLAK5uy_kj3rhiar1LINmyDcuFnXihEO0K1NQa2jI",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "German Rap Hits Now",
+        "description": "The hottest tracks of the German Hip-Hop scene - On the cover: Jazeek x Luciano & Miksu/Macloud\n#germanhiphop #rap #hits",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kj3rhiar1LINmyDcuFnXihEO0K1NQa2jI/mqdefault.jpg?sqp=CODAlbgGir7X7AMICJalkLgGEAE=&rs=AOn4CLBEw-a9aid_ZUEgvG_ssEIGwquO0A&v=1728320150",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kj3rhiar1LINmyDcuFnXihEO0K1NQa2jI/sddefault.jpg?sqp=CODAlbgGir7X7AMICJalkLgGEAE=&rs=AOn4CLDmg8TkyBan3l6dmSiTcdHPbQJX9w&v=1728320150",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kj3rhiar1LINmyDcuFnXihEO0K1NQa2jI/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICJalkLgGEAE=&rs=AOn4CLDdNdwDzr4iHLbQsboHuIzDqFGTCQ&v=1728320150",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "German Rap Hits Now",
+          "description": "The hottest tracks of the German Hip-Hop scene - On the cover: Jazeek x Luciano & Miksu/Macloud\n#germanhiphop #rap #hits"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 55
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "A0MKZLhlVlW7T_EOt245O6dvHpU",
+      "id": "RDCLAK5uy_mbpwsInKjmzrQdmXUxWF2RjxU3oLvYKVA",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Charles Ans ",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mbpwsInKjmzrQdmXUxWF2RjxU3oLvYKVA/mqdefault.jpg?sqp=CODAlbgGir7X7AMICO6qkbgGEAE=&rs=AOn4CLDNmSpHM1SWdtmNkB6V0Cs6kWo5Sw&v=1728337262",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mbpwsInKjmzrQdmXUxWF2RjxU3oLvYKVA/sddefault.jpg?sqp=CODAlbgGir7X7AMICO6qkbgGEAE=&rs=AOn4CLBC8oH8KpUZnfPqcKyqn77t3s9nTA&v=1728337262",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mbpwsInKjmzrQdmXUxWF2RjxU3oLvYKVA/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICO6qkbgGEAE=&rs=AOn4CLCldFwY3BhDSH2rY2GBYpSs31tx1Q&v=1728337262",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Charles Ans ",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 42
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "eUc3hKNRzXTKjWZ0XdgldQs1W7A",
+      "id": "RDCLAK5uy_lH0qTZHJc9XnHY9YR9Xjnstn8JW1oWlWM",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting 지드래곤 (G-DRAGON)",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lH0qTZHJc9XnHY9YR9Xjnstn8JW1oWlWM/mqdefault.jpg?sqp=CODAlbgGir7X7AMICOrIkbgGEAE=&rs=AOn4CLCDTUbtWmS-RkpQ_WMEr2PvYLoKdQ&v=1728341098",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lH0qTZHJc9XnHY9YR9Xjnstn8JW1oWlWM/sddefault.jpg?sqp=CODAlbgGir7X7AMICOrIkbgGEAE=&rs=AOn4CLAxJWJhwFaEKcr9g-WY5qgGs5sSEA&v=1728341098",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lH0qTZHJc9XnHY9YR9Xjnstn8JW1oWlWM/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICOrIkbgGEAE=&rs=AOn4CLDDlPQ8xrMCMcZFAW4YUXHAvK07Pw&v=1728341098",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting 지드래곤 (G-DRAGON)",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 34
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "c3YTzwNUeKFn-g2oYRJ5czHKwQE",
+      "id": "RDCLAK5uy_lLk2AeL5llZsaE9e1qtXuTHiyrFGaZDfw",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Top Dembow 2020",
+        "description": "Check out the biggest dembow songs of the year.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lLk2AeL5llZsaE9e1qtXuTHiyrFGaZDfw/mqdefault.jpg?sqp=CODAlbgGir7X7AMICMSIk7gGEAE=&rs=AOn4CLD84UJzISnt_vxJY7tQidWyzDnpfQ&v=1728365636",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lLk2AeL5llZsaE9e1qtXuTHiyrFGaZDfw/sddefault.jpg?sqp=CODAlbgGir7X7AMICMSIk7gGEAE=&rs=AOn4CLBk-RrHsYHR_jNFv_6pjY501kV5Ag&v=1728365636",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lLk2AeL5llZsaE9e1qtXuTHiyrFGaZDfw/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICMSIk7gGEAE=&rs=AOn4CLD1FEEOZWVilNp6rHpNJib-qbJhYA&v=1728365636",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Top Dembow 2020",
+          "description": "Check out the biggest dembow songs of the year."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 50
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "E5St98W1CB_9q1QJuO4h6Bz957k",
+      "id": "RDCLAK5uy_mClFz-5Mh9vPhk4Z-mfaWYXMM_R-K9_vs",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Trey Songz",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mClFz-5Mh9vPhk4Z-mfaWYXMM_R-K9_vs/mqdefault.jpg?sqp=CODAlbgGir7X7AMICI73krgGEAE=&rs=AOn4CLBCwMPznTIj1rJ2ad6egIfwZWAlxQ&v=1728363406",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mClFz-5Mh9vPhk4Z-mfaWYXMM_R-K9_vs/sddefault.jpg?sqp=CODAlbgGir7X7AMICI73krgGEAE=&rs=AOn4CLCNdd3ldGLVXpNQjmFxR9LjDhDJSg&v=1728363406",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mClFz-5Mh9vPhk4Z-mfaWYXMM_R-K9_vs/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICI73krgGEAE=&rs=AOn4CLCr9whbntyzMZQ0HHDG9-s-DC87xg&v=1728363406",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Trey Songz",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 46
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "uug_4z132lpOpJ_SjXlgq8dstP0",
+      "id": "RDCLAK5uy_lAmPlJjhJnyGbsmctoy1DJglsbUoxRcVg",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting T-Pain",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lAmPlJjhJnyGbsmctoy1DJglsbUoxRcVg/mqdefault.jpg?sqp=CODAlbgGir7X7AMICJSYlbgGEAE=&rs=AOn4CLCFrbigjM-7x_Vm2ltMlrChn4nW_A&v=1728400404",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lAmPlJjhJnyGbsmctoy1DJglsbUoxRcVg/sddefault.jpg?sqp=CODAlbgGir7X7AMICJSYlbgGEAE=&rs=AOn4CLBirDKZgOqUo3FZjXilFJFZ_pWH-w&v=1728400404",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lAmPlJjhJnyGbsmctoy1DJglsbUoxRcVg/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICJSYlbgGEAE=&rs=AOn4CLB-Wh4YjT7y4KwpAQwLvg1-GW1BOg&v=1728400404",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting T-Pain",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 39
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "03R_M5fp-GKuxRkIVXDKmGmKrcY",
+      "id": "RDCLAK5uy_kwxd30gzn4bdP8EPNnkF2VYqMW386G6uQ",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Turreo and 420",
+        "description": "The playlist with the best hits of Cumbia 420, RKT, Perreo, Turreo.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kwxd30gzn4bdP8EPNnkF2VYqMW386G6uQ/mqdefault.jpg?sqp=CODAlbgGir7X7AMICPDBkLgGEAE=&rs=AOn4CLBngxohfGni0U402GL6OAuCif2RcA&v=1728323824",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kwxd30gzn4bdP8EPNnkF2VYqMW386G6uQ/sddefault.jpg?sqp=CODAlbgGir7X7AMICPDBkLgGEAE=&rs=AOn4CLAL4w6MyNDgO2GNtxGCiRARde-rmw&v=1728323824",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kwxd30gzn4bdP8EPNnkF2VYqMW386G6uQ/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICPDBkLgGEAE=&rs=AOn4CLAyBjdIfvWNt8XgBAlxikGCxw98ng&v=1728323824",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Turreo and 420",
+          "description": "The playlist with the best hits of Cumbia 420, RKT, Perreo, Turreo."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 58
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "6TydxFCEMBBHJdbKYoEocICqUug",
+      "id": "RDCLAK5uy_l9-Idj-buSSWaC0_Gw1qfpIxlaNvyFI7Q",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Logic",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l9-Idj-buSSWaC0_Gw1qfpIxlaNvyFI7Q/mqdefault.jpg?sqp=CODAlbgGir7X7AMICOnbkbgGEAE=&rs=AOn4CLBtIyiPyEU6URUH7lI1HpWCmWu8kw&v=1728343529",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l9-Idj-buSSWaC0_Gw1qfpIxlaNvyFI7Q/sddefault.jpg?sqp=CODAlbgGir7X7AMICOnbkbgGEAE=&rs=AOn4CLDa5x06pwVvMp5wWpexeCwMfEo86A&v=1728343529",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l9-Idj-buSSWaC0_Gw1qfpIxlaNvyFI7Q/maxresdefault.jpg?sqp=CODAlbgGir7X7AMICOnbkbgGEAE=&rs=AOn4CLCROUfvj_oEzRg9EXyARlUq_YtCLA&v=1728343529",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Logic",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 47
       }
     }
   ]

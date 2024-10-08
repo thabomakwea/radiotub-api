@@ -1,0 +1,1567 @@
+{
+  "kind": "youtube#playlistListResponse",
+  "etag": "VnDKM9rLihMC7QprPhG6ph2zEbk",
+  "pageInfo": {
+    "totalResults": 36,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "j6wi47Xi1zkXvnwUZr9wTzDEQZk",
+      "id": "RDCLAK5uy_moVT3RtwEjOmKiQ29AV1QNtUoLqyD0B50",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "The Hits: '50s",
+        "description": "Listen to the biggest songs of the 1950s.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_moVT3RtwEjOmKiQ29AV1QNtUoLqyD0B50/mqdefault.jpg?sqp=CPDclbgGir7X7AMICMvFk7gGEAE=&rs=AOn4CLAncPt9JXvS1kuJ89cd0uZIht9_cA&v=1728373451",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_moVT3RtwEjOmKiQ29AV1QNtUoLqyD0B50/sddefault.jpg?sqp=CPDclbgGir7X7AMICMvFk7gGEAE=&rs=AOn4CLDFvyoEdcfKDEBWMfq4XU44PXlIaw&v=1728373451",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_moVT3RtwEjOmKiQ29AV1QNtUoLqyD0B50/maxresdefault.jpg?sqp=CPDclbgGir7X7AMICMvFk7gGEAE=&rs=AOn4CLC0xr7a3sdTWtdNg1AZ97-vILfi-A&v=1728373451",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "The Hits: '50s",
+          "description": "Listen to the biggest songs of the 1950s."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 90
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "0dVkRCFF5yD5jXCuergTTvnwmd8",
+      "id": "RDCLAK5uy_nEjjAWEM3M3fk2tT4Lhb5JOr_HoD0tjnk",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "City Pop: Origins",
+        "description": "A collection of songs that define the DNA of Japanese City Pop.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nEjjAWEM3M3fk2tT4Lhb5JOr_HoD0tjnk/mqdefault.jpg?sqp=CPDclbgGir7X7AMICIjMlbgGEAE=&rs=AOn4CLD60lAE4fmVMuKNlpB-eUPxiH9Jxg&v=1728407048",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nEjjAWEM3M3fk2tT4Lhb5JOr_HoD0tjnk/sddefault.jpg?sqp=CPDclbgGir7X7AMICIjMlbgGEAE=&rs=AOn4CLC3uHSBN-Nu_CmhTsUmi2gpS8aEgw&v=1728407048",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nEjjAWEM3M3fk2tT4Lhb5JOr_HoD0tjnk/maxresdefault.jpg?sqp=CPDclbgGir7X7AMICIjMlbgGEAE=&rs=AOn4CLC5cByD77eD8j8fUyFV58OLK7QEdw&v=1728407048",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "City Pop: Origins",
+          "description": "A collection of songs that define the DNA of Japanese City Pop."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 51
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "sfuNokf8DTgrnP7S9rOQivN8f-A",
+      "id": "RDCLAK5uy_kZQQLHDY0qQALB5YHL5zzCQnW92H7b_1I",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Soft Pop",
+        "description": "Ease into these mellow soft pop hits from the last few years.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kZQQLHDY0qQALB5YHL5zzCQnW92H7b_1I/mqdefault.jpg?sqp=CPDclbgGir7X7AMICOipk7gGEAE=&rs=AOn4CLDeA472oRhn9Sb0-3PdUNJR0r7C5Q&v=1728369896",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kZQQLHDY0qQALB5YHL5zzCQnW92H7b_1I/sddefault.jpg?sqp=CPDclbgGir7X7AMICOipk7gGEAE=&rs=AOn4CLCQ8Zug1kbwhESghqDHjDxqisK5jA&v=1728369896",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kZQQLHDY0qQALB5YHL5zzCQnW92H7b_1I/maxresdefault.jpg?sqp=CPDclbgGir7X7AMICOipk7gGEAE=&rs=AOn4CLAb9tjQUEM1eGrHTOc2ob92x7rdDw&v=1728369896",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Soft Pop",
+          "description": "Ease into these mellow soft pop hits from the last few years."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 80
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "tvQq0KDyRxFeW0VUQu32OQYYk0Y",
+      "id": "RDCLAK5uy_k0UsUzNCizrQpUspNsoj2iO-EsevEywLY",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Instrumental Pop Covers",
+        "description": "Enjoy your favorite pop songs re-imagined on classical instruments. #soundtracks #fun #instrumental",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k0UsUzNCizrQpUspNsoj2iO-EsevEywLY/mqdefault.jpg?sqp=CPDclbgGir7X7AMICOPZlLgGEAE=&rs=AOn4CLCdjwGuw5Ozd7uaCfO89nehd6Jqag&v=1728392419",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k0UsUzNCizrQpUspNsoj2iO-EsevEywLY/sddefault.jpg?sqp=CPDclbgGir7X7AMICOPZlLgGEAE=&rs=AOn4CLD_kMcKaUfmfApknRd3QsWFRY24Ww&v=1728392419",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k0UsUzNCizrQpUspNsoj2iO-EsevEywLY/maxresdefault.jpg?sqp=CPDclbgGir7X7AMICOPZlLgGEAE=&rs=AOn4CLA7ezg-Gr319NFx7a-QTqQfXZBDCQ&v=1728392419",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Instrumental Pop Covers",
+          "description": "Enjoy your favorite pop songs re-imagined on classical instruments. #soundtracks #fun #instrumental"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 64
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "ndt59lihfmGXIVizRqyq62SF2j0",
+      "id": "RDCLAK5uy_n9Fbdw7e6ap-98_A-8JYBmPv64v-Uaq1g",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Bollywood Hitlist",
+        "description": "Best of the best from the latest. 'Nuff said. #hindi #music #hits",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n9Fbdw7e6ap-98_A-8JYBmPv64v-Uaq1g/mqdefault.jpg?sqp=CPDclbgGir7X7AMICKzkk7gGEAE=&rs=AOn4CLBbqARsLeFBS4xEbs2w74Hmesq3IA&v=1728377388",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n9Fbdw7e6ap-98_A-8JYBmPv64v-Uaq1g/sddefault.jpg?sqp=CPDclbgGir7X7AMICKzkk7gGEAE=&rs=AOn4CLDcB0fyd_APBfZjo6bNxnaNl3CpEA&v=1728377388",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n9Fbdw7e6ap-98_A-8JYBmPv64v-Uaq1g/maxresdefault.jpg?sqp=CPDclbgGir7X7AMICKzkk7gGEAE=&rs=AOn4CLB_Jjxyjtkz9ylJ4cVnl-tpS553SA&v=1728377388",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Bollywood Hitlist",
+          "description": "Best of the best from the latest. 'Nuff said. #hindi #music #hits"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 50
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "7fZ-4t71mg3IGs7igavz1NZlAN4",
+      "id": "RDCLAK5uy_n9S8w04iJGdSirkDSX6svxZ8YtcpbLwFM",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Punjabi Romance Essentials",
+        "description": "Biggest hits to crowd favorites, enjoy the best of Punjabi Romance.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n9S8w04iJGdSirkDSX6svxZ8YtcpbLwFM/mqdefault.jpg?sqp=CPDclbgGir7X7AMICJftkLgGEAE=&rs=AOn4CLAAfjOUuFwDb7UvSwZtwqf_LQ-ezg&v=1728329367",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n9S8w04iJGdSirkDSX6svxZ8YtcpbLwFM/sddefault.jpg?sqp=CPDclbgGir7X7AMICJftkLgGEAE=&rs=AOn4CLAUQTHsVT8idzSYwqZozqpsQbg9sg&v=1728329367",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n9S8w04iJGdSirkDSX6svxZ8YtcpbLwFM/maxresdefault.jpg?sqp=CPDclbgGir7X7AMICJftkLgGEAE=&rs=AOn4CLCSxWconi8dHV6lC3pmeCid9stg_w&v=1728329367",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Punjabi Romance Essentials",
+          "description": "Biggest hits to crowd favorites, enjoy the best of Punjabi Romance."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 80
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "lZgpvZwd2Q3ihyTcibiH5Zc2mZs",
+      "id": "RDCLAK5uy_msL3-7KY0LeHykE9eC_-evOsnQ6uc2ky0",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "UK Rap Lovers",
+        "description": "Representing the loved up bars of UK Rap.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_msL3-7KY0LeHykE9eC_-evOsnQ6uc2ky0/mqdefault.jpg?sqp=CPDclbgGir7X7AMICO3KkbgGEAE=&rs=AOn4CLAgcWRNGCiMMTHgWJ1Nyg6Bh-YpGA&v=1728341357",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_msL3-7KY0LeHykE9eC_-evOsnQ6uc2ky0/sddefault.jpg?sqp=CPDclbgGir7X7AMICO3KkbgGEAE=&rs=AOn4CLCsiip-ah4h4_oLQbYUIU7K791r-A&v=1728341357",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_msL3-7KY0LeHykE9eC_-evOsnQ6uc2ky0/maxresdefault.jpg?sqp=CPDclbgGir7X7AMICO3KkbgGEAE=&rs=AOn4CLDdzKmdDgviNECsa8MZYo4tPlUdvA&v=1728341357",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "UK Rap Lovers",
+          "description": "Representing the loved up bars of UK Rap."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 62
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "-Rj0vnGZrV1Gu3ATI8TruWpbN0Q",
+      "id": "RDCLAK5uy_l98GhjIKA5yKA4lCEq4uAyMpAvJtupQ0k",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Mellow Indie",
+        "description": "These mellow indie tunes are the perfect soundtrack for working, studying or just relaxing.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l98GhjIKA5yKA4lCEq4uAyMpAvJtupQ0k/mqdefault.jpg?sqp=CPDclbgGir7X7AMICLqKkrgGEAE=&rs=AOn4CLAjk90nsX_H6NeK2yoA_JUnQzE0Fw&v=1728349498",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l98GhjIKA5yKA4lCEq4uAyMpAvJtupQ0k/sddefault.jpg?sqp=CPDclbgGir7X7AMICLqKkrgGEAE=&rs=AOn4CLDawK510s8oSlPmhiJk1i0PeWZeCA&v=1728349498",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l98GhjIKA5yKA4lCEq4uAyMpAvJtupQ0k/maxresdefault.jpg?sqp=CPDclbgGir7X7AMICLqKkrgGEAE=&rs=AOn4CLAtdRbQ8o5PTaO9kdUsuXWC_Yz91A&v=1728349498",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Mellow Indie",
+          "description": "These mellow indie tunes are the perfect soundtrack for working, studying or just relaxing."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 130
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "MR-4-VVDDLBJ99Yex5tKu4yzOuU",
+      "id": "RDCLAK5uy_mW7Y3q7fn1z4-0NrOf5NYYVkSAs91eHys",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Sanjith Hegde",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mW7Y3q7fn1z4-0NrOf5NYYVkSAs91eHys/mqdefault.jpg?sqp=CPDclbgGir7X7AMICLidlbgGEAE=&rs=AOn4CLDfipbhNXQ_SV9NzRiKxvhNLLS9eQ&v=1728401080",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mW7Y3q7fn1z4-0NrOf5NYYVkSAs91eHys/sddefault.jpg?sqp=CPDclbgGir7X7AMICLidlbgGEAE=&rs=AOn4CLDlPxRXMny8lhZA5mlrwo7QiWr-yQ&v=1728401080",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mW7Y3q7fn1z4-0NrOf5NYYVkSAs91eHys/maxresdefault.jpg?sqp=CPDclbgGir7X7AMICLidlbgGEAE=&rs=AOn4CLDzqdPpv_kIEAXjbkIXV3hI8I6C-Q&v=1728401080",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Sanjith Hegde",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 30
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "-MkLmgA70htF8ehH8DRQ6wMcOAg",
+      "id": "RDCLAK5uy_k0c_Cd8WVmkdWzZvHPX4TfiCR9aVSRcqM",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Mitski",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k0c_Cd8WVmkdWzZvHPX4TfiCR9aVSRcqM/mqdefault.jpg?sqp=CPDclbgGir7X7AMICKbtk7gGEAE=&rs=AOn4CLAU4aYwIygLYYgkEo7GTba2Eivoeg&v=1728378534",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k0c_Cd8WVmkdWzZvHPX4TfiCR9aVSRcqM/sddefault.jpg?sqp=CPDclbgGir7X7AMICKbtk7gGEAE=&rs=AOn4CLCUVHdEQ7rx_peOjaZ4Laj683D8dA&v=1728378534",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k0c_Cd8WVmkdWzZvHPX4TfiCR9aVSRcqM/maxresdefault.jpg?sqp=CPDclbgGir7X7AMICKbtk7gGEAE=&rs=AOn4CLDGpRPpS9DIvVGKNFsHr9KD3kDSPg&v=1728378534",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Mitski",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 30
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "Tf5f_hd6GU3QD-5i63MINNEx8Lo",
+      "id": "RDCLAK5uy_ltlS29HmNHZb3oCsEjfXmZhIGaWpaDZck",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": " '90s Dance",
+        "description": "Everything from cheesy floorfillers to big beat bangers. ",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ltlS29HmNHZb3oCsEjfXmZhIGaWpaDZck/mqdefault.jpg?sqp=CPDclbgGir7X7AMICKzYkbgGEAE=&rs=AOn4CLAHT6ghEo4hsVcyHlkDzk9EIPFZMQ&v=1728343084",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ltlS29HmNHZb3oCsEjfXmZhIGaWpaDZck/sddefault.jpg?sqp=CPDclbgGir7X7AMICKzYkbgGEAE=&rs=AOn4CLC11VO1TFisa9zyjbb-hvVyO8XDLA&v=1728343084",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ltlS29HmNHZb3oCsEjfXmZhIGaWpaDZck/maxresdefault.jpg?sqp=CPDclbgGir7X7AMICKzYkbgGEAE=&rs=AOn4CLAlpmXCstwF6Pzv430wLGv_rBtecg&v=1728343084",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": " '90s Dance",
+          "description": "Everything from cheesy floorfillers to big beat bangers. "
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 102
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "8IY7XLVwwVLbejl1MFFwzXpt8Kk",
+      "id": "RDCLAK5uy_mypHeJ-B5f7-OgrxJcXeiHSotjIJ_UDhQ",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Bollywood Romance Hitlist",
+        "description": "Hit play and drift off to the land of love. #hindi #romance #love",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mypHeJ-B5f7-OgrxJcXeiHSotjIJ_UDhQ/mqdefault.jpg?sqp=CPDclbgGir7X7AMICMbLkbgGEAE=&rs=AOn4CLDj7DuUpSIjE3nplo3gmJutyE32rQ&v=1728341446",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mypHeJ-B5f7-OgrxJcXeiHSotjIJ_UDhQ/sddefault.jpg?sqp=CPDclbgGir7X7AMICMbLkbgGEAE=&rs=AOn4CLCD5MDJWNwUbcRvR7pKdpE0qFEEsg&v=1728341446",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mypHeJ-B5f7-OgrxJcXeiHSotjIJ_UDhQ/maxresdefault.jpg?sqp=CPDclbgGir7X7AMICMbLkbgGEAE=&rs=AOn4CLC3IljyjIWAVRm9t9TIGsiyPfZhbg&v=1728341446",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Bollywood Romance Hitlist",
+          "description": "Hit play and drift off to the land of love. #hindi #romance #love"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 60
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "onORcowzKiOThUinVXx543Kr4kg",
+      "id": "RDCLAK5uy_lmJ1XVLAws5IizZQ-nWH2AYIFLpW6vi8g",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "The Hits: 00s Mandopop",
+        "description": "All your Mandopop favorites from the 2000s",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lmJ1XVLAws5IizZQ-nWH2AYIFLpW6vi8g/mqdefault.jpg?sqp=CPDclbgGir7X7AMICPP0k7gGEAE=&rs=AOn4CLApJpWxEoiMfSIvZXttzI5-J3GLKw&v=1728379507",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lmJ1XVLAws5IizZQ-nWH2AYIFLpW6vi8g/sddefault.jpg?sqp=CPDclbgGir7X7AMICPP0k7gGEAE=&rs=AOn4CLCXk22ZOna-npBxqNKriVSnScjLFA&v=1728379507",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lmJ1XVLAws5IizZQ-nWH2AYIFLpW6vi8g/maxresdefault.jpg?sqp=CPDclbgGir7X7AMICPP0k7gGEAE=&rs=AOn4CLD3u5bca4lksmr5RnAGonYqcP_osQ&v=1728379507",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "The Hits: 00s Mandopop",
+          "description": "All your Mandopop favorites from the 2000s"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 60
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "6Q-dB-TOhXVJD7-HMJdYJ2lBgT4",
+      "id": "RDCLAK5uy_mJgCf3ImiBg-W8aPHwlQ2hkIT_OV5yPg4",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "South African 80s Hits",
+        "description": "Throwing it back to the local hits making it big in the eighties. ",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mJgCf3ImiBg-W8aPHwlQ2hkIT_OV5yPg4/mqdefault.jpg?sqp=CPDclbgGir7X7AMICIXDkbgGEAE=&rs=AOn4CLDs3jIJJ5F3u9tLkJ3qYM-miISFKg&v=1728340357",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mJgCf3ImiBg-W8aPHwlQ2hkIT_OV5yPg4/sddefault.jpg?sqp=CPDclbgGir7X7AMICIXDkbgGEAE=&rs=AOn4CLA1UDD1roOytWUVZ-xxfJFiol0iWw&v=1728340357",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mJgCf3ImiBg-W8aPHwlQ2hkIT_OV5yPg4/maxresdefault.jpg?sqp=CPDclbgGir7X7AMICIXDkbgGEAE=&rs=AOn4CLCXotOO8HsgC2v9CFBlRJ2ZtB_fMA&v=1728340357",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "South African 80s Hits",
+          "description": "Throwing it back to the local hits making it big in the eighties. "
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 21
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "eRqkI-vegSvHTXf0G2kMybHPjos",
+      "id": "RDCLAK5uy_lyDluX1HPaTL5bX3T0cSc9X3bdqWmuK9M",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Emo Rap",
+        "description": "Get into your feels with these introspective lyrics and trap beats.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lyDluX1HPaTL5bX3T0cSc9X3bdqWmuK9M/mqdefault.jpg?sqp=CPDclbgGir7X7AMICLK7lbgGEAE=&rs=AOn4CLDh4XWJDyuNV-T55Y4EPjBPlrrMoA&v=1728404914",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lyDluX1HPaTL5bX3T0cSc9X3bdqWmuK9M/sddefault.jpg?sqp=CPDclbgGir7X7AMICLK7lbgGEAE=&rs=AOn4CLDgWnUDF4Ok9KF8mxrhFWUZS9oxJA&v=1728404914",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lyDluX1HPaTL5bX3T0cSc9X3bdqWmuK9M/maxresdefault.jpg?sqp=CPDclbgGir7X7AMICLK7lbgGEAE=&rs=AOn4CLDKM8PAPdO7tuAVdPuyqpUV_wtmgw&v=1728404914",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Emo Rap",
+          "description": "Get into your feels with these introspective lyrics and trap beats."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 64
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "rIg9QNMhWvVSfHZsd-2X4dkHB8E",
+      "id": "RDCLAK5uy_nBrLYLD4uLur0yOG-Ayla-Ig64ZzZcy7A",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Huge House Anthems",
+        "description": "Get your blood pumping and your body moving to these massive big room, and festival house tracks. #house #hits #trending",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nBrLYLD4uLur0yOG-Ayla-Ig64ZzZcy7A/mqdefault.jpg?sqp=CPDclbgGir7X7AMICJv1k7gGEAE=&rs=AOn4CLCtajjpjOX-BWpEjAq4sHtT1-KWDQ&v=1728379547",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nBrLYLD4uLur0yOG-Ayla-Ig64ZzZcy7A/sddefault.jpg?sqp=CPDclbgGir7X7AMICJv1k7gGEAE=&rs=AOn4CLBshrXQZyhSSH_ApmrwXTksY5g_FA&v=1728379547",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nBrLYLD4uLur0yOG-Ayla-Ig64ZzZcy7A/maxresdefault.jpg?sqp=CPDclbgGir7X7AMICJv1k7gGEAE=&rs=AOn4CLCDHV_WPJb3IeAWdEPEmQ2n0X1MaQ&v=1728379547",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Huge House Anthems",
+          "description": "Get your blood pumping and your body moving to these massive big room, and festival house tracks. #house #hits #trending"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 100
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "MRVRP5c6vzCqD0Zv7ljINbwmgnQ",
+      "id": "RDCLAK5uy_kW-moSFMAFOKAIVYn9IDrZKWEJA3cP9UU",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Ultimate Love Songs",
+        "description": "The most beautiful love songs of all time. ",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kW-moSFMAFOKAIVYn9IDrZKWEJA3cP9UU/mqdefault.jpg?sqp=CPDclbgGir7X7AMICOOgkbgGEAE=&rs=AOn4CLC8eEBYD99OTLLthIMRePMza16S2g&v=1728335971",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kW-moSFMAFOKAIVYn9IDrZKWEJA3cP9UU/sddefault.jpg?sqp=CPDclbgGir7X7AMICOOgkbgGEAE=&rs=AOn4CLBVQ4gWjF1vDadi5c-_vUoitZc7kw&v=1728335971",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kW-moSFMAFOKAIVYn9IDrZKWEJA3cP9UU/maxresdefault.jpg?sqp=CPDclbgGir7X7AMICOOgkbgGEAE=&rs=AOn4CLDKTsPoFA128ap2G1cw_L3Rt4eGnQ&v=1728335971",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Ultimate Love Songs",
+          "description": "The most beautiful love songs of all time. "
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 90
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "5bs9M_KsAx73Yf0FV_6JJnjHSf8",
+      "id": "PLHRnB9VOcjDpnE5QCM2_LooQIRbKRdsjK",
+      "snippet": {
+        "publishedAt": "2019-02-13T17:13:14Z",
+        "channelId": "UCOmZHz5W3F17HraXlJveEJA",
+        "title": "George Strait Greatest Hits: Love Songs Edition",
+        "description": "George Strait's greatest hits including 'Check Yes Or No', 'I Cross My Heart', 'Love Without End, Amen' and 'Carrying Your Love With Me'.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NHxS8wlDngI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NHxS8wlDngI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NHxS8wlDngI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NHxS8wlDngI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NHxS8wlDngI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "George Strait",
+        "localized": {
+          "title": "George Strait Greatest Hits: Love Songs Edition",
+          "description": "George Strait's greatest hits including 'Check Yes Or No', 'I Cross My Heart', 'Love Without End, Amen' and 'Carrying Your Love With Me'."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 17
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "_LCC6kFCOFSfpLasRWScTFVjgzg",
+      "id": "PLTRKTsUqtjZyAJp_OfxnPohJTzj5t8ZTr",
+      "snippet": {
+        "publishedAt": "2017-04-17T12:22:55Z",
+        "channelId": "UCZbw8gGitJ7hA2gBBdeaMuw",
+        "title": "Best Afro Soul Songs 2018/7- South African Love songs",
+        "description": "Our South African love songs. Afro pop, Afro jazz, Afro soul and even South African R&B sounds so good.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ISNm4knGl-k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ISNm4knGl-k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ISNm4knGl-k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ISNm4knGl-k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ISNm4knGl-k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "AfricanSalt",
+        "localized": {
+          "title": "Best Afro Soul Songs 2018/7- South African Love songs",
+          "description": "Our South African love songs. Afro pop, Afro jazz, Afro soul and even South African R&B sounds so good."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 75
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "3j6RWrDtBriCW5R4BVtPuXSBeB4",
+      "id": "PL3-sRm8xAzY-w9GS19pLXMyFRTuJcuUjy",
+      "snippet": {
+        "publishedAt": "2017-04-10T14:02:05Z",
+        "channelId": "UC1XC2O_MgSQk_GC2S25rP-w",
+        "title": "SAD SONGS 2024 - Sad Love Songs Playlist",
+        "description": "SAD SONGS 2024 - Sad Love Songs Playlist\n\nEvery week, we update our playlist with the new top sad songs. To stay in the loop on all the new releases each week, save this playlist!\n\nsad songs\nsad songs that make you cry\nsad song 😭😭😭💔💔💔\nsad music\nsad songs playlist\ndepressing songs\nsad playlist\nsad songs 2024\nsad love songs\nsad song playlist\nemotional songs\nsad mix\nsongs that will make you cry\n\nSad songs January 2024, February 2024, March 2024, April 2024, May 2024, June 2024, July 2024, August 2024, September 2024, October 2024, November 2024, December 2024 etc.\n\nyou can find this as:\nSAD SONGS PLAYLIST.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jkj36B1YuDU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jkj36B1YuDU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jkj36B1YuDU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Jkj36B1YuDU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Jkj36B1YuDU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "AT Charts",
+        "localized": {
+          "title": "SAD SONGS 2024 - Sad Love Songs Playlist",
+          "description": "SAD SONGS 2024 - Sad Love Songs Playlist\n\nEvery week, we update our playlist with the new top sad songs. To stay in the loop on all the new releases each week, save this playlist!\n\nsad songs\nsad songs that make you cry\nsad song 😭😭😭💔💔💔\nsad music\nsad songs playlist\ndepressing songs\nsad playlist\nsad songs 2024\nsad love songs\nsad song playlist\nemotional songs\nsad mix\nsongs that will make you cry\n\nSad songs January 2024, February 2024, March 2024, April 2024, May 2024, June 2024, July 2024, August 2024, September 2024, October 2024, November 2024, December 2024 etc.\n\nyou can find this as:\nSAD SONGS PLAYLIST."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 138
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "j1IVNND3-EBzDnWf3yavIK28OJA",
+      "id": "PLUeQUfurHN6Z0psLYzwamrxRK_a5Et0bU",
+      "snippet": {
+        "publishedAt": "2022-09-22T21:02:28Z",
+        "channelId": "UC5OrDvL9DscpcAstz7JnQGA",
+        "title": "Michael Jackson - Love Songs",
+        "description": "Fall in love with this playlist of romantic favorites. Human Nature, Love Never Felt So Good, The Way You Make Me Feel, I Just Can’t Stop Loving You and more!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ElN_4vUvTPs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ElN_4vUvTPs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ElN_4vUvTPs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ElN_4vUvTPs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ElN_4vUvTPs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Michael Jackson",
+        "localized": {
+          "title": "Michael Jackson - Love Songs",
+          "description": "Fall in love with this playlist of romantic favorites. Human Nature, Love Never Felt So Good, The Way You Make Me Feel, I Just Can’t Stop Loving You and more!"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 19
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "913AiOAPlgkd5Pve-qmNWI0yqFc",
+      "id": "PLFFyMei_d85XtKpbefBYEKfRtYcttsjyh",
+      "snippet": {
+        "publishedAt": "2017-09-01T17:59:46Z",
+        "channelId": "UCKB58cipJ-KFFBbcVGNRwZw",
+        "title": "Punjabi Love Songs 2024 Most Romantic Collection",
+        "description": "Most loved Punjabi Love songs on Youtube Most viewed punjabi love songs Punjabi love songs 2024 Most romantic punjabi love songs Most viewed Punjabi love songs in this week Most romantic punjabi songs 2023 Punjabi songs 2023 romantic Best Punjabi love songs Punjabi love songs for wedding & pre wedding shoots Beautiful punjabi love songs All time best punjabi love songs Punjabi love songs 2024 most romantic collection ever  Love Jatin Kathuria",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D0gWr9K8Lb4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D0gWr9K8Lb4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D0gWr9K8Lb4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D0gWr9K8Lb4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D0gWr9K8Lb4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jatin Kathuria",
+        "localized": {
+          "title": "Punjabi Love Songs 2024 Most Romantic Collection",
+          "description": "Most loved Punjabi Love songs on Youtube Most viewed punjabi love songs Punjabi love songs 2024 Most romantic punjabi love songs Most viewed Punjabi love songs in this week Most romantic punjabi songs 2023 Punjabi songs 2023 romantic Best Punjabi love songs Punjabi love songs for wedding & pre wedding shoots Beautiful punjabi love songs All time best punjabi love songs Punjabi love songs 2024 most romantic collection ever  Love Jatin Kathuria"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 164
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "GENId35yFjl9Aq33_7qK6IHx7jc",
+      "id": "PLV68oG1RihRLXfA5Nw1lp0ewwQlDpi8qt",
+      "snippet": {
+        "publishedAt": "2016-08-28T08:50:04Z",
+        "channelId": "UCZVC_c71VJIJn_xwhOnJkkw",
+        "title": "Rock Alternative Love Songs (90's-2010's)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sG0YFaMMRA8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sG0YFaMMRA8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sG0YFaMMRA8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jonah Amundsen (Savi)",
+        "localized": {
+          "title": "Rock Alternative Love Songs (90's-2010's)",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 284
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "n5X-W36QEmhZFzVrvc2JB-vh0Ho",
+      "id": "PLZf_CEVW0K91cO27vIy3Ps423fyGOZhZs",
+      "snippet": {
+        "publishedAt": "2015-01-07T02:19:37Z",
+        "channelId": "UCUr35n19AdoDYeFahnOO8JA",
+        "title": "Love songs by female artists",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ewxmv2tyeRs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ewxmv2tyeRs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ewxmv2tyeRs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ewxmv2tyeRs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ewxmv2tyeRs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rick One",
+        "localized": {
+          "title": "Love songs by female artists",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 82
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "7YxTn2nOnNjumkvbO5tsesGjctQ",
+      "id": "PLbnfhymC8OwT5QG3SmLLb25rvHW3OM6Hk",
+      "snippet": {
+        "publishedAt": "2014-09-15T15:04:22Z",
+        "channelId": "UCAhk2yXWhlMcdT2QuE54jbQ",
+        "title": "Sad Country Love Songs",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IZbN_nmxAGk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IZbN_nmxAGk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IZbN_nmxAGk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IZbN_nmxAGk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IZbN_nmxAGk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Megan Woolhouse",
+        "localized": {
+          "title": "Sad Country Love Songs",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 47
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "fn3jXFHZKOu6L8Xt1fA67IoDDTo",
+      "id": "PLplXQ2cg9B_phK5eLAB6pRQKlvC2yJdCq",
+      "snippet": {
+        "publishedAt": "2017-10-07T13:46:32Z",
+        "channelId": "UC6dS4EYROOGGcqqp1vF-Txg",
+        "title": "Best Love Duets. Duet Songs Playlist.",
+        "description": "Love duets that will make you fall in love...Duet love songs that have become a part of the soundtrack of our lives...Love songs collaborations of the best music artists of all time in one music playlist.\n\nCLICK save and share this love songs playlist of love duets.\n\nSongs played on VH1, 96.3 easy rock, easy listening songs, mellow touch 94.7 and wrock the heart of lite rock....",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bo_efYhYU2A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bo_efYhYU2A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bo_efYhYU2A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bo_efYhYU2A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "F & T Reviews",
+        "localized": {
+          "title": "Best Love Duets. Duet Songs Playlist.",
+          "description": "Love duets that will make you fall in love...Duet love songs that have become a part of the soundtrack of our lives...Love songs collaborations of the best music artists of all time in one music playlist.\n\nCLICK save and share this love songs playlist of love duets.\n\nSongs played on VH1, 96.3 easy rock, easy listening songs, mellow touch 94.7 and wrock the heart of lite rock...."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 210
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "zrnm0BUODtbjMkPGhiW70x2EMC0",
+      "id": "PL9UGT1f9BG0Q-JmpOolfjl9Gay2GfFnvm",
+      "snippet": {
+        "publishedAt": "2015-10-07T22:23:28Z",
+        "channelId": "UCs3yo3bTAp9WxrkWbTC5sSw",
+        "title": "Soft Rock Love Songs 80's & 90's",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/raNGeq3_DtM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/raNGeq3_DtM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/raNGeq3_DtM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Media Shampoo",
+        "localized": {
+          "title": "Soft Rock Love Songs 80's & 90's",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 29
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "LvVR-xHMtRlLTysJ26WhMTzW1o8",
+      "id": "PL4JquojQ5dTskTeCgOZuta7S37km3veuR",
+      "snippet": {
+        "publishedAt": "2017-06-12T17:35:52Z",
+        "channelId": "UCT2iv2vlv7HspTxnUHzqvyQ",
+        "title": "Best Love Songs All Time telugu melody songs | telugu melody and romantic video songs",
+        "description": "Majnu Video Songs | Kallumoosi Full Video Song | Nani | Anu Immanuel | Gopi Sunder\nChoosa Choosa Full Song With Telugu Lyrics | Dhruva Songs | Ram Charan,Rakul Preet | HipHopTamizha\nAR Rahman | Vellipomaakey Song | Saahasam Swaasaga Saagipo Songs | Gautham Menon | Naga Chaitanya\nGusa Gusa Lade Full Video Song || Gentleman Video Songs || Nani, Surabhi, Nivetha Thamas, ManiSharma\nAR Rahman | Chakori Song With Lyrics | Saahasam Swaasaga Saagipo Songs | NagaChaitanya, GauthamMenon\nAR Rahman | Taanu Nenu Song With Lyrics | Saahasam Swaasaga Saagipo | NagaChaitanya, GauthamMenon\nO Rangula Chilaka Full Video Song | Jayammu Nischayammu Raa Video Songs | Srinivas Reddy, Poorna",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/czzecPX_nKs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/czzecPX_nKs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/czzecPX_nKs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/czzecPX_nKs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Carney Dempsey",
+        "localized": {
+          "title": "Best Love Songs All Time telugu melody songs | telugu melody and romantic video songs",
+          "description": "Majnu Video Songs | Kallumoosi Full Video Song | Nani | Anu Immanuel | Gopi Sunder\nChoosa Choosa Full Song With Telugu Lyrics | Dhruva Songs | Ram Charan,Rakul Preet | HipHopTamizha\nAR Rahman | Vellipomaakey Song | Saahasam Swaasaga Saagipo Songs | Gautham Menon | Naga Chaitanya\nGusa Gusa Lade Full Video Song || Gentleman Video Songs || Nani, Surabhi, Nivetha Thamas, ManiSharma\nAR Rahman | Chakori Song With Lyrics | Saahasam Swaasaga Saagipo Songs | NagaChaitanya, GauthamMenon\nAR Rahman | Taanu Nenu Song With Lyrics | Saahasam Swaasaga Saagipo | NagaChaitanya, GauthamMenon\nO Rangula Chilaka Full Video Song | Jayammu Nischayammu Raa Video Songs | Srinivas Reddy, Poorna"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 202
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "wzXFwAgwTvhOOoSC_RwALsUDYsU",
+      "id": "PLY8tbcxCyqMknuqpqUWyrYrBKXa1wuiVe",
+      "snippet": {
+        "publishedAt": "2016-08-20T10:30:27Z",
+        "channelId": "UConK4DcLuziExkb7WyR3cYw",
+        "title": "Zouk love 1990 ----} 2000",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wee0w2Lek2I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wee0w2Lek2I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wee0w2Lek2I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zoukfm World TV",
+        "localized": {
+          "title": "Zouk love 1990 ----} 2000",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 140
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "Crq165H_bTWT0pVP-KuXBNhy9AM",
+      "id": "PLcutwjrQ57HWk6YN018XwdfIUhaXQKOG2",
+      "snippet": {
+        "publishedAt": "2024-05-27T09:33:13Z",
+        "channelId": "UCwpFL955XYl3BsS-HHbuBVQ",
+        "title": "Chill English Acoustic Love Songs",
+        "description": "Chill English Acoustic Love Songs\n\nacoustic songs,english songs,english song,music 2024 new songs,acoustic 2024,acoustic love songs,song english,acoustic song,english love songs,acoustic cover,chill songs,acoustic love songs 2024,acoustic cover songs,love songs,acoustic songs 2024,new songs 2024,love songs 2024,new love songs,english songs 2024,2024 new songs,new acoustic love songs,new song,love song,new song 2024,chill english love songs,chill love songs,new songs",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QEGQrJwMKhc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QEGQrJwMKhc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QEGQrJwMKhc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QEGQrJwMKhc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QEGQrJwMKhc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sweet Acoustic Music",
+        "localized": {
+          "title": "Chill English Acoustic Love Songs",
+          "description": "Chill English Acoustic Love Songs\n\nacoustic songs,english songs,english song,music 2024 new songs,acoustic 2024,acoustic love songs,song english,acoustic song,english love songs,acoustic cover,chill songs,acoustic love songs 2024,acoustic cover songs,love songs,acoustic songs 2024,new songs 2024,love songs 2024,new love songs,english songs 2024,2024 new songs,new acoustic love songs,new song,love song,new song 2024,chill english love songs,chill love songs,new songs"
+        }
+      },
+      "status": {
+        "privacyStatus": "public",
+        "podcastStatus": "enabled"
+      },
+      "contentDetails": {
+        "itemCount": 128
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "3us54nbifpYv9r2jKO82v2omNEQ",
+      "id": "PLYehTrIiwR3oGHPysmF8084LBbVNyw8nO",
+      "snippet": {
+        "publishedAt": "2014-11-15T19:51:08Z",
+        "channelId": "UCZ_8FT9bQ4ugaJCzMiYOQ6g",
+        "title": "Chinese Love Songs",
+        "description": "Fan-made music video trailer taken scenes from Chinese & Korean movies and television drama series.  The song in the video is either from its soundtrack or various popular, classic and latest Chinese & Korean sentimental love songs to fit best for that theme video.\n\nI enjoy editing and making it into a music video, and I am NOT making any monetary from these videos.  \n\nThe songs I used in the music video trailers can be found in iTunes.  My favorite movie and television drama genres are romance and romance-comedy including mythology, fantasy and WuXia martial arts.  \n\nDon't be fooled by the ending in most of these music videos.  I only gave away the ending to an known or older movies and TV drama series.  So, let's put on the headset and watch these trailers with beautiful sentimental love songs. \n\nEnjoy!!!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZXQbXEFc6AM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZXQbXEFc6AM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZXQbXEFc6AM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZXQbXEFc6AM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZXQbXEFc6AM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YingYang Too",
+        "localized": {
+          "title": "Chinese Love Songs",
+          "description": "Fan-made music video trailer taken scenes from Chinese & Korean movies and television drama series.  The song in the video is either from its soundtrack or various popular, classic and latest Chinese & Korean sentimental love songs to fit best for that theme video.\n\nI enjoy editing and making it into a music video, and I am NOT making any monetary from these videos.  \n\nThe songs I used in the music video trailers can be found in iTunes.  My favorite movie and television drama genres are romance and romance-comedy including mythology, fantasy and WuXia martial arts.  \n\nDon't be fooled by the ending in most of these music videos.  I only gave away the ending to an known or older movies and TV drama series.  So, let's put on the headset and watch these trailers with beautiful sentimental love songs. \n\nEnjoy!!!"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 181
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "d0NWHnI23X1UkkOWxutYZtI9QNk",
+      "id": "PLGA_rouGAHXbcV02UDT0a9rDQzdZTgPyM",
+      "snippet": {
+        "publishedAt": "2014-02-25T17:52:15Z",
+        "channelId": "UChT0CMl1MAYG82O1Yiw5qwA",
+        "title": "A Gentleman's Guide to Love and Murder - Cast Album",
+        "description": "Get out your phonographs! The Broadway cast recording of A GENTLEMAN'S GUIDE TO LOVE AND MURDER is available now.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R0H20J7Uan0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R0H20J7Uan0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R0H20J7Uan0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/R0H20J7Uan0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "A Gentlemans Guide to Love and Murder on Broadway",
+        "localized": {
+          "title": "A Gentleman's Guide to Love and Murder - Cast Album",
+          "description": "Get out your phonographs! The Broadway cast recording of A GENTLEMAN'S GUIDE TO LOVE AND MURDER is available now."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 23
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "O588udBKaND6oOvfhxmWC_NyTUU",
+      "id": "PLpOehZ0r85ixl-tdCfLqH7JmZe7BwxM2L",
+      "snippet": {
+        "publishedAt": "2014-01-19T19:00:10Z",
+        "channelId": "UCJL9at_SBH5x5ycoYmmaw1w",
+        "title": "BEST ROCK LOVE SONGS",
+        "description": "Just my favorite love ballads",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UrIiLvg58SY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UrIiLvg58SY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UrIiLvg58SY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UrIiLvg58SY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UrIiLvg58SY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "rice wafer",
+        "localized": {
+          "title": "BEST ROCK LOVE SONGS",
+          "description": "Just my favorite love ballads"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 42
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "hZjMG-lCFIcn2fRcJV1a36i8Hqc",
+      "id": "PLOMW7D86Lz9KeU3Bsm6uC_Uxm5oQjlpsk",
+      "snippet": {
+        "publishedAt": "2018-09-03T13:48:29Z",
+        "channelId": "UCTT67j4432YHU-8vsNXjy5Q",
+        "title": "Christian love songs for couples",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sIdnp0z0OCA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sIdnp0z0OCA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sIdnp0z0OCA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Search for God's Truth Homestead Mission",
+        "localized": {
+          "title": "Christian love songs for couples",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 320
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "GJL0Z-QpKQnkKX--tqYdys77CwU",
+      "id": "PLTjAdEIjIXdf-TeNITtb1jvvtQ8zeO_Ym",
+      "snippet": {
+        "publishedAt": "2014-02-26T11:48:24Z",
+        "channelId": "UCGzVi-U-g4zQogI3Hfu1yAg",
+        "title": "FLASHBACK - LOVE TIMES",
+        "description": "Clipes do DVD Love Times - 99 clipes |\n\nThe best 80's, 90's music!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZbUENJ5FjBk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZbUENJ5FjBk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZbUENJ5FjBk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZbUENJ5FjBk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZbUENJ5FjBk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Lívia Amaral",
+        "localized": {
+          "title": "FLASHBACK - LOVE TIMES",
+          "description": "Clipes do DVD Love Times - 99 clipes |\n\nThe best 80's, 90's music!"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 87
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "78-3iX7LR-QVzSQQjg8UGZIAkYo",
+      "id": "PLFLe5NE6w5k6GMTDtDjW1uQjmlSCqRDm_",
+      "snippet": {
+        "publishedAt": "2021-04-07T09:15:58Z",
+        "channelId": "UC6OhL8TMM3t3R0d-_t_h_tA",
+        "title": "Top K-Love Songs Playlist with Lyrics (Updated 2024)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UL5iHNAwIrs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UL5iHNAwIrs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UL5iHNAwIrs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UL5iHNAwIrs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UL5iHNAwIrs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Light of the World",
+        "localized": {
+          "title": "Top K-Love Songs Playlist with Lyrics (Updated 2024)",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 17
+      }
+    }
+  ]
+}

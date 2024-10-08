@@ -1,188 +1,41 @@
 {
   "kind": "youtube#playlistListResponse",
-  "etag": "pWs9byQ3ym_eTFzV9hdq-BkPkPg",
+  "etag": "ckGwM1UcMQIEFIsGNsmYCFDHTbM",
   "pageInfo": {
-    "totalResults": 42,
+    "totalResults": 40,
     "resultsPerPage": 50
   },
   "items": [
     {
       "kind": "youtube#playlist",
-      "etag": "-MbBBmVGUflcN0wgKxcXUI-Lu7Y",
-      "id": "PLiNVoBckLqLl_JQOaClFM0iCyg0MOFCN9",
+      "etag": "4fH2opgEhji9ktiac09-rbMMxFU",
+      "id": "PLC28DAB36C6B24CDA",
       "snippet": {
-        "publishedAt": "2018-10-25T18:18:11Z",
-        "channelId": "UCyJBuaK-Qqe4N5QNE1xn86A",
-        "title": "Frozen Complete Collection",
-        "description": "Listen to all of your Frozen favorites in this official playlist!\n\nStream Frozen on Disney+.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/nrZxwPwmgrw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/nrZxwPwmgrw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/nrZxwPwmgrw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/nrZxwPwmgrw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/nrZxwPwmgrw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Disney Music",
-        "localized": {
-          "title": "Frozen Complete Collection",
-          "description": "Listen to all of your Frozen favorites in this official playlist!\n\nStream Frozen on Disney+."
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 126
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "k3g_cA2ejEhTaXOVAJrF-9WtCHw",
-      "id": "PLkUBLGFEBNT_gH7uZrUq687JkqsF1IgwJ",
-      "snippet": {
-        "publishedAt": "2015-04-14T09:07:48Z",
-        "channelId": "UCQ_Vpd82ph7SLjKiRWPRPtg",
-        "title": "90's Country Music playlist",
+        "publishedAt": "2010-10-16T21:07:28Z",
+        "channelId": "UCbr1VEB96f5DOTMpOccCyiw",
+        "title": "Instrumental Gospel Tracks",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/sgJXbIP83A8/default.jpg",
+            "url": "https://i.ytimg.com/vi/EJ5cwtn-8rY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/sgJXbIP83A8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/EJ5cwtn-8rY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/sgJXbIP83A8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/EJ5cwtn-8rY/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Brindley Farm Equipment",
+        "channelTitle": "TheMusicLovr",
         "localized": {
-          "title": "90's Country Music playlist",
+          "title": "Instrumental Gospel Tracks",
           "description": ""
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 272
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "AhnB2_SRZpamEg4atNmriogQGPg",
-      "id": "PLKeLOVL9lnYe6zJDLv9wMF6v5W4tnTC2U",
-      "snippet": {
-        "publishedAt": "2017-01-01T19:07:17Z",
-        "channelId": "UCCeAaS4K5IOr3n6KUZvN9zA",
-        "title": "Playlist ► GANGSTER GANG",
-        "description": "GANGSTER GANG 24/7",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/qQX-Zd8OmY0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/qQX-Zd8OmY0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/qQX-Zd8OmY0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/qQX-Zd8OmY0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/qQX-Zd8OmY0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "GANGSTER GANG",
-        "localized": {
-          "title": "Playlist ► GANGSTER GANG",
-          "description": "GANGSTER GANG 24/7"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 274
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "moKVUiv8nNFAsmjvz9FiT7Hdyvo",
-      "id": "PLnpWcMv6bu2VxgjQ0lII_PYRPkEYrBVIy",
-      "snippet": {
-        "publishedAt": "2021-02-16T06:02:56Z",
-        "channelId": "UCuY40lqKpGKB9yyDl5CeFVA",
-        "title": "Best South African Gospel Songs 2022...Gospel Playlist",
-        "description": "gospel music,\ngospel songs,\ngospel christmas songs,\ngospel mix,\ngospel rap,\ngospel of dismay,\ngospel instrumentals,\ngospel music playlist,\ngospel acapella,\ngospel artists,\ngospel amv,\ngospel african songs,\ngospel afrobeats,\ngospel according to luke,\ngospel according to jones,\ngospel at colonus,\na gospel song,\na gospel christmas,\na gospel family christmas,\na gospel song for healing,\na gospel music,\na gospel beat,\na gospel birthday song,\na gospel bluegrass homecoming,\ngospel beats,\ngospel bluegrass,\ngospel bass,\ngospel blues,\ngospel bill,\ngospel birthday song,\ngospel backing tracks,\ngospel beats instrumental 2022,\nr&b gospel,\nr&b gospel music,\nr&b gospel 2022,\nr&b gospel mix,\nr&b gospel instrumental,\nr&b gospel type beat,\ncardi b gospel song,\nr&b gospel christmas songs,\ngospel choir,\ngospel christmas,\ngospel christmas songs 2022,\ngospel chops,\ngospel country music,\ngospel covers,\ngospel coalition,\nc gospel chords and runs,\nc gospel scale,\nc gospel backing track,\nz.c.c gospel music,\nyoung c gospel,\nandy c gospel,\nhenny c gospel song,\nable c gospel music,\ngospel dababy,\ngospel dance,\ngospel drummers,\ngospel drum cover,\ngospel drumless tracks,\ngospel dance songs,\ngospel drill,\ngospel drumming,\nneville d gospel songs,\nkester d gospel,\njazz gospel,\nlukie d gospel,\nwinky d gospel,\njimmy d gospel songs,\ncanon in d gospel,\njazz d gospel official,\ngospel express,\ngospel exercise music,\ngospel evangelion,\ngospel english songs,\ngospel explosion,\ngospel echoes,\ngospel edm,\ngospel español,\ne gospel of wealth,\ngospel para dormir e relaxar,\ngospel simone e simaria,\ngospel voz e violao,\ngospel piano e voz,\ngospel acustico voz e violao,\ngospel acelera e pisa,\ngospel lucas e orelha,\ngospel four,\ngospel funeral songs,\ngospel fijian songs,\ngospel for kids,\ngospel fijian songs 2020,\ngospel four one more blessing,\ngospel funk,\ngospel female singers,\nf gospel chords and runs,\nf gospel scale,\nf# gospel chords,\nf# gospel piano,\nc r f gospel,\nf c barnes gospel songs,\ngospel songs in f sharp,\nf major gospel chords,\ngospel gangstaz,\ngospel guitar,\ngospel groups,\ngospel greatest hits,\ngospel guitar lessons,\ngospel greats,\ngospel gangsters,\ngospel gospel,\ng gospel music,\ng gospel songs,\ng gospel talent,\ndavid g gospel songs,\nkenny g gospel songs,\nt i g gospel songs,\nkenny g gospel instrumental,\nmonty g gospel reggae,\ngospel hymns,\ngospel hydration,\ngospel house music,\ngospel hits,\ngospel hip hop,\ngospel house music 2020,\ngospel hymns with lyrics,\ngospel hip hop 2020,\nb&h gospel singers,\nb&h gospel singers 2020,\nh.lalmuankimi gospel,\nh.e.r gospel song,\nh.zosangliani gospel,\nh walker gospel singer,\nh vanlalhlana gospel,\nh lalbiakmawia gospel,\ngospel instrumental music,\ngospel instrumentals beats,\ngospel inauguration,\ngospel inauguration 2021,\ngospel instrumental music praise and worship,\ngospel in life,\ngospel imperials,\ni gospel song,\ni gospel music,\ni love gospel,\ni playback gospel,\ngospel jazz,\ngospel jazz instrumental,\ngospel john,\ngospel jazz instrumental playlist,\ngospel jazz music,\ngospel jamaican songs,\ngospel jazz music praise and worship,\ngospel jubilee,\no j gospel songs,\ncasey j gospel songs,\njessie j gospel,\nmary j gospel,\nsammy j gospel,\nalt j gospel,\nronny j gospel,\ncj gospel hour,\ngospel karaoke,\ngospel keynotes,\ngospel kreyol,\ngospel karaoke with background vocals,\ngospel kids songs,\ngospel kazako,\ngospel kirk franklin,\ngospel kanye west,\nk gospel music,\nsara k gospel songs,\nsammy k gospel mix,\nsammy k gospel songs,\njohn k gospel songs,\npaul k gospel songs,\nrachel k gospel songs,\nben k gospel,\ngospel legends,\ngospel love songs,\ngospel lyrics,\ngospel live,\ngospel lessons,\ngospel light baptist church,\ngospel live performance,\ngospel lyrics songs,\nd&l gospel singers,\na&l gospel couple,\nl လြန္းဝါ gospel songs,\nl sai zi gospel songs,\nl loon war gospel songs,\nl seng zi gospel song,\nl johnson gospel singer,\nl believe gospel song,\ngospel music videos,\ngospel music kirk franklin,\ngospel music 2022,\ngospel music 2022 playlist,\ngospel music 2021,\nalabama a&m gospel choir,\nboney m gospel songs,\nv-m gospel songs,\ntshilidzi m gospel,\nhumble me gospel,\nbulela m gospel songs,\nflorida a&m gospel choir,\na&t gospel choir,\ngospel nyarwanda,\ngospel nigeria,\ngospel nostalgia,\ngospel na papiamentu,\ngospel nigerian songs,\ngospel namibia,\ngospel nursery rhymes,\ngospel nyarwanda 2022,\ngospel r & b,\nn harmony gospel quartet,\nn.d.githuka gospel songs,\ngospel church drum n bass,\nn t wright gospel,\ngospel praise and worship,\nn t wright gospel of john,\nn kai yar gospel song,\ngospel of john,\ngospel of thomas,\ngospel of judas,\ngospel of matthew,\ngospel of luke,\ngospel of mark,\ngospel of judah,\nao gospel song,\nao gospel gangstaz,\nao gospel,\nao gospel song mp3,\nao gospel song with lyrics,\nao gospel hymn song,\nao gospel song 2022,\nao gospel song latest,\ngospel playlist,\ngospel piano,\ngospel praise,\ngospel praise and worship songs,\ngospel playlist 2021,\ngospel piano tutorials,\ngospel plowboys,\ngospel praise songs,\nmr p gospel song,\np square gospel song,",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ah8AD7Pr7tU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ah8AD7Pr7tU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ah8AD7Pr7tU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ah8AD7Pr7tU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ah8AD7Pr7tU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Edmond Diamond",
-        "localized": {
-          "title": "Best South African Gospel Songs 2022...Gospel Playlist",
-          "description": "gospel music,\ngospel songs,\ngospel christmas songs,\ngospel mix,\ngospel rap,\ngospel of dismay,\ngospel instrumentals,\ngospel music playlist,\ngospel acapella,\ngospel artists,\ngospel amv,\ngospel african songs,\ngospel afrobeats,\ngospel according to luke,\ngospel according to jones,\ngospel at colonus,\na gospel song,\na gospel christmas,\na gospel family christmas,\na gospel song for healing,\na gospel music,\na gospel beat,\na gospel birthday song,\na gospel bluegrass homecoming,\ngospel beats,\ngospel bluegrass,\ngospel bass,\ngospel blues,\ngospel bill,\ngospel birthday song,\ngospel backing tracks,\ngospel beats instrumental 2022,\nr&b gospel,\nr&b gospel music,\nr&b gospel 2022,\nr&b gospel mix,\nr&b gospel instrumental,\nr&b gospel type beat,\ncardi b gospel song,\nr&b gospel christmas songs,\ngospel choir,\ngospel christmas,\ngospel christmas songs 2022,\ngospel chops,\ngospel country music,\ngospel covers,\ngospel coalition,\nc gospel chords and runs,\nc gospel scale,\nc gospel backing track,\nz.c.c gospel music,\nyoung c gospel,\nandy c gospel,\nhenny c gospel song,\nable c gospel music,\ngospel dababy,\ngospel dance,\ngospel drummers,\ngospel drum cover,\ngospel drumless tracks,\ngospel dance songs,\ngospel drill,\ngospel drumming,\nneville d gospel songs,\nkester d gospel,\njazz gospel,\nlukie d gospel,\nwinky d gospel,\njimmy d gospel songs,\ncanon in d gospel,\njazz d gospel official,\ngospel express,\ngospel exercise music,\ngospel evangelion,\ngospel english songs,\ngospel explosion,\ngospel echoes,\ngospel edm,\ngospel español,\ne gospel of wealth,\ngospel para dormir e relaxar,\ngospel simone e simaria,\ngospel voz e violao,\ngospel piano e voz,\ngospel acustico voz e violao,\ngospel acelera e pisa,\ngospel lucas e orelha,\ngospel four,\ngospel funeral songs,\ngospel fijian songs,\ngospel for kids,\ngospel fijian songs 2020,\ngospel four one more blessing,\ngospel funk,\ngospel female singers,\nf gospel chords and runs,\nf gospel scale,\nf# gospel chords,\nf# gospel piano,\nc r f gospel,\nf c barnes gospel songs,\ngospel songs in f sharp,\nf major gospel chords,\ngospel gangstaz,\ngospel guitar,\ngospel groups,\ngospel greatest hits,\ngospel guitar lessons,\ngospel greats,\ngospel gangsters,\ngospel gospel,\ng gospel music,\ng gospel songs,\ng gospel talent,\ndavid g gospel songs,\nkenny g gospel songs,\nt i g gospel songs,\nkenny g gospel instrumental,\nmonty g gospel reggae,\ngospel hymns,\ngospel hydration,\ngospel house music,\ngospel hits,\ngospel hip hop,\ngospel house music 2020,\ngospel hymns with lyrics,\ngospel hip hop 2020,\nb&h gospel singers,\nb&h gospel singers 2020,\nh.lalmuankimi gospel,\nh.e.r gospel song,\nh.zosangliani gospel,\nh walker gospel singer,\nh vanlalhlana gospel,\nh lalbiakmawia gospel,\ngospel instrumental music,\ngospel instrumentals beats,\ngospel inauguration,\ngospel inauguration 2021,\ngospel instrumental music praise and worship,\ngospel in life,\ngospel imperials,\ni gospel song,\ni gospel music,\ni love gospel,\ni playback gospel,\ngospel jazz,\ngospel jazz instrumental,\ngospel john,\ngospel jazz instrumental playlist,\ngospel jazz music,\ngospel jamaican songs,\ngospel jazz music praise and worship,\ngospel jubilee,\no j gospel songs,\ncasey j gospel songs,\njessie j gospel,\nmary j gospel,\nsammy j gospel,\nalt j gospel,\nronny j gospel,\ncj gospel hour,\ngospel karaoke,\ngospel keynotes,\ngospel kreyol,\ngospel karaoke with background vocals,\ngospel kids songs,\ngospel kazako,\ngospel kirk franklin,\ngospel kanye west,\nk gospel music,\nsara k gospel songs,\nsammy k gospel mix,\nsammy k gospel songs,\njohn k gospel songs,\npaul k gospel songs,\nrachel k gospel songs,\nben k gospel,\ngospel legends,\ngospel love songs,\ngospel lyrics,\ngospel live,\ngospel lessons,\ngospel light baptist church,\ngospel live performance,\ngospel lyrics songs,\nd&l gospel singers,\na&l gospel couple,\nl လြန္းဝါ gospel songs,\nl sai zi gospel songs,\nl loon war gospel songs,\nl seng zi gospel song,\nl johnson gospel singer,\nl believe gospel song,\ngospel music videos,\ngospel music kirk franklin,\ngospel music 2022,\ngospel music 2022 playlist,\ngospel music 2021,\nalabama a&m gospel choir,\nboney m gospel songs,\nv-m gospel songs,\ntshilidzi m gospel,\nhumble me gospel,\nbulela m gospel songs,\nflorida a&m gospel choir,\na&t gospel choir,\ngospel nyarwanda,\ngospel nigeria,\ngospel nostalgia,\ngospel na papiamentu,\ngospel nigerian songs,\ngospel namibia,\ngospel nursery rhymes,\ngospel nyarwanda 2022,\ngospel r & b,\nn harmony gospel quartet,\nn.d.githuka gospel songs,\ngospel church drum n bass,\nn t wright gospel,\ngospel praise and worship,\nn t wright gospel of john,\nn kai yar gospel song,\ngospel of john,\ngospel of thomas,\ngospel of judas,\ngospel of matthew,\ngospel of luke,\ngospel of mark,\ngospel of judah,\nao gospel song,\nao gospel gangstaz,\nao gospel,\nao gospel song mp3,\nao gospel song with lyrics,\nao gospel hymn song,\nao gospel song 2022,\nao gospel song latest,\ngospel playlist,\ngospel piano,\ngospel praise,\ngospel praise and worship songs,\ngospel playlist 2021,\ngospel piano tutorials,\ngospel plowboys,\ngospel praise songs,\nmr p gospel song,\np square gospel song,"
         }
       },
       "status": {
@@ -194,137 +47,44 @@
     },
     {
       "kind": "youtube#playlist",
-      "etag": "FgYcI3hk4UJoKXQ01uA4d54WPJE",
-      "id": "PL6547C3CF6106002E",
+      "etag": "cvStdA5Cq-O1Prco-FHdkafDumM",
+      "id": "PLLcSq3J265i-VIerYmAlDHcY6hiazF52B",
       "snippet": {
-        "publishedAt": "2010-05-23T15:46:52Z",
-        "channelId": "UCsCIlpjJ6gz5f0dxMM20c-A",
-        "title": "Bryan Adams - Full Playlist",
-        "description": "The Full Playlist Of The Living Legend...\nEnjoy The Songs Of The Greatest Recent Bard Of Music....",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ofA3URC1wyk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ofA3URC1wyk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ofA3URC1wyk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ofA3URC1wyk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ofA3URC1wyk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "xxAtlantianKnightxx",
-        "localized": {
-          "title": "Bryan Adams - Full Playlist",
-          "description": "The Full Playlist Of The Living Legend...\nEnjoy The Songs Of The Greatest Recent Bard Of Music...."
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 54
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "ac6E7_M3q54MC0OXrkcLKISNjJM",
-      "id": "PLwiBGptTigOoTlKA4b54Nf45xyT_UljAn",
-      "snippet": {
-        "publishedAt": "2021-02-17T17:43:25Z",
-        "channelId": "UC-8Q-hLdECwQmaWNwXitYDw",
-        "title": "Katy Perry 2021 Mix Playlist",
+        "publishedAt": "2018-02-01T21:11:14Z",
+        "channelId": "UCeeRzWYei-xy9qeL1vyk4TA",
+        "title": "Wow Gospel 2018 (FULL ALBUM)",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/QGJuMBdaqIw/default.jpg",
+            "url": "https://i.ytimg.com/vi/PZ8Anq5IBEg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/QGJuMBdaqIw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PZ8Anq5IBEg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/QGJuMBdaqIw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PZ8Anq5IBEg/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/QGJuMBdaqIw/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/PZ8Anq5IBEg/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/QGJuMBdaqIw/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PZ8Anq5IBEg/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "KatyPerryVEVO",
+        "channelTitle": "RCA Inspiration",
         "localized": {
-          "title": "Katy Perry 2021 Mix Playlist",
+          "title": "Wow Gospel 2018 (FULL ALBUM)",
           "description": ""
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 75
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "kkxpMzLI-elkaGmSYheSR1bpl5Y",
-      "id": "PLjp0AEEJ0-fEeDt0tDlPX-NGYb4QXR7wO",
-      "snippet": {
-        "publishedAt": "2022-04-29T16:53:09Z",
-        "channelId": "UC0C-w0YjGpqDXGB8IHb662A",
-        "title": "Ed Sheeran 'The Mathematics Tour +–=÷x' Official Playlist",
-        "description": "Listen to all of the Ed Sheeran hits from the 2024 Mathematics Tour. \n\nSee all 2024 tour dates here: https://www.edsheeran.com/#tour\n\nSubscribe to Ed's channel: http://bit.ly/SubscribeToEdSheeran\n\n#EdSheeran #TheMathematicsTour #EdSheeranPlaylist #EdSheeranLive",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/JGwWNGJdvx8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/JGwWNGJdvx8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/JGwWNGJdvx8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/JGwWNGJdvx8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "Ed Sheeran",
-        "localized": {
-          "title": "Ed Sheeran 'The Mathematics Tour +–=÷x' Official Playlist",
-          "description": "Listen to all of the Ed Sheeran hits from the 2024 Mathematics Tour. \n\nSee all 2024 tour dates here: https://www.edsheeran.com/#tour\n\nSubscribe to Ed's channel: http://bit.ly/SubscribeToEdSheeran\n\n#EdSheeran #TheMathematicsTour #EdSheeranPlaylist #EdSheeranLive"
         }
       },
       "status": {
@@ -336,229 +96,38 @@
     },
     {
       "kind": "youtube#playlist",
-      "etag": "ZNMK5y4zCpqTfdxF9mYcgIz2ljE",
-      "id": "PLPcy1koaVSJRKAOUoeMSIMm8cb6FBIQlQ",
+      "etag": "gFzYovzvrxJXBAsW-H30hfKxSWU",
+      "id": "PLVpY6tt6rfODfHVWVpw_VdTYboFFpo4VS",
       "snippet": {
-        "publishedAt": "2018-01-17T19:15:37Z",
-        "channelId": "UCLU5P5GKXaQQCAC9GyvjT2w",
-        "title": "Best Christian Rock Songs of All Time - Christian Rock Music Playlist",
-        "description": "Best Christian Rock Songs of All Time - Christian Rock Music Playlist\n\nFind our playlist with these keywords: best christian rock, worship hits, best spiritual rock music, christian anthems, powerful christian songs, spiritual music playlist, top christian songs, best christian playlist, best christian rock songs of all time, best christian rock songs ever, christian rock songs playlist, christian rock music worship songs, christian rock music playlist, best christian music playlist, top christian music, best christian rock songs playlist, christian rock music videos, christian rock hits, christian rock music mix \n\nIf you liked this playlist, we recommend you also listen to these music lists:\n\n1. Great Alternative & Christian Rock Songs - Best Christian Music Playlist Updated Weekly 2024 - https://play.redlist.com/2995\n2. Christian Rock Music 2024 - Popular Christian Rock Songs 2024 (Best Christian Rock Hits 2024-2025) - https://goplaylists.com/28485\n\nElevate your spirits and awaken your soul with this power-packed playlist featuring the best Christian rock songs of all time! Unveil a new level of spiritual devotion with iconic tracks from artists that have transformed the Christian rock scene. Listen to the powerful riffs and soulful lyrics from Skillet and Newsboys, as they bridge the gap between faith and rock music. Immerse yourself in the poignant sounds of The Fray, MercyMe, and Thousand Foot Krutch, who blend Christian values with gripping melodies. Feel the heavenly harmony of George Harrison, Crowder, and Casting Crowns, as they give voice to the divine. Join the ranks of Third Day and for KING + COUNTRY, whose anthems celebrate the eternal glory of God's love. Whether you're looking to deepen your faith or just enjoy some high-energy, spiritually-infused rock music, this playlist is your ultimate sanctuary for the finest sounds in Christian rock.\n\nShare your thoughts on our playlist: contact@red-music.com",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Qzw6A2WC5Qo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Qzw6A2WC5Qo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Qzw6A2WC5Qo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Qzw6A2WC5Qo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "Redlist Apollo",
-        "localized": {
-          "title": "Best Christian Rock Songs of All Time - Christian Rock Music Playlist",
-          "description": "Best Christian Rock Songs of All Time - Christian Rock Music Playlist\n\nFind our playlist with these keywords: best christian rock, worship hits, best spiritual rock music, christian anthems, powerful christian songs, spiritual music playlist, top christian songs, best christian playlist, best christian rock songs of all time, best christian rock songs ever, christian rock songs playlist, christian rock music worship songs, christian rock music playlist, best christian music playlist, top christian music, best christian rock songs playlist, christian rock music videos, christian rock hits, christian rock music mix \n\nIf you liked this playlist, we recommend you also listen to these music lists:\n\n1. Great Alternative & Christian Rock Songs - Best Christian Music Playlist Updated Weekly 2024 - https://play.redlist.com/2995\n2. Christian Rock Music 2024 - Popular Christian Rock Songs 2024 (Best Christian Rock Hits 2024-2025) - https://goplaylists.com/28485\n\nElevate your spirits and awaken your soul with this power-packed playlist featuring the best Christian rock songs of all time! Unveil a new level of spiritual devotion with iconic tracks from artists that have transformed the Christian rock scene. Listen to the powerful riffs and soulful lyrics from Skillet and Newsboys, as they bridge the gap between faith and rock music. Immerse yourself in the poignant sounds of The Fray, MercyMe, and Thousand Foot Krutch, who blend Christian values with gripping melodies. Feel the heavenly harmony of George Harrison, Crowder, and Casting Crowns, as they give voice to the divine. Join the ranks of Third Day and for KING + COUNTRY, whose anthems celebrate the eternal glory of God's love. Whether you're looking to deepen your faith or just enjoy some high-energy, spiritually-infused rock music, this playlist is your ultimate sanctuary for the finest sounds in Christian rock.\n\nShare your thoughts on our playlist: contact@red-music.com"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 40
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "dtTyFgMryk6UZwgX-dU24E8CwAM",
-      "id": "PLbrAnF1cQ0SCKw3yfO2SzJ1g5DaxXOYkv",
-      "snippet": {
-        "publishedAt": "2018-03-18T13:53:39Z",
-        "channelId": "UC6-OiaulQM8w6EAYaCNpoGg",
-        "title": "Raw, Unfiltered CALAMITY - The Calamity Mod OST Playlist",
-        "description": "The official playlist of the Calamity Mod soundtrack.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/b8A_FGr4Pjo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/b8A_FGr4Pjo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/b8A_FGr4Pjo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/b8A_FGr4Pjo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/b8A_FGr4Pjo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "DM DOKURO",
-        "localized": {
-          "title": "Raw, Unfiltered CALAMITY - The Calamity Mod OST Playlist",
-          "description": "The official playlist of the Calamity Mod soundtrack."
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 38
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "VAfcIXYzmVby2fPoQPKxUjWQDIg",
-      "id": "PL37UZ2QfPUvyeqqNi4m_byAjAbSHBIosW",
-      "snippet": {
-        "publishedAt": "2015-11-27T15:10:55Z",
-        "channelId": "UCa_UMppcMsHIzb5LDx1u9zQ",
-        "title": "TheFatRat - All Music",
-        "description": "For your convenience, here is a playlist with all music I made so far. A mix of glitch hop, electro and house.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/gHgv19ip-0c/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/gHgv19ip-0c/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/gHgv19ip-0c/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/gHgv19ip-0c/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/gHgv19ip-0c/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "TheFatRat",
-        "localized": {
-          "title": "TheFatRat - All Music",
-          "description": "For your convenience, here is a playlist with all music I made so far. A mix of glitch hop, electro and house."
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 83
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "oSHYmaiaJoInK40wu1u-co1sJ9s",
-      "id": "PLhVQfRIFpqb0bsHButNuF3P_LLXHoqWqS",
-      "snippet": {
-        "publishedAt": "2014-12-13T00:25:02Z",
-        "channelId": "UCMNYGgw74zDpOYtldYdIKYw",
-        "title": "The Greatest playlist of Minecraft Music",
-        "description": "Most Minecraft parodies/animations/songs from around YouTube with no.1 being the most watched",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/cPJUBQd-PNM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/cPJUBQd-PNM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/cPJUBQd-PNM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/cPJUBQd-PNM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "Sawtooth44",
-        "localized": {
-          "title": "The Greatest playlist of Minecraft Music",
-          "description": "Most Minecraft parodies/animations/songs from around YouTube with no.1 being the most watched"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 454
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "z9GMUSaXrXCcrBmEQkpGS2lmPBs",
-      "id": "PLB88AE4A3A7B45DB8",
-      "snippet": {
-        "publishedAt": "2012-09-01T02:41:59Z",
-        "channelId": "UCOqoyr6z5pEFHIjajUMu7_Q",
-        "title": "backstreet boys playlist",
+        "publishedAt": "2022-03-02T04:30:31Z",
+        "channelId": "UCDHqo6WkRGScVmG4BB3jawg",
+        "title": "Umlazi gospel songs",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/4fndeDfaWCg/default.jpg",
+            "url": "https://i.ytimg.com/vi/8-UYPF2zmds/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/4fndeDfaWCg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8-UYPF2zmds/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/4fndeDfaWCg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8-UYPF2zmds/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/4fndeDfaWCg/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/8-UYPF2zmds/sddefault.jpg",
             "width": 640,
             "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/4fndeDfaWCg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
-        "channelTitle": "Yahvannel Lopez",
+        "channelTitle": "Nathi Magagula",
         "localized": {
-          "title": "backstreet boys playlist",
+          "title": "Umlazi gospel songs",
           "description": ""
         }
       },
@@ -566,342 +135,43 @@
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 91
+        "itemCount": 14
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "14On_rLau6JgDZdXz8WjAhffLBE",
-      "id": "PLBxtIBuDqKWSVZYyaMFqEQMyJYzeOqHXz",
+      "etag": "G-_DdEJhMhq64wMFCCN9REC_sko",
+      "id": "PLnl0wpBSSF4wouxWcg67KqGwH4NwOucxj",
       "snippet": {
-        "publishedAt": "2013-11-25T10:47:20Z",
-        "channelId": "UCaB_KyYOjfNHBm0f-TvBmiw",
-        "title": "Trap Music HD playlist",
-        "description": "Best of TrapMusicHDTV / Updating daily",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/EpMNSNpz9a8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/EpMNSNpz9a8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/EpMNSNpz9a8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/EpMNSNpz9a8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/EpMNSNpz9a8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "TrapMusicHDTV",
-        "localized": {
-          "title": "Trap Music HD playlist",
-          "description": "Best of TrapMusicHDTV / Updating daily"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 497
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "v6cjSwDimg0lTfJMV2gswxZZgCg",
-      "id": "PL4QNnZJr8sRNwtUsvnU7QH5WJ_iamWwTE",
-      "snippet": {
-        "publishedAt": "2016-02-02T12:19:33Z",
-        "channelId": "UCaZmbN5vdFae49BTbUvTKVw",
-        "title": "Acoustic Covers of Popular Songs & Best Cover Songs 2024",
-        "description": "Acoustic Covers of Popular Songs & Best Cover Songs 2024\n\nIf you enjoyed listening to this playlist, we recommend you to check:\n\n1. Acoustic Cover Playlist 2024 - Best Acoustic Covers of Popular Songs 2024 - https://play.redlist.com/9549\n\nIn the next year, you will be able to find this playlist with the next title: Acoustic Covers of Popular Songs & Best Cover Songs 2025\n\nYou can also find us with:\nacoustic covers\ntop acoustic songs 2024 collection\nacoustic covers of popular songs 2024\npopular songs acoustic 2024\ncovers of popular songs\npopular songs acoustic covers\nacoustic cover list\nacoustic songs playlist\nbest acoustic covers \nacoustic covers of popular songs playlist\nacoustic covers 2024\ntop songs acoustic cover\nbest acoustic covers 2024\ncovers of popular songs 2024\npopular acoustic songs 2024\npopular acoustic songs\nacoustic songs 2024 playlist\nacoustic covers of popular songs\ntop acoustic songs collection\ntop songs acoustic cover 2024\n\nLast Year's Title: Acoustic Covers of Popular Songs & Best Cover Songs 2023\n\nShare your thoughts on our playlist: contact@red-music.com",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/io0UQ74sXfw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/io0UQ74sXfw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/io0UQ74sXfw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/io0UQ74sXfw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/io0UQ74sXfw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Redlist - Worldwide Songs",
-        "localized": {
-          "title": "Acoustic Covers of Popular Songs & Best Cover Songs 2024",
-          "description": "Acoustic Covers of Popular Songs & Best Cover Songs 2024\n\nIf you enjoyed listening to this playlist, we recommend you to check:\n\n1. Acoustic Cover Playlist 2024 - Best Acoustic Covers of Popular Songs 2024 - https://play.redlist.com/9549\n\nIn the next year, you will be able to find this playlist with the next title: Acoustic Covers of Popular Songs & Best Cover Songs 2025\n\nYou can also find us with:\nacoustic covers\ntop acoustic songs 2024 collection\nacoustic covers of popular songs 2024\npopular songs acoustic 2024\ncovers of popular songs\npopular songs acoustic covers\nacoustic cover list\nacoustic songs playlist\nbest acoustic covers \nacoustic covers of popular songs playlist\nacoustic covers 2024\ntop songs acoustic cover\nbest acoustic covers 2024\ncovers of popular songs 2024\npopular acoustic songs 2024\npopular acoustic songs\nacoustic songs 2024 playlist\nacoustic covers of popular songs\ntop acoustic songs collection\ntop songs acoustic cover 2024\n\nLast Year's Title: Acoustic Covers of Popular Songs & Best Cover Songs 2023\n\nShare your thoughts on our playlist: contact@red-music.com"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 50
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "W2D5FGv2lUD3dl-00EnBKKMbtmc",
-      "id": "PLD7SPvDoEddb7FEU8xQR5QhrsSjmS0FvE",
-      "snippet": {
-        "publishedAt": "2015-05-28T14:06:45Z",
-        "channelId": "UCrwXijVMqmVj9fTP6lSX8hA",
-        "title": "Adele Songs Playlist 2021",
-        "description": "Adele top tracks 2021",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/U3ASj1L6_sY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/U3ASj1L6_sY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/U3ASj1L6_sY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/U3ASj1L6_sY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/U3ASj1L6_sY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "AXEG Charts",
-        "localized": {
-          "title": "Adele Songs Playlist 2021",
-          "description": "Adele top tracks 2021"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 45
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "F0kVR1rD_a6hUJ6KWLeSNWxLgkU",
-      "id": "PL64E6BD94546734D8",
-      "snippet": {
-        "publishedAt": "2012-07-20T19:04:37Z",
-        "channelId": "UCxVkDWWptjxGQYA2bznnauw",
-        "title": "Best of Dance Music, Club Music",
-        "description": "©®™ e-bcr, Michael Kassotakis Econ, MCIM, FCMI, 2024-2144, All Rights Reserved,©®™ ebcrworld, @ebcrworld.\nThis a selection of Top Hits related to Dance Music, Club Music, by DJ e-bcr, a World Hall of Fame. It is a great tribute for great Musicians like Jennifer Lopez, Shakira, Enrique Iglesias, Madonna, Ke$ha, Andrea Banica, Alcazar, Ricky Martin, Cher, Snap, Culture Beat, Boney M, Ace of Base, Right Said Fred, Haddaway, Uniting Nations, David May, Moises Modesto, DJ Antoine, The Beat Shakers, Tiesto, Britney Spears, Aqua, LMFAO, Lady Gaga, Uniting Nations, Pitbull, Chris Brown, Backstreet Boys, Aqua, Robbie Williams, Sixpence None The Richer, The Cardigans, Bryan Adams, Melanie C, Christina Aguilera, Sheryl Crow, Shania Twain, Blondie, Will Smith, Lou Vega, Jamiroquai, Modern Talking, Donna Summer, Flashdance, David Guetta, Nicki Minaj, Avicii, Adrian Sina, Cascada, Inna, Duran Duran, Bruce Springsteen, Eddie Murphy, Michael Jackson, The Four Tops, U2, Dire Straits, Deep Purple, Joan Jett, Midnight Oil, Down Under, Dead or Alive, Venus, Kim Wilde, Samantha Fox, Gunther, Alphaville, Darkness, Eclipse, K. Da Cruz, Salt-N-Pepa, Technotronic, La Bouche, New Kids on The Block, Dr Alban, Opus, Sabrina, Kaoma, Aventura, Lucky Man Project, Las Ketchup, Gipsy Kings, Ishtar, Elena Paparizou, Sakis Rouvas, Otherview, Mark F. Angelo, Nicko, Bob Sinclar and others. The main aim was to create a mix of Dance Music, Club Music, Party Music, Music for DJs no matter the genre of music. \nIt was Archangel Michael Day, that inspired me to initiate a proposal for a World Music Festival, every September. It can include Songs and  Musicians from this Grand Dance Music Playlist. The host country can be the one with the Most Popular Musicians and Songs\nThese are Top Hits that most of us like and can dance, a World Hall of Fame. Enjoy...\nebcrservices, https://www.youtube.com/user/ebcrservicese-bcr, https://www.e-bcr.com.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/kJQP7kiw5Fk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/kJQP7kiw5Fk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/kJQP7kiw5Fk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/kJQP7kiw5Fk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/kJQP7kiw5Fk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ebcrworld",
-        "localized": {
-          "title": "Best of Dance Music, Club Music",
-          "description": "©®™ e-bcr, Michael Kassotakis Econ, MCIM, FCMI, 2024-2144, All Rights Reserved,©®™ ebcrworld, @ebcrworld.\nThis a selection of Top Hits related to Dance Music, Club Music, by DJ e-bcr, a World Hall of Fame. It is a great tribute for great Musicians like Jennifer Lopez, Shakira, Enrique Iglesias, Madonna, Ke$ha, Andrea Banica, Alcazar, Ricky Martin, Cher, Snap, Culture Beat, Boney M, Ace of Base, Right Said Fred, Haddaway, Uniting Nations, David May, Moises Modesto, DJ Antoine, The Beat Shakers, Tiesto, Britney Spears, Aqua, LMFAO, Lady Gaga, Uniting Nations, Pitbull, Chris Brown, Backstreet Boys, Aqua, Robbie Williams, Sixpence None The Richer, The Cardigans, Bryan Adams, Melanie C, Christina Aguilera, Sheryl Crow, Shania Twain, Blondie, Will Smith, Lou Vega, Jamiroquai, Modern Talking, Donna Summer, Flashdance, David Guetta, Nicki Minaj, Avicii, Adrian Sina, Cascada, Inna, Duran Duran, Bruce Springsteen, Eddie Murphy, Michael Jackson, The Four Tops, U2, Dire Straits, Deep Purple, Joan Jett, Midnight Oil, Down Under, Dead or Alive, Venus, Kim Wilde, Samantha Fox, Gunther, Alphaville, Darkness, Eclipse, K. Da Cruz, Salt-N-Pepa, Technotronic, La Bouche, New Kids on The Block, Dr Alban, Opus, Sabrina, Kaoma, Aventura, Lucky Man Project, Las Ketchup, Gipsy Kings, Ishtar, Elena Paparizou, Sakis Rouvas, Otherview, Mark F. Angelo, Nicko, Bob Sinclar and others. The main aim was to create a mix of Dance Music, Club Music, Party Music, Music for DJs no matter the genre of music. \nIt was Archangel Michael Day, that inspired me to initiate a proposal for a World Music Festival, every September. It can include Songs and  Musicians from this Grand Dance Music Playlist. The host country can be the one with the Most Popular Musicians and Songs\nThese are Top Hits that most of us like and can dance, a World Hall of Fame. Enjoy...\nebcrservices, https://www.youtube.com/user/ebcrservicese-bcr, https://www.e-bcr.com."
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 993
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "w089C-MusLDfUv1FcLxansKgi54",
-      "id": "PL-AJxmx-_1lMgDqrcQxmCV9b33yU1kPp8",
-      "snippet": {
-        "publishedAt": "2020-04-05T19:27:09Z",
-        "channelId": "UCUF9LkAdJaCec3K-7iJ0Fpw",
-        "title": "Smooth radio playlist",
-        "description": "The greatest songs of all time put your feet up and make you feel relaxed",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/izGwDsrQ1eQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/izGwDsrQ1eQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/izGwDsrQ1eQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/izGwDsrQ1eQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/izGwDsrQ1eQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Hankfan2004",
-        "localized": {
-          "title": "Smooth radio playlist",
-          "description": "The greatest songs of all time put your feet up and make you feel relaxed"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 441
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "2qPHzCHqkwvL_dvGnU_wxcoxjLs",
-      "id": "PLxA687tYuMWhkqYjvAGtW_heiEL4Hk_Lx",
-      "snippet": {
-        "publishedAt": "2022-03-21T10:36:00Z",
-        "channelId": "UCYXIviXPAaaaU_AOotpXTAw",
-        "title": "Pop Music Playlist - Timeless Pop Songs (Updated Weekly 2024)",
-        "description": "Pop Music Playlist - Timeless Pop Songs (Updated Weekly 2024)\nA collection of the best Pop songs, both old and new for you to enjoy!\n\nKeywords to find our Pop Songs Playlist / Pop Music Playlist - pop mix, pop music, top pop playlist, good pop music, pop mashup, timeless pop hits, popular, pop songs, pop music playlist, famous pop songs, timeless pop songs, pop playlist, pop songs, pop songs list, best pop music, pop hit & top pop hits\n\nIn the next year, you will be able to find this playlist with the next title: Pop Music Playlist - Timeless Pop Songs (Updated Weekly 2024)\n\nLast Year's Title: Pop Music Playlist - Timeless Pop Songs (Updated Weekly 2022)\nPop Music Playlist - Timeless Pop Songs (Updated Weekly 2023)",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/cW8VLC9nnTo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/cW8VLC9nnTo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/cW8VLC9nnTo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/cW8VLC9nnTo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/cW8VLC9nnTo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Revive Music",
-        "localized": {
-          "title": "Pop Music Playlist - Timeless Pop Songs (Updated Weekly 2024)",
-          "description": "Pop Music Playlist - Timeless Pop Songs (Updated Weekly 2024)\nA collection of the best Pop songs, both old and new for you to enjoy!\n\nKeywords to find our Pop Songs Playlist / Pop Music Playlist - pop mix, pop music, top pop playlist, good pop music, pop mashup, timeless pop hits, popular, pop songs, pop music playlist, famous pop songs, timeless pop songs, pop playlist, pop songs, pop songs list, best pop music, pop hit & top pop hits\n\nIn the next year, you will be able to find this playlist with the next title: Pop Music Playlist - Timeless Pop Songs (Updated Weekly 2024)\n\nLast Year's Title: Pop Music Playlist - Timeless Pop Songs (Updated Weekly 2022)\nPop Music Playlist - Timeless Pop Songs (Updated Weekly 2023)"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 187
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "EAiDC9ynl3iThSxp3uH6Sf0ePvE",
-      "id": "PL__KHlevihyW22KGpKm3HuZXjBxnvSGuH",
-      "snippet": {
-        "publishedAt": "2016-12-04T03:46:25Z",
-        "channelId": "UC7s-237qplSlglYPl_ccAaQ",
-        "title": "Playlist Stream Jukes/jovirone/brTT/YoDa/aXt/yeTz",
+        "publishedAt": "2021-01-24T16:54:01Z",
+        "channelId": "UCR_ZZw6w_dHJiP98neGw5HA",
+        "title": "I Want To Sing Gospel - Top Ten Hits",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/bbOw3Q2cRrw/default.jpg",
+            "url": "https://i.ytimg.com/vi/Df9ZQtVCVRI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/bbOw3Q2cRrw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Df9ZQtVCVRI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/bbOw3Q2cRrw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Df9ZQtVCVRI/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/bbOw3Q2cRrw/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Df9ZQtVCVRI/sddefault.jpg",
             "width": 640,
             "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/bbOw3Q2cRrw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
-        "channelTitle": "volponinho",
+        "channelTitle": "TOX TV Gospel",
         "localized": {
-          "title": "Playlist Stream Jukes/jovirone/brTT/YoDa/aXt/yeTz",
+          "title": "I Want To Sing Gospel - Top Ten Hits",
           "description": ""
         }
       },
@@ -909,490 +179,49 @@
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 121
+        "itemCount": 12
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "khUuKPNoNluy9FYDddC-duZOAic",
-      "id": "PLwf-0NjVCR1nZ0idDz_VicqY8JzkWyGUh",
+      "etag": "741axo6VhUEsUJ69JXJTdU-uAbg",
+      "id": "PL-EUjfiWfcrRa8fuiXiF0paZMBsYjUgN-",
       "snippet": {
-        "publishedAt": "2014-10-31T10:45:52Z",
-        "channelId": "UC6QxMiza8Yl0lXTyO5OTqjA",
-        "title": "Majestic Casual Top Playlist",
+        "publishedAt": "2022-11-26T17:51:05Z",
+        "channelId": "UCRift0mnhnD10TbUYykazbA",
+        "title": "Xote Gospel",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/oVcG9lpZV24/default.jpg",
+            "url": "https://i.ytimg.com/vi/oBL5CzcodU8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/oVcG9lpZV24/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/oBL5CzcodU8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/oVcG9lpZV24/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/oBL5CzcodU8/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/oVcG9lpZV24/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/oBL5CzcodU8/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/oVcG9lpZV24/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/oBL5CzcodU8/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Warat Vassanasiri",
+        "channelTitle": "Marcos Chaves",
         "localized": {
-          "title": "Majestic Casual Top Playlist",
+          "title": "Xote Gospel",
           "description": ""
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 96
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "Rg5N7GfwZ0ylKuAK5uYuIiogW8Y",
-      "id": "PLF9Dx60oSplx5RxRUHcuZNnVKszR4ZL6O",
-      "snippet": {
-        "publishedAt": "2014-03-27T11:20:24Z",
-        "channelId": "UCUnEHbNn_vshFqclcDhPaEA",
-        "title": "Best Of EARTH WIND AND FIRE (Playlist)",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Gs069dndIYk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Gs069dndIYk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Gs069dndIYk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Gs069dndIYk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Gs069dndIYk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Legacy Recordings France",
-        "localized": {
-          "title": "Best Of EARTH WIND AND FIRE (Playlist)",
-          "description": ""
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 25
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "esm6L0u_pINE1jx-GGbmlrmkPsg",
-      "id": "PL6Go6XFhidED5RmiuRdks87fyOvlXqn14",
-      "snippet": {
-        "publishedAt": "2015-10-08T10:03:16Z",
-        "channelId": "UCyjC1siTaeekJGQ-u6EdGDg",
-        "title": "Country Music Playlist 2024 ♫  Top Country Hits 2024",
-        "description": "Country Music Playlist 2024 ♫  Top Country Hits 2024\n\nFind our YouTube playlist with these keywords: country hits 2024, country music playlist 2024, top country playlist, country playlist 2024 hits, country 2024 playlist, best country hits, country playlist 2024, top country hits 2024, top country songs of 2024, country hits mix 2024, country chart, country hits 2024 collection, best country songs, today's country hits 2024, today's country playlist\n\nGet ready to enjoy the best country music of 2024! With our carefully curated playlist, you'll be tapping your boots and singing along to the latest hits and all-time favorites 🤠\n\nCheck our other playlists or favorite charts. You might enjoy:\n\n1. Today's Country Songs 2024 - Popular Country Music 2024 (Current Country Hits) - https://play.redlist.com/4942\n2. Hottest Country Hits 2024 - Best Country Music Mix 2024-2025 (Luke Combs, Morgan Wallen, Hardy, Etc.) - https://play.redlist.com/35747\n\nIn the next year, the playlist is going to be titled: Country Music Playlist 2025 ♫ Top Country Hits 2025\n\nLast year, the playlist was titled: Country Music Playlist 2023 ♫ Top Country Hits 2023\n\nShare your thoughts on our playlist: contact@red-music.com",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/4QIZE708gJ4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/4QIZE708gJ4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/4QIZE708gJ4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/4QIZE708gJ4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/4QIZE708gJ4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Redlist - Essential Hits",
-        "localized": {
-          "title": "Country Music Playlist 2024 ♫  Top Country Hits 2024",
-          "description": "Country Music Playlist 2024 ♫  Top Country Hits 2024\n\nFind our YouTube playlist with these keywords: country hits 2024, country music playlist 2024, top country playlist, country playlist 2024 hits, country 2024 playlist, best country hits, country playlist 2024, top country hits 2024, top country songs of 2024, country hits mix 2024, country chart, country hits 2024 collection, best country songs, today's country hits 2024, today's country playlist\n\nGet ready to enjoy the best country music of 2024! With our carefully curated playlist, you'll be tapping your boots and singing along to the latest hits and all-time favorites 🤠\n\nCheck our other playlists or favorite charts. You might enjoy:\n\n1. Today's Country Songs 2024 - Popular Country Music 2024 (Current Country Hits) - https://play.redlist.com/4942\n2. Hottest Country Hits 2024 - Best Country Music Mix 2024-2025 (Luke Combs, Morgan Wallen, Hardy, Etc.) - https://play.redlist.com/35747\n\nIn the next year, the playlist is going to be titled: Country Music Playlist 2025 ♫ Top Country Hits 2025\n\nLast year, the playlist was titled: Country Music Playlist 2023 ♫ Top Country Hits 2023\n\nShare your thoughts on our playlist: contact@red-music.com"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 80
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "LRe35h6JWBsMmgxCjWqW7khb0wQ",
-      "id": "PLmOldskd2VbL7_t-NE9p6rEboq_v0AHko",
-      "snippet": {
-        "publishedAt": "2022-02-06T19:26:12Z",
-        "channelId": "UCzvn2Xomxqf2znPHSVYP0Ew",
-        "title": "Hollow Knight OST + DLC - Playlist",
-        "description": "Hollow Knight & DLC (Hidden Dreams, The Grimm Troupe, Lifeblood, Godmaster) Original Soundtrack playlist.\n\nIncludes Silksong samples.\n\nTheme & music composed by Christopher Larkin 2017/2018. Game developed by Team Cherry.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/243Uguc-6mQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/243Uguc-6mQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/243Uguc-6mQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/243Uguc-6mQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/243Uguc-6mQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Amellifera",
-        "localized": {
-          "title": "Hollow Knight OST + DLC - Playlist",
-          "description": "Hollow Knight & DLC (Hidden Dreams, The Grimm Troupe, Lifeblood, Godmaster) Original Soundtrack playlist.\n\nIncludes Silksong samples.\n\nTheme & music composed by Christopher Larkin 2017/2018. Game developed by Team Cherry."
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 47
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "2i-OKrCpuLazadEU2RWb2P7qXS4",
-      "id": "PLZt2YpN30WNWKnDtlAyq0XbFK_tz4wQpi",
-      "snippet": {
-        "publishedAt": "2018-12-24T01:11:32Z",
-        "channelId": "UCA1uLXh-3FMyO8WM10DaR4g",
-        "title": "NRJ Hits 2024 - Nrj Hits 2024 Nouveauté - Playlist Nrj",
-        "description": "NRJ Hits 2024 - Nrj Hits 2024 Nouveauté - Playlist Nrj\n\nÉcouter toutes les musiques du moment. Chansons d'Artistes Musicaux Français et Internationaux du moment.\n\nhit du moment 2024\nnrj hits 2024\nhits 2024\nhit 2024 nouveauté\nnrj\nnouveauté 2024\nmix 2024 nouveauté\ntubes du moment 2024\nmusique 2024 nouveauté\nnrj 2024\nhits du moment 2024\nnouveauté 2024 musique\nplaylist nrj\nplaylist 2024\nmusique 2024\nhits du moment\n\nNRJ 2024 janvier, février 2024, mars 2024, avril 2024, mai 2024, juin 2024, juillet 2024, août 2024, septembre 2024, octobre 2024, novembre 2024, décembre 2024 etc.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/8oSEnA2vwn4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/8oSEnA2vwn4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/8oSEnA2vwn4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/8oSEnA2vwn4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/8oSEnA2vwn4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "susu",
-        "localized": {
-          "title": "NRJ Hits 2024 - Nrj Hits 2024 Nouveauté - Playlist Nrj",
-          "description": "NRJ Hits 2024 - Nrj Hits 2024 Nouveauté - Playlist Nrj\n\nÉcouter toutes les musiques du moment. Chansons d'Artistes Musicaux Français et Internationaux du moment.\n\nhit du moment 2024\nnrj hits 2024\nhits 2024\nhit 2024 nouveauté\nnrj\nnouveauté 2024\nmix 2024 nouveauté\ntubes du moment 2024\nmusique 2024 nouveauté\nnrj 2024\nhits du moment 2024\nnouveauté 2024 musique\nplaylist nrj\nplaylist 2024\nmusique 2024\nhits du moment\n\nNRJ 2024 janvier, février 2024, mars 2024, avril 2024, mai 2024, juin 2024, juillet 2024, août 2024, septembre 2024, octobre 2024, novembre 2024, décembre 2024 etc."
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 100
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "hXbnFb7VgIg5U1hOd0Qfvmc99OE",
-      "id": "PLkniQ1VMQY_qzLzBFD-3ILhmMkdYnkW3P",
-      "snippet": {
-        "publishedAt": "2020-05-03T06:44:26Z",
-        "channelId": "UCdvBex6r_1-i8Sut-mCy2Jw",
-        "title": "Top Tik Tok Songs 2024 with lyrics Playlist - Latest English Songs 2024",
-        "description": "Top Tik Tok Songs 2024 with lyrics Playlist - Latest English Songs 2024\nFollow my Spotify Playlist for more:\nhttps://spoti.fi/32iCMvP\n\nThis is a playlist with US/UK Popular Songs of 2024. If you like our playlist, don't forget to save and share it.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/S_-5j9PxoJo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/S_-5j9PxoJo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/S_-5j9PxoJo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/S_-5j9PxoJo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/S_-5j9PxoJo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Taj Tracks",
-        "localized": {
-          "title": "Top Tik Tok Songs 2024 with lyrics Playlist - Latest English Songs 2024",
-          "description": "Top Tik Tok Songs 2024 with lyrics Playlist - Latest English Songs 2024\nFollow my Spotify Playlist for more:\nhttps://spoti.fi/32iCMvP\n\nThis is a playlist with US/UK Popular Songs of 2024. If you like our playlist, don't forget to save and share it."
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 97
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "Wcim4HbNA5VOEyDgjQRWc1Pd3AQ",
-      "id": "PL4BrNFx1j7E7BDa131cA8Aax0QtfDbWeS",
-      "snippet": {
-        "publishedAt": "2016-12-06T10:32:05Z",
-        "channelId": "UCk9Vi2DSLUzDGNO2JvWWvYA",
-        "title": "The Ultimate 2000's Indie Music Playlist",
-        "description": "A playlist of indie songs and alternative pop rock from the early 2000's. Noughties indie hits from the first decade of the 21st century. Featuring:\nThe Killers | Muse | The Kooks | The Strokes | Maximo Park | Arctic Monkeys | Oasis | Kasabian | The Fratellis | Stereophonics | Franz Ferdinand | Razorlight | Snow Patrol | Coldplay | MGMT | Kaiser Chiefs | The White Stripes | Feeder | Keane | Gorillaz | Bloc Party | Embrace | Travis | Weezer | Richard Ashcroft | Starsailor",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Oextk-If8HQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Oextk-If8HQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Oextk-If8HQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Oextk-If8HQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Oextk-If8HQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Doogie",
-        "localized": {
-          "title": "The Ultimate 2000's Indie Music Playlist",
-          "description": "A playlist of indie songs and alternative pop rock from the early 2000's. Noughties indie hits from the first decade of the 21st century. Featuring:\nThe Killers | Muse | The Kooks | The Strokes | Maximo Park | Arctic Monkeys | Oasis | Kasabian | The Fratellis | Stereophonics | Franz Ferdinand | Razorlight | Snow Patrol | Coldplay | MGMT | Kaiser Chiefs | The White Stripes | Feeder | Keane | Gorillaz | Bloc Party | Embrace | Travis | Weezer | Richard Ashcroft | Starsailor"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 258
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "4H9JIqlnRDdvXUnAImpGiwHWRmI",
-      "id": "PLNT83Pmw8EuLtQwswYKpNIaaSagVLFhm-",
-      "snippet": {
-        "publishedAt": "2019-03-12T11:01:07Z",
-        "channelId": "UCtf9cFBJkHVAf2qMqF01xYg",
-        "title": "Hey Bear Sensory Complete Playlist",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/PunVHiOxUEk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/PunVHiOxUEk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/PunVHiOxUEk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/PunVHiOxUEk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/PunVHiOxUEk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Hey Bear Sensory",
-        "localized": {
-          "title": "Hey Bear Sensory Complete Playlist",
-          "description": ""
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 33
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "h8hxfsM-YzjknqyFCA1XXXcEJzk",
-      "id": "PLUbsmsEyA_ERKBtWq0aILWJK1r8DkdPTK",
-      "snippet": {
-        "publishedAt": "2018-02-11T00:16:44Z",
-        "channelId": "UC5d8IT_iqNm942e8VAxA9FQ",
-        "title": "wwe theme song playlist!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/1C-mdFXKyBU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/1C-mdFXKyBU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/1C-mdFXKyBU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/1C-mdFXKyBU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/1C-mdFXKyBU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Elizabeth Weiner",
-        "localized": {
-          "title": "wwe theme song playlist!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
-          "description": ""
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 96
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "ZL0rL-iBTB6AaIEsgdeHnentT-Y",
-      "id": "PL3817D41C7D841E23",
-      "snippet": {
-        "publishedAt": "2012-05-10T23:23:12Z",
-        "channelId": "UCcB7CIRbAVypVHOi0OvK_lg",
-        "title": "C418 Playlist - Minecraft Volume Alpha",
-        "description": "Epicness in a nutshell",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/laZusNy8QiY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/laZusNy8QiY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/laZusNy8QiY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/laZusNy8QiY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/laZusNy8QiY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "SketchyChris",
-        "localized": {
-          "title": "C418 Playlist - Minecraft Volume Alpha",
-          "description": "Epicness in a nutshell"
         }
       },
       "status": {
@@ -1404,93 +233,558 @@
     },
     {
       "kind": "youtube#playlist",
-      "etag": "QmRu1TMf6V8MndMgBnBdxMzYUyo",
-      "id": "PLOwSo8kHs4XR447QoOO4csKctRnCYOvvR",
+      "etag": "7OoKHYWzi_oS7lOOcFdM0HSlbuQ",
+      "id": "PLH-mhEWoQ3b3uhOzfH3K7F0Hd3fEAeAKG",
       "snippet": {
-        "publishedAt": "2019-08-15T09:47:54Z",
-        "channelId": "UC1znqkJ2wg0QDXdOzfess_Q",
-        "title": "Top 100 Most Viewed Russian Songs - Popular Russian Hits Playlist",
-        "description": "Top 100 Most Viewed Russian Songs - Popular Russian Hits Playlist\n\nFind our playlist with these keywords: russian songs, russian music, best russian songs, russian hits, top russian songs, russian playlist, popular russian songs, famous russian songs, russian music mix, russian hits playlist, most popular russian songs, best russian hits, greatest russian songs of all time, famous russian music, best of russian music, most famous russian songs, popular russian music, top russian hits.\n\nIf you liked this playlist, we recommend you also listen to these music lists:\n\n1. Best Russian Songs of All Time - Greatest Russian Hits Music (Most Popular Russian Songs Playlist) - https://goplaylists.com/87497\n2. Greatest Russian Songs - Most Popular Russian Songs of All Time (Best Russian Songs Ever) - https://goplaylists.com/71777\n\nDive into the beats of best Russian music with the most viewed hits of all time. This Playlist featuring the artistic prowess of artists like Miyagi & Эндшпиль, ХАБИБ, Masha, RASA, Rauf & Faik, Сателлит, Алексей Воробьев, NILETTO, DAASHA, MIA BOYKA & ЕГОР ШИП, Дарья Янина, Artik & Asti, МАКСИМ ФАДЕЕВ, Артур Пирожков, Doni, #2Маши, Тимати, LOVV66 & FEDUK, Клава Кока, Dabro, Звонкий, Люся Чеботина, Султан Лагучев, and Султан-Ураган. Experience the diverse vibes, from heartfelt ballads to electrifying beats, that resonate deeply with listeners worldwide. Your gateway to the best music from Russia is coming with this playlist.\n\n Share your thoughts on our playlist: contact@red-music.com",
+        "publishedAt": "2018-05-06T22:18:29Z",
+        "channelId": "UCmExhLY5r_a0j5Z_ZYFTYJw",
+        "title": "Gospel Rap songs",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/nidQCt_HEsY/default.jpg",
+            "url": "https://i.ytimg.com/vi/OwrE0YjfNGg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/nidQCt_HEsY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/OwrE0YjfNGg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/nidQCt_HEsY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/OwrE0YjfNGg/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/nidQCt_HEsY/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/OwrE0YjfNGg/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/nidQCt_HEsY/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/OwrE0YjfNGg/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Redlist - Music Hour",
+        "channelTitle": "KeyLo Banks",
         "localized": {
-          "title": "Top 100 Most Viewed Russian Songs - Popular Russian Hits Playlist",
-          "description": "Top 100 Most Viewed Russian Songs - Popular Russian Hits Playlist\n\nFind our playlist with these keywords: russian songs, russian music, best russian songs, russian hits, top russian songs, russian playlist, popular russian songs, famous russian songs, russian music mix, russian hits playlist, most popular russian songs, best russian hits, greatest russian songs of all time, famous russian music, best of russian music, most famous russian songs, popular russian music, top russian hits.\n\nIf you liked this playlist, we recommend you also listen to these music lists:\n\n1. Best Russian Songs of All Time - Greatest Russian Hits Music (Most Popular Russian Songs Playlist) - https://goplaylists.com/87497\n2. Greatest Russian Songs - Most Popular Russian Songs of All Time (Best Russian Songs Ever) - https://goplaylists.com/71777\n\nDive into the beats of best Russian music with the most viewed hits of all time. This Playlist featuring the artistic prowess of artists like Miyagi & Эндшпиль, ХАБИБ, Masha, RASA, Rauf & Faik, Сателлит, Алексей Воробьев, NILETTO, DAASHA, MIA BOYKA & ЕГОР ШИП, Дарья Янина, Artik & Asti, МАКСИМ ФАДЕЕВ, Артур Пирожков, Doni, #2Маши, Тимати, LOVV66 & FEDUK, Клава Кока, Dabro, Звонкий, Люся Чеботина, Султан Лагучев, and Султан-Ураган. Experience the diverse vibes, from heartfelt ballads to electrifying beats, that resonate deeply with listeners worldwide. Your gateway to the best music from Russia is coming with this playlist.\n\n Share your thoughts on our playlist: contact@red-music.com"
+          "title": "Gospel Rap songs",
+          "description": ""
         }
       },
       "status": {
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 100
+        "itemCount": 32
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "vJxhzv1kNkBDUNR0tSlNI1wJeEI",
-      "id": "PLmWYEDTNOGULG6eg0zgzvRercwqRP6mII",
+      "etag": "U5Vfk1FPq0iUoFVamFlW21h0qIw",
+      "id": "PL1s2HUI0vLUPT4Jb4QNPbanTegUw3kRV5",
       "snippet": {
-        "publishedAt": "2022-02-27T12:10:19Z",
-        "channelId": "UCRpjHHu8ivVWs73uxHlWwFA",
-        "title": "Eurovision Song Contest 2022: All 40 Songs (Official Music Videos)",
-        "description": "Watch all 40 entries of the countries competing at the Eurovision Song Contest 2022 in Turin, Italy, on 10, 12 and 14 May. The running orders of the First and Second Semi-Finals will be announced shortly.\n\n🇦🇱 Albania: Ronela Hajati - Sekret\n🇦🇲 Armenia: Rosa Linn - Snap\n🇦🇺 Australia: Sheldon Riley - Not The Same\n🇦🇹 Austria: LUM!X feat. Pia Maria - Halo\n🇦🇿 Azerbaijan: Nadir Rustamli - Fade To Black\n🇧🇪 Belgium: Jérémie Makiese - Miss You\n🇧🇬 Bulgaria: Intelligent Music Project - Intention\n🇭🇷 Croatia: Mia Dimšić - Guilty Pleasure\n🇨🇾 Cyprus: Andromache - Ela\n🇨🇿 Czech Republic: We Are Domi - Lights Off\n🇩🇰 Denmark: REDDI - The Show\n🇪🇪 Estonia: Stefan - Hope\n🇫🇮 Finland: The Rasmus - Jezebel\n🇫🇷 France: Alvan & Ahez - Fulenn\n🇬🇪 Georgia: Circus Mircus - Lock Me In\n🇩🇪 Germany: Malik Harris - Rockstars\n🇬🇷 Greece: Amanda Georgiadi Tenfjord - Die Together\n🇮🇸 Iceland: Systur - Með Hækkandi Sól\n🇮🇪 Ireland: Brooke - That’s Rich\n🇮🇱 Israel: Michael Ben David - I.M\n🇮🇹 Italy: Mahmood & Blanco - Brividi\n🇱🇻 Latvia: Citi Zēni - Eat Your Salad\n🇱🇹 Lithuania: Monika Liu - Sentimentai\n🇲🇹 Malta: Emma Muscat - I Am What I Am\n🇲🇩 Moldova: Zdob şi Zdub & Frații Advahov - Trenulețul\n🇲🇪 Montenegro: Vladana - Breathe\n🇳🇱 Netherlands: S10 - De Diepte\n🇲🇰 North Macedonia: Andrea - Circles\n🇳🇴 Norway: Subwoolfer - Give That Wolf A Banana\n🇵🇱 Poland: Ochman - River\n🇵🇹 Portugal: MARO - Saudade Saudade\n🇷🇴 Romania: WRS - Llámame\n🇸🇲 San Marino: Achille Lauro - Stripper\n🇷🇸 Serbia: Konstrakta - In Corpore Sano\n🇸🇮 Slovenia: LPS - Disko\n🇪🇸 Spain: Chanel - SloMo\n🇸🇪 Sweden: Cornelia Jakobs - Hold Me Closer\n🇨🇭 Switzerland: Marius Bear - Boys Do Cry\n🇺🇦 Ukraine: Kalush Orchestra - Stefania\n🇬🇧 United Kingdom: Sam Ryder - SPACE MAN\n\n#Eurovision2022 #EurovisionNews #Eurovision\n-\nThe Eurovision Song Contest celebrates diversity through music. Please keep your comments respectful. We will not tolerate racism, sexism, ableism, homophobia, transphobia, body-shaming or any other derogatory or hostile language. Offensive users will be blocked and reported. Music first, always.\n\nFollow us on TikTok: https://www.tiktok.com/@Eurovision \nFollow us on Instagram: https://www.instagram.com/eurovision \nFollow us on Twitter: https://twitter.com/Eurovision\nFollow us on Facebook: https://www.facebook.com/EurovisionSo...\n\nIf you want to know more about the Eurovision Song Contest, visit https://eurovision.tv\n\nShop the official Eurovision Song Contest merchandise: https://shop.eurovision.tv/",
+        "publishedAt": "2018-09-15T11:54:15Z",
+        "channelId": "UCTuxPsrcF9p_xarYvzRCQag",
+        "title": "Fijian and English Gospel Songs",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/UiEGVYOruLk/default.jpg",
+            "url": "https://i.ytimg.com/vi/4HJuVjKWE-A/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/UiEGVYOruLk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/4HJuVjKWE-A/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/UiEGVYOruLk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/4HJuVjKWE-A/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/UiEGVYOruLk/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/4HJuVjKWE-A/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/UiEGVYOruLk/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/4HJuVjKWE-A/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Eurovision Song Contest",
+        "channelTitle": "Rosie Frecklington",
         "localized": {
-          "title": "Eurovision Song Contest 2022: All 40 Songs (Official Music Videos)",
-          "description": "Watch all 40 entries of the countries competing at the Eurovision Song Contest 2022 in Turin, Italy, on 10, 12 and 14 May. The running orders of the First and Second Semi-Finals will be announced shortly.\n\n🇦🇱 Albania: Ronela Hajati - Sekret\n🇦🇲 Armenia: Rosa Linn - Snap\n🇦🇺 Australia: Sheldon Riley - Not The Same\n🇦🇹 Austria: LUM!X feat. Pia Maria - Halo\n🇦🇿 Azerbaijan: Nadir Rustamli - Fade To Black\n🇧🇪 Belgium: Jérémie Makiese - Miss You\n🇧🇬 Bulgaria: Intelligent Music Project - Intention\n🇭🇷 Croatia: Mia Dimšić - Guilty Pleasure\n🇨🇾 Cyprus: Andromache - Ela\n🇨🇿 Czech Republic: We Are Domi - Lights Off\n🇩🇰 Denmark: REDDI - The Show\n🇪🇪 Estonia: Stefan - Hope\n🇫🇮 Finland: The Rasmus - Jezebel\n🇫🇷 France: Alvan & Ahez - Fulenn\n🇬🇪 Georgia: Circus Mircus - Lock Me In\n🇩🇪 Germany: Malik Harris - Rockstars\n🇬🇷 Greece: Amanda Georgiadi Tenfjord - Die Together\n🇮🇸 Iceland: Systur - Með Hækkandi Sól\n🇮🇪 Ireland: Brooke - That’s Rich\n🇮🇱 Israel: Michael Ben David - I.M\n🇮🇹 Italy: Mahmood & Blanco - Brividi\n🇱🇻 Latvia: Citi Zēni - Eat Your Salad\n🇱🇹 Lithuania: Monika Liu - Sentimentai\n🇲🇹 Malta: Emma Muscat - I Am What I Am\n🇲🇩 Moldova: Zdob şi Zdub & Frații Advahov - Trenulețul\n🇲🇪 Montenegro: Vladana - Breathe\n🇳🇱 Netherlands: S10 - De Diepte\n🇲🇰 North Macedonia: Andrea - Circles\n🇳🇴 Norway: Subwoolfer - Give That Wolf A Banana\n🇵🇱 Poland: Ochman - River\n🇵🇹 Portugal: MARO - Saudade Saudade\n🇷🇴 Romania: WRS - Llámame\n🇸🇲 San Marino: Achille Lauro - Stripper\n🇷🇸 Serbia: Konstrakta - In Corpore Sano\n🇸🇮 Slovenia: LPS - Disko\n🇪🇸 Spain: Chanel - SloMo\n🇸🇪 Sweden: Cornelia Jakobs - Hold Me Closer\n🇨🇭 Switzerland: Marius Bear - Boys Do Cry\n🇺🇦 Ukraine: Kalush Orchestra - Stefania\n🇬🇧 United Kingdom: Sam Ryder - SPACE MAN\n\n#Eurovision2022 #EurovisionNews #Eurovision\n-\nThe Eurovision Song Contest celebrates diversity through music. Please keep your comments respectful. We will not tolerate racism, sexism, ableism, homophobia, transphobia, body-shaming or any other derogatory or hostile language. Offensive users will be blocked and reported. Music first, always.\n\nFollow us on TikTok: https://www.tiktok.com/@Eurovision \nFollow us on Instagram: https://www.instagram.com/eurovision \nFollow us on Twitter: https://twitter.com/Eurovision\nFollow us on Facebook: https://www.facebook.com/EurovisionSo...\n\nIf you want to know more about the Eurovision Song Contest, visit https://eurovision.tv\n\nShop the official Eurovision Song Contest merchandise: https://shop.eurovision.tv/"
+          "title": "Fijian and English Gospel Songs",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 18
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "_T2mRriK6nmjklqcsOjaefpyQnY",
+      "id": "PL_A2sk2ZwufYgDjFH57qIGy0jtnNsQAdT",
+      "snippet": {
+        "publishedAt": "2021-02-22T07:16:30Z",
+        "channelId": "UCaphzfgFyIR1cNcFszVriFg",
+        "title": "Gospel Bass Groove series",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pmpo_Om7QcI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pmpo_Om7QcI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pmpo_Om7QcI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pmpo_Om7QcI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pmpo_Om7QcI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Keiichi Horii",
+        "localized": {
+          "title": "Gospel Bass Groove series",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 10
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "cXI3zPrnVgYqUkB4koq3j5o-bxQ",
+      "id": "PLyAuK3xClKr1cBQ66i4ZVhucV5w_ikcqT",
+      "snippet": {
+        "publishedAt": "2020-09-28T03:36:22Z",
+        "channelId": "UCECeEFlFA188WkP8-Qa6J-w",
+        "title": "The 100 Voices of Gospel",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dK_FiuyVU2Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dK_FiuyVU2Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dK_FiuyVU2Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dK_FiuyVU2Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Erika McDavid",
+        "localized": {
+          "title": "The 100 Voices of Gospel",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 19
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "v4HdQUqj1NdLUjEdVwZscigKdGA",
+      "id": "PLjRl-TnaknmrmuaLFuHsXB6uiNTlJqSuA",
+      "snippet": {
+        "publishedAt": "2016-10-15T09:21:25Z",
+        "channelId": "UCy8PTnn5iU4AJxqqIOQRpqA",
+        "title": "Best South African Gospel Songs 2016",
+        "description": "Top South African Gospel Songs 2016. South African Gospel Music Is On The Rise",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ro9KtH6cSVU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ro9KtH6cSVU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ro9KtH6cSVU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ro9KtH6cSVU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ro9KtH6cSVU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Thabi4lyf",
+        "localized": {
+          "title": "Best South African Gospel Songs 2016",
+          "description": "Top South African Gospel Songs 2016. South African Gospel Music Is On The Rise"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 21
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "QZfy4ubffjCOuA7GuO-e2w8hYO0",
+      "id": "PLbu_dbhoauLjox6orsufp3It3siL2io5n",
+      "snippet": {
+        "publishedAt": "2019-07-17T21:50:23Z",
+        "channelId": "UCSHuJzatBCH-EHOG7sr9B8g",
+        "title": "Louvor e adoração 2020 | Melhor música gospel 2020 | Mais Tocadas 2020 | Hinos de Adoração 2020",
+        "description": "gospel, gospel 2019\nmúsicas gospel\nmúsicas gospel 2019\nmelhores músicas gospel\nmelhores músicas gospel 2019\nAs Melhores Musicas Gospel 2019\nMusicas Gospel Mais Tocadas 2019\nAs Melhores Musicas Gospel\nTop Musicas Gospel\nTop Musicas Gospel 2019\nLouvores e Adoração 2019\nLouvores e Adoração\nLouvores, Louvores 2019\nAdoração, Adoração 2019\nLouvores de Adoração,\nLouvores de Adoração 2019,",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wWU1Bn6wy9o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wWU1Bn6wy9o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wWU1Bn6wy9o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wWU1Bn6wy9o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wWU1Bn6wy9o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "música gospel de amor",
+        "localized": {
+          "title": "Louvor e adoração 2020 | Melhor música gospel 2020 | Mais Tocadas 2020 | Hinos de Adoração 2020",
+          "description": "gospel, gospel 2019\nmúsicas gospel\nmúsicas gospel 2019\nmelhores músicas gospel\nmelhores músicas gospel 2019\nAs Melhores Musicas Gospel 2019\nMusicas Gospel Mais Tocadas 2019\nAs Melhores Musicas Gospel\nTop Musicas Gospel\nTop Musicas Gospel 2019\nLouvores e Adoração 2019\nLouvores e Adoração\nLouvores, Louvores 2019\nAdoração, Adoração 2019\nLouvores de Adoração,\nLouvores de Adoração 2019,"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 93
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "kOkF15tt4Djb5IhtKQbXjZeMh3Q",
+      "id": "PLFY2CjKhP4AY8DEhia2K5yU0Bp_vhHnli",
+      "snippet": {
+        "publishedAt": "2017-11-26T11:29:33Z",
+        "channelId": "UCWVu4lMBQej2GfSGBkk-AYw",
+        "title": "Bukavu Gospel Songs",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E9dB6Hs-xVg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E9dB6Hs-xVg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E9dB6Hs-xVg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E9dB6Hs-xVg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E9dB6Hs-xVg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "iWeb Gendusa",
+        "localized": {
+          "title": "Bukavu Gospel Songs",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 13
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "XOmcoSPuPR96Owxigt85Bwb5Vas",
+      "id": "PL3oYJUfM2YkJMQWJfdpS3IwgHP25Z_JAC",
+      "snippet": {
+        "publishedAt": "2021-09-06T03:15:03Z",
+        "channelId": "UC73MPpBUHoTPwCV6OYosHTA",
+        "title": "Instrumental Gospel dormir 😴",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B4_ys5KAYUo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B4_ys5KAYUo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B4_ys5KAYUo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B4_ys5KAYUo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B4_ys5KAYUo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Barbara Ribeiro (Bah)",
+        "localized": {
+          "title": "Instrumental Gospel dormir 😴",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 22
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "sr6yRfmd-E9hTRTGgBwVoFW5xcc",
+      "id": "PLEF6AC3D1F6D99D45",
+      "snippet": {
+        "publishedAt": "2011-12-04T14:14:33Z",
+        "channelId": "UClnMfhMzlkfNK2k831AOBFg",
+        "title": "grace thrillers",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GRV1hOVsGx8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GRV1hOVsGx8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GRV1hOVsGx8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "janet lorene",
+        "localized": {
+          "title": "grace thrillers",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 70
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "3e8pYbbn5gtHcYUvdpVCad1cES4",
+      "id": "PLDe8cWreygFSLJXD_-O5S4izWZSb6zV43",
+      "snippet": {
+        "publishedAt": "2023-06-01T05:53:11Z",
+        "channelId": "UCkp1CHdyzTi59yLNcbFcuAA",
+        "title": "Gospel",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aH5pJdVtyn8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aH5pJdVtyn8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aH5pJdVtyn8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aH5pJdVtyn8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Poelano Gasehete",
+        "localized": {
+          "title": "Gospel",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 23
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "ROYwWf83c9JiLUSQeT92PzTv3fM",
+      "id": "PLnu70qtcQCcZ2CNZwyDTPiR9p5xiAk0Pu",
+      "snippet": {
+        "publishedAt": "2019-02-28T17:23:03Z",
+        "channelId": "UCxf9BoocavaQcopLR4S0wbQ",
+        "title": "Biel gospel",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1i1673ILdVI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1i1673ILdVI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1i1673ILdVI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1i1673ILdVI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1i1673ILdVI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gabriel Souza",
+        "localized": {
+          "title": "Biel gospel",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 15
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "7onuJ-YOKsi0h6ZH3_mH4p91eW4",
+      "id": "PLcHqC9YNzSaB621igMmxfeMUvroQqYr3L",
+      "snippet": {
+        "publishedAt": "2012-10-25T20:10:05Z",
+        "channelId": "UCuRprOc-9RMUOPNU3CNED2g",
+        "title": "Top 40 Worship Songs (CCLI September 2024)",
+        "description": "Updated September 1, 2024\nTop 40 Worship Songs by CCLI SongSelect popularity report\n- - -\nPlaylist managed by SFCH Worship",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hShc-4NzObg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hShc-4NzObg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hShc-4NzObg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hShc-4NzObg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "SFCH Worship",
+        "localized": {
+          "title": "Top 40 Worship Songs (CCLI September 2024)",
+          "description": "Updated September 1, 2024\nTop 40 Worship Songs by CCLI SongSelect popularity report\n- - -\nPlaylist managed by SFCH Worship"
         }
       },
       "status": {
@@ -1502,230 +796,82 @@
     },
     {
       "kind": "youtube#playlist",
-      "etag": "89ZjIrigi1cT9TrvVPWVG9jypcs",
-      "id": "PLmXxqSJJq-yVK0Q-C5rUTwMaszKm1N0Pu",
+      "etag": "J4dA-EQQ6cR11pN13eeuP4gSAik",
+      "id": "PLh2rnQst-YESsh42e5G_Kvw3qWAvFgt4f",
       "snippet": {
-        "publishedAt": "2020-02-19T20:36:10Z",
-        "channelId": "UCWEtnEiVwUy7mwFeshyAWLA",
-        "title": "2000s Rock Hits Playlist | Best Early 2000s Rock Songs",
-        "description": "Add this playlist to your library! ➕✅ \n\nEarly 2000s Hard Rock and Nu Metal ANTHEMS from artists like Linkin Park, Nickeback, Deftones, Disturbed, Korn, Staind, Papa Roach, Limp Bizkit, P.O.D., Slipknot, and many more!\n\nSubscribe to the Rhino channel today for more 2000s music videos - we post new videos every week https://Rhino.lnk.to/YouTubeSubID\n\nCheck out our other 90s and 2000s Playlists:\n90s Hits https://Rhino.lnk.to/YT90sHitsID\n90s Hip Hop https://Rhino.lnk.to/YT90sHipHopID\n00s Hip Hop & R&B Hits https://Rhino.lnk.to/YTThrowbacksID\n\nAbout the RHINO channel: RHINO is the official YouTube channel of the greatest music catalog in the world. Founded in 1978, Rhino is the world's leading pop culture label specializing in classic rock, soul, and 80's and 90's alternative. The vast Rhino catalog of more than 5,000 albums, videos, and hit songs features material by artists such as Van Halen, Duran Duran, Aretha Franklin, Ray Charles, The Doors, Chicago, Black Sabbath, John Coltrane, Yes, Alice Cooper, Linda Ronstadt, The Ramones, The Monkees, Carly Simon, and Curtis Mayfield, among many others. Check back for classic music videos, live performances, hand-curated playlists, the Rhino Podcast, and more!\n\n2000s Rock Playlist | 2000s Rock Hits | Eaarly 2000s Rock | 2000s Rock Playlist | Nu Metal | Limp Bizkit | Linkin Park | Rock de los 2000 | rock en ingles | rock en ingles de los 2000s",
+        "publishedAt": "2020-03-09T18:00:13Z",
+        "channelId": "UCR_uzAhz08SmIuhFD7KXJLw",
+        "title": "New Chinese Gospel Song （English subtitles）| The Church of Almighty God",
+        "description": "https://churchofalmightygod.wordpress.com/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/4qlCC1GOwFw/default.jpg",
+            "url": "https://i.ytimg.com/vi/obZmqRBoUCk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/4qlCC1GOwFw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/obZmqRBoUCk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/4qlCC1GOwFw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/obZmqRBoUCk/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/4qlCC1GOwFw/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/obZmqRBoUCk/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/4qlCC1GOwFw/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/obZmqRBoUCk/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "RHINO",
+        "channelTitle": "Sophia Lee",
         "localized": {
-          "title": "2000s Rock Hits Playlist | Best Early 2000s Rock Songs",
-          "description": "Add this playlist to your library! ➕✅ \n\nEarly 2000s Hard Rock and Nu Metal ANTHEMS from artists like Linkin Park, Nickeback, Deftones, Disturbed, Korn, Staind, Papa Roach, Limp Bizkit, P.O.D., Slipknot, and many more!\n\nSubscribe to the Rhino channel today for more 2000s music videos - we post new videos every week https://Rhino.lnk.to/YouTubeSubID\n\nCheck out our other 90s and 2000s Playlists:\n90s Hits https://Rhino.lnk.to/YT90sHitsID\n90s Hip Hop https://Rhino.lnk.to/YT90sHipHopID\n00s Hip Hop & R&B Hits https://Rhino.lnk.to/YTThrowbacksID\n\nAbout the RHINO channel: RHINO is the official YouTube channel of the greatest music catalog in the world. Founded in 1978, Rhino is the world's leading pop culture label specializing in classic rock, soul, and 80's and 90's alternative. The vast Rhino catalog of more than 5,000 albums, videos, and hit songs features material by artists such as Van Halen, Duran Duran, Aretha Franklin, Ray Charles, The Doors, Chicago, Black Sabbath, John Coltrane, Yes, Alice Cooper, Linda Ronstadt, The Ramones, The Monkees, Carly Simon, and Curtis Mayfield, among many others. Check back for classic music videos, live performances, hand-curated playlists, the Rhino Podcast, and more!\n\n2000s Rock Playlist | 2000s Rock Hits | Eaarly 2000s Rock | 2000s Rock Playlist | Nu Metal | Limp Bizkit | Linkin Park | Rock de los 2000 | rock en ingles | rock en ingles de los 2000s"
+          "title": "New Chinese Gospel Song （English subtitles）| The Church of Almighty God",
+          "description": "https://churchofalmightygod.wordpress.com/"
         }
       },
       "status": {
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 114
+        "itemCount": 21
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "AqFmdEkWd7DozoTd0IvQIA1GXGQ",
-      "id": "PLyzIOC4NXmPcMq6foc_YdHLSfNVDUbVuB",
+      "etag": "N9rNLr81yuNFJrMvjHPYAWeQ_W4",
+      "id": "PL7F1A51D0D7D811CB",
       "snippet": {
-        "publishedAt": "2020-05-18T23:07:22Z",
-        "channelId": "UCQuF8gPzAwCQKTX8Rksf6-Q",
-        "title": "90'S CLEAN / EDITED RAP & R&B HITS - THROWBACK HIP HOP RADIO PLAYLIST MIX MUSIC",
-        "description": "These are all of the popular hip hop, rap & r&b songs from the 90s. If you are in your 30&#x27;s and 40&#x27;s this is a great throwback playlist to listen to with your kids. Throw it on at work on the office speakers. Very minimal cussing so Janet in acc",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Sg_nz1n2zeU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Sg_nz1n2zeU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Sg_nz1n2zeU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Sg_nz1n2zeU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Sg_nz1n2zeU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Mid90s",
-        "localized": {
-          "title": "90'S CLEAN / EDITED RAP & R&B HITS - THROWBACK HIP HOP RADIO PLAYLIST MIX MUSIC",
-          "description": "These are all of the popular hip hop, rap & r&b songs from the 90s. If you are in your 30&#x27;s and 40&#x27;s this is a great throwback playlist to listen to with your kids. Throw it on at work on the office speakers. Very minimal cussing so Janet in acc"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 205
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "rDR2_2aIdUz5I1vFiL7x-P9gQZQ",
-      "id": "PLNGrWZDdQ_SHsETq3rKpAbA6KKSr0BZ_E",
-      "snippet": {
-        "publishedAt": "2023-12-05T01:53:06Z",
-        "channelId": "UCboIfAK5Lb2EBjwCqQBYvHQ",
-        "title": "AILA SANTOS BEST SONGS PLAYLIST ❤",
-        "description": "AILA SANTOS BEST SONGS PLAYLIST ❤",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/mIDsgTmhHv0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/mIDsgTmhHv0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/mIDsgTmhHv0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Music 22",
-        "localized": {
-          "title": "AILA SANTOS BEST SONGS PLAYLIST ❤",
-          "description": "AILA SANTOS BEST SONGS PLAYLIST ❤"
-        }
-      },
-      "status": {
-        "privacyStatus": "public",
-        "podcastStatus": "enabled"
-      },
-      "contentDetails": {
-        "itemCount": 162
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "sAOqEShJHaSAOPXF5rjw9sfq1eg",
-      "id": "PLI_TwOrHUsI8MQNW0BvBAwwHYKgyiiiDB",
-      "snippet": {
-        "publishedAt": "2016-04-27T21:13:23Z",
-        "channelId": "UCh0GkE-m9kDuHnJPpvcNhVQ",
-        "title": "Top 1000 - Best Hits ever! 90s 80s 00s 90 80 2000",
-        "description": "Converted By http://soundiiz.com, Spotify To YouTube Playlist",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/EPhWR4d3FJQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/EPhWR4d3FJQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/EPhWR4d3FJQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/EPhWR4d3FJQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/EPhWR4d3FJQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Robby Der",
-        "localized": {
-          "title": "Top 1000 - Best Hits ever! 90s 80s 00s 90 80 2000",
-          "description": "Converted By http://soundiiz.com, Spotify To YouTube Playlist"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 762
-      }
-    },
-    {
-      "kind": "youtube#playlist",
-      "etag": "c9gQ9M8LmIFhqkm0Nh7osfOH2e0",
-      "id": "PLbdMjh_0Pjq3oO-u3_nBeSe82rigQCrFg",
-      "snippet": {
-        "publishedAt": "2016-03-03T14:35:34Z",
-        "channelId": "UC0AtPp8h9sv56VDwtX8tc-w",
-        "title": "The Blacklist - best songs playlist",
+        "publishedAt": "2012-08-09T14:34:15Z",
+        "channelId": "UC5wRWytTe3RM6uDglOAQzig",
+        "title": "The Best of Fred Hammond",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/mUYf2yu78Ts/default.jpg",
+            "url": "https://i.ytimg.com/vi/XcpIHtZzQe8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/mUYf2yu78Ts/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/XcpIHtZzQe8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/mUYf2yu78Ts/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/XcpIHtZzQe8/hqdefault.jpg",
             "width": 480,
             "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/mUYf2yu78Ts/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/mUYf2yu78Ts/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
-        "channelTitle": "Martin Toth",
+        "channelTitle": "HauteLady",
         "localized": {
-          "title": "The Blacklist - best songs playlist",
+          "title": "The Best of Fred Hammond",
           "description": ""
         }
       },
@@ -1733,98 +879,779 @@
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 43
+        "itemCount": 90
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "38NHpDklmIcgqN5jq9TGXm6MgC0",
-      "id": "PLun_CS7whKh7hhaUeZnVChGDjdZLYferx",
+      "etag": "CrrIaBaURGLbQG0dy6G8MQf-szw",
+      "id": "PLTowOyHmLuT7haDiE7-Un213rLiGXLYFb",
       "snippet": {
-        "publishedAt": "2019-01-31T21:27:42Z",
-        "channelId": "UC24820Td_ZoncutuF3Fx4wQ",
-        "title": "Musique Année 80 - Playlist Chansons Internationales",
-        "description": "▶ OFFICIAL PLAYLIST\nSUBSCRIBE NOW For More Official Playlist!\n\n▶ ABONNE-TOI MAINTENANT 👉\nhttps://tinyurl.com/PHIFI1-Frenchsinger\nET ECOUTE LES MEILLEURES PLAYLISTS !\n\n▶ LISTE DES PLAYLISTS EN EXCLU :\n✔ Les Meilleures Chansons Françaises\n✔ Les Meilleures Chansons Allemandes\n✔ Les Meilleures Chansons Russes\n✔ Les Meilleures Chansons Néerlandaises\n✔ Les Meilleures Chansons Latino Reggaeton\n✔ Les Meilleures Chansons Disco Polo\n✔ Les Meilleures Chansons en Anglais\n✔ Années 80 - Chansons Francaises\n✔ Années 80 - Chansons Internationales\n✔ Années 80 - Chansons Disco Funk\n✔ Eurovision - Toutes Les Chansons\n✔ Eurovision - Tous Les Gagnants\n✔ Eurovision France - Toutes les Chansons\n✔ Eurovision Junior\n✔ Les Meilleures Chansons De Noël\n✔ My Top 50 This Week\n\nAnnées  80 - Playlist Chansons Internationales, années 80, annees 80 chanson, années 80 90, années 80 playlist, années 80 anglais, annees 80 americaines, annees 80 anglaise chanson, annees 80 americaines chansons, années 80 best of, annees 80 british, best of annees 80 internationales, musique annees 80 qui bougent, annees 80 clips, années 80 compil, annees 80 connues, annees 80 chanson qui bouge, années 80 dance, annees 80 dansant, tube des annees 80 90, musique des annees 80, femme des annees 80, années 80 et 90, annees 80 ete, années 80 electro, annees 80 english, disco des annees 80 et 90, music annees 80 ecouter, annees 80 groupe, succes des annees 80 gratuits, groupe anglais annees 80, groupe filles annees 80, groove annees 80, années 80 hits, hit annees 80 90, annees 80 internationales funk, annees 80 internationale, annees 80 internationales karaoke, annees 80 internationales slow, annees 80 internationales clip, années 80 italien, annees 80 internationales compil, annees 80 internationales remix, annees 80 italie chanson, années 80 music, annees 80 musique qui bouge, années 80 new wave, années 80 qui bouge, tubes des annees 80 sur youtube, années 80 tubes, années 80 top, tubes annees 80 internationales, tube italien annees 80, video annees 80, varietes annees 80, new wave annees 80, annees 80 you tube, chansons annees 80 youtube, internacional, 80's hits, 80's hits, 80s song, 80's playlist, 80s playlist, 80s mix, 80's music videos, 80s disco, a année 80, a los 80, 80s best hits, année 80, 80's best song, 80s clip, 80's clip, 80's classics, 80s dance music, 80s disco legend, songs of d 80s, 80s edit, 80s electronic, 80s eurobeat, 80s england, 80s eurodance, 80s electro pop, 80s español, 80s extended versions, 80s extended remixes and 12 versions, 80's dance music, 80's disco hits, 80's drums, 80's dance moves, 80's dance mix, 80's deep house, 80's drum machine, 80's disco music,",
+        "publishedAt": "2024-02-19T07:06:25Z",
+        "channelId": "UCcodWPpOSwnwWR4qfh4RfwA",
+        "title": "Old School Gospel",
+        "description": "❤ Great black gospel music Channel ❤\nWith voices joined in harmony, we proclaim His glory, for He is the Alpha and Omega, the beginning and the end. Let every note, every word, every breath be a testament to His greatness and majesty.\nIn the heart of the gospel, I find my home, a sanctuary of hope and joy. And as I journey on, I will continue to sing His praises, for He alone is worthy of all honor and praise.\nIf this has blessed you, please comment and let me know so I will know that it did someone some good.\nPlease support the artists when you are able. \nGod Bless!\nJesus loves you more than you will ever know. If you have not given your life to Him and are interested in learning about salvation so that you can be with Him and your loved ones in heaven, just let me know and we can talk about it.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/djV11Xbc914/default.jpg",
+            "url": "https://i.ytimg.com/vi/5_L8wDy3_78/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/djV11Xbc914/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/5_L8wDy3_78/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/djV11Xbc914/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/5_L8wDy3_78/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/djV11Xbc914/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/5_L8wDy3_78/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/djV11Xbc914/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/5_L8wDy3_78/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "PHIFI1 - French singer",
+        "channelTitle": "Gospel Vibes Hub",
         "localized": {
-          "title": "Musique Année 80 - Playlist Chansons Internationales",
-          "description": "▶ OFFICIAL PLAYLIST\nSUBSCRIBE NOW For More Official Playlist!\n\n▶ ABONNE-TOI MAINTENANT 👉\nhttps://tinyurl.com/PHIFI1-Frenchsinger\nET ECOUTE LES MEILLEURES PLAYLISTS !\n\n▶ LISTE DES PLAYLISTS EN EXCLU :\n✔ Les Meilleures Chansons Françaises\n✔ Les Meilleures Chansons Allemandes\n✔ Les Meilleures Chansons Russes\n✔ Les Meilleures Chansons Néerlandaises\n✔ Les Meilleures Chansons Latino Reggaeton\n✔ Les Meilleures Chansons Disco Polo\n✔ Les Meilleures Chansons en Anglais\n✔ Années 80 - Chansons Francaises\n✔ Années 80 - Chansons Internationales\n✔ Années 80 - Chansons Disco Funk\n✔ Eurovision - Toutes Les Chansons\n✔ Eurovision - Tous Les Gagnants\n✔ Eurovision France - Toutes les Chansons\n✔ Eurovision Junior\n✔ Les Meilleures Chansons De Noël\n✔ My Top 50 This Week\n\nAnnées  80 - Playlist Chansons Internationales, années 80, annees 80 chanson, années 80 90, années 80 playlist, années 80 anglais, annees 80 americaines, annees 80 anglaise chanson, annees 80 americaines chansons, années 80 best of, annees 80 british, best of annees 80 internationales, musique annees 80 qui bougent, annees 80 clips, années 80 compil, annees 80 connues, annees 80 chanson qui bouge, années 80 dance, annees 80 dansant, tube des annees 80 90, musique des annees 80, femme des annees 80, années 80 et 90, annees 80 ete, années 80 electro, annees 80 english, disco des annees 80 et 90, music annees 80 ecouter, annees 80 groupe, succes des annees 80 gratuits, groupe anglais annees 80, groupe filles annees 80, groove annees 80, années 80 hits, hit annees 80 90, annees 80 internationales funk, annees 80 internationale, annees 80 internationales karaoke, annees 80 internationales slow, annees 80 internationales clip, années 80 italien, annees 80 internationales compil, annees 80 internationales remix, annees 80 italie chanson, années 80 music, annees 80 musique qui bouge, années 80 new wave, années 80 qui bouge, tubes des annees 80 sur youtube, années 80 tubes, années 80 top, tubes annees 80 internationales, tube italien annees 80, video annees 80, varietes annees 80, new wave annees 80, annees 80 you tube, chansons annees 80 youtube, internacional, 80's hits, 80's hits, 80s song, 80's playlist, 80s playlist, 80s mix, 80's music videos, 80s disco, a année 80, a los 80, 80s best hits, année 80, 80's best song, 80s clip, 80's clip, 80's classics, 80s dance music, 80s disco legend, songs of d 80s, 80s edit, 80s electronic, 80s eurobeat, 80s england, 80s eurodance, 80s electro pop, 80s español, 80s extended versions, 80s extended remixes and 12 versions, 80's dance music, 80's disco hits, 80's drums, 80's dance moves, 80's dance mix, 80's deep house, 80's drum machine, 80's disco music,"
+          "title": "Old School Gospel",
+          "description": "❤ Great black gospel music Channel ❤\nWith voices joined in harmony, we proclaim His glory, for He is the Alpha and Omega, the beginning and the end. Let every note, every word, every breath be a testament to His greatness and majesty.\nIn the heart of the gospel, I find my home, a sanctuary of hope and joy. And as I journey on, I will continue to sing His praises, for He alone is worthy of all honor and praise.\nIf this has blessed you, please comment and let me know so I will know that it did someone some good.\nPlease support the artists when you are able. \nGod Bless!\nJesus loves you more than you will ever know. If you have not given your life to Him and are interested in learning about salvation so that you can be with Him and your loved ones in heaven, just let me know and we can talk about it."
+        }
+      },
+      "status": {
+        "privacyStatus": "public",
+        "podcastStatus": "enabled"
+      },
+      "contentDetails": {
+        "itemCount": 221
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "--Qw8aSmdS9q7rbTo3hSWqkCcaY",
+      "id": "PLKL1Qg0IPAzmJWPsQYnfhAc_UFLypT36E",
+      "snippet": {
+        "publishedAt": "2014-03-14T20:40:15Z",
+        "channelId": "UCo7qRD40CRq7eNEwwnIllrQ",
+        "title": "Mix - Power of Your Love (Copy)",
+        "description": "This YouTube playlist was copied from YouTube Spotlight's channel using http://ctrlq.org/youtube/playlists/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ga6Qtxzd6vk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ga6Qtxzd6vk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ga6Qtxzd6vk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cherivlys",
+        "localized": {
+          "title": "Mix - Power of Your Love (Copy)",
+          "description": "This YouTube playlist was copied from YouTube Spotlight's channel using http://ctrlq.org/youtube/playlists/"
         }
       },
       "status": {
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 373
+        "itemCount": 47
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "ky9p6d67FZaoEpAYOVsebjInFZE",
-      "id": "PLFOllrD7uK9FY81h9nlwD2B7m3B4r8ys2",
+      "etag": "23qEr_c5pHPnPI647P_p0WY2fW8",
+      "id": "PLKQwAeg3mPU2MrrT29pj4by3UALO-Atfj",
       "snippet": {
-        "publishedAt": "2013-04-20T11:02:03Z",
-        "channelId": "UCBMiY29jmxd9PGU74eT1xPg",
-        "title": "Popular Children Rhymes Playlist | Nursery Songs in English | Babies and Kids Learning",
-        "description": "Nursery rhymes not merely tell stories. They help children to learn the wonderful sounds of the language. Simple words that rhyme add a magical touch to these little poems for little ones. You are sure to find many popular nursery rhymes for your child to learn, recite and cherish for years to come. You can even use our rhyme dictionary to introduce your child to a vast vocabulary of rhyming words from A-Z. Choose from either contemporary or traditional nursery rhymes to help your child wander gleefully into the never-never land of sounds and language.",
+        "publishedAt": "2020-04-18T22:42:11Z",
+        "channelId": "UCOADSfEMybEg8k2eghpEtBA",
+        "title": "Croydon SDA Gospel Choir",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/b0NHrFNZWh0/default.jpg",
+            "url": "https://i.ytimg.com/vi/lxJ1p6-8Jzg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/b0NHrFNZWh0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lxJ1p6-8Jzg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/b0NHrFNZWh0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lxJ1p6-8Jzg/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/b0NHrFNZWh0/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/lxJ1p6-8Jzg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Cybèle Coutet Craig",
+        "localized": {
+          "title": "Croydon SDA Gospel Choir",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 27
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "ReTAhZEbgf6a8vaD0JAdB8xMtm4",
+      "id": "PLiTXQRnerxMoARef6BdXVsor336uzvoTl",
+      "snippet": {
+        "publishedAt": "2023-12-25T12:49:02Z",
+        "channelId": "UCMzquTqdvtRX3Gtztyw5eeA",
+        "title": "Tsonga Gospel",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BSEVDqUd1vQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BSEVDqUd1vQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BSEVDqUd1vQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BSEVDqUd1vQ/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/b0NHrFNZWh0/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/BSEVDqUd1vQ/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "Little BoBo Nursery Rhymes - FlickBox Studios",
+        "channelTitle": "Prince Khoza",
         "localized": {
-          "title": "Popular Children Rhymes Playlist | Nursery Songs in English | Babies and Kids Learning",
-          "description": "Nursery rhymes not merely tell stories. They help children to learn the wonderful sounds of the language. Simple words that rhyme add a magical touch to these little poems for little ones. You are sure to find many popular nursery rhymes for your child to learn, recite and cherish for years to come. You can even use our rhyme dictionary to introduce your child to a vast vocabulary of rhyming words from A-Z. Choose from either contemporary or traditional nursery rhymes to help your child wander gleefully into the never-never land of sounds and language."
+          "title": "Tsonga Gospel",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 31
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "JwZXMH5C6x0pty4NUjeUTn87Xlo",
+      "id": "PLo-gjeFtx02Ns-YiMa_KrCS06tP_yqvcO",
+      "snippet": {
+        "publishedAt": "2021-11-14T13:34:38Z",
+        "channelId": "UCN88NyF4HaBXJN-HBhTEfxQ",
+        "title": "London Community Gospel Choir",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UhbTh0kb9zk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UhbTh0kb9zk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UhbTh0kb9zk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UhbTh0kb9zk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UhbTh0kb9zk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "STAX Cabinets",
+        "localized": {
+          "title": "London Community Gospel Choir",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 14
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "vXGU5UxCWDZtPbny0GGvlI5p57I",
+      "id": "PLAp1hAZxYXw0l42eYPRWWMiMYIdxsLzP_",
+      "snippet": {
+        "publishedAt": "2019-09-27T08:41:28Z",
+        "channelId": "UCrZBvb-pWancKic8oVNrC2A",
+        "title": "Gospel Internacional legendado",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fvF4xuLP-Cc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fvF4xuLP-Cc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fvF4xuLP-Cc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Cesar",
+        "localized": {
+          "title": "Gospel Internacional legendado",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 58
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "RwX1J00uPJjIW5MCyk57q5Ji1jU",
+      "id": "PLIdviQ2ZjjeNc0UReCJjuF3Ys0GZjahzu",
+      "snippet": {
+        "publishedAt": "2022-08-18T22:50:39Z",
+        "channelId": "UCEwTv0ddLc1eEPwvqD2IYsg",
+        "title": "Christmas Southern Gospel Style",
+        "description": "Thank you Lord for the gift of your Son Jesus Christ born in Bethlehem! He was born and there was no room in the inn, but make room in your heart for Him. Throughout the holiday season remember Jesus, and embrace the people in your life with His love.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/479GM-Hxu80/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/479GM-Hxu80/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/479GM-Hxu80/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/479GM-Hxu80/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/479GM-Hxu80/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Great Southern Gospel Music",
+        "localized": {
+          "title": "Christmas Southern Gospel Style",
+          "description": "Thank you Lord for the gift of your Son Jesus Christ born in Bethlehem! He was born and there was no room in the inn, but make room in your heart for Him. Throughout the holiday season remember Jesus, and embrace the people in your life with His love."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 65
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "jzJwzhSmlUP500zcO7nafhQkCK8",
+      "id": "PL9rL5WRKg2pe-Tw_i_K-1q08WX-b7u9Tj",
+      "snippet": {
+        "publishedAt": "2014-06-15T03:31:19Z",
+        "channelId": "UCvIBmN8kcq40LxCyEAvLLJA",
+        "title": "Black Gospel Instrumental Worship",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pI7LtN3FWeU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pI7LtN3FWeU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pI7LtN3FWeU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Denise",
+        "localized": {
+          "title": "Black Gospel Instrumental Worship",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 40
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "PHMsFA6KRC9pn1r2-MT6SUEEuG0",
+      "id": "PL467DF305670704D6",
+      "snippet": {
+        "publishedAt": "2009-09-18T13:54:53Z",
+        "channelId": "UCjMWzf7c7dz-PFh27c8kPpQ",
+        "title": "South African Gospel Music",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I9IgGUsmiNY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I9IgGUsmiNY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I9IgGUsmiNY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "untie2000",
+        "localized": {
+          "title": "South African Gospel Music",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 101
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "pK_yjNEqaqlCUXdKHCE-Cvt-ylg",
+      "id": "PL0D9ECszGVe_AJx3RSckGhfajl7AaOXQU",
+      "snippet": {
+        "publishedAt": "2017-04-16T01:00:32Z",
+        "channelId": "UC9YUbQyZcawNLVUYI3-eMAQ",
+        "title": "gaithers tent revival",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I28OiFeVy9o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I28OiFeVy9o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I28OiFeVy9o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I28OiFeVy9o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I28OiFeVy9o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "I am me",
+        "localized": {
+          "title": "gaithers tent revival",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 40
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "zM4uR2GDI1XuR4Hv6lGPRvxa350",
+      "id": "PLW41qHWZM4lad2zcdvD4f_GhjWhQSCjPB",
+      "snippet": {
+        "publishedAt": "2019-12-08T22:51:37Z",
+        "channelId": "UCrGF5Xlqen7lnWn4HHRP6xw",
+        "title": "Gospel - Together for the Gospel Live",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TCKbSGaV-mY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TCKbSGaV-mY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TCKbSGaV-mY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TCKbSGaV-mY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mark Griffith",
+        "localized": {
+          "title": "Gospel - Together for the Gospel Live",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 59
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "JMkWOELwkSs1Flt6mK-l0o-OvwE",
+      "id": "PLuRfwI6HDTlPCXvYNDT6-4KUtAKJvNiID",
+      "snippet": {
+        "publishedAt": "2020-11-07T08:28:25Z",
+        "channelId": "UCxhZ04S1zv_h7RgQJQ0Cd_w",
+        "title": "AFMA Gospel Team songs",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f9wBv-M61SM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f9wBv-M61SM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f9wBv-M61SM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f9wBv-M61SM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f9wBv-M61SM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Blessed Tembo",
+        "localized": {
+          "title": "AFMA Gospel Team songs",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 61
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "cstjzJf0ZZfh2PRxCjI2l8pJRiQ",
+      "id": "PLmtJoHo4ykMdm-EdzxEpqojhLcwy1fay5",
+      "snippet": {
+        "publishedAt": "2021-08-23T14:47:36Z",
+        "channelId": "UCsYO6O-p5KjOd4yeFXkyjpA",
+        "title": "Músicas gospel internacionais agitadas",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4wNpOeakhEM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4wNpOeakhEM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4wNpOeakhEM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4wNpOeakhEM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4wNpOeakhEM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Fernanda Sena",
+        "localized": {
+          "title": "Músicas gospel internacionais agitadas",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 36
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "zV9Q-_e3fehXs7Fvq9bvkdpIlR8",
+      "id": "PLSUdj73bhaBCOMcr3XCjEi-BC2GkZvrpT",
+      "snippet": {
+        "publishedAt": "2022-07-30T19:45:48Z",
+        "channelId": "UCM1endRSSBoBwNombhN9tYA",
+        "title": "Gospel Anos 2000",
+        "description": "As melhores músicas gospel Anos 2000",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/85wir7ElR3w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/85wir7ElR3w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/85wir7ElR3w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/85wir7ElR3w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/85wir7ElR3w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Lucas Dias",
+        "localized": {
+          "title": "Gospel Anos 2000",
+          "description": "As melhores músicas gospel Anos 2000"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 388
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "VdILd1CCSN72wSqSgIufFblOJww",
+      "id": "PLM-5xp5DDAngH4Iei4Bp2b8F6JM7CS4A1",
+      "snippet": {
+        "publishedAt": "2023-02-09T02:26:48Z",
+        "channelId": "UC9dgttz9oBPgfKldHzQ2RQQ",
+        "title": "JV Gospel",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MiMGdPB46jY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MiMGdPB46jY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MiMGdPB46jY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MiMGdPB46jY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MiMGdPB46jY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Novack Novais",
+        "localized": {
+          "title": "JV Gospel",
+          "description": ""
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 12
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "SeMp6wi8FnKI8rJdTGk4LGEF0B0",
+      "id": "PLZ0QjvqdxU3Fs0lqCj_r0s6VrF5D0MneM",
+      "snippet": {
+        "publishedAt": "2015-11-15T05:00:01Z",
+        "channelId": "UCsAmHwq3z8RvrJIAYTF8nIQ",
+        "title": "Gospel 2024: As mais Tocadas | Lançamentos Gospel | Novidades Gospel",
+        "description": "Músicas Gospel Evangélicas Mais Tocadas do ano de 2024. Ouvir as melhores gospel do momento e lançamentos.\n\nRelated: Músicas Gospel, Músicas Evangélicas, Gospel, Louvores, Adoração, Gospel Jovem, Gospel Vevo, Louvores Emocionantes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3h3-g7rzVCQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3h3-g7rzVCQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3h3-g7rzVCQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3h3-g7rzVCQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3h3-g7rzVCQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Música - Tópico",
+        "localized": {
+          "title": "Gospel 2024: As mais Tocadas | Lançamentos Gospel | Novidades Gospel",
+          "description": "Músicas Gospel Evangélicas Mais Tocadas do ano de 2024. Ouvir as melhores gospel do momento e lançamentos.\n\nRelated: Músicas Gospel, Músicas Evangélicas, Gospel, Louvores, Adoração, Gospel Jovem, Gospel Vevo, Louvores Emocionantes."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 131
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "6R6QMdQZDqGtldbqwa-mpezgmGI",
+      "id": "PLAirg7jHyq4pk3zm4e8khAcfbJcNi_YhZ",
+      "snippet": {
+        "publishedAt": "2023-03-12T19:01:05Z",
+        "channelId": "UC3nnmA6y7sBM_tJoLeE8lnw",
+        "title": "HooDoo Gospel",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xaSmjdWEK9E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xaSmjdWEK9E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xaSmjdWEK9E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xaSmjdWEK9E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Alexis Parker",
+        "localized": {
+          "title": "HooDoo Gospel",
+          "description": ""
         }
       },
       "status": {
@@ -1836,87 +1663,82 @@
     },
     {
       "kind": "youtube#playlist",
-      "etag": "0_bWeuktL6LwPnus8fe42snlfLk",
-      "id": "PLtVPsUWr6zvtr7V_x_9JEzyTDlK9YKOv7",
+      "etag": "S1tEmZ_vElaXobsrwMrrC_obkw0",
+      "id": "PL6H6TfFpYvpdnrWyQdgsVG7nizlRG2F1w",
       "snippet": {
-        "publishedAt": "2014-09-04T09:15:39Z",
-        "channelId": "UCLVVBWrp9jw4-SYUoU42hcg",
-        "title": "ROBIN SCHULZ - OFFICIAL MUSIC VIDEOS (OFFICIAL PLAYLIST)",
-        "description": "Watch all official music videos of Robin Schulz’ hit singles like the outstanding “Sugar” music video or “Rather Be Alone”! \n► Subscribe to the channel: http://bit.ly/1QWidYa\n► ROBIN SCHULZ / OFFICIAL MUSIC VIDEOS / RATHER BE ALONE / SUGAR / PRAYER / PRAYER IN C / ALL THIS LOVE / SPEECHLESS / UNFORGETTABLE / OK",
+        "publishedAt": "2017-12-29T19:13:34Z",
+        "channelId": "UCP7pJgvg8jiWSz8-qH0zODQ",
+        "title": "Melhores Musicas Gospel Internacional 2024",
+        "description": "Melhores Musicas Gospel Internacional 2024\n\nSe você gostou desta playlist, recomendamos que você ouça também estas listas de músicas:\n\n1. Gospel Internacional Mais Tocadas 2024 - Melhores Musicas Gospel Internacional 2024 (Musicas Gospel em Ingles 2024-2025) - https://goplaylists.com/80097\n2. Melhores Músicas Gospel em Inglês 2024 - https://play.redlist.com/4181\n\n\n Encontre nossa playlist com estas palavras-chave: gospel internacional 2024, musica gospel internacional 2024, louvores internacionais 2024, musicas gospel internacional 2024, gospel internacional mais tocadas 2024, melhores louvores em inglês 2024, musicas gospel em ingles 2024, musicas internacionais gospel 2024, musicas cristãs em inglês 2024, melhores musicas gospel internacional 2024, musicas gospel mais tocadas 2024, musicas gospel atuais 2024, gospel mais ouvidas 2024, louvores internacionais gospel 2024, louvores em inglês 2024, seleção de músicas gospel 2024, gospel internacional 2024 playlist, música gospel em inglês 2024, gospel mais tocados 2024, top musicas gospel 2024, hinos internacionais gospel 2024.\n\nMergulhe no universo inspirador com \"Melhores Musicas Gospel Internacional\", uma coletânea que reúne o melhor da música gospel de várias partes do mundo. Esta playlist é uma verdadeira jornada espiritual através de canções que tocam a alma, oferecendo conforto, esperança e inspiração. Com uma variedade de estilos, desde o pop gospel até o louvor contemporâneo, cada faixa é escolhida para elevar o espírito e fortalecer a fé. Ideal para momentos de reflexão ou adoração, esta seleção traz vozes poderosas e mensagens profundas que refletem a beleza e a diversidade do louvor internacional. Deixe-se envolver pelas harmonias que unem corações em todo o mundo, celebrando a fé e a espiritualidade através da música.\n\n No próximo ano, a playlist terá o título:  Melhores Musicas Gospel Internacional 2025\n No ano passado, a playlist foi intitulada: Melhores Musicas Gospel Internacional 2023\n\nShare your thoughts on our playlist: contact@red-music.com",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/bvC_0foemLY/default.jpg",
+            "url": "https://i.ytimg.com/vi/Lq4PXLxTuVU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/bvC_0foemLY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Lq4PXLxTuVU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/bvC_0foemLY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Lq4PXLxTuVU/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/bvC_0foemLY/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Lq4PXLxTuVU/sddefault.jpg",
             "width": 640,
             "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Lq4PXLxTuVU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
-        "channelTitle": "Robin Schulz",
+        "channelTitle": "Redlist - Viral Hits",
         "localized": {
-          "title": "ROBIN SCHULZ - OFFICIAL MUSIC VIDEOS (OFFICIAL PLAYLIST)",
-          "description": "Watch all official music videos of Robin Schulz’ hit singles like the outstanding “Sugar” music video or “Rather Be Alone”! \n► Subscribe to the channel: http://bit.ly/1QWidYa\n► ROBIN SCHULZ / OFFICIAL MUSIC VIDEOS / RATHER BE ALONE / SUGAR / PRAYER / PRAYER IN C / ALL THIS LOVE / SPEECHLESS / UNFORGETTABLE / OK"
+          "title": "Melhores Musicas Gospel Internacional 2024",
+          "description": "Melhores Musicas Gospel Internacional 2024\n\nSe você gostou desta playlist, recomendamos que você ouça também estas listas de músicas:\n\n1. Gospel Internacional Mais Tocadas 2024 - Melhores Musicas Gospel Internacional 2024 (Musicas Gospel em Ingles 2024-2025) - https://goplaylists.com/80097\n2. Melhores Músicas Gospel em Inglês 2024 - https://play.redlist.com/4181\n\n\n Encontre nossa playlist com estas palavras-chave: gospel internacional 2024, musica gospel internacional 2024, louvores internacionais 2024, musicas gospel internacional 2024, gospel internacional mais tocadas 2024, melhores louvores em inglês 2024, musicas gospel em ingles 2024, musicas internacionais gospel 2024, musicas cristãs em inglês 2024, melhores musicas gospel internacional 2024, musicas gospel mais tocadas 2024, musicas gospel atuais 2024, gospel mais ouvidas 2024, louvores internacionais gospel 2024, louvores em inglês 2024, seleção de músicas gospel 2024, gospel internacional 2024 playlist, música gospel em inglês 2024, gospel mais tocados 2024, top musicas gospel 2024, hinos internacionais gospel 2024.\n\nMergulhe no universo inspirador com \"Melhores Musicas Gospel Internacional\", uma coletânea que reúne o melhor da música gospel de várias partes do mundo. Esta playlist é uma verdadeira jornada espiritual através de canções que tocam a alma, oferecendo conforto, esperança e inspiração. Com uma variedade de estilos, desde o pop gospel até o louvor contemporâneo, cada faixa é escolhida para elevar o espírito e fortalecer a fé. Ideal para momentos de reflexão ou adoração, esta seleção traz vozes poderosas e mensagens profundas que refletem a beleza e a diversidade do louvor internacional. Deixe-se envolver pelas harmonias que unem corações em todo o mundo, celebrando a fé e a espiritualidade através da música.\n\n No próximo ano, a playlist terá o título:  Melhores Musicas Gospel Internacional 2025\n No ano passado, a playlist foi intitulada: Melhores Musicas Gospel Internacional 2023\n\nShare your thoughts on our playlist: contact@red-music.com"
         }
       },
       "status": {
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 38
+        "itemCount": 40
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "4anGMJvAIupoYmG096dRJYl1Iq4",
-      "id": "PLvSHFzWK4OC1iGQfYfZkWMNPgUTQJ1ND1",
+      "etag": "sTTIATiWRyNPTWUTE5SHogPFUhQ",
+      "id": "PLG-55WH7E6I8Z6miqkyil867UWrGLN_mH",
       "snippet": {
-        "publishedAt": "2012-09-15T12:28:40Z",
-        "channelId": "UCaCtBE4sQtlvTsEte8y5oVg",
-        "title": "The best Sons of Anarchy songs (playlist)",
+        "publishedAt": "2024-04-06T18:41:26Z",
+        "channelId": "UClkT-zhWC_iqFPgXXLN3gZA",
+        "title": "pongola gospel wagon",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/S4P5URTv9aU/default.jpg",
+            "url": "https://i.ytimg.com/vi/qtvhN9ZivUk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/S4P5URTv9aU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qtvhN9ZivUk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/S4P5URTv9aU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qtvhN9ZivUk/hqdefault.jpg",
             "width": 480,
             "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/S4P5URTv9aU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/S4P5URTv9aU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
-        "channelTitle": "Pree Mac",
+        "channelTitle": "madynp",
         "localized": {
-          "title": "The best Sons of Anarchy songs (playlist)",
+          "title": "pongola gospel wagon",
           "description": ""
         }
       },
@@ -1924,48 +1746,48 @@
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 45
+        "itemCount": 34
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "lYAGVr_DZWIcy5upUJc6w-NDEmc",
-      "id": "PLbAFXJC0J5GYVLLnjullmZ2NuG6ay-SXw",
+      "etag": "BYzmpyrcFrPkBG3ix05Gu-gikIs",
+      "id": "PLp6Mi0rR09nUZsIq4CVKeKyOGUoWNfYNy",
       "snippet": {
-        "publishedAt": "2020-10-28T14:53:40Z",
-        "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
-        "title": "K/DA | League of Legends",
+        "publishedAt": "2020-08-23T10:02:47Z",
+        "channelId": "UCykcKwK_E_ysPgTn0rmbdQw",
+        "title": "Tupige Ngoma Uenezaji Gospel Choir",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/UOxkGD8qRB4/default.jpg",
+            "url": "https://i.ytimg.com/vi/aA_s4x7v1so/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/UOxkGD8qRB4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/aA_s4x7v1so/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/UOxkGD8qRB4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/aA_s4x7v1so/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/UOxkGD8qRB4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/aA_s4x7v1so/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/UOxkGD8qRB4/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/aA_s4x7v1so/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "League of Legends",
+        "channelTitle": "Uenezaji Gospel Choir",
         "localized": {
-          "title": "K/DA | League of Legends",
+          "title": "Tupige Ngoma Uenezaji Gospel Choir",
           "description": ""
         }
       },
@@ -1973,56 +1795,56 @@
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 9
+        "itemCount": 10
       }
     },
     {
       "kind": "youtube#playlist",
-      "etag": "lBuYrQDKLCCpu3lcp1zGhWUhC78",
-      "id": "PLRW2S5SFhGr5ELPOysqWyhdoz07KOjwoc",
+      "etag": "tJduLPAYqbk5o8ke_QtMSmQVcDk",
+      "id": "PLjRl-TnaknmqrDoljuVVfQRprspsyTitd",
       "snippet": {
-        "publishedAt": "2012-10-03T21:22:29Z",
-        "channelId": "UCE7IWDiuDgiOUjqYiSH-RuA",
-        "title": "BEST CHRISTIAN RAP PLAYLIST  2024",
-        "description": "BEST CHRISTIAN RAP HIP-HOP PLAYLIST  2024 - Facebook.com/ChristianRapHipHop\n#Unashamed #116 #ChristianRap #ChristianHipHop #CHH",
+        "publishedAt": "2017-02-25T12:22:04Z",
+        "channelId": "UCy8PTnn5iU4AJxqqIOQRpqA",
+        "title": "Khaya Mthethwa Gospel Album",
+        "description": "Khaya Mthwthwa Songs From his gospel album Dawn & other feature songs",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/K1d9a5JQQx8/default.jpg",
+            "url": "https://i.ytimg.com/vi/cldqIzVQTEg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/K1d9a5JQQx8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/cldqIzVQTEg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/K1d9a5JQQx8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/cldqIzVQTEg/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/K1d9a5JQQx8/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/cldqIzVQTEg/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/K1d9a5JQQx8/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/cldqIzVQTEg/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "BigBuddeTV",
+        "channelTitle": "Thabi4lyf",
         "localized": {
-          "title": "BEST CHRISTIAN RAP PLAYLIST  2024",
-          "description": "BEST CHRISTIAN RAP HIP-HOP PLAYLIST  2024 - Facebook.com/ChristianRapHipHop\n#Unashamed #116 #ChristianRap #ChristianHipHop #CHH"
+          "title": "Khaya Mthethwa Gospel Album",
+          "description": "Khaya Mthwthwa Songs From his gospel album Dawn & other feature songs"
         }
       },
       "status": {
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 334
+        "itemCount": 11
       }
     }
   ]

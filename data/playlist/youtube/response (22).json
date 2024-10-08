@@ -1,0 +1,1330 @@
+{
+  "kind": "youtube#playlistListResponse",
+  "etag": "z2LE43JChvWnD33Wa8sV2qeC0kU",
+  "pageInfo": {
+    "totalResults": 33,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "69OM-DNzMuTlhKChS_WPQpafwq8",
+      "id": "RDCLAK5uy_nwxGRHNyJa9Cf3jX2P5nRlumdirbKYRj8",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "OPM Covers",
+        "description": "Popular hits, covered by your favorite OPM artists",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nwxGRHNyJa9Cf3jX2P5nRlumdirbKYRj8/mqdefault.jpg?sqp=CMTalbgGir7X7AMICNyrkbgGEAE=&rs=AOn4CLBXVWofa99UpS2SBtAPno-xCzyN6w&v=1728337372",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nwxGRHNyJa9Cf3jX2P5nRlumdirbKYRj8/sddefault.jpg?sqp=CMTalbgGir7X7AMICNyrkbgGEAE=&rs=AOn4CLApyDKcuMaZVsDv74labpU4fWRoog&v=1728337372",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nwxGRHNyJa9Cf3jX2P5nRlumdirbKYRj8/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICNyrkbgGEAE=&rs=AOn4CLD_M0J08Rstwp5bZia3ZXbJ-t0vXQ&v=1728337372",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "OPM Covers",
+          "description": "Popular hits, covered by your favorite OPM artists"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 50
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "x9he1dmMdHmVna92RfDoKbFRrWc",
+      "id": "RDCLAK5uy_lfWPXgBrr5DskOiLPyVKWd_a-VAemomYc",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "OPM Bisaya",
+        "description": "Celebrating the best bisaya tracks",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lfWPXgBrr5DskOiLPyVKWd_a-VAemomYc/mqdefault.jpg?sqp=CMTalbgGir7X7AMICOKakbgGEAE=&rs=AOn4CLAx4bMS0tvAjnvzGv6cmyZRaPwpvQ&v=1728335202",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lfWPXgBrr5DskOiLPyVKWd_a-VAemomYc/sddefault.jpg?sqp=CMTalbgGir7X7AMICOKakbgGEAE=&rs=AOn4CLCmGqOxuOvMmamL5yl55Nx-FA74mA&v=1728335202",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lfWPXgBrr5DskOiLPyVKWd_a-VAemomYc/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICOKakbgGEAE=&rs=AOn4CLAIcdhQZqqHd-vb7bABzgStvCkysQ&v=1728335202",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "OPM Bisaya",
+          "description": "Celebrating the best bisaya tracks"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 50
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "efRWHPLWCWN9kn1XFe_gvolwXtI",
+      "id": "RDCLAK5uy_kvzSF-chVVpH1r55Frc3fuHXCyRc01sYg",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Relaxing 80s Rock",
+        "description": "Soft rock classics from some of the decade's biggest artists.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kvzSF-chVVpH1r55Frc3fuHXCyRc01sYg/mqdefault.jpg?sqp=CMTalbgGir7X7AMICPyRlbgGEAE=&rs=AOn4CLDXICQi1dIRNt3yAddGxgN3UEBokA&v=1728399612",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kvzSF-chVVpH1r55Frc3fuHXCyRc01sYg/sddefault.jpg?sqp=CMTalbgGir7X7AMICPyRlbgGEAE=&rs=AOn4CLAUWhUrvWBM8MaYUekEy7mQcOxPuA&v=1728399612",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kvzSF-chVVpH1r55Frc3fuHXCyRc01sYg/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICPyRlbgGEAE=&rs=AOn4CLBl468UjSKEqh-6rwd68Dt_p7uY2w&v=1728399612",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Relaxing 80s Rock",
+          "description": "Soft rock classics from some of the decade's biggest artists."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 85
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "iGgm9ZCgaJa_Aenn8996vTTGOfY",
+      "id": "RDCLAK5uy_l9zGPtwEeIpwVXtBZ216yRhklsre5bbOM",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "The Hits: '70s",
+        "description": "Listen to the biggest hits of the 1970s.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l9zGPtwEeIpwVXtBZ216yRhklsre5bbOM/mqdefault.jpg?sqp=CMTalbgGir7X7AMICP62kbgGEAE=&rs=AOn4CLAigW3ioQIDvBYRZkWUo6Bb_rndoQ&v=1728338814",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l9zGPtwEeIpwVXtBZ216yRhklsre5bbOM/sddefault.jpg?sqp=CMTalbgGir7X7AMICP62kbgGEAE=&rs=AOn4CLCHhiqQatrYfCkBlgwWDpQV0HnKsQ&v=1728338814",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l9zGPtwEeIpwVXtBZ216yRhklsre5bbOM/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICP62kbgGEAE=&rs=AOn4CLDNFVUjvP3Tg7CqMNdbYTViL3LNOg&v=1728338814",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "The Hits: '70s",
+          "description": "Listen to the biggest hits of the 1970s."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 148
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "YZclBmllZnt-Mz-GrNedHJ1byrs",
+      "id": "RDCLAK5uy_ne3DJMol0EVIfwcuZnx2hQak0q6EbeBlY",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Essential '90s R&B",
+        "description": "R&B defined American mainstream music throughout the '90s. Here are key tracks from R&B's most vital decade.\n#rnb #90s #essentials",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ne3DJMol0EVIfwcuZnx2hQak0q6EbeBlY/mqdefault.jpg?sqp=CMTalbgGir7X7AMICM-7krgGEAE=&rs=AOn4CLCqgseO9vIRRRv9Ze8VlPNMDf0Lbw&v=1728355791",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ne3DJMol0EVIfwcuZnx2hQak0q6EbeBlY/sddefault.jpg?sqp=CMTalbgGir7X7AMICM-7krgGEAE=&rs=AOn4CLAFXslUuNPTAJBXS-MBxGAyONhrfg&v=1728355791",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ne3DJMol0EVIfwcuZnx2hQak0q6EbeBlY/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICM-7krgGEAE=&rs=AOn4CLBeQCN0KS8adSw_E59sG1QByAU1Wg&v=1728355791",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Essential '90s R&B",
+          "description": "R&B defined American mainstream music throughout the '90s. Here are key tracks from R&B's most vital decade.\n#rnb #90s #essentials"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 129
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "21NJkdQwlb5yAPQOHOABjosBib4",
+      "id": "RDCLAK5uy_lCC0VtpY8hH9OFEFzaPBfwTsV6bK0f0yU",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Hip Hop Heartbreak",
+        "description": "Listen to these heartbroken hip hop hits while you ride the post-breakup roller-coaster of anger and sadness. ",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lCC0VtpY8hH9OFEFzaPBfwTsV6bK0f0yU/mqdefault.jpg?sqp=CMTalbgGir7X7AMICIKrkbgGEAE=&rs=AOn4CLDvx_Cz49MUn0NoxBK_2QRfmd2zew&v=1728337282",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lCC0VtpY8hH9OFEFzaPBfwTsV6bK0f0yU/sddefault.jpg?sqp=CMTalbgGir7X7AMICIKrkbgGEAE=&rs=AOn4CLAydZ7uZAbamwoUjDBTAnvh7lJUcw&v=1728337282",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lCC0VtpY8hH9OFEFzaPBfwTsV6bK0f0yU/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICIKrkbgGEAE=&rs=AOn4CLAMBRc19GuRcb8Pd_YoA8EeDWDgtA&v=1728337282",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Hip Hop Heartbreak",
+          "description": "Listen to these heartbroken hip hop hits while you ride the post-breakup roller-coaster of anger and sadness. "
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 56
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "4T5mqLifXfs3ezLPwRXqDULamGA",
+      "id": "RDCLAK5uy_kYUaBqUZxA0VpgN2xsHNUnVoLu8-JGXk8",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "OPM R&B Soul",
+        "description": "The best of OPM R&B/Soul",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kYUaBqUZxA0VpgN2xsHNUnVoLu8-JGXk8/mqdefault.jpg?sqp=CMTalbgGir7X7AMICLeDkbgGEAE=&rs=AOn4CLA7-40FnU2KNQBax1A1segYFWm96w&v=1728332215",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kYUaBqUZxA0VpgN2xsHNUnVoLu8-JGXk8/sddefault.jpg?sqp=CMTalbgGir7X7AMICLeDkbgGEAE=&rs=AOn4CLAlMr4_LPEw_W-tYDmiBtKQiQ35sQ&v=1728332215",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kYUaBqUZxA0VpgN2xsHNUnVoLu8-JGXk8/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICLeDkbgGEAE=&rs=AOn4CLA1kTZAc-pgRoefrW0i5qKEpz3YEg&v=1728332215",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "OPM R&B Soul",
+          "description": "The best of OPM R&B/Soul"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 50
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "EETS0HPqh5QngXmAfQ-x3UTaeKg",
+      "id": "RDCLAK5uy_nfcapwNXyxgmlPM0W1Eq84Ve4PZQvKNUw",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "70's OPM",
+        "description": "Original Pilipino Music hits of the 70s",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nfcapwNXyxgmlPM0W1Eq84Ve4PZQvKNUw/mqdefault.jpg?sqp=CMTalbgGir7X7AMICIv8k7gGEAE=&rs=AOn4CLBfRl6HN3CrBhZmF3pi9cNRpwBq5A&v=1728380427",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nfcapwNXyxgmlPM0W1Eq84Ve4PZQvKNUw/sddefault.jpg?sqp=CMTalbgGir7X7AMICIv8k7gGEAE=&rs=AOn4CLClJf0PrTLbId03yakVtsI7h2ZOmw&v=1728380427",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nfcapwNXyxgmlPM0W1Eq84Ve4PZQvKNUw/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICIv8k7gGEAE=&rs=AOn4CLCzKtnQ0c2XgwDjH7AUl-Vw8J7stw&v=1728380427",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "70's OPM",
+          "description": "Original Pilipino Music hits of the 70s"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 50
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "dJdHdCnjDTjrzAVo-z6WRcJBTaw",
+      "id": "RDCLAK5uy_nn3ClaRlEwjVWVBoO6NfW3AOtiKwwgiE8",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Iraqi Love Songs",
+        "description": "Best Love Iraqi songs",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nn3ClaRlEwjVWVBoO6NfW3AOtiKwwgiE8/mqdefault.jpg?sqp=CMTalbgGir7X7AMICIb-k7gGEAE=&rs=AOn4CLBXhly3zltm6pegIViBrwN5tCTqiQ&v=1728380678",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nn3ClaRlEwjVWVBoO6NfW3AOtiKwwgiE8/sddefault.jpg?sqp=CMTalbgGir7X7AMICIb-k7gGEAE=&rs=AOn4CLCsq1Kk-4PPc9dR98G4blp_JDg-6g&v=1728380678",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nn3ClaRlEwjVWVBoO6NfW3AOtiKwwgiE8/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICIb-k7gGEAE=&rs=AOn4CLC6HQ8h9sdYMFCHqkwsHW6afq5MkQ&v=1728380678",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Iraqi Love Songs",
+          "description": "Best Love Iraqi songs"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 100
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "tV2JIBzgwCVMzRL8sBwyYD1LhuA",
+      "id": "RDCLAK5uy_k9J5Gley3uvN5GYRbZPE2f94UTR7QbN0I",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Lovers Rock Classics",
+        "description": "British reggae for lovers, along with its romantic Jamaican predecessors. ",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k9J5Gley3uvN5GYRbZPE2f94UTR7QbN0I/mqdefault.jpg?sqp=CMTalbgGir7X7AMICICmkbgGEAE=&rs=AOn4CLC7LIWColG6P4lQ0jdqAzHfmMXJrw&v=1728336640",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k9J5Gley3uvN5GYRbZPE2f94UTR7QbN0I/sddefault.jpg?sqp=CMTalbgGir7X7AMICICmkbgGEAE=&rs=AOn4CLDogol_43Ze8683FefI_jhkkK15sQ&v=1728336640",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k9J5Gley3uvN5GYRbZPE2f94UTR7QbN0I/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICICmkbgGEAE=&rs=AOn4CLAg6q84P-d_E3NWmWWLz00JsF3JAg&v=1728336640",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Lovers Rock Classics",
+          "description": "British reggae for lovers, along with its romantic Jamaican predecessors. "
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 73
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "vSsMOmmbeSKu1TnKIXgujyOgq-8",
+      "id": "RDCLAK5uy_m10GLwo9xIr38bNfeX1Khlh9_tTlg2EZ8",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "'80s Slow Jams",
+        "description": "Move closer and get ready for some action with these smooth and seductive R&B tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m10GLwo9xIr38bNfeX1Khlh9_tTlg2EZ8/mqdefault.jpg?sqp=CMTalbgGir7X7AMICPe1k7gGEAE=&rs=AOn4CLC4yupO_xYciGEoi2CIzbFi1cibBw&v=1728371447",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m10GLwo9xIr38bNfeX1Khlh9_tTlg2EZ8/sddefault.jpg?sqp=CMTalbgGir7X7AMICPe1k7gGEAE=&rs=AOn4CLDB26NuyhWgPSaxYFf2wPm3Vru0DQ&v=1728371447",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m10GLwo9xIr38bNfeX1Khlh9_tTlg2EZ8/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICPe1k7gGEAE=&rs=AOn4CLAlaCY8nt5EzrY5_N71N2Nxx9FE7A&v=1728371447",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "'80s Slow Jams",
+          "description": "Move closer and get ready for some action with these smooth and seductive R&B tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 55
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "6MmNy5lorqXx8Eh3jt8uAkIs2M8",
+      "id": "RDCLAK5uy_nZiG9ehz_MQoWQxY5yElsLHCcG0tv9PRg",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Classic Rock's Greatest Hits",
+        "description": "Essential hits from the classic rock era, featuring long hair, big solos and singers who graduated from frontman school with honors! ",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nZiG9ehz_MQoWQxY5yElsLHCcG0tv9PRg/mqdefault.jpg?sqp=CMTalbgGir7X7AMICJ-ZlbgGEAE=&rs=AOn4CLA47nL4KIvNsDBsEz-eH5Dj5908wg&v=1728400543",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nZiG9ehz_MQoWQxY5yElsLHCcG0tv9PRg/sddefault.jpg?sqp=CMTalbgGir7X7AMICJ-ZlbgGEAE=&rs=AOn4CLASXswONqn7A_Dr2Q2rUtKM45z-1A&v=1728400543",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nZiG9ehz_MQoWQxY5yElsLHCcG0tv9PRg/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICJ-ZlbgGEAE=&rs=AOn4CLCKgQ2ammw02O18w6CUpydORgvvsg&v=1728400543",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Classic Rock's Greatest Hits",
+          "description": "Essential hits from the classic rock era, featuring long hair, big solos and singers who graduated from frontman school with honors! "
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 117
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "vnyZ10ndrWm8bkYgqE50Co7MOCs",
+      "id": "RDCLAK5uy_noue4s9rsIYdEi4B0SlmW-UAmxLFdExPQ",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Khaleeji Love Songs",
+        "description": "A collection of the very best Khaleeji love songs",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_noue4s9rsIYdEi4B0SlmW-UAmxLFdExPQ/mqdefault.jpg?sqp=CMTalbgGir7X7AMICN_hk7gGEAE=&rs=AOn4CLAUyx5AFpveyWRas6kXB3KBv7O_kw&v=1728377055",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_noue4s9rsIYdEi4B0SlmW-UAmxLFdExPQ/sddefault.jpg?sqp=CMTalbgGir7X7AMICN_hk7gGEAE=&rs=AOn4CLDyIqzrC_Uu37HrTUZ8XYzxh078Ng&v=1728377055",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_noue4s9rsIYdEi4B0SlmW-UAmxLFdExPQ/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICN_hk7gGEAE=&rs=AOn4CLDzHm2oC9XaWRN0JHe6YwylA62MEQ&v=1728377055",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Khaleeji Love Songs",
+          "description": "A collection of the very best Khaleeji love songs"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 79
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "138Ifno2KYdOy8KIIx3lVEOOvcY",
+      "id": "RDCLAK5uy_neriXH6JbZPr7Pf4LOi5bGQP-_lWRZXs4",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Cozy Jazz",
+        "description": "Wrap yourself up warm in this blanket of instrumental jazz certain to soothe the soul and set a calm and comfy mood. ",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_neriXH6JbZPr7Pf4LOi5bGQP-_lWRZXs4/mqdefault.jpg?sqp=CMTalbgGir7X7AMICLPClLgGEAE=&rs=AOn4CLB_-2djZP00Qa-nJQWi8gi9uNy_pw&v=1728389427",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_neriXH6JbZPr7Pf4LOi5bGQP-_lWRZXs4/sddefault.jpg?sqp=CMTalbgGir7X7AMICLPClLgGEAE=&rs=AOn4CLDMv_7v2Fc8zS9DWuKRdGWQuELnCg&v=1728389427",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_neriXH6JbZPr7Pf4LOi5bGQP-_lWRZXs4/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICLPClLgGEAE=&rs=AOn4CLCPiZAtgwjAdrn7PkXQTl_xPAfYGQ&v=1728389427",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Cozy Jazz",
+          "description": "Wrap yourself up warm in this blanket of instrumental jazz certain to soothe the soul and set a calm and comfy mood. "
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 53
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "dYq-gVFpLpZoulG_j2KiX_nEV7Q",
+      "id": "RDCLAK5uy_k10o4frwJe34fvAdV3qcBqxr4Kx-s_sFA",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Love Out Loud Naija\n",
+        "description": "Listen to some of African most streamed Love songs ",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k10o4frwJe34fvAdV3qcBqxr4Kx-s_sFA/mqdefault.jpg?sqp=CMTalbgGir7X7AMICKrYkLgGEAE=&rs=AOn4CLAlX38wSAsUEavoU0TKpu5qiwwaCQ&v=1728326698",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k10o4frwJe34fvAdV3qcBqxr4Kx-s_sFA/sddefault.jpg?sqp=CMTalbgGir7X7AMICKrYkLgGEAE=&rs=AOn4CLCqGVtLChOGaDrsnMbnEcusQukz1A&v=1728326698",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k10o4frwJe34fvAdV3qcBqxr4Kx-s_sFA/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICKrYkLgGEAE=&rs=AOn4CLAwNSi2HOyVbAMBU6QF5njTiHtdJg&v=1728326698",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Love Out Loud Naija\n",
+          "description": "Listen to some of African most streamed Love songs "
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 73
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "p8iJHiIFe_aawFzXIwWWMhJPc8Y",
+      "id": "RDCLAK5uy_lh-nhVB6RoYXshpB7z4eUKkEAdQ0bk97E",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Love Is Love Songs",
+        "description": "Celebrate love across the spectrum. ",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lh-nhVB6RoYXshpB7z4eUKkEAdQ0bk97E/mqdefault.jpg?sqp=CMTalbgGir7X7AMICJqDlbgGEAE=&rs=AOn4CLD28d9ek8bTDRbK8kf_2yfe2DH2MA&v=1728397722",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lh-nhVB6RoYXshpB7z4eUKkEAdQ0bk97E/sddefault.jpg?sqp=CMTalbgGir7X7AMICJqDlbgGEAE=&rs=AOn4CLC7bmGt_m8CUE8hm22xJILb_3hVIg&v=1728397722",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lh-nhVB6RoYXshpB7z4eUKkEAdQ0bk97E/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICJqDlbgGEAE=&rs=AOn4CLCwSotv76aBc4dEDHh-cZcHxNTM4w&v=1728397722",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Love Is Love Songs",
+          "description": "Celebrate love across the spectrum. "
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 86
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "hERRIevLILlbeXc1y3TuDebmT6E",
+      "id": "RDCLAK5uy_legzBwc-1CVVWXeVLP33uP3aH_nfE_nqQ",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Oldies Out Loud",
+        "description": "If you ain't too proud to sing, then belt along to these iconic songs from the '50s, '60s and '70s. #60s #70s #singalong",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_legzBwc-1CVVWXeVLP33uP3aH_nfE_nqQ/mqdefault.jpg?sqp=CMTalbgGir7X7AMICNabkrgGEAE=&rs=AOn4CLBUr-rcG6wW_l6fRc608pQBDl9y8w&v=1728351702",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_legzBwc-1CVVWXeVLP33uP3aH_nfE_nqQ/sddefault.jpg?sqp=CMTalbgGir7X7AMICNabkrgGEAE=&rs=AOn4CLDIohWpzyjSsTu8hrTvOLkPEEsZ1w&v=1728351702",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_legzBwc-1CVVWXeVLP33uP3aH_nfE_nqQ/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICNabkrgGEAE=&rs=AOn4CLC5quRmPhfuA5AbqG0L_7BZn2m31Q&v=1728351702",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Oldies Out Loud",
+          "description": "If you ain't too proud to sing, then belt along to these iconic songs from the '50s, '60s and '70s. #60s #70s #singalong"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 74
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "rYqz5OsTLp9LcQhcpuXNSvbGWps",
+      "id": "RDCLAK5uy_lQi-t2mN-swhdhGPOg4h4Zw-P5KzdwUSM",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "'90s R&B",
+        "description": "Kick it with these laidback hits from the turn of the century.\n#rnb #90s #chill",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lQi-t2mN-swhdhGPOg4h4Zw-P5KzdwUSM/mqdefault.jpg?sqp=CMTalbgGir7X7AMICKu8k7gGEAE=&rs=AOn4CLDimHeXCOBGDIVVTZDOK1xPzCitog&v=1728372267",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lQi-t2mN-swhdhGPOg4h4Zw-P5KzdwUSM/sddefault.jpg?sqp=CMTalbgGir7X7AMICKu8k7gGEAE=&rs=AOn4CLDrXfeFtiCPYJ4uJ8-dkn0OiFZCcA&v=1728372267",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lQi-t2mN-swhdhGPOg4h4Zw-P5KzdwUSM/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICKu8k7gGEAE=&rs=AOn4CLCwaeVOyT0ESfb2YizGpSnddfYzwA&v=1728372267",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "'90s R&B",
+          "description": "Kick it with these laidback hits from the turn of the century.\n#rnb #90s #chill"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 83
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "m1JwS1rXk5rEUnc5dynoH6YIIP4",
+      "id": "RDCLAK5uy_lbfDqlFOiRJekoTwNgiES65gcham4ZelA",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Make Out Jams: Bollywood",
+        "description": "Sensual and intense, this is a playlist with one thing on its mind. Don't fight it, feel it. #hindi #lovesongs #sexy",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lbfDqlFOiRJekoTwNgiES65gcham4ZelA/mqdefault.jpg?sqp=CMTalbgGir7X7AMICMjMlbgGEAE=&rs=AOn4CLAiBGRS42h5YIt6ise9CI9S8opDjg&v=1728407112",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lbfDqlFOiRJekoTwNgiES65gcham4ZelA/sddefault.jpg?sqp=CMTalbgGir7X7AMICMjMlbgGEAE=&rs=AOn4CLDD1iKPZpsFTPbVzeX8tIllbo0PRg&v=1728407112",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lbfDqlFOiRJekoTwNgiES65gcham4ZelA/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICMjMlbgGEAE=&rs=AOn4CLAQ5lP9XNzrDAtKF104gvHlweeC9Q&v=1728407112",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Make Out Jams: Bollywood",
+          "description": "Sensual and intense, this is a playlist with one thing on its mind. Don't fight it, feel it. #hindi #lovesongs #sexy"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 70
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "6rb0g3lVh8oA0r0ae2iLAszNOpA",
+      "id": "RDCLAK5uy_lVybQKoNOO4cg5U3fNG2v7RLRbE4rltJM",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting S. P. Balasubrahmanyam (Tamil)",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lVybQKoNOO4cg5U3fNG2v7RLRbE4rltJM/mqdefault.jpg?sqp=CMTalbgGir7X7AMICOitlbgGEAE=&rs=AOn4CLBw0yz-tdWDnn3rt7WRUuTDFveKrw&v=1728403176",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lVybQKoNOO4cg5U3fNG2v7RLRbE4rltJM/sddefault.jpg?sqp=CMTalbgGir7X7AMICOitlbgGEAE=&rs=AOn4CLAfv0iJ0VU5j_5eB395_l9hABNKaw&v=1728403176",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lVybQKoNOO4cg5U3fNG2v7RLRbE4rltJM/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICOitlbgGEAE=&rs=AOn4CLAElU2K_xrWYcDehmNGA9UTTJygZQ&v=1728403176",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting S. P. Balasubrahmanyam (Tamil)",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 51
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "oT5-JqS9U4KEnQrCmOLVC4iaKDs",
+      "id": "RDCLAK5uy_nKfNEHo6Yu1lao4pamzirHgatT0liBhzY",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Feelin' Good in the '80s ",
+        "description": "Recapture the carefree feeling of the 80s with a mix of irresistible pop hits, from R&B sing-alongs to neon-tinted new wave.\n#pop #80s #uplifting",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nKfNEHo6Yu1lao4pamzirHgatT0liBhzY/mqdefault.jpg?sqp=CMTalbgGir7X7AMICKbHlLgGEAE=&rs=AOn4CLCyQa6RpRPulzlMqlPFiCAiFGO_ug&v=1728390054",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nKfNEHo6Yu1lao4pamzirHgatT0liBhzY/sddefault.jpg?sqp=CMTalbgGir7X7AMICKbHlLgGEAE=&rs=AOn4CLDw5l0yahzoVbJcuAkGdsGTjsbahQ&v=1728390054",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nKfNEHo6Yu1lao4pamzirHgatT0liBhzY/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICKbHlLgGEAE=&rs=AOn4CLAe47OxYzjxnmlE6oPiayW5sE4KHg&v=1728390054",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Feelin' Good in the '80s ",
+          "description": "Recapture the carefree feeling of the 80s with a mix of irresistible pop hits, from R&B sing-alongs to neon-tinted new wave.\n#pop #80s #uplifting"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 140
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "o82UeRjn6pzwBZlGEFjB9YtuwDc",
+      "id": "RDCLAK5uy_mUa11Ovw8K63TZiOfDHoLhTYBKNKmBmlU",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Queens of Country",
+        "description": "Country's greatest females from the legends to today. Feat. Lainey Wilson. #country #hits #essentials",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mUa11Ovw8K63TZiOfDHoLhTYBKNKmBmlU/mqdefault.jpg?sqp=CMTalbgGir7X7AMICIbIkLgGEAE=&rs=AOn4CLCgVOuyW3teBtaMmGTDDw5xNiTgKg&v=1728324614",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mUa11Ovw8K63TZiOfDHoLhTYBKNKmBmlU/sddefault.jpg?sqp=CMTalbgGir7X7AMICIbIkLgGEAE=&rs=AOn4CLBU3CCv3sb1eLx6gq6XOEzYHnhRCQ&v=1728324614",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mUa11Ovw8K63TZiOfDHoLhTYBKNKmBmlU/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICIbIkLgGEAE=&rs=AOn4CLDsyOojZN2lbULPCPs3eXQY_zqOcg&v=1728324614",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Queens of Country",
+          "description": "Country's greatest females from the legends to today. Feat. Lainey Wilson. #country #hits #essentials"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 95
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "_r9VgEx2ACIoewlMuCnyxwQC1e0",
+      "id": "RDCLAK5uy_n0DLicJtIDicVV_PIuGAcnoKqJ8PLTT_4",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Sid Sriram (Telugu)",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n0DLicJtIDicVV_PIuGAcnoKqJ8PLTT_4/mqdefault.jpg?sqp=CMTalbgGir7X7AMICMSskbgGEAE=&rs=AOn4CLBFxwrSXBtrjlmhyltmhe1qARZrTA&v=1728337476",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n0DLicJtIDicVV_PIuGAcnoKqJ8PLTT_4/sddefault.jpg?sqp=CMTalbgGir7X7AMICMSskbgGEAE=&rs=AOn4CLAqnCHx7CascUJ7ZpK6fQ5TxLDRoQ&v=1728337476",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_n0DLicJtIDicVV_PIuGAcnoKqJ8PLTT_4/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICMSskbgGEAE=&rs=AOn4CLBahea_GZxsHnEwXz6KRYsg6PbmAA&v=1728337476",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Sid Sriram (Telugu)",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 51
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "iRVL4q76y-I4Pp2jG0T1axh5ddo",
+      "id": "RDCLAK5uy_kVfoKrYSsJaHx3SLO8mp3WYuRHMrS8U_Q",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Classic Country",
+        "description": "From outlaw adventures to tales of romantic woe, these vintage country tunes each have their own story to tell.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kVfoKrYSsJaHx3SLO8mp3WYuRHMrS8U_Q/mqdefault.jpg?sqp=CMTalbgGir7X7AMICJqRkbgGEAE=&rs=AOn4CLAXZyra0WHKOUZ85GlyABb6xX-ftA&v=1728333978",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kVfoKrYSsJaHx3SLO8mp3WYuRHMrS8U_Q/sddefault.jpg?sqp=CMTalbgGir7X7AMICJqRkbgGEAE=&rs=AOn4CLAPUk7QZ7_6UEAWj7HfQz4OeD2-rg&v=1728333978",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kVfoKrYSsJaHx3SLO8mp3WYuRHMrS8U_Q/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICJqRkbgGEAE=&rs=AOn4CLCqCduKW3KqtJogRCBPL7ppUaQH-g&v=1728333978",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Classic Country",
+          "description": "From outlaw adventures to tales of romantic woe, these vintage country tunes each have their own story to tell."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 101
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "pgN-zZz8q9MQSMUM3ydxA_GJWZw",
+      "id": "RDCLAK5uy_mVvnZOzJPD1C1SqIu44Hwl9AT00fafKNs",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Deep House Pure",
+        "description": "Lose yourself in this mix of Deep House. #deephouse #focus #daydreaming #ytmdance",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mVvnZOzJPD1C1SqIu44Hwl9AT00fafKNs/mqdefault.jpg?sqp=CMTalbgGir7X7AMICN29krgGEAE=&rs=AOn4CLAqM3uR8DnWzSoHfPu_2CdldngUOg&v=1728356061",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mVvnZOzJPD1C1SqIu44Hwl9AT00fafKNs/sddefault.jpg?sqp=CMTalbgGir7X7AMICN29krgGEAE=&rs=AOn4CLCForH6tV6U62lT-edy-i27rFhwAQ&v=1728356061",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mVvnZOzJPD1C1SqIu44Hwl9AT00fafKNs/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICN29krgGEAE=&rs=AOn4CLCePpGWDdAoET6_pkdtKvQMEB4sfg&v=1728356061",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Deep House Pure",
+          "description": "Lose yourself in this mix of Deep House. #deephouse #focus #daydreaming #ytmdance"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 88
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "e7I6mYXFwm9hkD2ZPv8DNAKBiog",
+      "id": "RDCLAK5uy_nuY_aSD4OulU_xHjrn_PCtwIIJ0hFD-ec",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Marathi Essentials ",
+        "description": "Top 25 of biggest and the hottest Marathi hits from the decade.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nuY_aSD4OulU_xHjrn_PCtwIIJ0hFD-ec/mqdefault.jpg?sqp=CMTalbgGir7X7AMICJbqkbgGEAE=&rs=AOn4CLBObCrl30MSFVdJk3id4R5D2_dS6g&v=1728345366",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nuY_aSD4OulU_xHjrn_PCtwIIJ0hFD-ec/sddefault.jpg?sqp=CMTalbgGir7X7AMICJbqkbgGEAE=&rs=AOn4CLDg2NCIUQKjRzg92RUUR-p4nZWu-A&v=1728345366",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nuY_aSD4OulU_xHjrn_PCtwIIJ0hFD-ec/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICJbqkbgGEAE=&rs=AOn4CLDiuhpkOaC-6EKpwgDlqrfYKO_xyA&v=1728345366",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Marathi Essentials ",
+          "description": "Top 25 of biggest and the hottest Marathi hits from the decade."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 25
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "9lBb4SEJdz4biATGaGVi4UrOnZw",
+      "id": "RDCLAK5uy_kbN8FIUVsK_JmyaVGsJYGFskQ-PVSz9dc",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "OPM Romance",
+        "description": "The best of OPM love songs",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kbN8FIUVsK_JmyaVGsJYGFskQ-PVSz9dc/mqdefault.jpg?sqp=CMTalbgGir7X7AMICO6ClbgGEAE=&rs=AOn4CLDD3OTiA0VbChOGElICVOmqAaM9qw&v=1728397678",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kbN8FIUVsK_JmyaVGsJYGFskQ-PVSz9dc/sddefault.jpg?sqp=CMTalbgGir7X7AMICO6ClbgGEAE=&rs=AOn4CLBy0Ea6OMnAtPh-UPCyGJ0ZSifTcA&v=1728397678",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kbN8FIUVsK_JmyaVGsJYGFskQ-PVSz9dc/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICO6ClbgGEAE=&rs=AOn4CLCJOcb5Rw8_RnJX6bPqGrES0UeeQA&v=1728397678",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "OPM Romance",
+          "description": "The best of OPM love songs"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 80
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "R0JSGuEjvD3z0WqvveOZvMlxqY8",
+      "id": "RDCLAK5uy_kAqVaeMz7k8buf7D1AVDXlCHJ1ukZmnUY",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting LOVE PSYCHEDELICO",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kAqVaeMz7k8buf7D1AVDXlCHJ1ukZmnUY/mqdefault.jpg?sqp=CMTalbgGir7X7AMICJfbkbgGEAE=&rs=AOn4CLB21Bn8zpmBLZmytWktO6Hqt5Q--w&v=1728343447",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kAqVaeMz7k8buf7D1AVDXlCHJ1ukZmnUY/sddefault.jpg?sqp=CMTalbgGir7X7AMICJfbkbgGEAE=&rs=AOn4CLCDonl5MQgFMR7h8WXtZiH8Uj0fjg&v=1728343447",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kAqVaeMz7k8buf7D1AVDXlCHJ1ukZmnUY/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICJfbkbgGEAE=&rs=AOn4CLBCMI0qE9GnG_cuiS0i6IGNe5ZYIQ&v=1728343447",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting LOVE PSYCHEDELICO",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 22
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "b-gkuGDpX5l7-Zj4tPCKIwqXU0Y",
+      "id": "RDCLAK5uy_mgVILQJR6PIbFvXyYCjmwbSVxmgaVTELI",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Disco Inferno",
+        "description": "Up-tempo funk grooves, danceable R&B, soul, and deep DJ cuts of the ‘70s and early '80s. ",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mgVILQJR6PIbFvXyYCjmwbSVxmgaVTELI/mqdefault.jpg?sqp=CMTalbgGir7X7AMICKaVkbgGEAE=&rs=AOn4CLCNHnGHOte4Hs9cOR6tGQLfEpGMPg&v=1728334502",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mgVILQJR6PIbFvXyYCjmwbSVxmgaVTELI/sddefault.jpg?sqp=CMTalbgGir7X7AMICKaVkbgGEAE=&rs=AOn4CLDgo2kPv0M3gx80bmJ0rn10xLLA3A&v=1728334502",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mgVILQJR6PIbFvXyYCjmwbSVxmgaVTELI/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICKaVkbgGEAE=&rs=AOn4CLDEJBBJ29mbVYsglfXpkOBAtcr1rA&v=1728334502",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Disco Inferno",
+          "description": "Up-tempo funk grooves, danceable R&B, soul, and deep DJ cuts of the ‘70s and early '80s. "
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 83
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "DHdlDQb4ptDxSKOVGyzCcfFEbc8",
+      "id": "RDCLAK5uy_lpcenrGYN3AxC3juoc-ZJIBeCX6EgC7dc",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Indie Lovers Mixtape",
+        "description": "A selection of the dreamiest and most romantic indie love songs.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lpcenrGYN3AxC3juoc-ZJIBeCX6EgC7dc/mqdefault.jpg?sqp=CMTalbgGir7X7AMICP6GkbgGEAE=&rs=AOn4CLBC7XCNgjRezGz-0Dv_JRf0ITkkGg&v=1728332670",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lpcenrGYN3AxC3juoc-ZJIBeCX6EgC7dc/sddefault.jpg?sqp=CMTalbgGir7X7AMICP6GkbgGEAE=&rs=AOn4CLBGBpL2H628-OCZrLX_Hc_Q2gbrkg&v=1728332670",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lpcenrGYN3AxC3juoc-ZJIBeCX6EgC7dc/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICP6GkbgGEAE=&rs=AOn4CLC9bqnWxroyr3gAfyqd7FaUEC8-oA&v=1728332670",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Indie Lovers Mixtape",
+          "description": "A selection of the dreamiest and most romantic indie love songs."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 60
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "XzRpnBNeP3WAKhaEjk8hHKWgdiE",
+      "id": "RDCLAK5uy_msVFyHPekZw6YS4R9Zn95xbkj89QKRbH0",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "OPM Grind",
+        "description": "Have a stress-free commute with only these OPM tracks",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_msVFyHPekZw6YS4R9Zn95xbkj89QKRbH0/mqdefault.jpg?sqp=CMTalbgGir7X7AMICOO1kbgGEAE=&rs=AOn4CLC4lLNd6F2yz1jS8QNPvRALClHuUQ&v=1728338659",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_msVFyHPekZw6YS4R9Zn95xbkj89QKRbH0/sddefault.jpg?sqp=CMTalbgGir7X7AMICOO1kbgGEAE=&rs=AOn4CLDuhyk6RXs1X1mE5uIjlDT4hKEF5Q&v=1728338659",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_msVFyHPekZw6YS4R9Zn95xbkj89QKRbH0/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICOO1kbgGEAE=&rs=AOn4CLB_f6TmIKcjEjx3dsMK7571EM5iJw&v=1728338659",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "OPM Grind",
+          "description": "Have a stress-free commute with only these OPM tracks"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 50
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "wQs70jb5lAqZdVojgx3yW14-Kio",
+      "id": "RDCLAK5uy_l70bSMa3aOX5oPp8j7Of_22VHbSDRGyYE",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "00's OPM",
+        "description": "Original Pilipino Music hits of the 00s",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l70bSMa3aOX5oPp8j7Of_22VHbSDRGyYE/mqdefault.jpg?sqp=CMTalbgGir7X7AMICNHYk7gGEAE=&rs=AOn4CLDjkhTGzgEe-NxCWQXZ6ZdAtp4z5g&v=1728375889",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l70bSMa3aOX5oPp8j7Of_22VHbSDRGyYE/sddefault.jpg?sqp=CMTalbgGir7X7AMICNHYk7gGEAE=&rs=AOn4CLC51ce2JDSgoaQ_lvjoJ1VFxsI3Hw&v=1728375889",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l70bSMa3aOX5oPp8j7Of_22VHbSDRGyYE/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICNHYk7gGEAE=&rs=AOn4CLDoHOEt4PGwCRlMGKjEhSvKHrs1Mg&v=1728375889",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "00's OPM",
+          "description": "Original Pilipino Music hits of the 00s"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 60
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "vovGk_um3QQZKw61BxVHsVkBchk",
+      "id": "RDCLAK5uy_nPK3d_PlINBV53x96IF4zsw6IQ1qHbMq8",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting S. P. Balasubrahmanyam (Telugu)",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nPK3d_PlINBV53x96IF4zsw6IQ1qHbMq8/mqdefault.jpg?sqp=CMTalbgGir7X7AMICJnGkLgGEAE=&rs=AOn4CLCrxvFbbk2Ig8hiP8wrvdqd1tuT9g&v=1728324377",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nPK3d_PlINBV53x96IF4zsw6IQ1qHbMq8/sddefault.jpg?sqp=CMTalbgGir7X7AMICJnGkLgGEAE=&rs=AOn4CLCCXJ2EVcp6SaqripzKa9ovlL383Q&v=1728324377",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nPK3d_PlINBV53x96IF4zsw6IQ1qHbMq8/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICJnGkLgGEAE=&rs=AOn4CLBrBLHP58R7U80nyJ2DAc9_LYXjgw&v=1728324377",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting S. P. Balasubrahmanyam (Telugu)",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 55
+      }
+    }
+  ]
+}

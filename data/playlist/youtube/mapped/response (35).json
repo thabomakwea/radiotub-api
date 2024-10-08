@@ -1,0 +1,964 @@
+{
+    "kind": "youtube#playlistListResponse",
+    "etag": "xTN0vB09Oi06nPUq1gRfnkDPBLM",
+    "pageInfo": {
+        "totalResults": 18,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#playlist",
+            "etag": "qcXFatUeDi-0zzpNvJ3d3U2Rfzg",
+            "id": "RDCLAK5uy_mxtFfheklLrGa6G273CV86EhAG9yZiElc",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Dip It Low: '00s R&B Party",
+                "description": "The most iconic R&B floor-fillers from the 2000s. Louboutins and Air Jordans are optional. #rnb #00s #party",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mxtFfheklLrGa6G273CV86EhAG9yZiElc/mqdefault.jpg?sqp=CJzflbgGir7X7AMICMyLlLgGEAE=&rs=AOn4CLBYCbI8QIjKt3EBIxF_cNQlUq3PGA&v=1728382412",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mxtFfheklLrGa6G273CV86EhAG9yZiElc/sddefault.jpg?sqp=CJzflbgGir7X7AMICMyLlLgGEAE=&rs=AOn4CLA8-nSaTOiGWTOqsmW32CYZSoWrCQ&v=1728382412",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mxtFfheklLrGa6G273CV86EhAG9yZiElc/maxresdefault.jpg?sqp=CJzflbgGir7X7AMICMyLlLgGEAE=&rs=AOn4CLCsYRP-01l7BO7wKPs8w0xi6dKagw&v=1728382412",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Dip It Low: '00s R&B Party",
+                    "description": "The most iconic R&B floor-fillers from the 2000s. Louboutins and Air Jordans are optional. #rnb #00s #party"
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/4OjPfrk3z7AHhH5VRiXV0RtTStfnG3uhERSoDwlNH3rPCafxhtiAQ4iEu3q9jW5bHgmBluNyFVclrSU=w544-h544-l90-rj"
+                },
+                "category_1": "Party",
+                "category_2": "Iconic",
+                "category_3": "RnB",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 69
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "wR3sCkf2Mfd17jfL1K6vEkVz3WI",
+            "id": "RDCLAK5uy_kYUaBqUZxA0VpgN2xsHNUnVoLu8-JGXk8",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "OPM R&B Soul",
+                "description": "The best of OPM R&B/Soul",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kYUaBqUZxA0VpgN2xsHNUnVoLu8-JGXk8/mqdefault.jpg?sqp=CJzflbgGir7X7AMICLeDkbgGEAE=&rs=AOn4CLDkYz6bxjUu0l5gaOYeU0aqAD2XBg&v=1728332215",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kYUaBqUZxA0VpgN2xsHNUnVoLu8-JGXk8/sddefault.jpg?sqp=CJzflbgGir7X7AMICLeDkbgGEAE=&rs=AOn4CLBZ40DOc9arp1sMc4Rz1tbqTpSaSg&v=1728332215",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kYUaBqUZxA0VpgN2xsHNUnVoLu8-JGXk8/maxresdefault.jpg?sqp=CJzflbgGir7X7AMICLeDkbgGEAE=&rs=AOn4CLAGKecH83uHFlxb039rOGcww8al7Q&v=1728332215",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "OPM R&B Soul",
+                    "description": "The best of OPM R&B/Soul"
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/X7BYMEB58JNoVXAun46GlOP9AyxrBq1f0qKzER8AaevJFk4VfVg7ntDcnLx3SsTVQ1WKf4-WDLrVato=w544-h544-l90-rj"
+                },
+                "category_1": "Soul",
+                "category_2": "Best",
+                "category_3": "",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 50
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "1H8jGhfyOEKHSdmlUWpBGlweHBM",
+            "id": "RDCLAK5uy_kwJTdGJj4KpaItCZogif_xkH69VyeERKw",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "R&B Party",
+                "description": "Get bodies moving with this always-updated playlist of R&B floor-fillers. #rnb #party #hits",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kwJTdGJj4KpaItCZogif_xkH69VyeERKw/mqdefault.jpg?sqp=CJzflbgGir7X7AMICJWRkbgGEAE=&rs=AOn4CLBpSWRLTY5gQ4xVov6atxDFxfIleg&v=1728333973",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kwJTdGJj4KpaItCZogif_xkH69VyeERKw/sddefault.jpg?sqp=CJzflbgGir7X7AMICJWRkbgGEAE=&rs=AOn4CLA2hY_lo3zvnrpVy2Pc7j2nwaRovg&v=1728333973",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kwJTdGJj4KpaItCZogif_xkH69VyeERKw/maxresdefault.jpg?sqp=CJzflbgGir7X7AMICJWRkbgGEAE=&rs=AOn4CLDywC97lFXPkku0tF_XhHq1Iyy-3w&v=1728333973",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "R&B Party",
+                    "description": "Get bodies moving with this always-updated playlist of R&B floor-fillers. #rnb #party #hits"
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/WJAy3c2_qkMer4uz-zET32NCfj76fFeOIbqPzOOigXdV8V6SS7RnPz45pqh4bP5DY_c3ni8sZLUZKZo=w544-h544-l90-rj"
+                },
+                "category_1": "Party",
+                "category_2": "Playlist",
+                "category_3": "RnB",
+                "category_4": "Hits",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 108
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "2ZqPuDEJL53gR3ze4NCjuW-K5Q0",
+            "id": "RDCLAK5uy_kycx4KP0Kj3BcUEZN4RDhGEjUce2UPqEc",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "'00s R&B Chill",
+                "description": "Kick back with this collection of smooth, soulful hits from the beginning of the millennium.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kycx4KP0Kj3BcUEZN4RDhGEjUce2UPqEc/mqdefault.jpg?sqp=CJzflbgGir7X7AMICJK_kLgGEAE=&rs=AOn4CLCnQYr0KSKgVl0IfEj6GT12gyCWgA&v=1728323474",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kycx4KP0Kj3BcUEZN4RDhGEjUce2UPqEc/sddefault.jpg?sqp=CJzflbgGir7X7AMICJK_kLgGEAE=&rs=AOn4CLB3VoET1Whd-cWAzEw98BROiyayxg&v=1728323474",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kycx4KP0Kj3BcUEZN4RDhGEjUce2UPqEc/maxresdefault.jpg?sqp=CJzflbgGir7X7AMICJK_kLgGEAE=&rs=AOn4CLAiaCp3lAPpc0_LBEKiDUEmo8uD6A&v=1728323474",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "'00s R&B Chill",
+                    "description": "Kick back with this collection of smooth, soulful hits from the beginning of the millennium."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/_J1noSx0tDLxlG3dZMu_wh_ABau1Hx-0gXfpuCU2CLNxkHOP-sv0KewAx4W2rEkUYiG03VJvagqjav-R=w544-h544-l90-rj"
+                },
+                "category_1": "Chill",
+                "category_2": "Collection",
+                "category_3": "Smooth",
+                "category_4": "Soul",
+                "category_5": "Soulful",
+                "category_6": "Hits",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 77
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "dRkUjfK_7xKWKeePP3HRIJN20_U",
+            "id": "RDCLAK5uy_lGEZwG4gR8OEKC55Ofj-bLT0IDkr8b6BY",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "'60s R&B + Soul ",
+                "description": "In the 1960s, gospel music met secular lyrics describing the black experience in America, and soul music was born. '60s soul singers demanded respect, begged for love, and told it like it was, changing popular music forever.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lGEZwG4gR8OEKC55Ofj-bLT0IDkr8b6BY/mqdefault.jpg?sqp=CJzflbgGir7X7AMICKfdk7gGEAE=&rs=AOn4CLCPRe5FS8tf7uHP5wpK3VEQsQDmFg&v=1728376487",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lGEZwG4gR8OEKC55Ofj-bLT0IDkr8b6BY/sddefault.jpg?sqp=CJzflbgGir7X7AMICKfdk7gGEAE=&rs=AOn4CLCQMoN5SHJGicOXnVe3ZaNJ_A6aNQ&v=1728376487",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lGEZwG4gR8OEKC55Ofj-bLT0IDkr8b6BY/maxresdefault.jpg?sqp=CJzflbgGir7X7AMICKfdk7gGEAE=&rs=AOn4CLACseKOLzyu95bWqiltT0hM37FyuQ&v=1728376487",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "'60s R&B + Soul ",
+                    "description": "In the 1960s, gospel music met secular lyrics describing the black experience in America, and soul music was born. '60s soul singers demanded respect, begged for love, and told it like it was, changing popular music forever."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/SQGAYV8D4Le_x3DsnrTvEsYVOW2lGb0Y4JJoBmiIVz78qVvdO8guW3OI-PJzlMDvsani5ySTkePYwA=w544-h544-l90-rj"
+                },
+                "category_1": "Soul",
+                "category_2": "Gospel",
+                "category_3": "Music",
+                "category_4": "Lyrics",
+                "category_5": "Singers",
+                "category_6": "Love",
+                "category_7": "Pop",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 119
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "vL4cJ-rOVK4sYeBC1wL15zBQyKc",
+            "id": "RDCLAK5uy_kT-sIJz2O-hpkxwjosN2hMt9Y5xevcPYI",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Chill Korean Hip-Hop/R&B",
+                "description": "Kick back with these chill Korean Hip-Hop and R&B jams! #hiphop #rnb #chill",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kT-sIJz2O-hpkxwjosN2hMt9Y5xevcPYI/mqdefault.jpg?sqp=CJzflbgGir7X7AMICITblLgGEAE=&rs=AOn4CLAOa_ykjTCa4DUgGaKwTlz0nLtG6A&v=1728392580",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kT-sIJz2O-hpkxwjosN2hMt9Y5xevcPYI/sddefault.jpg?sqp=CJzflbgGir7X7AMICITblLgGEAE=&rs=AOn4CLCBfr-LnRZpd3zPwJsaQGa8KoH0IQ&v=1728392580",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kT-sIJz2O-hpkxwjosN2hMt9Y5xevcPYI/maxresdefault.jpg?sqp=CJzflbgGir7X7AMICITblLgGEAE=&rs=AOn4CLBQ3BCv58JEqmcpnruqOKMEfCte2Q&v=1728392580",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Chill Korean Hip-Hop/R&B",
+                    "description": "Kick back with these chill Korean Hip-Hop and R&B jams! #hiphop #rnb #chill"
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/eh7t_hmhzgxfm3_gcESZ4Arebt6qBEPuBegLhYzF-yxI4EYhLEYUUOIzOW-FizdnW3_d5r1WOw8GczE=w544-h544-l90-rj"
+                },
+                "category_1": "Chill",
+                "category_2": "Korean",
+                "category_3": "Jams",
+                "category_4": "RnB",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 72
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "F6wpuUtgd0IUORw20ra4oStXAE4",
+            "id": "RDCLAK5uy_lkc6zoUgat_9ifg8CCcqE_9I4cc8nNZv8",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "'80s R&B + Soul",
+                "description": "Get down to these funky and upbeat floor fillers from the slickest soul voices on the scene.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lkc6zoUgat_9ifg8CCcqE_9I4cc8nNZv8/mqdefault.jpg?sqp=CJzflbgGir7X7AMICJr-kbgGEAE=&rs=AOn4CLDskdHlWavHx7cxGPzAy7plfokFzQ&v=1728347930",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lkc6zoUgat_9ifg8CCcqE_9I4cc8nNZv8/sddefault.jpg?sqp=CJzflbgGir7X7AMICJr-kbgGEAE=&rs=AOn4CLAWuy1U14e4QJQ-beFwDrUnvGqVlQ&v=1728347930",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lkc6zoUgat_9ifg8CCcqE_9I4cc8nNZv8/maxresdefault.jpg?sqp=CJzflbgGir7X7AMICJr-kbgGEAE=&rs=AOn4CLD47aZHnSWZ8Dbx-WrMdmRsCCh90w&v=1728347930",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "'80s R&B + Soul",
+                    "description": "Get down to these funky and upbeat floor fillers from the slickest soul voices on the scene."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/3dnzOo01FPBNJX5fEqPZdYkfAA7HsuHmoxe-Y26MuQJNHnrce1mWArkmpnOY-tWHDJnkbXdbic3dnQ=w544-h544-l90-rj"
+                },
+                "category_1": "Soul",
+                "category_2": "Funk",
+                "category_3": "Upbeat",
+                "category_4": "Beat",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 88
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "I4ovPiaHPkQHUPkqv00PeisL35c",
+            "id": "RDCLAK5uy_kWnxXLJFZlfFetBdZDOTgEuwVmA-vq98E",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "R&B Japan",
+                "description": "Here are the all-time greatest Japanese R&B tracks.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kWnxXLJFZlfFetBdZDOTgEuwVmA-vq98E/mqdefault.jpg?sqp=CJzflbgGir7X7AMICLLckLgGEAE=&rs=AOn4CLDSAWcwLhEoBW9lmLsp_bhhn4mvlw&v=1728327218",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kWnxXLJFZlfFetBdZDOTgEuwVmA-vq98E/sddefault.jpg?sqp=CJzflbgGir7X7AMICLLckLgGEAE=&rs=AOn4CLCzBsMxP-ndOEiHRxpRBA8gTPgr9w&v=1728327218",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kWnxXLJFZlfFetBdZDOTgEuwVmA-vq98E/maxresdefault.jpg?sqp=CJzflbgGir7X7AMICLLckLgGEAE=&rs=AOn4CLAT088MyBbRcb7WA3noOZUCYzKzCQ&v=1728327218",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "R&B Japan",
+                    "description": "Here are the all-time greatest Japanese R&B tracks."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/wILWn70b5wsGJP9MuKbrwow-k2BH_YNQv2YuCeALRfD9Kh70l7gAjVIfcnZxenio65hfCQlCFkkxN1qP=w544-h544-l90-rj"
+                },
+                "category_1": "Greatest",
+                "category_2": "Japanese",
+                "category_3": "Tracks",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 70
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "GCc91PYBKyJM4rKBbCL7Oinwqn4",
+            "id": "RDCLAK5uy_lm18Vbo6c2oDZR4CiiuaENtS5LEJQ6YNs",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Hip Hop Romance",
+                "description": "These rappers can't escape Cupid's arrow. Woo your boo with these hip hop and R&B tracks.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lm18Vbo6c2oDZR4CiiuaENtS5LEJQ6YNs/mqdefault.jpg?sqp=CJzflbgGir7X7AMICKfElbgGEAE=&rs=AOn4CLAQOE9u3HJS0ZpfUGbcFEQjDymTgg&v=1728406055",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lm18Vbo6c2oDZR4CiiuaENtS5LEJQ6YNs/sddefault.jpg?sqp=CJzflbgGir7X7AMICKfElbgGEAE=&rs=AOn4CLA0bfDW1s2jkp3z19s_XhaBYmRimg&v=1728406055",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lm18Vbo6c2oDZR4CiiuaENtS5LEJQ6YNs/maxresdefault.jpg?sqp=CJzflbgGir7X7AMICKfElbgGEAE=&rs=AOn4CLDrxpn1YVfyyc5Gc4jHVAWLBkKc4g&v=1728406055",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Hip Hop Romance",
+                    "description": "These rappers can't escape Cupid's arrow. Woo your boo with these hip hop and R&B tracks."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/8XehpNVEseurZtEFD9F1fGn5C22C8Lwm6uVBawSj1_v6oy1LwnXzelLzmzjOZtIdu8ncJnG0MBcC4Q=w544-h544-l90-rj"
+                },
+                "category_1": "Romance",
+                "category_2": "Rap",
+                "category_3": "Rappers",
+                "category_4": "Tracks",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 99
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "3Or-1uqOpqsFvgm4Oacr2GuFOeg",
+            "id": "RDCLAK5uy_kKu9Nnq9gf_N3F7TZMrcTVNVBDLH_dn7U",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Night City Korean Hip-Hop/R&B",
+                "description": "Feel the mellow-urban vibe of Seoul with Korean Hip-Hop/R&B Mix for your night. #hiphop #rnb #chill ",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kKu9Nnq9gf_N3F7TZMrcTVNVBDLH_dn7U/mqdefault.jpg?sqp=CJzflbgGir7X7AMICPHLkbgGEAE=&rs=AOn4CLCT2Orop3VDFA0Y215--UGYDXpypw&v=1728341489",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kKu9Nnq9gf_N3F7TZMrcTVNVBDLH_dn7U/sddefault.jpg?sqp=CJzflbgGir7X7AMICPHLkbgGEAE=&rs=AOn4CLDLMB480hQOy4bmrLPMWIBW64tQBQ&v=1728341489",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kKu9Nnq9gf_N3F7TZMrcTVNVBDLH_dn7U/maxresdefault.jpg?sqp=CJzflbgGir7X7AMICPHLkbgGEAE=&rs=AOn4CLCT5Ue2hIHzk6rJs3-Q66rnlZfrcA&v=1728341489",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Night City Korean Hip-Hop/R&B",
+                    "description": "Feel the mellow-urban vibe of Seoul with Korean Hip-Hop/R&B Mix for your night. #hiphop #rnb #chill "
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/U_9MORReFgeMUiaPH4YUaXcUb_2sOuiC74-lYnpV4dMrCf7WHinFbkhzgRlmg_IKWUMRDZ5-FX5Yqow=w544-h544-l90-rj"
+                },
+                "category_1": "City",
+                "category_2": "Korean",
+                "category_3": "Mellow",
+                "category_4": "Vibe",
+                "category_5": "Mix",
+                "category_6": "RnB",
+                "category_7": "Chill",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 65
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "wR23fl7MovUdZyYrcEsDNCFXdWU",
+            "id": "RDCLAK5uy_kF-D-D23zHZ5JcC1mO5EhQEPqZ9-SK4NU",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Feel-Good R&B Vibes",
+                "description": "The perfect soundtrack for hot days, warm nights and good times.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kF-D-D23zHZ5JcC1mO5EhQEPqZ9-SK4NU/mqdefault.jpg?sqp=CJzflbgGir7X7AMICP65krgGEAE=&rs=AOn4CLAAZhAbPN5YSwrJj3UV70Z7UNl26A&v=1728355582",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kF-D-D23zHZ5JcC1mO5EhQEPqZ9-SK4NU/sddefault.jpg?sqp=CJzflbgGir7X7AMICP65krgGEAE=&rs=AOn4CLCJr1aRAgumoXyiuzSuywHw7JHD2g&v=1728355582",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kF-D-D23zHZ5JcC1mO5EhQEPqZ9-SK4NU/maxresdefault.jpg?sqp=CJzflbgGir7X7AMICP65krgGEAE=&rs=AOn4CLB0tJTQc6R96azJXSLTWvfkHbejUg&v=1728355582",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Feel-Good R&B Vibes",
+                    "description": "The perfect soundtrack for hot days, warm nights and good times."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/aMPj32PIfx1r0uIjdGODWVFFp3y5sc9Iaok-BHquGXQMZE4aJbrvqis63rAn0-KeZHDwQS7NEOSazw=w544-h544-l90-rj"
+                },
+                "category_1": "Vibe",
+                "category_2": "Soundtracks",
+                "category_3": "Tracks",
+                "category_4": "Sound",
+                "category_5": "Warm",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 86
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "6jDViQAyvD870jHFiuGKPRkIlho",
+            "id": "RDCLAK5uy_m-zX0tb_L7rIkp7FDcXaNWO-mAotps_64",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "R&B Hits 2022",
+                "description": "Experience the sound of 2022 with this collection of some of the biggest R&B hits of the year.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m-zX0tb_L7rIkp7FDcXaNWO-mAotps_64/mqdefault.jpg?sqp=CJzflbgGir7X7AMICJrfkLgGEAE=&rs=AOn4CLBivOkwNMVU7nYSgoBZyE9QQSC-cQ&v=1728327578",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m-zX0tb_L7rIkp7FDcXaNWO-mAotps_64/sddefault.jpg?sqp=CJzflbgGir7X7AMICJrfkLgGEAE=&rs=AOn4CLAirOvHK3dsIaofYM1NZWwaAdMcUA&v=1728327578",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m-zX0tb_L7rIkp7FDcXaNWO-mAotps_64/maxresdefault.jpg?sqp=CJzflbgGir7X7AMICJrfkLgGEAE=&rs=AOn4CLDfAbrLOOnvqHeU-OGwyLLwIn5zIg&v=1728327578",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "R&B Hits 2022",
+                    "description": "Experience the sound of 2022 with this collection of some of the biggest R&B hits of the year."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/gZMrmgde6zdA5d848F7g9HYVCEYxgJgkw6UcMwb83jTpFZtxULfRnfUU8NnO2iwMOnnw3QI7-LaAmj4=w544-h544-l90-rj"
+                },
+                "category_1": "Hits",
+                "category_2": "Sound",
+                "category_3": "Collection",
+                "category_4": "Biggest",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 50
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "dnAqdy2-yRlq4cU-tBvZQcbjgg4",
+            "id": "RDCLAK5uy_nGZRi-an-ruqiZlNJSGhCDHucdp2FBNfI",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "New R&B",
+                "description": "A spotlight on the most exciting new R&B music from superstars and newcomers alike. ",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nGZRi-an-ruqiZlNJSGhCDHucdp2FBNfI/mqdefault.jpg?sqp=CJzflbgGir7X7AMICOXHlbgGEAE=&rs=AOn4CLC8voOyK1u3OKda45aiPBAPISjaXw&v=1728406501",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nGZRi-an-ruqiZlNJSGhCDHucdp2FBNfI/sddefault.jpg?sqp=CJzflbgGir7X7AMICOXHlbgGEAE=&rs=AOn4CLCIkY9aDfleQKH8wJYbG_FDbz6Dkg&v=1728406501",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nGZRi-an-ruqiZlNJSGhCDHucdp2FBNfI/maxresdefault.jpg?sqp=CJzflbgGir7X7AMICOXHlbgGEAE=&rs=AOn4CLDWSBzAtE_fRyiVYUbuMv_7JY394g&v=1728406501",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "New R&B",
+                    "description": "A spotlight on the most exciting new R&B music from superstars and newcomers alike. "
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/_JTzAeqcjSnJp5GWAg8cT9vkhBOgZJmg0dIOQpVxdiU907F0HKVIYGR1OFJ6q5UK1CFo95PJFJeq7AHj=w544-h544-l90-rj"
+                },
+                "category_1": "New",
+                "category_2": "Music",
+                "category_3": "Stars",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 236
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "S0xnbuU4WDMLqntdUR5ExOQCzLM",
+            "id": "RDCLAK5uy_k0oJ5JQqsSSQQvYS8xzcAh29CFryqs0mc",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Soothing Soul",
+                "description": "The finest smooth soul and R&B cuts from every era.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k0oJ5JQqsSSQQvYS8xzcAh29CFryqs0mc/mqdefault.jpg?sqp=CJzflbgGir7X7AMICPbhkLgGEAE=&rs=AOn4CLBCj_RiSEAi4CmvZy9QZd9Fdn5wrA&v=1728327926",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k0oJ5JQqsSSQQvYS8xzcAh29CFryqs0mc/sddefault.jpg?sqp=CJzflbgGir7X7AMICPbhkLgGEAE=&rs=AOn4CLCuZMHfnLw967nUkC7sj8yDjo61LQ&v=1728327926",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k0oJ5JQqsSSQQvYS8xzcAh29CFryqs0mc/maxresdefault.jpg?sqp=CJzflbgGir7X7AMICPbhkLgGEAE=&rs=AOn4CLBYGRN6BKWrylt_9uw30FR9r5PUmQ&v=1728327926",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Soothing Soul",
+                    "description": "The finest smooth soul and R&B cuts from every era."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/rAuzuLfViDJUshG4WU2sHbQv6hFX6ZCnGpI-_ucalfi9RGDoZisfPx9iESN1--HSyeCmTc2YKfJO4wM=w544-h544-l90-rj"
+                },
+                "category_1": "Soothing",
+                "category_2": "Soul",
+                "category_3": "Smooth",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 69
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "m-LMEEXTsHRbt6qqQk_T-gXRdDA",
+            "id": "RDCLAK5uy_kT1nj_RLpeTa2vQ2GfON2CmoUg5f5JCuk",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Honey-Coated Male Voice Korean R&B",
+                "description": "The greatest Korean R&B artists",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kT1nj_RLpeTa2vQ2GfON2CmoUg5f5JCuk/mqdefault.jpg?sqp=CJzflbgGir7X7AMICLPRkbgGEAE=&rs=AOn4CLCW49R_OQLHC9uw5x0DxfY8yokCXg&v=1728342195",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kT1nj_RLpeTa2vQ2GfON2CmoUg5f5JCuk/sddefault.jpg?sqp=CJzflbgGir7X7AMICLPRkbgGEAE=&rs=AOn4CLDcwbg9tCUWjxj0VtY_uKsuYpH5Qw&v=1728342195",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kT1nj_RLpeTa2vQ2GfON2CmoUg5f5JCuk/maxresdefault.jpg?sqp=CJzflbgGir7X7AMICLPRkbgGEAE=&rs=AOn4CLC_GzcbzLxyVj5JlietQiTwGa89Kw&v=1728342195",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Honey-Coated Male Voice Korean R&B",
+                    "description": "The greatest Korean R&B artists"
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/xlyx2lmFSmrmNuKCTk1pX3vJ88FuzQgqUwj2dXTkTEWG2CzhpjfbqT4YJZFq9sXXjBWlCiMikV0m_1uA=w544-h544-l90-rj"
+                },
+                "category_1": "Korean",
+                "category_2": "Greatest",
+                "category_3": "Artist",
+                "category_4": "",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 57
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "R7mXXb4GIlhAPdWsOtQWvxC45dg",
+            "id": "RDCLAK5uy_m10GLwo9xIr38bNfeX1Khlh9_tTlg2EZ8",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "'80s Slow Jams",
+                "description": "Move closer and get ready for some action with these smooth and seductive R&B tracks.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m10GLwo9xIr38bNfeX1Khlh9_tTlg2EZ8/mqdefault.jpg?sqp=CJzflbgGir7X7AMICPe1k7gGEAE=&rs=AOn4CLA2z4VlgociHqgVdLcsmIncPzXQXA&v=1728371447",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m10GLwo9xIr38bNfeX1Khlh9_tTlg2EZ8/sddefault.jpg?sqp=CJzflbgGir7X7AMICPe1k7gGEAE=&rs=AOn4CLChrLyDdMaOgUE52O6Y9Vzfgrc7Ew&v=1728371447",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m10GLwo9xIr38bNfeX1Khlh9_tTlg2EZ8/maxresdefault.jpg?sqp=CJzflbgGir7X7AMICPe1k7gGEAE=&rs=AOn4CLAgdsEEkPoqchMM4FevT7T4Cl8Sbg&v=1728371447",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "'80s Slow Jams",
+                    "description": "Move closer and get ready for some action with these smooth and seductive R&B tracks."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/cI3nawrcanHdvd7mjZn1kJkN8bA8uDAlbicZODCtJOec_VRR-oG5ql93HSvuCLSfiKM334BkzkVQfA=w544-h544-l90-rj"
+                },
+                "category_1": "Slow",
+                "category_2": "Jams",
+                "category_3": "Smooth",
+                "category_4": "Tracks",
+                "category_5": "",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 55
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "FlGe5z0QJ_t8kJynZGqIsDfUDno",
+            "id": "RDCLAK5uy_lXqRFBeZCG_1Ad3Ft-xMG1a9FtKQ8cRPw",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Instrumental Soul Grooves",
+                "description": "Listen to these funky instrumental grooves from the '60s to today.",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lXqRFBeZCG_1Ad3Ft-xMG1a9FtKQ8cRPw/mqdefault.jpg?sqp=CJzflbgGir7X7AMICKrolLgGEAE=&rs=AOn4CLALa9cLGEfC_wq-W1ZOGTKqr6Olcw&v=1728394282",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lXqRFBeZCG_1Ad3Ft-xMG1a9FtKQ8cRPw/sddefault.jpg?sqp=CJzflbgGir7X7AMICKrolLgGEAE=&rs=AOn4CLD-rCOj9weZ5zz-0YKndU2c2YRrBg&v=1728394282",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lXqRFBeZCG_1Ad3Ft-xMG1a9FtKQ8cRPw/maxresdefault.jpg?sqp=CJzflbgGir7X7AMICKrolLgGEAE=&rs=AOn4CLCKYCEOiWcK8-COT8TBKQqByL_tVg&v=1728394282",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Instrumental Soul Grooves",
+                    "description": "Listen to these funky instrumental grooves from the '60s to today."
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/eyBM-3Qkjt7I62rcZ8QTB0MwkvtuOAEpLbAh8YAY1cWC-rQwfjjqv9lAh4SDRUESOm_LQGB2bzudJY4=w544-h544-l90-rj"
+                },
+                "category_1": "Instrumentals",
+                "category_2": "Soul",
+                "category_3": "Groove",
+                "category_4": "Listen",
+                "category_5": "Funk",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 51
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "ZR8iKZYF0vTNXms6IjTs-25oeuo",
+            "id": "RDCLAK5uy_mr4LFAxLe9yN0HWoY9WOWguJLH61Eh2q4",
+            "snippet": {
+                "publishedAt": "1970-01-01T00:00:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Feel Good Korean Hip-Hop/R&B",
+                "description": "Enjoy trendy and emotional Korean hip-hop and R&B. #hiphop #rnb #happy ",
+                "thumbnails": {
+                    "medium": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mr4LFAxLe9yN0HWoY9WOWguJLH61Eh2q4/mqdefault.jpg?sqp=CJzflbgGir7X7AMICL_Yk7gGEAE=&rs=AOn4CLBQk3Wq1qav7whNKuEdbZpjdMKT-Q&v=1728375871",
+                        "width": 180,
+                        "height": 180
+                    },
+                    "standard": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mr4LFAxLe9yN0HWoY9WOWguJLH61Eh2q4/sddefault.jpg?sqp=CJzflbgGir7X7AMICL_Yk7gGEAE=&rs=AOn4CLB-MomhLz5-ND6KCl8od5shZCLl9A&v=1728375871",
+                        "width": 640,
+                        "height": 640
+                    },
+                    "maxres": {
+                        "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mr4LFAxLe9yN0HWoY9WOWguJLH61Eh2q4/maxresdefault.jpg?sqp=CJzflbgGir7X7AMICL_Yk7gGEAE=&rs=AOn4CLDbPEsvEdH4ts6zHdDCRytLTNZ6iw&v=1728375871",
+                        "width": 1200,
+                        "height": 1200
+                    }
+                },
+                "channelTitle": "YouTube",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Feel Good Korean Hip-Hop/R&B",
+                    "description": "Enjoy trendy and emotional Korean hip-hop and R&B. #hiphop #rnb #happy "
+                },
+                "image": {
+                    "url": "https://lh3.googleusercontent.com/xUodnOArzjaiBJRFnnODYAgzgblDABINZWkQKGglB74NekpSi0mpy899qjdyQ4T7prtbG5DppySXD30=w544-h544-l90-rj"
+                },
+                "category_1": "Korean",
+                "category_2": "Enjoy",
+                "category_3": "Trendy",
+                "category_4": "Emotion",
+                "category_5": "RnB",
+                "category_6": "",
+                "category_7": "",
+                "category_8": "",
+                "category_9": "",
+                "category_10": ""
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 68
+            }
+        }
+    ]
+}

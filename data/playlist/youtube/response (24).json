@@ -1,0 +1,1050 @@
+{
+  "kind": "youtube#playlistListResponse",
+  "etag": "hnXeuZUWEgfUcT6PZmFfR3KZTVU",
+  "pageInfo": {
+    "totalResults": 26,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "0fTcIphsyMQ-hBfRJfXk5g6WRwg",
+      "id": "RDCLAK5uy_krSIym5-Zz3SKT9MMkXbmXjXLQfjm8lYQ",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Everybody Loves the Sunshine",
+        "description": "Upbeat authoritative Soul to take the blues away on a rainy day.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_krSIym5-Zz3SKT9MMkXbmXjXLQfjm8lYQ/mqdefault.jpg?sqp=CMTalbgGir7X7AMICK2NlLgGEAE=&rs=AOn4CLCe6vgRpNy6sjo-V5rsV6Owu6HVkg&v=1728382637",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_krSIym5-Zz3SKT9MMkXbmXjXLQfjm8lYQ/sddefault.jpg?sqp=CMTalbgGir7X7AMICK2NlLgGEAE=&rs=AOn4CLC35v6Y-llG5SHcKCl4TQbTt7C4_A&v=1728382637",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_krSIym5-Zz3SKT9MMkXbmXjXLQfjm8lYQ/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICK2NlLgGEAE=&rs=AOn4CLAqfWdpXN0uOFYk15NMyWefJN7TPw&v=1728382637",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Everybody Loves the Sunshine",
+          "description": "Upbeat authoritative Soul to take the blues away on a rainy day."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 64
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "DNtr4z61mUa5hXbdf0peM8WcePc",
+      "id": "RDCLAK5uy_kyd8ndeZITSdzHwmZV5sZOA2m-EvY3YKU",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "phonk lovers",
+        "description": "phonk for Valentine love birds",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kyd8ndeZITSdzHwmZV5sZOA2m-EvY3YKU/mqdefault.jpg?sqp=CMTalbgGir7X7AMICOHUkbgGEAE=&rs=AOn4CLDG6OK0uFIRRt1VrDDZDdiYLnm8aw&v=1728342625",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kyd8ndeZITSdzHwmZV5sZOA2m-EvY3YKU/sddefault.jpg?sqp=CMTalbgGir7X7AMICOHUkbgGEAE=&rs=AOn4CLAO9sV55kRFSdS2ZrN4dsJu3iYnJQ&v=1728342625",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kyd8ndeZITSdzHwmZV5sZOA2m-EvY3YKU/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICOHUkbgGEAE=&rs=AOn4CLDltNuTl0T3GNgxwxhT19LKf2Getw&v=1728342625",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "phonk lovers",
+          "description": "phonk for Valentine love birds"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 40
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "ZMqXBoVcy4CpNmh5HsjUkZGfWDQ",
+      "id": "RDCLAK5uy_nIDhDrFUBk6uA5xNcbvXIjb3q5lTqWjPQ",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Feel-Good Reggae",
+        "description": "Let these feel-good reggae favourites turn your back garden into a tropical paradise.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nIDhDrFUBk6uA5xNcbvXIjb3q5lTqWjPQ/mqdefault.jpg?sqp=CMTalbgGir7X7AMICKzJlLgGEAE=&rs=AOn4CLBnFGdhqboMDchvgTaPlPca8j_-vQ&v=1728390316",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nIDhDrFUBk6uA5xNcbvXIjb3q5lTqWjPQ/sddefault.jpg?sqp=CMTalbgGir7X7AMICKzJlLgGEAE=&rs=AOn4CLBcXfCgEodspUmkjzM5PjjKLtbEbQ&v=1728390316",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nIDhDrFUBk6uA5xNcbvXIjb3q5lTqWjPQ/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICKzJlLgGEAE=&rs=AOn4CLDIIWR6GCCj4to1jKUC8rsObRZRgw&v=1728390316",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Feel-Good Reggae",
+          "description": "Let these feel-good reggae favourites turn your back garden into a tropical paradise."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 55
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "_kS4gQcuZUv4l8Vn6uhv0G_k84Q",
+      "id": "RDCLAK5uy_m9xiSUycZs4EgEH59GeT6-Xdi-121XSkM",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "The Hits: 90s Cantopop",
+        "description": "All your Hong Kong favorites from the 90s",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m9xiSUycZs4EgEH59GeT6-Xdi-121XSkM/mqdefault.jpg?sqp=CMTalbgGir7X7AMICOmskLgGEAE=&rs=AOn4CLCizcoWudYSpR-nJnMJOiJPGhtATg&v=1728321129",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m9xiSUycZs4EgEH59GeT6-Xdi-121XSkM/sddefault.jpg?sqp=CMTalbgGir7X7AMICOmskLgGEAE=&rs=AOn4CLC10gfhq4HoKwVEBjItKp0o6bXE9Q&v=1728321129",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m9xiSUycZs4EgEH59GeT6-Xdi-121XSkM/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICOmskLgGEAE=&rs=AOn4CLDohYUY1Mg2oGs9zZJlOF3ua1yxLQ&v=1728321129",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "The Hits: 90s Cantopop",
+          "description": "All your Hong Kong favorites from the 90s"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 70
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "AB9LTohPyvjoamOTCsfFQOL7om4",
+      "id": "RDCLAK5uy_kLERdnIyq-EgE1y1313Z0U3sXpWwk1tlk",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "R&B Hits 2021",
+        "description": "Experience the sound of 2021 with this collection of some of the biggest r&b hits of the year.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kLERdnIyq-EgE1y1313Z0U3sXpWwk1tlk/mqdefault.jpg?sqp=CMTalbgGir7X7AMICKK3kbgGEAE=&rs=AOn4CLA7u5XJXAIK31Y4YiKl5-FR-nmuTQ&v=1728338850",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kLERdnIyq-EgE1y1313Z0U3sXpWwk1tlk/sddefault.jpg?sqp=CMTalbgGir7X7AMICKK3kbgGEAE=&rs=AOn4CLD_QWVDnmcN8_3VXqIXPXy7DCjVnQ&v=1728338850",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kLERdnIyq-EgE1y1313Z0U3sXpWwk1tlk/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICKK3kbgGEAE=&rs=AOn4CLCi3x8IujnQq_z39aJBskRL2aNOuQ&v=1728338850",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "R&B Hits 2021",
+          "description": "Experience the sound of 2021 with this collection of some of the biggest r&b hits of the year."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 50
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "SzlQ_6igEKhbnD40O_V5B4o4sqo",
+      "id": "RDCLAK5uy_kDBL_tFOUos7q3SOifZrMHXKwuebdzf7I",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Feel Good Korean Music",
+        "description": "Feel the warm with happy and warm song and its lyrics. #koreanmusic #happy #kpop",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kDBL_tFOUos7q3SOifZrMHXKwuebdzf7I/mqdefault.jpg?sqp=CMTalbgGir7X7AMICNG5kLgGEAE=&rs=AOn4CLBQwwgJP00sAqGPZvhKlLp4Db4hGw&v=1728322769",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kDBL_tFOUos7q3SOifZrMHXKwuebdzf7I/sddefault.jpg?sqp=CMTalbgGir7X7AMICNG5kLgGEAE=&rs=AOn4CLCtn0_uFgyLxnCeEScHh1yKHFJbDw&v=1728322769",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kDBL_tFOUos7q3SOifZrMHXKwuebdzf7I/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICNG5kLgGEAE=&rs=AOn4CLAy0G6LmJQ2idOy62hnqbeQvzlnOw&v=1728322769",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Feel Good Korean Music",
+          "description": "Feel the warm with happy and warm song and its lyrics. #koreanmusic #happy #kpop"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 82
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "WbHGM-zDaLZc4d-gWNqc3zsJLTQ",
+      "id": "RDCLAK5uy_nJmrf-yTYuev_gOBz1TNCIZoFWW5zHNTg",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Easy Mornings: Hindi",
+        "description": "Whether you plan on working or relaxing at home, here is a selection of songs to help you decide your day. #hindi #chill #relax",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nJmrf-yTYuev_gOBz1TNCIZoFWW5zHNTg/mqdefault.jpg?sqp=CMTalbgGir7X7AMICKnxkLgGEAE=&rs=AOn4CLDU6Tq4hYC2hWEII7hef8O4Qj3KUg&v=1728329897",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nJmrf-yTYuev_gOBz1TNCIZoFWW5zHNTg/sddefault.jpg?sqp=CMTalbgGir7X7AMICKnxkLgGEAE=&rs=AOn4CLDRe8PIR17Kx_tpOr2SV_V4Pwhcdg&v=1728329897",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nJmrf-yTYuev_gOBz1TNCIZoFWW5zHNTg/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICKnxkLgGEAE=&rs=AOn4CLDjtSp2qNMz0FuOHBYidtDQiaHUvw&v=1728329897",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Easy Mornings: Hindi",
+          "description": "Whether you plan on working or relaxing at home, here is a selection of songs to help you decide your day. #hindi #chill #relax"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 65
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "5L09Z9jxYHsepxQTXyX-lrv8pGI",
+      "id": "RDCLAK5uy_m_h-nx7OCFaq9AlyXv78lG0AuloqW_NUA",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "'90s Alternative",
+        "description": "Bust out out your flannel shirt and listen to these essential '90s alt-rock songs.\n#alternative #90s #essentials",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m_h-nx7OCFaq9AlyXv78lG0AuloqW_NUA/mqdefault.jpg?sqp=CMTalbgGir7X7AMICIHQkbgGEAE=&rs=AOn4CLB0AHcccKoR0l8909YAc1w6EyKndA&v=1728342017",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m_h-nx7OCFaq9AlyXv78lG0AuloqW_NUA/sddefault.jpg?sqp=CMTalbgGir7X7AMICIHQkbgGEAE=&rs=AOn4CLBRD8hNVPizjt5UqpW7UNzoCX2caA&v=1728342017",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m_h-nx7OCFaq9AlyXv78lG0AuloqW_NUA/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICIHQkbgGEAE=&rs=AOn4CLDoH22dM_78PW9b4QlFEdSOyLP47g&v=1728342017",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "'90s Alternative",
+          "description": "Bust out out your flannel shirt and listen to these essential '90s alt-rock songs.\n#alternative #90s #essentials"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 162
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "pdDjTagSwSm5Zq6NSaA8pvhpAVk",
+      "id": "RDCLAK5uy_mOOyMX84VFgVxOScgjYZEWAjuMStXJnwI",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Telugu Hits 2023",
+        "description": "Experience the sound of 2023 with this collection of some of the biggest Telugu hits of the year.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mOOyMX84VFgVxOScgjYZEWAjuMStXJnwI/mqdefault.jpg?sqp=CMTalbgGir7X7AMICJqtkbgGEAE=&rs=AOn4CLBNf_u1RNUEBAAWPQT28DLmTRsGZg&v=1728337562",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mOOyMX84VFgVxOScgjYZEWAjuMStXJnwI/sddefault.jpg?sqp=CMTalbgGir7X7AMICJqtkbgGEAE=&rs=AOn4CLBO2tSfv8RRVp9-kkFo4KjQ6DdE8A&v=1728337562",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mOOyMX84VFgVxOScgjYZEWAjuMStXJnwI/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICJqtkbgGEAE=&rs=AOn4CLBwTMAbsj7G4EnVSgGK70gnmSdUcg&v=1728337562",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Telugu Hits 2023",
+          "description": "Experience the sound of 2023 with this collection of some of the biggest Telugu hits of the year."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 50
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "3KtDwkPtDk4tVVsg--WvrfoVZEU",
+      "id": "RDCLAK5uy_k2csipDOuQwX6-GGZd4ys5MM5bueEqkrE",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Fall Asleep",
+        "description": "The best relaxing, sleep-inducing songs for passing out and getting some zzzzzz's.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k2csipDOuQwX6-GGZd4ys5MM5bueEqkrE/mqdefault.jpg?sqp=CMTalbgGir7X7AMICLDrkLgGEAE=&rs=AOn4CLAUnK8y8IcvYZYJ1qA49vFzo8C7LQ&v=1728329136",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k2csipDOuQwX6-GGZd4ys5MM5bueEqkrE/sddefault.jpg?sqp=CMTalbgGir7X7AMICLDrkLgGEAE=&rs=AOn4CLCW9oHYdDFTQaNkzOD8EJ01AsW6XQ&v=1728329136",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_k2csipDOuQwX6-GGZd4ys5MM5bueEqkrE/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICLDrkLgGEAE=&rs=AOn4CLBrJ-O3RirXlgEvj9oU5vMGwUisNg&v=1728329136",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Fall Asleep",
+          "description": "The best relaxing, sleep-inducing songs for passing out and getting some zzzzzz's."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 70
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "0HHFsbos26fczHz_CnITawUSXCc",
+      "id": "RDCLAK5uy_ldooV6iHaoPy6VKyVuHDq0DT4lh-3tRqQ",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Gentle Piano",
+        "description": "Enjoy this peaceful mix of relaxing piano music. #classical #relaxing #piano",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ldooV6iHaoPy6VKyVuHDq0DT4lh-3tRqQ/mqdefault.jpg?sqp=CMTalbgGir7X7AMICIOBk7gGEAE=&rs=AOn4CLBJeCSxzl6FgHLGtBqdoZ2djD2TmQ&v=1728364675",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ldooV6iHaoPy6VKyVuHDq0DT4lh-3tRqQ/sddefault.jpg?sqp=CMTalbgGir7X7AMICIOBk7gGEAE=&rs=AOn4CLA_XQVo29aC3JMZ9mkNx62eYeGRVw&v=1728364675",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_ldooV6iHaoPy6VKyVuHDq0DT4lh-3tRqQ/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICIOBk7gGEAE=&rs=AOn4CLBZx1iuqrgRvPmMyyesosZ_ld32wA&v=1728364675",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Gentle Piano",
+          "description": "Enjoy this peaceful mix of relaxing piano music. #classical #relaxing #piano"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 85
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "5sCrBf8Wnx4PXpaTgAl0FJMStqE",
+      "id": "RDCLAK5uy_lU0SKQ6abiGIUnCNM2cm0yKDPULpjmcoE",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Westlife",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lU0SKQ6abiGIUnCNM2cm0yKDPULpjmcoE/mqdefault.jpg?sqp=CMTalbgGir7X7AMICOLJlLgGEAE=&rs=AOn4CLCo0k6gExEQIpWP5FsQZWtBf4er5w&v=1728390370",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lU0SKQ6abiGIUnCNM2cm0yKDPULpjmcoE/sddefault.jpg?sqp=CMTalbgGir7X7AMICOLJlLgGEAE=&rs=AOn4CLDIZtBSXLhDnwca5yZAxNXLRIh-hw&v=1728390370",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lU0SKQ6abiGIUnCNM2cm0yKDPULpjmcoE/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICOLJlLgGEAE=&rs=AOn4CLDmdf8L5WsfeF7oUO1LBYTyzVzuTg&v=1728390370",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Westlife",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 21
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "s49hH-DmsB9kuQyXNMv5T1vYG2Q",
+      "id": "RDCLAK5uy_nTmuZ_oxFi1oC3UuCmMwDvXGdnS1_xW9w",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Sean Paul",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nTmuZ_oxFi1oC3UuCmMwDvXGdnS1_xW9w/mqdefault.jpg?sqp=CMTalbgGir7X7AMICKzRk7gGEAE=&rs=AOn4CLCmyuaHwEnFZ0SsAnrCHDruVTtvgg&v=1728374956",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nTmuZ_oxFi1oC3UuCmMwDvXGdnS1_xW9w/sddefault.jpg?sqp=CMTalbgGir7X7AMICKzRk7gGEAE=&rs=AOn4CLAXJX3a6-B7iRbbfSYHw5ZY3esTDw&v=1728374956",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nTmuZ_oxFi1oC3UuCmMwDvXGdnS1_xW9w/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICKzRk7gGEAE=&rs=AOn4CLBUwj4RWeXTO_7V_Kp48FjsdK_yJA&v=1728374956",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Sean Paul",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 20
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "YfQVNP-E8RVmuv-XXXdcfvTz8yU",
+      "id": "RDCLAK5uy_miHnhrZJWX7HvNEX7CaSZzfk77iwWhBLI",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Best Scene Korean Drama OST",
+        "description": "#ost #hits #nostalgia",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_miHnhrZJWX7HvNEX7CaSZzfk77iwWhBLI/mqdefault.jpg?sqp=CMTalbgGir7X7AMICPy6lbgGEAE=&rs=AOn4CLDbzVD8rxzReSOxg44G6BZQFvfIyQ&v=1728404860",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_miHnhrZJWX7HvNEX7CaSZzfk77iwWhBLI/sddefault.jpg?sqp=CMTalbgGir7X7AMICPy6lbgGEAE=&rs=AOn4CLCEkw6pBhMu2M_zHp3oFTuE4HNUbA&v=1728404860",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_miHnhrZJWX7HvNEX7CaSZzfk77iwWhBLI/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICPy6lbgGEAE=&rs=AOn4CLDUEkcmAC9acY-tTklvRUWL7OwEhQ&v=1728404860",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Best Scene Korean Drama OST",
+          "description": "#ost #hits #nostalgia"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 100
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "nU-wJjRuXj4VYror5Oqa_sv4xIk",
+      "id": "RDCLAK5uy_kTa30Qoe2Km37nGuArDHsjC-VDN7qDZeU",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "'10s Country",
+        "description": "Listen to the biggest country tracks of the 2010s.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kTa30Qoe2Km37nGuArDHsjC-VDN7qDZeU/mqdefault.jpg?sqp=CMTalbgGir7X7AMICMXPkLgGEAE=&rs=AOn4CLAmsa_yr5OljNxwclT7nNG78-W76g&v=1728325573",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kTa30Qoe2Km37nGuArDHsjC-VDN7qDZeU/sddefault.jpg?sqp=CMTalbgGir7X7AMICMXPkLgGEAE=&rs=AOn4CLBLfnOHoZmiT_TEDVeC0gGBKTiG9Q&v=1728325573",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kTa30Qoe2Km37nGuArDHsjC-VDN7qDZeU/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICMXPkLgGEAE=&rs=AOn4CLB0R134MpbK5babbZT-BUVeK7-BlA&v=1728325573",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "'10s Country",
+          "description": "Listen to the biggest country tracks of the 2010s."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 92
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "958MaLQJO82RNC2oZQ--6YEDt5o",
+      "id": "RDCLAK5uy_nbdmSfz-TcuwDEBkV0W4rk8rFjaBTXbHQ",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Indian Indie Romance ",
+        "description": "Background scores to the special moments in your life. ",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nbdmSfz-TcuwDEBkV0W4rk8rFjaBTXbHQ/mqdefault.jpg?sqp=CMTalbgGir7X7AMICIb2kLgGEAE=&rs=AOn4CLAJl7CRc7oS3WmzEvOdQ7S6JcPmnQ&v=1728330502",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nbdmSfz-TcuwDEBkV0W4rk8rFjaBTXbHQ/sddefault.jpg?sqp=CMTalbgGir7X7AMICIb2kLgGEAE=&rs=AOn4CLARLvO7t-iJlRBjCcYPoBqLyiCFlQ&v=1728330502",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nbdmSfz-TcuwDEBkV0W4rk8rFjaBTXbHQ/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICIb2kLgGEAE=&rs=AOn4CLCPPpSyxKVDGvina9w4afJn2ZPQ5w&v=1728330502",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Indian Indie Romance ",
+          "description": "Background scores to the special moments in your life. "
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 87
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "EqrEb3v6WHjVeT5rXzkUXjO6vJY",
+      "id": "RDCLAK5uy_miAacfMxVybbt7ketqqnPPbH9LDn1TavU",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Bollywood Romantic Moments",
+        "description": "Because love is a mood. #hindi #romance #love",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_miAacfMxVybbt7ketqqnPPbH9LDn1TavU/mqdefault.jpg?sqp=CMTalbgGir7X7AMICNaGlbgGEAE=&rs=AOn4CLDlS4zWUfLfbkEGLs_s7DuU1JtDHg&v=1728398166",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_miAacfMxVybbt7ketqqnPPbH9LDn1TavU/sddefault.jpg?sqp=CMTalbgGir7X7AMICNaGlbgGEAE=&rs=AOn4CLA-IrlP_Ihk1G2SJ93RI3hd2Sp5kQ&v=1728398166",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_miAacfMxVybbt7ketqqnPPbH9LDn1TavU/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICNaGlbgGEAE=&rs=AOn4CLCRKqiJFPLHIwJnDRqkTq75vMlUeg&v=1728398166",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Bollywood Romantic Moments",
+          "description": "Because love is a mood. #hindi #romance #love"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 76
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "8aeFBfL_1MqRAZ4o_nspjQ2We_w",
+      "id": "RDCLAK5uy_lPzT2bIPNJ_6II2vlgcE_-Mw1fMTfPheA",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Romancing the Rains",
+        "description": "The fresh, earthy smell and the breezy weather sets the perfect mood to grab a cup of coffee and listen to these soothing songs.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lPzT2bIPNJ_6II2vlgcE_-Mw1fMTfPheA/mqdefault.jpg?sqp=CMTalbgGir7X7AMICMnbkrgGEAE=&rs=AOn4CLAocwG5NLOFgwA2nsNZY7IAQf9vFA&v=1728359881",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lPzT2bIPNJ_6II2vlgcE_-Mw1fMTfPheA/sddefault.jpg?sqp=CMTalbgGir7X7AMICMnbkrgGEAE=&rs=AOn4CLAo0hjtwB2Art_sHosaBfuGwl-J-A&v=1728359881",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lPzT2bIPNJ_6II2vlgcE_-Mw1fMTfPheA/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICMnbkrgGEAE=&rs=AOn4CLCzb7eBwxyxegLPFDqcKucI90JHTw&v=1728359881",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Romancing the Rains",
+          "description": "The fresh, earthy smell and the breezy weather sets the perfect mood to grab a cup of coffee and listen to these soothing songs."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 50
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "NI3TqD6IPqnLSwzYM2pcMPNkrdA",
+      "id": "RDCLAK5uy_nc1rJer0ujwb18gK4ainV9G7CjnBgn_G4",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Afro-House Sensations",
+        "description": "Free yourself and dance with the ancestors to these soulful rhythms.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nc1rJer0ujwb18gK4ainV9G7CjnBgn_G4/mqdefault.jpg?sqp=CMTalbgGir7X7AMICIyMlbgGEAE=&rs=AOn4CLCJVISTQKOckkaMjcljpnK9BuoVmg&v=1728398860",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nc1rJer0ujwb18gK4ainV9G7CjnBgn_G4/sddefault.jpg?sqp=CMTalbgGir7X7AMICIyMlbgGEAE=&rs=AOn4CLDgd5ZGV-fCtjfUa64FaWwl5tkGYw&v=1728398860",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_nc1rJer0ujwb18gK4ainV9G7CjnBgn_G4/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICIyMlbgGEAE=&rs=AOn4CLCEP8K8Pahm_3PdIqewKzuzz0zQtQ&v=1728398860",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Afro-House Sensations",
+          "description": "Free yourself and dance with the ancestors to these soulful rhythms."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 40
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "yVjXa7m06Sk30AcVqDq62iqZtvA",
+      "id": "RDCLAK5uy_m1fQPQuCFP5wZYxIa2NGD7lDd3z1BdKW4",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Top Afro Pop and Afro Soul 2020",
+        "description": "The most played South African Afro Pop and Afro Soul songs of the year. ",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m1fQPQuCFP5wZYxIa2NGD7lDd3z1BdKW4/mqdefault.jpg?sqp=CMTalbgGir7X7AMICJedlbgGEAE=&rs=AOn4CLDlgDaKEeyh7bj7z6IAuRoeWFjrbg&v=1728401047",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m1fQPQuCFP5wZYxIa2NGD7lDd3z1BdKW4/sddefault.jpg?sqp=CMTalbgGir7X7AMICJedlbgGEAE=&rs=AOn4CLCqdgxWnbql3_QPdUblatxB-ajMeg&v=1728401047",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_m1fQPQuCFP5wZYxIa2NGD7lDd3z1BdKW4/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICJedlbgGEAE=&rs=AOn4CLAflD5zAU82Iq-Mfb1Ad-icl3Yquw&v=1728401047",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Top Afro Pop and Afro Soul 2020",
+          "description": "The most played South African Afro Pop and Afro Soul songs of the year. "
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 50
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "60vI9aOjv5eZ39BaK28pF3nruXo",
+      "id": "RDCLAK5uy_l5dKTUvxIyVBm0bjNDUbbjG6QgvTE17zg",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Reggae Ohana",
+        "description": "In Hawaiian, \"ohana\" means family. Join the reggae ohana with this playlist of Hawaiian reggae hits, plus the Jamaican classics that popularized the genre in the North Pacific.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l5dKTUvxIyVBm0bjNDUbbjG6QgvTE17zg/mqdefault.jpg?sqp=CMTalbgGir7X7AMICK3hkLgGEAE=&rs=AOn4CLBLThsHgvQ2viZF5BjQBGe7y7PWWw&v=1728327853",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l5dKTUvxIyVBm0bjNDUbbjG6QgvTE17zg/sddefault.jpg?sqp=CMTalbgGir7X7AMICK3hkLgGEAE=&rs=AOn4CLCVK9lX7lv7IWOMprnGvZTxHJWOGw&v=1728327853",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l5dKTUvxIyVBm0bjNDUbbjG6QgvTE17zg/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICK3hkLgGEAE=&rs=AOn4CLAA4d5utDpoUUempFNPOstJuxDNog&v=1728327853",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Reggae Ohana",
+          "description": "In Hawaiian, \"ohana\" means family. Join the reggae ohana with this playlist of Hawaiian reggae hits, plus the Jamaican classics that popularized the genre in the North Pacific."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 48
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "Jf7mVtR8JfVGc3TDImWbkXMDUls",
+      "id": "RDCLAK5uy_l808wsTOCKs6u9c1bqeLIpzTUOfns2BMs",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Sunshine Indie",
+        "description": "Bring a little sunshine into your day with these upbeat and outrageously catchy indie tunes.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l808wsTOCKs6u9c1bqeLIpzTUOfns2BMs/mqdefault.jpg?sqp=CMTalbgGir7X7AMICIbZkrgGEAE=&rs=AOn4CLCMPNM0OF0qbj-UehTjbP5vCgtCgw&v=1728359558",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l808wsTOCKs6u9c1bqeLIpzTUOfns2BMs/sddefault.jpg?sqp=CMTalbgGir7X7AMICIbZkrgGEAE=&rs=AOn4CLDGhfdj3Q5R9dlcyHDLo3TWAD7q9g&v=1728359558",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_l808wsTOCKs6u9c1bqeLIpzTUOfns2BMs/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICIbZkrgGEAE=&rs=AOn4CLBGjjusAZ3SQgx9lg8CDY5462hwMg&v=1728359558",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Sunshine Indie",
+          "description": "Bring a little sunshine into your day with these upbeat and outrageously catchy indie tunes."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 131
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "XZ722y7NZZnF6T5rG1IHqGijZLU",
+      "id": "RDCLAK5uy_mjAJiE8flpX8OlujSbgylHKFYt-4smINE",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "All Time Mandopop Hits",
+        "description": "Chart toppers in Mandarin golden age of pop music.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mjAJiE8flpX8OlujSbgylHKFYt-4smINE/mqdefault.jpg?sqp=CMTalbgGir7X7AMICPrPkLgGEAE=&rs=AOn4CLDmMf-zo5IOV0L-9BpeFPGapooHPA&v=1728325626",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mjAJiE8flpX8OlujSbgylHKFYt-4smINE/sddefault.jpg?sqp=CMTalbgGir7X7AMICPrPkLgGEAE=&rs=AOn4CLCDu-6A0plcV0jSPBJ4JPUdp7yeiQ&v=1728325626",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mjAJiE8flpX8OlujSbgylHKFYt-4smINE/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICPrPkLgGEAE=&rs=AOn4CLBMPQA4jUoMjRIILBm_70qv10av_A&v=1728325626",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "All Time Mandopop Hits",
+          "description": "Chart toppers in Mandarin golden age of pop music."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 80
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "SiOmuhuy9atQAZ_zXCFiKpxCO60",
+      "id": "RDCLAK5uy_kBGve9D_9yPxIThGq87PGVzjxfkjE0CJI",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Bruno Mars",
+        "description": "The most played hits and essential tracks. #brunomars #rnb #pop",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kBGve9D_9yPxIThGq87PGVzjxfkjE0CJI/mqdefault.jpg?sqp=CMTalbgGir7X7AMICKvElLgGEAE=&rs=AOn4CLBPeFfHqjqnRl0gWWI0Ww-jXnbo1Q&v=1728389675",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kBGve9D_9yPxIThGq87PGVzjxfkjE0CJI/sddefault.jpg?sqp=CMTalbgGir7X7AMICKvElLgGEAE=&rs=AOn4CLDBWEhJEBMfYyviFx_pNJAiXt7ZAA&v=1728389675",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_kBGve9D_9yPxIThGq87PGVzjxfkjE0CJI/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICKvElLgGEAE=&rs=AOn4CLCjOCmjV9J-FpPUYy2vB3Sc6D0Ntw&v=1728389675",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Bruno Mars",
+          "description": "The most played hits and essential tracks. #brunomars #rnb #pop"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 44
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "lh6RhlHXgKRAnmHs3aSht8yquXo",
+      "id": "RDCLAK5uy_lkc6zoUgat_9ifg8CCcqE_9I4cc8nNZv8",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "'80s R&B + Soul",
+        "description": "Get down to these funky and upbeat floor fillers from the slickest soul voices on the scene.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lkc6zoUgat_9ifg8CCcqE_9I4cc8nNZv8/mqdefault.jpg?sqp=CMTalbgGir7X7AMICJr-kbgGEAE=&rs=AOn4CLBfG8AejY3ulYQnQdHOw8pj0hEmKg&v=1728347930",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lkc6zoUgat_9ifg8CCcqE_9I4cc8nNZv8/sddefault.jpg?sqp=CMTalbgGir7X7AMICJr-kbgGEAE=&rs=AOn4CLCMctooNUEieUclwQDmQO2mhgf9vg&v=1728347930",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_lkc6zoUgat_9ifg8CCcqE_9I4cc8nNZv8/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICJr-kbgGEAE=&rs=AOn4CLBVPNN7nAnhhW-ofrQlhE7kpePp0w&v=1728347930",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "'80s R&B + Soul",
+          "description": "Get down to these funky and upbeat floor fillers from the slickest soul voices on the scene."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 88
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "LcBV5MLe2lTA3icEaNnx4Hu0EJA",
+      "id": "RDCLAK5uy_mx81P0KnZ0ViG1QGFlI5zV-Eymzg_hz7U",
+      "snippet": {
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+        "title": "Presenting Bailey Zimmerman",
+        "description": "The most played hits and essential tracks.",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mx81P0KnZ0ViG1QGFlI5zV-Eymzg_hz7U/mqdefault.jpg?sqp=CMTalbgGir7X7AMICPO5k7gGEAE=&rs=AOn4CLBCkwchUVbHo6BLarw5AjG4UR7CvA&v=1728371955",
+            "width": 180,
+            "height": 180
+          },
+          "standard": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mx81P0KnZ0ViG1QGFlI5zV-Eymzg_hz7U/sddefault.jpg?sqp=CMTalbgGir7X7AMICPO5k7gGEAE=&rs=AOn4CLCdJbUDkVoGv2IQ2MGO66qV2tIjMw&v=1728371955",
+            "width": 640,
+            "height": 640
+          },
+          "maxres": {
+            "url": "https://i9.ytimg.com/s_p/RDCLAK5uy_mx81P0KnZ0ViG1QGFlI5zV-Eymzg_hz7U/maxresdefault.jpg?sqp=CMTalbgGir7X7AMICPO5k7gGEAE=&rs=AOn4CLBCu81Qk7tpl6b0MrG8YQC9tagkOQ&v=1728371955",
+            "width": 1200,
+            "height": 1200
+          }
+        },
+        "channelTitle": "YouTube",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Presenting Bailey Zimmerman",
+          "description": "The most played hits and essential tracks."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 27
+      }
+    }
+  ]
+}
