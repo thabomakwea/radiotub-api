@@ -361,6 +361,106 @@ app.get('/api/radio', async (req: Request, res: Response) => {
   }
 });
 
+app.get('/api/search', async (req: Request, res: Response) => {
+    const skip = parseInt(req.query.skip as string, 10) || 0;
+    const take = parseInt(req.query.take as string, 10) || 10; // Default to 10 if not provided
+    const query = String(req.query.query || '');
+
+    try {
+        // Perform parallel queries for all three databases with pagination
+        const [playlistsResults, podcastsResults, radiosResults] = await Promise.all([
+            playlistsPrisma.playlists.findMany({
+                skip,
+                take,
+                where: {
+                    OR: [
+                        { title: { contains: query } },
+                        { description: { contains: query } },
+                        { channelTitle: { contains: query } }
+                    ]
+                },
+                select: {
+                    id: true,
+                    title: true,
+                    description: true,
+                    image: true,
+                    channelTitle: true,
+                    defaultLanguage: true,
+                    itemCount: true,
+                    imageUrl: true,
+                    category_1: true,
+                    category_2: true,
+                    category_3: true,
+                    category_4: true,
+                    category_5: true,
+                    category_6: true,
+                    category_7: true,
+                    category_8: true,
+                    category_9: true,
+                    category_10: true,
+                }
+            }),
+            podcastsPrisma.podcasts.findMany({
+                skip,
+                take,
+                where: {
+                    OR: [
+                        { title: { contains: query } },
+                        { description: { contains: query } },
+                        { itunesAuthor: { contains: query } }
+                    ]
+                },
+                select: {
+                    id: true,
+                    title: true,
+                    description: true,
+                    link: true,
+                    itunesId: true,
+                    originalUrl: true,
+                    itunesAuthor: true,
+                    itunesOwnerName: true,
+                    imageUrl: true,
+                }
+            }),
+            radioPrisma.radios.findMany({
+                skip,
+                take,
+                where: {
+                    OR: [
+                        { title: { contains: query } },
+                        { short_description: { contains: query } },
+                        { radio_language: { contains: query } }
+                    ]
+                },
+                include: {
+                    genres: true,
+                    country: true,
+                    city: true,
+                    language: true,
+                    state: true,
+                    region: true,
+                },
+                orderBy: [{ no_play: 'asc' }, { stars: 'desc' }, { listens: 'desc' }]
+            })
+        ]);
+
+        // Combine the results and paginate accordingly
+        const combinedResults = [
+            ...playlistsResults.map(result => ({ ...result, type: 'playlist' })),
+            ...podcastsResults.map(result => ({ ...result, type: 'podcast' })),
+            ...radiosResults.map(result => ({ ...result, type: 'radio' }))
+        ];
+
+        // Return the results as JSON
+        res.status(200).json(combinedResults);
+
+    } catch (error) {
+        console.error('Search error:', error);
+        res.status(500).json({ error: 'Unable to fetch search results' });
+    }
+});
+
+
 
 // Start the Express server
 const port = process.env.PORT || 3000;
