@@ -383,6 +383,7 @@ app.get('/api/search', async (req: Request, res: Response) => {
                     id: true,
                     title: true,
                     playlistId: true,
+                    channelId: true,
                     description: true,
                     image: true,
                     channelTitle: true,
