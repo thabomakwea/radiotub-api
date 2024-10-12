@@ -382,6 +382,7 @@ app.get('/api/search', async (req: Request, res: Response) => {
                 select: {
                     id: true,
                     title: true,
+                    playlistId: true,
                     description: true,
                     image: true,
                     channelTitle: true,
